@@ -1,12 +1,4 @@
-# ArXiv Daily Tracker
-
-专注于高能天体物理与爆发现象的追踪。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **初筛关键词**: `black hole, BHXB, X-ray binary, XRB, microquasar, AGN, accretion, transient, outburst, compact object, binary, TDE, QPE, cataclysmic variables`
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-03
 
 ## 重点关注 (4篇)
 ### [9] | [The Evolution of X-ray Spectra in Tidal Disruption Events](http://arxiv.org/abs/2603.03021v1)
@@ -87,13 +79,3 @@
   - *论文探讨了通过探测原始黑洞蒸发产生的随机引力波背景来验证量子引力效应的可能性。*
 - **[0]** [Polarity-Resolved Far-Side Magnetograms Based on Helioseismic Measurements](http://arxiv.org/abs/2603.02614v1)
   - *本文提出了一种通过日震学数据推断太阳背面活动区磁场极性分布的方法，用于改进太阳风建模与空间天气预报。*
-
-[查看历史论文目录](./posts/index.md)
-
----
-
-## 最新天文简报 (ATel)
-
-
-
-[查看完整 ATel 汇总](./atels/index.md)

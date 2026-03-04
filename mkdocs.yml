@@ -1,20 +1,47 @@
 site_name: ArXiv Daily Tracker
-site_url: https://DieRingedesSaturn.github.io/arxiv_daily
+site_url: https://DieRingedesSaturn.github.io/arxiv_daily/
 repo_url: https://github.com/DieRingedesSaturn/arxiv_daily
 edit_uri: ""
 
 theme:
   name: material
-  language: zh  # 设置中文界面
+  language: zh
   palette:
-    scheme: slate  # 默认深色模式 (可选)
+    # 浅色模式
+    - media: "(prefers-color-scheme: light)"
+      scheme: default
+      primary: blue-grey
+      accent: cyan
+      toggle:
+        icon: material/brightness-7
+        name: 切换至深色模式
+    # 深色模式
+    - media: "(prefers-color-scheme: dark)"
+      scheme: slate
+      primary: blue-grey
+      accent: cyan
+      toggle:
+        icon: material/brightness-4
+        name: 切换至浅色模式
   features:
-    - navigation.indexes # 点击目录名直接进入
+    - navigation.indexes
     - search.suggest
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://unpkg.com/mathjax@3/es5/tex-mml-chtml.js
+
+markdown_extensions:
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
 
 nav:
   - 首页: index.md
-  - 日报归档: posts/
+  - 日报: posts/
+  - 简报 (ATel): atels/
 
 plugins:
   - search

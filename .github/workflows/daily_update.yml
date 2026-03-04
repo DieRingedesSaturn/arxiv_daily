@@ -4,6 +4,11 @@ on:
   schedule:
     # 每天 UTC 时间 00:00 运行 (对应北京时间 08:00)
     - cron: '0 0 * * *'
+  push:
+    branches:
+      - main  # 当你推送代码到 main 分支时自动触发
+    paths-ignore:
+      - 'docs/posts/*.md' # 忽略日报文件变动，防止无限循环
   workflow_dispatch: # 允许手动点按钮触发
 
 permissions:
@@ -15,6 +20,8 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0 # 必须获取全量 commit 以便推送
 
       - name: Set up Python
         uses: actions/setup-python@v4
@@ -26,28 +33,25 @@ jobs:
           pip install -r requirements.txt
 
       - name: Run ArXiv Scraper
+        # 仅在定时触发或手动触发时运行爬虫，推送时不运行（节省 API 额度且防止冲突）
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
         run: |
           python scripts/main.py
 
-      - name: Check for changes
-        id: check_changes
+      - name: Commit and Push Changes
         run: |
           git config --global user.name 'github-actions[bot]'
           git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add docs/posts/
-          # 如果没有新文件生成（例如今天没论文），则不提交
-          if git diff --staged --quiet; then
-            echo "No changes to commit."
-            echo "has_changes=false" >> $GITHUB_OUTPUT
-          else
-            git commit -m "Update ArXiv summary for $(date +'%Y-%m-%d')"
-            git push
-            echo "has_changes=true" >> $GITHUB_OUTPUT
+          git add .
+          # 如果有改动（例如生成的日报或你修改的配置），则提交
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update: content/config changed [skip ci]"
+            git push origin main
           fi
 
       - name: Deploy to GitHub Pages
-        if: steps.check_changes.outputs.has_changes == 'true'
+        # 只要能运行到这一步，就执行部署（确保主题修改能立即上线）
         run: |
           mkdocs gh-deploy --force
