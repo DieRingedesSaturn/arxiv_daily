@@ -1,6 +1,5 @@
 site_name: ArXiv Daily Tracker
 site_url: https://DieRingedesSaturn.github.io/arxiv_daily/
-repo_url: https://github.com/DieRingedesSaturn/arxiv_daily
 edit_uri: ""
 
 theme:
@@ -40,8 +39,8 @@ markdown_extensions:
 
 nav:
   - 首页: index.md
-  - 日报: posts/
-  - 简报 (ATel): atels/
+  - arxiv 日报: posts/
+  - ATel 简报: atels/
 
 plugins:
   - search

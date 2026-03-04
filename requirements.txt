@@ -2,3 +2,6 @@ arxiv
 google-genai
 mkdocs-material
 pytz
+requests
+beautifulsoup4
+feedparser
