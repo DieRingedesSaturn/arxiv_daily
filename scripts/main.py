@@ -38,7 +38,7 @@ KEYWORDS_BROAD = [
 RESEARCH_INTEREST = """
 我的研究领域是：黑洞 X 射线双星 (BHXRB), AGN 以及相关的吸积物理。TDE, QPE 等近年来的热门领域也正在关注。
 我主要关注观测类文章。
-同时我们课题组有一台 1m 光学望远镜，光谱极限16等，测光极限21等，因此如果有能利用该望远镜的相关研究，也可以考虑。
+同时我们课题组有一台 1m 光学望远镜，因此如果有能利用该望远镜的相关研究，也可以考虑。
 我们也在尝试研究CV，因为可以充分利用光学观测资源。
 """
 
@@ -79,6 +79,7 @@ def get_papers_by_date(target_date):
             daily_papers.append(result)
         elif paper_date < target_date:
             break
+    print(f"[System] 原始检索到 {len(daily_papers)} 篇论文。")
     return daily_papers
 
 def keyword_pre_filter(papers):
@@ -87,6 +88,7 @@ def keyword_pre_filter(papers):
         content = (paper.title + " " + paper.summary).lower()
         if any(k.lower() in content for k in KEYWORDS_BROAD):
             candidates.append(paper)
+    print(f"[Filter] 关键词初筛后剩余: {len(candidates)} 篇")
     return candidates
 
 def ai_relevance_check(client, paper):
@@ -155,7 +157,7 @@ def generate_obsidian_note(high_score_papers, low_score_papers, target_date):
             f.write(f"  - *{analysis['one_sentence_summary']}*\n")
     return file_name
 
-# --- ATel 逻辑 (排除干扰时间 + 精准提取) ---
+# --- ATel 逻辑 ---
 
 def get_latest_atel_info_from_rss():
     import feedparser
@@ -167,7 +169,6 @@ def get_latest_atel_info_from_rss():
     except: return {}
 
 def fetch_atel_detail(atel_id):
-    """从官网抓取完整信息，剔除当前时间干扰项"""
     url = f"{ATEL_BASE_URL}/?read={atel_id}"
     headers = {'User-Agent': 'Mozilla/5.0'}
     try:
@@ -178,34 +179,23 @@ def fetch_atel_detail(atel_id):
         resp.raise_for_status()
         soup = BeautifulSoup(resp.text, 'html.parser')
         
-        # --- 核心改进：彻底移除“当前访问时间”标签 ---
+        # 移除实时显示的当前时间 div
         bad_time_div = soup.find(id='time')
-        if bad_time_div:
-            bad_time_div.decompose() # 从 DOM 树中彻底删除，防止被正则抓到
+        if bad_time_div: bad_time_div.decompose()
         
-        # 1. 提取标题
         title = soup.find('h1').get_text(strip=True) if soup.find('h1') else f"ATel {atel_id}"
         if title.startswith(f"ATel {atel_id}: "): title = title.replace(f"ATel {atel_id}: ", "")
 
-        # 2. 定向提取真正的发布日期
         date_str = "Unknown Date"
-        # 使用分隔符获取纯文本，此时已不含 id='time' 的内容
-        clean_text = soup.get_text(separator=' ')
-        
-        # 精准匹配发布时间格式：on [Date]; [Time] UT
-        # 这个组合非常独特，不容易在正文中误触
-        match = re.search(r'on\s+(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4});\s+\d{2}:\d{2}\s+UT', clean_text)
+        full_text = soup.get_text(separator=' ')
+        match = re.search(r'on\s+(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4});\s+\d{2}:\d{2}\s+UT', full_text)
         if match:
             date_str = match.group(1).strip() + " UT"
         else:
-            # 备选匹配模式
-            match_alt = re.search(r'(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}).*?UT', clean_text)
+            match_alt = re.search(r'(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}).*?UT', full_text)
             if match_alt: date_str = match_alt.group(1).strip() + " UT"
         
-        # 3. 提取正文
-        content_div = soup.find('div', id='teltext')
-        content = content_div.get_text(strip=True) if content_div else ""
-        
+        content = soup.find('div', id='teltext').get_text(strip=True) if soup.find('div', id='teltext') else ""
         return {'id': atel_id, 'title': title, 'date': date_str, 'content': content, 'link': url}
     except Exception as e:
         print(f"[Error] 抓取 ATel {atel_id} 失败: {e}")
@@ -224,7 +214,7 @@ def ai_summarize_atel(client, atel):
     - source_type: 该天体性质描述（一句话）
     - telescopes: 使用的望远镜或卫星设备列表
     - one_sentence_summary: 中文一句话简述爆发
-    - summary_md: 中文 Markdown (150字内)，必须包含：1. 核心观测现象；2. 望远镜/设备；3. 爆发性质，4. 建议我们做什么方面研究或用 1m 光学望远镜怎样做后随。
+    - summary_md: 中文 Markdown (150字内)，必须包含：1. 核心观测现象；2. 望远镜/设备；3. 爆发性质。
     
     只输出 JSON。
     """
@@ -237,7 +227,6 @@ def ai_summarize_atel(client, atel):
 
 def get_iso_week(date_str: str):
     try:
-        # 提取 "3 Mar 2026" 部分
         clean_date = date_str.split(';')[0].replace(' UT', '').strip()
         dt = datetime.datetime.strptime(clean_date, "%d %b %Y")
         year, week, _ = dt.isocalendar()
@@ -280,6 +269,7 @@ def update_source_atel(new_items):
         source_name = ans.get('object_name', 'Unknown').strip().replace("/", "_").replace(" ", "_")
         if not source_name or source_name.lower() == 'unknown': continue
         file_path = os.path.join(sources_dir, f"{source_name}.md")
+        source_info = ans.get('source_type', '天文观测目标')
         entry = f"### ATel {obj['id']} | {obj['date']}\n**设备**: {', '.join(ans.get('telescopes', []))}\n\n{ans['summary_md']}\n\n---\n\n"
         content = ""
         if os.path.exists(file_path):
@@ -288,7 +278,14 @@ def update_source_atel(new_items):
                 if f"# Source: {source_name}" in content:
                     content = content.split("\n\n---\n\n", 1)[-1] if "\n\n---\n\n" in content else ""
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(f"# Source: {source_name}\n\n- **类别**: {ans.get('classification', 'Other')}\n- **简介**: {ans.get('source_type', '天文观测目标')}\n\n" + entry + content)
+            f.write(f"# Source: {source_name}\n\n- **类别**: {ans.get('classification', 'Other')}\n- **简介**: {source_info}\n\n" + entry + content)
+
+def update_posts_index():
+    files = sorted([f for f in os.listdir(POSTS_DIR) if f.startswith("Arxiv_Summary_") and f.endswith(".md")], reverse=True)
+    with open(os.path.join(POSTS_DIR, "index.md"), 'w', encoding='utf-8') as f:
+        f.write("# ArXiv 目录\n\n")
+        for fn in files: f.write(f"- [{fn.replace('Arxiv_Summary_', '').replace('.md', '')}]({fn})\n")
+    return files
 
 def update_atels_index():
     weekly_files = sorted([f for f in os.listdir(ATELS_DIR) if f.endswith(".md") and "-W" in f], reverse=True)
@@ -329,7 +326,13 @@ def update_home_page(arxiv_files):
             lines = f.readlines()
             atel_snippet = "".join(lines[2:20]) + f"\n\n[查看本周完整 ATel](./atels/{weekly_files[0]})"
     with open("./docs/index.md", 'w', encoding='utf-8') as f:
-        f.write("# ArXiv Daily Tracker\n\n## 最新天文简报 (ATel)\n\n" + atel_snippet + "\n\n[查看所有 ATel 索引](./atels/index.md)\n")
+        f.write("# ArXiv Daily Tracker\n\n")
+        f.write("> 专注于高能天体物理与爆发现象的追踪，涵盖吸积物理、黑洞双星及 AGN 等领域。\n\n")
+        f.write("## 监控配置\n")
+        f.write(f"- **arXiv 分类**: `{', '.join(ARXIV_CATEGORIES)}`\n")
+        f.write(f"- **ATel 范围**: 17650 之后\n")
+        f.write(f"- **arXiv 初筛关键词**: `{', '.join(KEYWORDS_BROAD)}`\n\n")
+        f.write("## 最新天文简报 (ATel)\n\n" + atel_snippet + "\n\n[查看所有 ATel 索引](./atels/index.md)\n")
         f.write("\n---\n\n## 最新论文 (arXiv)\n")
         if arxiv_files:
             with open(os.path.join(POSTS_DIR, arxiv_files[0]), 'r', encoding='utf-8') as rf:
@@ -349,9 +352,9 @@ def main():
         state = {'last_id': 0}
         if os.path.exists(STATE_FILE):
             with open(STATE_FILE, 'r') as f: state = json.load(f)
+        print(f"[System] 正在同步 ATel (上次记录 ID: {state['last_id']})...")
         rss_data = get_latest_atel_info_from_rss()
         max_rss_id = max(rss_data.keys()) if rss_data else state['last_id']
-        
         new_atels = []
         for aid in range(state['last_id'] + 1, max_rss_id + 1):
             detail = fetch_atel_detail(aid)
@@ -366,26 +369,28 @@ def main():
             with open(STATE_FILE, 'w') as f: json.dump(state, f)
         update_atels_index()
 
-    arxiv_files = []
     if args.task in ['arxiv', 'all']:
         target_date = datetime.datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else datetime.datetime.now(datetime.timezone.utc).date() - datetime.timedelta(days=1)
         raw_papers = get_papers_by_date(target_date)
         candidates = keyword_pre_filter(raw_papers)
         high_score, low_score = [], []
-        for paper in candidates:
-            analysis = ai_relevance_check(client, paper)
-            score = analysis.get('score', 0)
-            if score >= 6:
-                summary = ai_summarize_short(client, paper, analysis)
-                high_score.append({'paper': paper, 'analysis': analysis, 'summary': summary})
-                time.sleep(12)
-            else:
-                low_score.append({'paper': paper, 'analysis': analysis})
-                time.sleep(2)
+        if candidates:
+            print(f"[System] 正在分析 {len(candidates)} 篇候选论文...")
+            for paper in candidates:
+                analysis = ai_relevance_check(client, paper)
+                score = analysis.get('score', 0)
+                print(f"  -> [{score}分] {paper.title[:30]}...")
+                if score >= 6:
+                    summary = ai_summarize_short(client, paper, analysis)
+                    high_score.append({'paper': paper, 'analysis': analysis, 'summary': summary})
+                    time.sleep(12)
+                else:
+                    low_score.append({'paper': paper, 'analysis': analysis})
+                    time.sleep(2)
         generate_obsidian_note(high_score, low_score, target_date)
 
     os.makedirs(POSTS_DIR, exist_ok=True)
-    arxiv_files = sorted([f for f in os.listdir(POSTS_DIR) if f.startswith("Arxiv_Summary_") and f.endswith(".md")], reverse=True)
+    arxiv_files = update_posts_index()
     update_home_page(arxiv_files)
 
 if __name__ == "__main__":

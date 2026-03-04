@@ -1,4 +1,4 @@
-# ArXiv 历史目录
+# ArXiv 目录
 
 - [2026-03-03](Arxiv_Summary_2026-03-03.md)
 - [2026-03-02](Arxiv_Summary_2026-03-02.md)
@@ -8,3 +8,4 @@
 - [2026-02-26](Arxiv_Summary_2026-02-26.md)
 - [2026-02-25](Arxiv_Summary_2026-02-25.md)
 - [2026-02-24](Arxiv_Summary_2026-02-24.md)
+- [2026-02-23](Arxiv_Summary_2026-02-23.md)

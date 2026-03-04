@@ -1,5 +1,12 @@
 # ArXiv Daily Tracker
 
+> 专注于高能天体物理与爆发现象的追踪，涵盖吸积物理、黑洞双星及 AGN 等领域。
+
+## 监控配置
+- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
+- **ATel 范围**: 17650 之后
+- **arXiv 初筛关键词**: `black hole, BHXB, X-ray binary, XRB, microquasar, AGN, accretion, transient, outburst, compact object, binary, TDE, QPE, cataclysmic variables`
+
 ## 最新天文简报 (ATel)
 
 ### [3] | [Fermi J1820-1648: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=17707)
