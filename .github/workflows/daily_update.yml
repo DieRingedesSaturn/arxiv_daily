@@ -1,0 +1,53 @@
+name: Daily ArXiv Update
+
+on:
+  schedule:
+    # 每天 UTC 时间 00:00 运行 (对应北京时间 08:00)
+    - cron: '0 0 * * *'
+  workflow_dispatch: # 允许手动点按钮触发
+
+permissions:
+  contents: write
+
+jobs:
+  build-and-deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        run: |
+          pip install -r requirements.txt
+
+      - name: Run ArXiv Scraper
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+        run: |
+          python scripts/main.py
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git config --global user.name 'github-actions[bot]'
+          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
+          git add docs/posts/
+          # 如果没有新文件生成（例如今天没论文），则不提交
+          if git diff --staged --quiet; then
+            echo "No changes to commit."
+            echo "has_changes=false" >> $GITHUB_OUTPUT
+          else
+            git commit -m "Update ArXiv summary for $(date +'%Y-%m-%d')"
+            git push
+            echo "has_changes=true" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Deploy to GitHub Pages
+        if: steps.check_changes.outputs.has_changes == 'true'
+        run: |
+          mkdocs gh-deploy --force

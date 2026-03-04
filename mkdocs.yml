@@ -1,0 +1,20 @@
+site_name: ArXiv Daily Tracker
+site_url: https://DieRingedesSaturn.github.io/arxiv_daily
+repo_url: https://github.com/DieRingedesSaturn/arxiv_daily
+edit_uri: ""
+
+theme:
+  name: material
+  language: zh  # 设置中文界面
+  palette:
+    scheme: slate  # 默认深色模式 (可选)
+  features:
+    - navigation.indexes # 点击目录名直接进入
+    - search.suggest
+
+nav:
+  - 首页: index.md
+  - 日报归档: posts/
+
+plugins:
+  - search
