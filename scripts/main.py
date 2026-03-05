@@ -40,12 +40,14 @@ RESEARCH_INTEREST = """
 我主要关注观测类文章。
 同时我们课题组有一台 1m 光学望远镜，位于北纬40度，光谱极限16等，测光极限21等，因此如果有能利用该望远镜的相关研究，也可以考虑。
 我们也在尝试研究CV，因为可以充分利用光学观测资源。
+可以尝试申请其他观测资源。
 """
 
 # 输出路径
 POSTS_DIR = "./docs/posts"
 ATELS_DIR = "./docs/atels"
 STATE_FILE = os.path.join(ATELS_DIR, "state.json")
+ARXIV_STATE_FILE = os.path.join(POSTS_DIR, "state.json")
 
 # ===========================================
 
@@ -54,35 +56,37 @@ def get_gemini_client():
         raise ValueError("请设置有效的 GOOGLE_API_KEY")
     return genai.Client(api_key=API_KEY)
 
-def clean_json_response(text):
+def clean_json_response(text: str) -> str:
     if "```json" in text:
         text = text.split("```json")[1].split("```")[0]
     elif "```" in text:
         text = text.split("```")[1].split("```")[0]
     return text.strip()
 
-# --- ArXiv 逻辑 (严格保持您的原始逻辑) ---
+# --- ArXiv 逻辑 ---
 
-def get_papers_by_date(target_date):
-    print(f"[System] 正在检索日期为 {target_date} 的论文...")
+def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 100) -> list[arxiv.Result]:
+    """获取最新的一批论文并过滤掉已处理的 ID"""
+    print(f"[System] 正在检索最新的 {max_results} 篇 arXiv 论文...")
     query = ' OR '.join([f'cat:{c}' for c in ARXIV_CATEGORIES])
     search = arxiv.Search(
         query=query,
-        max_results=300,
+        max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate
     )
-    daily_papers = []
     client_arxiv = arxiv.Client(page_size=100, delay_seconds=3, num_retries=3)
+    
+    new_papers = []
     for result in client_arxiv.results(search):
-        paper_date = result.published.date()
-        if paper_date == target_date:
-            daily_papers.append(result)
-        elif paper_date < target_date:
-            break
-    print(f"[System] 原始检索到 {len(daily_papers)} 篇论文。")
-    return daily_papers
+        # 统一转为 https 进行比较
+        entry_id = result.entry_id.replace("http://", "https://")
+        if entry_id not in processed_ids:
+            new_papers.append(result)
+    
+    print(f"[System] 过滤后发现 {len(new_papers)} 篇未处理的新论文。")
+    return new_papers
 
-def keyword_pre_filter(papers):
+def keyword_pre_filter(papers: list[arxiv.Result]) -> list[arxiv.Result]:
     candidates = []
     for paper in papers:
         content = (paper.title + " " + paper.summary).lower()
@@ -203,7 +207,7 @@ def fetch_atel_detail(atel_id):
 
 def ai_summarize_atel(client, atel):
     prompt = f"""
-    分析 ATel 简报。研究兴趣：{RESEARCH_INTEREST}
+    你是一名天体物理教授，请分析 ATel 简报。研究兴趣：{RESEARCH_INTEREST}
     Title: {atel['title']}
     Content: {atel['content']}
     
@@ -214,7 +218,7 @@ def ai_summarize_atel(client, atel):
     - source_type: 该天体性质描述（一句话）
     - telescopes: 使用的望远镜或卫星设备列表
     - one_sentence_summary: 中文一句话简述爆发
-    - summary_md: 中文 Markdown (150字内)，必须包含：1. 核心观测现象；2. 望远镜/设备；3. 爆发性质。
+    - summary_md: 中文 Markdown (200字内)，必须包含：1. 核心观测现象；2. 望远镜/设备；3. 爆发性质；4. 我们课题组能做什么？
     
     只输出 JSON。
     """
@@ -370,12 +374,23 @@ def main():
         update_atels_index()
 
     if args.task in ['arxiv', 'all']:
-        target_date = datetime.datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else datetime.datetime.now(datetime.timezone.utc).date() - datetime.timedelta(days=1)
-        raw_papers = get_papers_by_date(target_date)
+        os.makedirs(POSTS_DIR, exist_ok=True)
+        arxiv_state = {'processed_ids': []}
+        if os.path.exists(ARXIV_STATE_FILE):
+            try:
+                with open(ARXIV_STATE_FILE, 'r') as f: arxiv_state = json.load(f)
+            except: pass
+        processed_ids = set(arxiv_state.get('processed_ids', []))
+
+        # 确定汇总日期 (默认为运行当天)
+        target_date = datetime.datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else datetime.datetime.now(datetime.timezone.utc).date()
+        
+        raw_papers = get_new_arxiv_papers(processed_ids, max_results=200)
         candidates = keyword_pre_filter(raw_papers)
+        
         high_score, low_score = [], []
         if candidates:
-            print(f"[System] 正在分析 {len(candidates)} 篇候选论文...")
+            print(f"[System] 正在分析 {len(candidates)} 篇新候选论文...")
             for paper in candidates:
                 analysis = ai_relevance_check(client, paper)
                 score = analysis.get('score', 0)
@@ -383,11 +398,23 @@ def main():
                 if score >= 6:
                     summary = ai_summarize_short(client, paper, analysis)
                     high_score.append({'paper': paper, 'analysis': analysis, 'summary': summary})
-                    time.sleep(12)
+                    time.sleep(4) # Flash 限制较低，稍作等待
                 else:
                     low_score.append({'paper': paper, 'analysis': analysis})
-                    time.sleep(2)
-        generate_obsidian_note(high_score, low_score, target_date)
+                
+            # 生成今天的笔记
+            generate_obsidian_note(high_score, low_score, target_date)
+            
+            # 更新已处理 ID，并保持滑动窗口（只保留最近 1000 个，防止 state.json 过大）
+            new_ids = [p.entry_id.replace("http://", "https://") for p in raw_papers]
+            all_ids = list(processed_ids | set(new_ids))
+            # 按 ID 降序排列（新论文 ID 通常更大），取前 1000 个以覆盖足够的历史范围
+            all_ids.sort(reverse=True)
+            arxiv_state['processed_ids'] = all_ids[:1000]
+            
+            with open(ARXIV_STATE_FILE, 'w') as f: json.dump(arxiv_state, f, indent=2)
+        else:
+            print("[System] 没有发现需要分析的新论文。")
 
     os.makedirs(POSTS_DIR, exist_ok=True)
     arxiv_files = update_posts_index()

@@ -50,6 +50,9 @@
 - [AT2026dbl](./sources/AT2026dbl.md) | *20 Feb 2026* - A Tidal Disruption Event (TDE) candidate discovered by Einstein Probe.
 - [AT2024qxf_(LFBOT)](./sources/AT2024qxf_(LFBOT).md) | *7 Feb 2026* - Luminous Fast Blue Optical Transient (LFBOT)
 
+### SN
+- [SN2026ejy](./sources/SN2026ejy.md) | *5 Mar 2026* - 超新星 (Supernova)
+
 ### FRB
 - [FRB_20251229A](./sources/FRB_20251229A.md) | *11 Feb 2026* - 快速射电暴（Fast Radio Burst）
 
