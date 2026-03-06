@@ -1,12 +1,15 @@
-# Source: Fermi_J0346.0+5405
+# Source: Fermi J0346.0+5405
 
-- **类别**: Other
-- **简介**: Transient gamma-ray source
+*Tags: #ATel #AGN*
 
-### ATel 17687 | 18 Feb 2026 UT
-**设备**: Einstein Probe (EP), Fermi-GBM
+- **类别**: AGN
 
-该ATel报告了EP卫星对Fermi-GBM探测到的伽马射线瞬变源进行的快速后随观测，并成功对其X射线对应体进行了定位。该源尚不具备明确的物理分类，可能是某种高能瞬变现象。鉴于该源亮度不详，建议使用1m望远镜在低消光条件下对其进行深场测光监控，寻找可能的伴星光学对应体或长期光变，若爆发亮度进入16等以内，可进一步进行光谱证认，排除其为CV或其它近邻吸积系统的可能性。
+---
+
+### ATel 17687: [Einstein Probe observations of the transient gamma-ray source Fermi J0346.0+5405](https://www.astronomerstelegram.org/?read=17687)
+- **日期**: 18 Feb 2026 UT
+
+**爆发速递**: 爱因斯坦探针（EP）对伽马射线暂现源 Fermi J0346.0+5405 进行了X射线波段的跟进观测，捕捉到了该源在伽马射线活跃期间的X射线对应体。**观测短评**: 该源极可能为耀变体（Blazar），属于AGN喷流物理研究范畴。其赤纬约+54度，非常适合我组1m望远镜在北半球进行光学后随测光（测光极限21等）。建议结合EP数据并申请Swift或HXMT进行多波段联合能谱分析。
 
 ---
 

@@ -1,12 +1,16 @@
-# Source: Fermi_J0607.8+0843
+# Source: Fermi J0607.8+0843
 
-- **类别**: Other
-- **简介**: High-energy gamma-ray source
+*Tags: #ATel #AGN*
 
-### ATel 17693 | 20 Feb 2026 UT
-**设备**: Fermi-LAT, Swift-XRT, Swift-UVOT, ZTF
+- **类别**: AGN
 
-研究通过 Swift 卫星的 X 射线/紫外观测及 ZTF 测光数据，识别出 Fermi J0607.8+0843 的光学对应体，其性质倾向于活跃星系核（AGN）。由于该源目前表现稳定且亮度较低，对于贵组 1m 望远镜而言，如果该源未来出现光变活动，可进行长期的测光监测以搜寻其吸积状态的变化。但鉴于其目前缺乏剧烈爆发特征，该课题的优先级较低，可作为备选监测目标。
+---
+
+### ATel 17693: [Optical counterpart of the Gamma-ray source Fermi J0607.8+0843](https://www.astronomerstelegram.org/?read=17693)
+- **日期**: 20 Feb 2026 UT
+
+**爆发速递**: 报告了伽马射线源 Fermi J0607.8+0843 的光学对应体证认。该源作为 Fermi 卫星探测到的高能辐射源，其光学性质的确定对多波段研究至关重要。
+**观测短评**: 该目标极可能为 AGN 或耀变体，属于课题组核心研究领域。若其光学亮度在 21 等以内，可利用 1m 望远镜进行测光监测。建议后续申请 Swift 或 XMM-Newton 开展 X 射线波段观测，以构建宽波段能谱分布并研究其喷流物理。
 
 ---
 

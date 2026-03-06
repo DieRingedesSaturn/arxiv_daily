@@ -1,361 +1,334 @@
 import os
 import datetime
-import json
 import time
-import pytz
 import arxiv
 import argparse
 import requests
 import random
 import re
+import json
 from bs4 import BeautifulSoup
-from google import genai
-from google.genai import types
 
-# ================= 配置区域 =================
+# 导入拆分出去的模块
+from config import *
+from schemas import SourceAliases, PaperEvaluation, ATelAnalysis
+from llm_api import generate_content_with_retry
 
-# Google Gemini API Key
-API_KEY = os.environ.get("GOOGLE_API_KEY", "xxx")
+try:
+    from astroquery.simbad import Simbad
+except ImportError:
+    print("[Error] 缺少 astroquery 库。请运行: pip install astroquery")
+    Simbad = None
 
-# arXiv 搜索配置
-ARXIV_CATEGORIES = ["astro-ph.HE", "astro-ph.SR"]
+# ================= 名称解析逻辑 =================
+def normalize_source_name(name: str) -> str:
+    if not name: return ""
+    name = re.sub(r'\(.*?\)', '', name)
+    name = re.sub(r'^(SOURCE|OBJECT)[:\s]+', '', name, flags=re.IGNORECASE)
+    return re.sub(r'[^A-Z0-9\+\-\.]', '', name.upper())
 
-# ATel 配置
-ATEL_BASE_URL = "https://www.astronomerstelegram.org"
-ATEL_RSS_URL = f"{ATEL_BASE_URL}/?rss"
+def get_aliases_from_simbad(primary_name: str) -> list[str]:
+    if not Simbad: return []
+    try:
+        result_table = Simbad.query_objectids(primary_name)
+        if result_table is not None:
+            aliases = []
+            for row in result_table:
+                val = row[0].decode('utf-8') if isinstance(row[0], bytes) else str(row[0])
+                aliases.append(val.strip())
+            return aliases
+        return []
+    except Exception as e:
+        print(f"  [SIMBAD] 未找到 '{primary_name}' 的官方别名: {e}")
+        return []
 
-# 爆发源分类词库
-SOURCE_CATEGORIES = ["BHXRB", "NSXRB", "CV", "AGN", "TDE", "GRB", "SN", "FRB", "Other"]
+def get_canonical_name(name: str, aliases: list[str], source_map: dict) -> str:
+    all_names = [name] + (aliases if aliases else [])
+    
+    def find_in_map(names):
+        for n in names:
+            norm = normalize_source_name(n)
+            if norm and norm in source_map: return source_map[norm]
+        return None
 
-# 初筛关键词 (仅用于 arXiv)
-KEYWORDS_BROAD = [
-    "black hole", "BHXB", "X-ray binary", "XRB", "microquasar", "AGN",
-    "accretion", "transient", "outburst", "compact object", 'binary',
-    'TDE', 'QPE', 'cataclysmic variables'
-]
+    result = find_in_map(all_names)
+    if result: return result
+    
+    print(f"  [SIMBAD] 正在为新源 '{name}' 拉取天文台标准别名以防重叠...")
+    simbad_aliases = get_aliases_from_simbad(name)
+    result = find_in_map(simbad_aliases)
+    if result:
+        norm = normalize_source_name(name)
+        if norm: source_map[norm] = result
+        return result
+            
+    new_canonical = name.strip().replace("/", "_").replace(" ", "_")
+    for n in all_names + simbad_aliases:
+        norm = normalize_source_name(n)
+        if norm: source_map[norm] = new_canonical
+    return new_canonical
 
-# 研究兴趣描述
-RESEARCH_INTEREST = """
-我的研究领域是：黑洞 X 射线双星 (BHXRB), AGN 以及相关的吸积物理。TDE, QPE 等近年来的热门领域也正在关注。
-我主要关注观测类文章。
-同时我们课题组有一台 1m 光学望远镜，位于北纬40度，光谱极限16等，测光极限21等，因此如果有能利用该望远镜的相关研究，也可以考虑。
-我们也在尝试研究CV，因为可以充分利用光学观测资源。
-可以尝试申请其他观测资源。
-"""
+def init_source_map_from_files(sources_dir: str) -> dict:
+    source_map = {}
+    if not os.path.exists(sources_dir): return source_map
+    for f in os.listdir(sources_dir):
+        if not f.endswith(".md"): continue
+        canonical = f.replace(".md", "")
+        for n in canonical.split("___"):
+            norm = normalize_source_name(n)
+            if norm: source_map[norm] = canonical
+    return source_map
 
-# 输出路径
-POSTS_DIR = "./docs/posts"
-ATELS_DIR = "./docs/atels"
-STATE_FILE = os.path.join(ATELS_DIR, "state.json")
-ARXIV_STATE_FILE = os.path.join(POSTS_DIR, "state.json")
-
-# ===========================================
-
-def get_gemini_client():
-    if "xxx" in API_KEY:
-        raise ValueError("请设置有效的 GOOGLE_API_KEY")
-    return genai.Client(api_key=API_KEY)
-
-def clean_json_response(text: str) -> str:
-    if "```json" in text:
-        text = text.split("```json")[1].split("```")[0]
-    elif "```" in text:
-        text = text.split("```")[1].split("```")[0]
-    return text.strip()
-
-# --- ArXiv 逻辑 ---
-
-def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 100) -> list[arxiv.Result]:
-    """获取最新的一批论文并过滤掉已处理的 ID"""
+# ================= arXiv 逻辑 =================
+def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 200) -> list[arxiv.Result]:
     print(f"[System] 正在检索最新的 {max_results} 篇 arXiv 论文...")
     query = ' OR '.join([f'cat:{c}' for c in ARXIV_CATEGORIES])
-    search = arxiv.Search(
-        query=query,
-        max_results=max_results,
-        sort_by=arxiv.SortCriterion.SubmittedDate
-    )
+    search = arxiv.Search(query=query, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
     client_arxiv = arxiv.Client(page_size=100, delay_seconds=3, num_retries=3)
     
-    new_papers = []
-    for result in client_arxiv.results(search):
-        # 统一转为 https 进行比较
-        entry_id = result.entry_id.replace("http://", "https://")
-        if entry_id not in processed_ids:
-            new_papers.append(result)
-    
+    new_papers = [res for res in client_arxiv.results(search) if res.entry_id.replace("http://", "https://") not in processed_ids]
     print(f"[System] 过滤后发现 {len(new_papers)} 篇未处理的新论文。")
     return new_papers
 
 def keyword_pre_filter(papers: list[arxiv.Result]) -> list[arxiv.Result]:
-    candidates = []
-    for paper in papers:
-        content = (paper.title + " " + paper.summary).lower()
-        if any(k.lower() in content for k in KEYWORDS_BROAD):
-            candidates.append(paper)
+    candidates = [p for p in papers if any(k.lower() in (p.title + " " + p.summary).lower() for k in KEYWORDS_BROAD)]
     print(f"[Filter] 关键词初筛后剩余: {len(candidates)} 篇")
     return candidates
 
-def ai_relevance_check(client, paper):
+def ai_relevance_check(paper):
     prompt = f"""
-    你是一位天体物理教授。请分析这篇论文与我研究兴趣的相关性。
+    任务：作为天体物理教授，评估以下论文与课题组研究兴趣的相关性。
 
-    [我的研究兴趣]
+    【研究兴趣】
     {RESEARCH_INTEREST}
 
-    [论文信息]
+    【论文信息】
     Title: {paper.title}
     Abstract: {paper.summary}
-
-    请以 JSON 格式输出结果：
-    - score: 0到10的整数
-    - one_sentence_summary: 用中文一句话概括这篇论文做了什么（不超过50字）。
-    - target_objects: 论文中提到的具体天体名称列表。
-
-    只输出 JSON。
     """
+    # 打分阶段：优先免费 Lite -> 兜底付费 Lite
     try:
-        response = client.models.generate_content(model="gemini-3.1-flash-lite-preview", contents=prompt)
-        return json.loads(clean_json_response(response.text))
-    except:
-        return {"score": 0, "one_sentence_summary": "分析失败", "target_objects": []}
-
-def ai_summarize_short(client, paper, analysis_info):
-    prompt = f"""
-    请简要总结这篇论文。不要废话。
-
-    Title: {paper.title}
-    Abstract: {paper.summary}
-    AI识别天体: {analysis_info.get('target_objects')}
-
-    请用中文输出 Markdown，严格包含以下两点（总字数控制在 200 字以内）：
-    1. **核心发现**: 发现了什么新现象或得出了什么新结论？
-    2. **关键方法**: 也就是用了什么数据或什么模型。
-    """
-    try:
-        response = client.models.generate_content(model="gemini-3.1-flash-lite-preview", contents=prompt)
-        return response.text
+        return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, schema=PaperEvaluation, provider="google", max_retries=3)
     except Exception as e:
-        return f"摘要生成失败: {e}"
+        print(f"  [Fallback] 免费 Lite 打分拥堵，切换付费 Lite...")
+        try:
+            return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, schema=PaperEvaluation, provider="openai", max_retries=2)
+        except Exception:
+            return {"score": 0, "one_sentence_summary": "解析失败", "target_objects": []}
+
+def ai_summarize_short(paper, analysis_info):
+    prompt = f"""
+    任务：为天体物理学者提供该论文的前沿速览，辅助高效筛选和深度阅读每日 arXiv。
+
+    Title: {paper.title}
+    Abstract: {paper.summary}
+    AI识别天体: {analysis_info.get('target_objects', [])}
+
+    请用中文输出，字数控制在 250 字左右。
+    严格禁止使用任何 Markdown 标题语法（如 `#`、`##` 等）。
+    请直接使用加粗文本作为段落引导，采用以下三段式结构详细概括原摘要：
+    
+    **研究背景**: (简述该研究针对的物理问题、长期争议或此次观测的动机)
+    **数据方法**: (说明使用了哪些具体望远镜的数据，或是采用了什么理论推导/数据拟合模型)
+    **核心结论**: (阐述研究得到的核心结果，以及这对现有物理图像的推进。)
+    """
+    # 摘要阶段：免费 Flash -> 免费 Lite -> 付费 Lite (严格控制成本)
+    try:
+        return generate_content_with_retry(model=GEMINI_MODEL_FLASH, contents=prompt, max_retries=2, base_delay=2, provider="google")
+    except Exception as e1:
+        print(f"  [Fallback 1] 免费 Flash 失败，降级免费 Lite...")
+        try:
+            return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, max_retries=2, base_delay=2, provider="google")
+        except Exception as e2:
+            print(f"  [Fallback 2] 免费路线全挂，启用第三方付费 lite 兜底...")
+            try:
+                return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, max_retries=2, provider="openai")
+            except Exception as e3:
+                return f"摘要生成失败: {e3}"
+
 
 def generate_obsidian_note(high_score_papers, low_score_papers, target_date):
     if not high_score_papers and not low_score_papers: return None
     high_score_papers.sort(key=lambda x: x['analysis']['score'], reverse=True)
     low_score_papers.sort(key=lambda x: x['analysis']['score'], reverse=True)
     date_str = target_date.strftime("%Y-%m-%d")
-    file_name = f"Arxiv_Summary_{date_str}.md"
-    file_path = os.path.join(POSTS_DIR, file_name)
+    file_path = os.path.join(POSTS_DIR, f"Arxiv_Summary_{date_str}.md")
     os.makedirs(POSTS_DIR, exist_ok=True)
+    
     with open(file_path, 'w', encoding='utf-8') as f:
-        f.write(f"# arXiv Daily: {date_str}\n\n")
-        f.write(f"## 重点关注 ({len(high_score_papers)}篇)\n")
-        if not high_score_papers: f.write("今日无重点推荐。\n")
+        f.write(f"# arXiv Daily: {date_str}\n\n*Tags: #arXiv #Astrophysics*\n\n## 重点关注 ({len(high_score_papers)}篇)\n\n")
+        if not high_score_papers: f.write("今日无重点推荐。\n\n")
         for item in high_score_papers:
-            paper, analysis, summary = item['paper'], item['analysis'], item['summary']
-            f.write(f"### [{analysis['score']}] | [{paper.title}]({paper.entry_id})\n")
-            f.write(f"**Authors**: {', '.join([a.name for a in paper.authors[:3]])} et al.\n\n")
-            f.write(f"{summary}\n\n---\n")
-        f.write(f"\n## 其他相关 ({len(low_score_papers)}篇)\n")
+            p, ans, summ = item['paper'], item['analysis'], item['summary']
+            targets = ", ".join(ans.get('target_objects', []))
+            td = f" | **Targets**: {targets}" if targets else ""
+            f.write(f"### [{ans['score']}] | [{p.title}]({p.entry_id})\n**Authors**: {', '.join([a.name for a in p.authors[:3]])} et al.{td}\n\n> *{ans['one_sentence_summary']}*\n\n{summ}\n\n---\n\n")
+            
+        f.write(f"## 其他相关 ({len(low_score_papers)}篇)\n\n")
         for item in low_score_papers:
-            paper, analysis = item['paper'], item['analysis']
-            f.write(f"- **[{analysis['score']}]** [{paper.title}]({paper.entry_id})\n")
-            f.write(f"  - *{analysis['one_sentence_summary']}*\n")
-    return file_name
+            f.write(f"- **[{item['analysis']['score']}]** [{item['paper'].title}]({item['paper'].entry_id})\n  - *{item['analysis']['one_sentence_summary']}*\n")
+    return file_path
 
-# --- ATel 逻辑 ---
-
+# ================= ATel 逻辑 =================
 def get_latest_atel_info_from_rss():
     import feedparser
-    headers = {'User-Agent': 'Mozilla/5.0'}
     try:
-        resp = requests.get(ATEL_RSS_URL, headers=headers, timeout=30)
-        feed = feedparser.parse(resp.text)
+        feed = feedparser.parse(requests.get(ATEL_RSS_URL, headers={'User-Agent': 'Mozilla/5.0'}, timeout=30).text)
         return {int(e.link.split('=')[-1]): e for e in feed.entries}
     except: return {}
 
 def fetch_atel_detail(atel_id):
     url = f"{ATEL_BASE_URL}/?read={atel_id}"
-    headers = {'User-Agent': 'Mozilla/5.0'}
     try:
         wait_time = random.uniform(8, 15)
         print(f"  [Scraper] 正在抓取 ATel {atel_id} (等待 {wait_time:.1f}s)...")
         time.sleep(wait_time)
-        resp = requests.get(url, headers=headers, timeout=30)
-        resp.raise_for_status()
-        soup = BeautifulSoup(resp.text, 'html.parser')
-        
-        # 移除实时显示的当前时间 div
-        bad_time_div = soup.find(id='time')
-        if bad_time_div: bad_time_div.decompose()
-        
+        soup = BeautifulSoup(requests.get(url, headers={'User-Agent': 'Mozilla/5.0'}, timeout=30).text, 'html.parser')
+        if soup.find(id='time'): soup.find(id='time').decompose()
         title = soup.find('h1').get_text(strip=True) if soup.find('h1') else f"ATel {atel_id}"
-        if title.startswith(f"ATel {atel_id}: "): title = title.replace(f"ATel {atel_id}: ", "")
-
-        date_str = "Unknown Date"
-        full_text = soup.get_text(separator=' ')
-        match = re.search(r'on\s+(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4});\s+\d{2}:\d{2}\s+UT', full_text)
-        if match:
-            date_str = match.group(1).strip() + " UT"
-        else:
-            match_alt = re.search(r'(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}).*?UT', full_text)
-            if match_alt: date_str = match_alt.group(1).strip() + " UT"
+        title = title.replace(f"ATel {atel_id}: ", "")
         
+        full_text = soup.get_text(separator=' ')
+        date_str = "Unknown Date"
+        if m := re.search(r'on\s+(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4});\s+\d{2}:\d{2}\s+UT', full_text) or re.search(r'(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}).*?UT', full_text):
+            date_str = m.group(1).strip() + " UT"
+            
         content = soup.find('div', id='teltext').get_text(strip=True) if soup.find('div', id='teltext') else ""
         return {'id': atel_id, 'title': title, 'date': date_str, 'content': content, 'link': url}
     except Exception as e:
         print(f"[Error] 抓取 ATel {atel_id} 失败: {e}")
         return None
 
-def ai_summarize_atel(client, atel):
+def ai_summarize_atel(atel):
     prompt = f"""
-    你是一名天体物理教授，请分析 ATel 简报。研究兴趣：{RESEARCH_INTEREST}
+    任务：分析 ATel 简报，提取核心信息并做极简总结。
+
+    【研究兴趣与设备能力】
+    {RESEARCH_INTEREST}
+
+    【ATel 信息】
     Title: {atel['title']}
     Content: {atel['content']}
-    
-    输出 JSON：
-    - score: 0-10
-    - object_name: 爆发源名称
-    - classification: 从该列表中选择一个最合适的类别: {SOURCE_CATEGORIES}
-    - source_type: 该天体性质描述（一句话）
-    - telescopes: 使用的望远镜或卫星设备列表
-    - one_sentence_summary: 中文一句话简述爆发
-    - summary_md: 中文 Markdown (200字内)，必须包含：1. 核心观测现象；2. 望远镜/设备；3. 爆发性质；4. 我们课题组能做什么？
-    
-    只输出 JSON。
     """
+    # ATel阶段逻辑同上：免费 Flash -> 免费 Lite -> 付费 Lite
     try:
-        response = client.models.generate_content(model="gemini-3.1-flash-lite-preview", contents=prompt)
-        return json.loads(clean_json_response(response.text))
-    except: return None
+        return generate_content_with_retry(model=GEMINI_MODEL_FLASH, contents=prompt, schema=ATelAnalysis, max_retries=2, base_delay=2, provider="google")
+    except Exception as e:
+        print(f"  [Fallback 1] ATel 免费 Flash 受限，降级免费 Lite...")
+        try:
+            return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, schema=ATelAnalysis, max_retries=2, base_delay=2, provider="google")
+        except Exception:
+            print(f"  [Fallback 2] ATel 免费路线挂掉，启用第三方付费 Lite 兜底...")
+            try:
+                return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, schema=ATelAnalysis, max_retries=2, provider="openai")
+            except Exception:
+                return None
 
-# --- 存储与索引逻辑 ---
-
+# ================= 存储与索引 =================
 def get_iso_week(date_str: str):
     try:
-        clean_date = date_str.split(';')[0].replace(' UT', '').strip()
-        dt = datetime.datetime.strptime(clean_date, "%d %b %Y")
-        year, week, _ = dt.isocalendar()
-        return f"{year}-W{week:02d}"
+        return f"{datetime.datetime.strptime(date_str.split(';')[0].replace(' UT', '').strip(), '%d %b %Y').isocalendar()[0]}-W{datetime.datetime.strptime(date_str.split(';')[0].replace(' UT', '').strip(), '%d %b %Y').isocalendar()[1]:02d}"
     except:
-        year, week, _ = datetime.datetime.now().isocalendar()
-        return f"{year}-W{week:02d}"
+        return f"{datetime.datetime.now().isocalendar()[0]}-W{datetime.datetime.now().isocalendar()[1]:02d}"
 
 def update_weekly_atel(new_items):
     os.makedirs(ATELS_DIR, exist_ok=True)
     weeks = {}
     for item in new_items:
-        week = get_iso_week(item['obj']['date'])
-        if week not in weeks: weeks[week] = []
-        weeks[week].append(item)
+        weeks.setdefault(get_iso_week(item['obj']['date']), []).append(item)
+        
     for week, items in weeks.items():
         file_path = os.path.join(ATELS_DIR, f"{week}.md")
         items.sort(key=lambda x: x['obj']['id'], reverse=True)
         new_block = ""
-        for item in items:
-            obj, ans = item['obj'], item['analysis']
-            new_block += f"### [{ans['score']}] | [{obj['title']}]({obj['link']})\n"
-            new_block += f"- **日期**: {obj['date']} | **源**: `{ans.get('object_name', 'Unknown')}`\n"
-            new_block += f"- **设备**: {', '.join(ans.get('telescopes', []))}\n"
-            new_block += f"- **概览**: {ans['one_sentence_summary']}\n\n{ans['summary_md']}\n\n---\n\n"
+        for i in items:
+            new_block += f"### [{i['analysis']['score']}] | ATel {i['obj']['id']}: [{i['obj']['title']}]({i['obj']['link']})\n- **日期**: {i['obj']['date']} | **源**: `{i['analysis'].get('object_name', 'Unknown')}`\n\n{i['analysis']['summary_md']}\n\n---\n\n"
+            
         old_content = ""
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
-                old_content = f.read()
-                if f"# ATel Weekly: {week}" in old_content:
-                    old_content = old_content.split("\n\n---\n\n", 1)[-1] if "\n\n---\n\n" in old_content else ""
+                old_content = f.read().split("\n\n---\n\n", 1)[-1] if "\n\n---\n\n" in f.read() else f.read()
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(f"# ATel Weekly: {week}\n\n" + new_block + old_content)
+            f.write(f"# ATel Weekly: {week}\n\n*Tags: #ATel*\n\n" + new_block + old_content)
 
 def update_source_atel(new_items):
     sources_dir = os.path.join(ATELS_DIR, "sources")
     os.makedirs(sources_dir, exist_ok=True)
+    source_map = json.load(open(SOURCE_MAP_FILE, 'r', encoding='utf-8')) if os.path.exists(SOURCE_MAP_FILE) else init_source_map_from_files(sources_dir)
+
     for item in new_items:
         obj, ans = item['obj'], item['analysis']
-        source_name = ans.get('object_name', 'Unknown').strip().replace("/", "_").replace(" ", "_")
-        if not source_name or source_name.lower() == 'unknown': continue
-        file_path = os.path.join(sources_dir, f"{source_name}.md")
-        source_info = ans.get('source_type', '天文观测目标')
-        entry = f"### ATel {obj['id']} | {obj['date']}\n**设备**: {', '.join(ans.get('telescopes', []))}\n\n{ans['summary_md']}\n\n---\n\n"
-        content = ""
+        raw_name = ans.get('object_name', 'Unknown').strip()
+        if not raw_name or raw_name.lower() == 'unknown': continue
+        
+        s_name = get_canonical_name(raw_name, ans.get('aliases', []), source_map)
+        file_path = os.path.join(sources_dir, f"{s_name}.md")
+        cls = ans.get('classification', 'Other')
+        entry = f"### ATel {obj['id']}: [{obj['title']}]({obj['link']})\n- **日期**: {obj['date']}\n\n{ans['summary_md']}\n\n---\n\n"
+        
+        old_content = ""
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
-                content = f.read()
-                if f"# Source: {source_name}" in content:
-                    content = content.split("\n\n---\n\n", 1)[-1] if "\n\n---\n\n" in content else ""
+                old_content = f.read().split("\n\n---\n\n", 1)[-1] if "\n\n---\n\n" in f.read() else ""
+                
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(f"# Source: {source_name}\n\n- **类别**: {ans.get('classification', 'Other')}\n- **简介**: {source_info}\n\n" + entry + content)
+            f.write(f"# Source: {s_name.replace('___', ' / ').replace('_', ' ')}\n\n*Tags: #ATel #{cls}*\n\n- **类别**: {cls}\n\n---\n\n" + entry + old_content)
+            
+    with open(SOURCE_MAP_FILE, 'w', encoding='utf-8') as f: json.dump(source_map, f, ensure_ascii=False, indent=2)
 
-def update_posts_index():
-    files = sorted([f for f in os.listdir(POSTS_DIR) if f.startswith("Arxiv_Summary_") and f.endswith(".md")], reverse=True)
-    with open(os.path.join(POSTS_DIR, "index.md"), 'w', encoding='utf-8') as f:
-        f.write("# ArXiv 目录\n\n")
-        for fn in files: f.write(f"- [{fn.replace('Arxiv_Summary_', '').replace('.md', '')}]({fn})\n")
-    return files
-
-def update_atels_index():
-    weekly_files = sorted([f for f in os.listdir(ATELS_DIR) if f.endswith(".md") and "-W" in f], reverse=True)
-    sources_dir = os.path.join(ATELS_DIR, "sources")
-    source_info_list = []
-    if os.path.exists(sources_dir):
-        for sf in os.listdir(sources_dir):
+def update_indexes(arxiv_files_updated=True):
+    # ArXiv Index
+    if arxiv_files_updated:
+        files = sorted([f for f in os.listdir(POSTS_DIR) if f.startswith("Arxiv_Summary_") and f.endswith(".md")], reverse=True)
+        with open(os.path.join(POSTS_DIR, "index.md"), 'w', encoding='utf-8') as f:
+            f.write("# ArXiv 目录\n\n" + "\n".join([f"- [{fn.replace('Arxiv_Summary_', '').replace('.md', '')}]({fn})" for fn in files]))
+            
+    # ATel Index
+    w_files = sorted([f for f in os.listdir(ATELS_DIR) if f.endswith(".md") and "-W" in f], reverse=True)
+    s_dir, s_list = os.path.join(ATELS_DIR, "sources"), []
+    if os.path.exists(s_dir):
+        for sf in os.listdir(s_dir):
             if not sf.endswith(".md"): continue
-            with open(os.path.join(sources_dir, sf), 'r', encoding='utf-8') as f:
-                content = f.read()
-                name = sf.replace(".md", "")
-                cat_match = re.search(r'- \*\*类别\*\*: (.*)', content)
-                intro_match = re.search(r'- \*\*简介\*\*: (.*)', content)
-                date_match = re.search(r'### ATel \d+ \| (\d{1,2}\s+[A-Za-z]+\s+\d{4})', content)
-                cat = cat_match.group(1).strip() if cat_match else "Other"
-                intro = intro_match.group(1).strip() if intro_match else "暂无简介"
-                latest_date_str = date_match.group(1).strip() if date_match else "01 Jan 1970"
-                try: latest_dt = datetime.datetime.strptime(latest_date_str, "%d %b %Y")
-                except: latest_dt = datetime.datetime(1970, 1, 1)
-                source_info_list.append({'name': name, 'file': sf, 'cat': cat, 'intro': intro, 'date': latest_dt, 'date_str': latest_date_str})
-    source_info_list.sort(key=lambda x: x['date'], reverse=True)
+            c = open(os.path.join(s_dir, sf), 'r', encoding='utf-8').read()
+            m_cat = re.search(r'- \*\*类别\*\*: (.*)', c)
+            m_id = re.search(r'### ATel (\d+):', c)
+            m_dt = re.search(r'- \*\*日期\*\*: (\d{1,2}\s+[A-Za-z]+\s+\d{4})', c)
+            dt_str = m_dt.group(1).strip() if m_dt else "01 Jan 1970"
+            try: parsed_dt = datetime.datetime.strptime(dt_str, "%d %b %Y")
+            except: parsed_dt = datetime.datetime(1970, 1, 1)
+            s_list.append({'name': sf.replace(".md", ""), 'file': sf, 'cat': m_cat.group(1).strip() if m_cat else "Other", 'date': parsed_dt, 'date_str': dt_str, 'atel_id': m_id.group(1).strip() if m_id else "未知"})
+            
+    s_list.sort(key=lambda x: x['date'], reverse=True)
     with open(os.path.join(ATELS_DIR, "index.md"), 'w', encoding='utf-8') as f:
-        f.write("# ATel 索引\n\n## 按周汇总\n")
-        for wf in weekly_files: f.write(f"- [{wf.replace('.md', '')}]({wf})\n")
-        f.write("\n## 爆发源追踪 (按更新日期排列)\n")
-        for category in SOURCE_CATEGORIES:
-            cat_items = [s for s in source_info_list if s['cat'] == category]
+        f.write("# ATel 索引\n\n## 按周汇总\n" + "\n".join([f"- [{wf.replace('.md', '')}]({wf})" for wf in w_files]) + "\n\n## 爆发源追踪 (按更新日期排列)\n")
+        for cat in SOURCE_CATEGORIES:
+            cat_items = [s for s in s_list if s['cat'] == cat]
             if cat_items:
-                f.write(f"\n### {category}\n")
-                for item in cat_items:
-                    f.write(f"- [{item['name']}](./sources/{item['file']}) | *{item['date_str']}* - {item['intro']}\n")
+                f.write(f"\n### {cat}\n" + "\n".join([f"- [{i['name']}](./sources/{i['file']}) | *最新动态: ATel {i['atel_id']} ({i['date_str']})*" for i in cat_items]) + "\n")
 
-def update_home_page(arxiv_files):
-    weekly_files = sorted([f for f in os.listdir(ATELS_DIR) if f.endswith(".md") and "-W" in f], reverse=True)
-    atel_snippet = "暂无记录"
-    if weekly_files:
-        with open(os.path.join(ATELS_DIR, weekly_files[0]), 'r', encoding='utf-8') as f:
-            lines = f.readlines()
-            atel_snippet = "".join(lines[2:20]) + f"\n\n[查看本周完整 ATel](./atels/{weekly_files[0]})"
+    # Home Page
+    snippet = "暂无记录"
+    if w_files:
+        lines = open(os.path.join(ATELS_DIR, w_files[0]), 'r', encoding='utf-8').readlines()
+        snippet = "".join(lines[4:20]) + f"\n\n[查看本周完整 ATel](./atels/{w_files[0]})"
+    
     with open("./docs/index.md", 'w', encoding='utf-8') as f:
-        f.write("# ArXiv Daily Tracker\n\n")
-        f.write("> 专注于高能天体物理与爆发现象的追踪，涵盖吸积物理、黑洞双星及 AGN 等领域。\n\n")
-        f.write("## 监控配置\n")
-        f.write(f"- **arXiv 分类**: `{', '.join(ARXIV_CATEGORIES)}`\n")
-        f.write(f"- **ATel 范围**: 17650 之后\n")
-        f.write(f"- **arXiv 初筛关键词**: `{', '.join(KEYWORDS_BROAD)}`\n\n")
-        f.write("## 最新天文简报 (ATel)\n\n" + atel_snippet + "\n\n[查看所有 ATel 索引](./atels/index.md)\n")
-        f.write("\n---\n\n## 最新论文 (arXiv)\n")
-        if arxiv_files:
-            with open(os.path.join(POSTS_DIR, arxiv_files[0]), 'r', encoding='utf-8') as rf:
-                f.write("".join(rf.readlines()[1:]))
-            f.write(f"\n[查看历史目录](./posts/index.md)\n")
+        f.write(f"# ArXiv Daily Tracker\n\n> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。\n\n## 监控配置\n- **arXiv 分类**: `{', '.join(ARXIV_CATEGORIES)}`\n- **ATel 范围**: 17650 之后\n## 最新天文简报 (ATel)\n\n{snippet}\n\n[查看所有 ATel 索引](./atels/index.md)\n\n---\n\n## 最新论文 (arXiv)\n")
+        arx_files = sorted([f for f in os.listdir(POSTS_DIR) if f.startswith("Arxiv_Summary_") and f.endswith(".md")], reverse=True)
+        if arx_files:
+            f.write("".join(open(os.path.join(POSTS_DIR, arx_files[0]), 'r', encoding='utf-8').readlines()[1:]) + "\n[查看历史目录](./posts/index.md)\n")
         else: f.write("今日无更新\n")
 
+# ================= 主函数 =================
 def main():
     parser = argparse.ArgumentParser()
     parser.add_argument('--date', type=str)
     parser.add_argument('--task', choices=['arxiv', 'atel', 'all'], default='all')
     args = parser.parse_args()
-    client = get_gemini_client()
 
     if args.task in ['atel', 'all']:
         os.makedirs(ATELS_DIR, exist_ok=True)
-        state = {'last_id': 0}
-        if os.path.exists(STATE_FILE):
-            with open(STATE_FILE, 'r') as f: state = json.load(f)
+        state = json.load(open(STATE_FILE, 'r')) if os.path.exists(STATE_FILE) else {'last_id': 0}
         print(f"[System] 正在同步 ATel (上次记录 ID: {state['last_id']})...")
         rss_data = get_latest_atel_info_from_rss()
         max_rss_id = max(rss_data.keys()) if rss_data else state['last_id']
@@ -364,61 +337,55 @@ def main():
             detail = fetch_atel_detail(aid)
             if not detail: continue
             print(f"  -> 分析 ATel {aid}: {detail['title'][:40]}...")
-            ans = ai_summarize_atel(client, detail)
+            ans = ai_summarize_atel(detail)
             if ans: new_atels.append({'obj': detail, 'analysis': ans})
+            
         if new_atels:
             update_weekly_atel(new_atels)
             update_source_atel(new_atels)
             state['last_id'] = max_rss_id
             with open(STATE_FILE, 'w') as f: json.dump(state, f)
-        update_atels_index()
+        update_indexes(arxiv_files_updated=False)
 
     if args.task in ['arxiv', 'all']:
         os.makedirs(POSTS_DIR, exist_ok=True)
-        arxiv_state = {'processed_ids': []}
-        if os.path.exists(ARXIV_STATE_FILE):
-            try:
-                with open(ARXIV_STATE_FILE, 'r') as f: arxiv_state = json.load(f)
-            except: pass
+        arxiv_state = json.load(open(ARXIV_STATE_FILE, 'r')) if os.path.exists(ARXIV_STATE_FILE) else {'processed_ids': []}
         processed_ids = set(arxiv_state.get('processed_ids', []))
-
-        # 确定汇总日期 (默认为运行当天)
-        target_date = datetime.datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else datetime.datetime.now(datetime.timezone.utc).date()
         
+        target_date = datetime.datetime.strptime(args.date, "%Y-%m-%d").date() if args.date else datetime.datetime.now(datetime.timezone.utc).date() - datetime.timedelta(days=1)
+            
         raw_papers = get_new_arxiv_papers(processed_ids, max_results=200)
         candidates = keyword_pre_filter(raw_papers)
         
-        high_score, low_score = [], []
         if candidates:
-            print(f"[System] 正在分析 {len(candidates)} 篇新候选论文...")
-            for paper in candidates:
-                analysis = ai_relevance_check(client, paper)
-                score = analysis.get('score', 0)
-                print(f"  -> [{score}分] {paper.title[:30]}...")
+            print(f"[System] 正在使用 Lite 模型为 {len(candidates)} 篇候选论文进行初筛打分...")
+            scored = []
+            for p in candidates:
+                ans = ai_relevance_check(p)
+                scored.append({'paper': p, 'analysis': ans, 'score': ans.get('score', 0)})
+                time.sleep(1.5)
+            
+            scored.sort(key=lambda x: x['score'], reverse=True)
+            high_score, low_score = [], []
+            
+            print(f"[System] 开始生成论文摘要 (高分优先，尝试使用 Flash 模型)...")
+            for item in scored:
+                score, p, ans = item['score'], item['paper'], item['analysis']
+                print(f"  -> [{score}分] {p.title[:30]}...")
                 if score >= 6:
-                    summary = ai_summarize_short(client, paper, analysis)
-                    high_score.append({'paper': paper, 'analysis': analysis, 'summary': summary})
-                    time.sleep(4) # Flash 限制较低，稍作等待
+                    high_score.append({'paper': p, 'analysis': ans, 'summary': ai_summarize_short(p, ans)})
+                    time.sleep(3)
                 else:
-                    low_score.append({'paper': paper, 'analysis': analysis})
-                
-            # 生成今天的笔记
+                    low_score.append({'paper': p, 'analysis': ans})
+                    
             generate_obsidian_note(high_score, low_score, target_date)
-            
-            # 更新已处理 ID，并保持滑动窗口（只保留最近 1000 个，防止 state.json 过大）
             new_ids = [p.entry_id.replace("http://", "https://") for p in raw_papers]
-            all_ids = list(processed_ids | set(new_ids))
-            # 按 ID 降序排列（新论文 ID 通常更大），取前 1000 个以覆盖足够的历史范围
-            all_ids.sort(reverse=True)
-            arxiv_state['processed_ids'] = all_ids[:1000]
-            
+            arxiv_state['processed_ids'] = sorted(list(processed_ids | set(new_ids)), reverse=True)[:1000]
             with open(ARXIV_STATE_FILE, 'w') as f: json.dump(arxiv_state, f, indent=2)
         else:
             print("[System] 没有发现需要分析的新论文。")
-
-    os.makedirs(POSTS_DIR, exist_ok=True)
-    arxiv_files = update_posts_index()
-    update_home_page(arxiv_files)
+            
+        update_indexes(arxiv_files_updated=True)
 
 if __name__ == "__main__":
     main()

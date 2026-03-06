@@ -1,12 +1,16 @@
-# Source: 3I_ATLAS
+# Source: 3I ATLAS
+
+*Tags: #ATel #Other*
 
 - **类别**: Other
-- **简介**: 太阳系外星际彗星
 
-### ATel 17664 | 10 Feb 2026 UT
-**设备**: ATLAS
+---
 
-该简报报道了对星际彗星 3I/ATLAS 的后续测光观测。该天体属于太阳系外起源的彗星。由于其研究领域偏向太阳系天体物理，与课题组关注的致密天体吸积物理（BHXRB、AGN、CV 等）及暂现源研究方向不相关。**建议：** 无需跟进，1m 望远镜资源应优先用于课题组核心关注的变星或高能暂现源监测。
+### ATel 17664: [Follow-up Imaging Observations of the Interstellar Comet 3I/ATLAS](https://www.astronomerstelegram.org/?read=17664)
+- **日期**: 10 Feb 2026 UT
+
+**爆发速递**: 报告了对星际彗星 3I/ATLAS 的后续成像观测，主要关注其物理形态与轨道演化。
+**观测短评**: 该目标为星际小天体，不属于课题组关注的黑洞双星、活动星系核或高能暂现源等核心研究领域。虽然 1m 望远镜在亮度上可能具备观测条件，但其科学价值与当前研究方向不匹配，无须申请后续观测或设备跟进。
 
 ---
 

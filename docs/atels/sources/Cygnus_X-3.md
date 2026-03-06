@@ -1,12 +1,16 @@
-# Source: Cygnus_X-3
+# Source: Cygnus X-3
+
+*Tags: #ATel #BHXRB*
 
 - **类别**: BHXRB
-- **简介**: 具有微类星体特性的高能X射线双星
 
-### ATel 17661 | 9 Feb 2026 UT
-**设备**: IceCube
+---
 
-该简报报道了IceCube在Cygnus X-3观测期间的中微子搜寻结果，未探测到与该源相关的显著中微子流量，仅给出了通量上限。Cygnus X-3是著名的微类星体，处于强吸积状态。由于该报告仅为负结果（Upper limits），且并未涉及当前活跃的电磁波段爆发，对1m光学望远镜无直接的后随观测需求。建议持续关注其X射线变率，若后续发生硬态向软态转变的射电/X射线爆发，可利用1m望远镜进行光学波段的连续监测以探究吸积盘辐射特征。
+### ATel 17661: [Cygnus X-3: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=17661)
+- **日期**: 9 Feb 2026 UT
+
+**爆发速递**: IceCube 中微子天文台对著名的微类星体 Cygnus X-3 进行了中微子搜索，结果未发现显著的信号关联，仅给出了相应能段的中微子通量上限。
+**观测短评**: Cygnus X-3 是研究吸积与喷流物理的核心目标，但本次报告仅为中微子观测的负结果，未提示新的电磁波段爆发。该源位于北天球（赤纬+40度），非常适合我们的1m望远镜观测，但目前无新活动迹象，暂无跟进必要。
 
 ---
 

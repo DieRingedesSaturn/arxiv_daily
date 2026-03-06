@@ -1,12 +1,16 @@
-# Source: AX_Per
+# Source: AX Per
 
-- **类别**: CV
-- **简介**: Symbiotic star (a binary system containing a white dwarf and a red giant).
+*Tags: #ATel #Other*
 
-### ATel 17658 | 9 Feb 2026 UT
-**设备**: NOT (Nordic Optical Telescope), FIES
+- **类别**: Other
 
-AX Per 是一颗典型的共生星。本次观测利用 NOT 望远镜的 FIES 高分辨率光谱仪，捕捉到了该系统在爆发过程中的精细光谱特征。虽然共生星与 CV 在吸积物理上有本质区别，但两者均涉及白矮星吸积过程。对于贵组 1m 望远镜，建议关注该源的长期光度变化（测光监测），研究其爆发周期及吸积盘的轨道调制现象，这有助于积累白矮星双星系统的观测数据。
+---
+
+### ATel 17658: [High-resolution spectroscopy of the symbiotic star AX Per](https://www.astronomerstelegram.org/?read=17658)
+- **日期**: 9 Feb 2026 UT
+
+**爆发速递**: 报道了共生星 AX Per 的高分辨率光谱观测。AX Per 是一个典型的共生双星系统，由一颗红巨星和一颗吸积白矮星组成，其光谱特征反映了双星间的物质转移与星风相互作用。
+**观测短评**: 该天体不属于课题组核心研究的黑洞双星或活动星系核领域。虽然其亮度（通常在10-12等）完全处于 1m 望远镜的观测能力范围内，但科学目标偏向恒星物理，目前无须申请高能空间设备进行后随观测。
 
 ---
 

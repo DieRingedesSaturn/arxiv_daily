@@ -1,12 +1,16 @@
 # Source: AT2019wey
 
+*Tags: #ATel #BHXRB*
+
 - **类别**: BHXRB
-- **简介**: 被认为是一颗黑洞候选者的银河系内X射线暂现源
 
-### ATel 17686 | 17 Feb 2026 UT
-**设备**: ATLAS, ZTF, Swift, NICER, MAXI
+---
 
-AT2019wey在近期X射线重新增亮期间，通过ATLAS和ZTF观测到了显著的光学波段对应。研究表明该源具有典型的黑洞候选者特征。结合其物理特性，它是一个研究吸积盘不稳定性及喷流演化的理想目标。鉴于其光学亮度（约17-19等），建议利用贵组1m望远镜进行多波段测光监测，通过绘制光变曲线分析吸积盘的几何结构；若其再次增亮至16等左右，可尝试进行中低分辨率光谱观测，通过分析H-alpha等发射线轮廓变化，进一步确认其吸积状态及伴星性质。
+### ATel 17686: [ATLAS and ZTF optical observations of the X-ray transient AT2019wey during the recent X-ray rebrightening](https://www.astronomerstelegram.org/?read=17686)
+- **日期**: 17 Feb 2026 UT
+
+**爆发速递**: ATLAS和ZTF巡天观测到X射线暂现源AT2019wey在近期X射线再次增亮期间的光学对应表现。该源是已知的黑洞X射线双星候选体。
+**观测短评**: 该源属于核心研究领域，具有极高的多波段联合观测价值。1m望远镜可进行测光跟进。建议结合Insight-HXMT或Swift数据进行吸积物理研究，并考虑申请射电观测以探测喷流演化。
 
 ---
 

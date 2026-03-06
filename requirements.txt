@@ -1,7 +1,9 @@
-arxiv
 google-genai
-mkdocs-material
-pytz
-requests
-beautifulsoup4
+openai>=1.0.0
+pydantic>=2.0.0
+arxiv
+astroquery
 feedparser
+beautifulsoup4
+requests
+pytz

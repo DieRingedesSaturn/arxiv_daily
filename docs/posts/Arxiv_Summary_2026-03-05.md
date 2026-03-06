@@ -1,37 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17650 之后
-## 最新天文简报 (ATel)
-
-### [9] | ATel 17710: [ASKAP-VAST detection of radio emission from GS 1354-64/BW Cir](https://www.astronomerstelegram.org/?read=17710)
-- **日期**: 5 Mar 2026 UT | **源**: `GS 1354-64`
-
-**爆发速递**: ASKAP-VAST 巡天探测到了已知黑洞X射线双星 GS 1354-64 (BW Cir) 的射电辐射。作为著名的黑洞候选体，此次射电探测可能预示着该源进入了新的活跃状态或吸积模式的转变。
-**观测短评**: 该源位于南天（赤纬约-64度），我组北纬40度的1m望远镜无法观测。由于其属于核心研究领域，建议立即申请 Swift 或 Insight-HXMT 进行X射线监测，并协调南半球的光学（如ESO/LCO）和射电资源进行多波段联合观测，以深入研究吸积与喷流的物理机制。
-
----
-
-### [2] | ATel 17709: [CHIME/FRB and Outriggers localization of Repeating FRB 20251229A](https://www.astronomerstelegram.org/?read=17709)
-- **日期**: 5 Mar 2026 UT | **源**: `FRB 20251229A`
-
-**爆发速递**: CHIME/FRB 及其辅助站（Outriggers）成功对重复快速射电暴 FRB 20251229A 进行了精确定位。
-**观测短评**: 该源属于快速射电暴，并非课题组核心研究的黑洞吸积或 AGN 领域。FRB 的光学对应体通常极其微弱，远超 1m 望远镜的观测极限（21等）。目前暂无必要申请空间设备跟进，除非有显著的 X 射线对应物发现。
-
----
-
-
-
-[查看本周完整 ATel](./atels/2026-W10.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-05
 
 *Tags: #arXiv #Astrophysics*
 
@@ -173,5 +140,3 @@
   - *本文利用数值模拟研究了太阳极区磁场对日冕物质抛射（CME）在行星际空间传播的影响。*
 - **[0]** [A Comparative Study of the Streaming Instability: Unstratified Models with Marginally Coupled Grains](http://arxiv.org/abs/2603.04558v1)
   - *该论文研究原行星盘中流体不稳定性对微行星形成的影响，属于行星科学领域，与黑洞吸积及暂现源研究无关。*
-
-[查看历史目录](./posts/index.md)

@@ -1,12 +1,16 @@
-# Source: Aql_X-1
+# Source: Aql X-1
+
+*Tags: #ATel #NSXRB*
 
 - **类别**: NSXRB
-- **简介**: 低质量中子星 X 射线双星 (LMXB)
 
-### ATel 17657 | 9 Feb 2026 UT
-**设备**: MAXI/GSC
+---
 
-MAXI/GSC 监测到低质量 X 射线双星 Aql X-1 再次进入 X 射线爆发状态。该源是一颗著名的中子星瞬变源，具有频繁的爆发活动。尽管该源属于中子星系统，但其吸积物理与 BHXRB 具有一定的相似性。考虑到其亮度变化显著，建议利用 1m 光学望远镜对其进行多波段测光监测，绘制光学光变曲线以研究吸积盘的加热过程，或在爆发衰减阶段尝试获取低分辨率光谱，寻找由吸积盘或伴星产生的发射线特征。
+### ATel 17657: [MAXI/GSC observation of the onset of the X-ray outburst of the low mass X-ray binary Aql X-1](https://www.astronomerstelegram.org/?read=17657)
+- **日期**: 9 Feb 2026 UT
+
+**爆发速递**: MAXI/GSC 探测到著名低质量 X 射线双星 Aql X-1 开启了新的 X 射线爆发。该源是典型的中子星 X 射线双星，此次爆发预示其进入了新的吸积活跃态。
+**观测短评**: Aql X-1 爆发期间光学亮度通常可达 15-16 等，处于 1m 望远镜的观测极限内，具备后随价值。建议申请 Insight-HXMT 或 Swift 开展多波段联合观测，以研究其吸积盘与中子星表面的相互作用。
 
 ---
 
