@@ -7,3 +7,4 @@ feedparser
 beautifulsoup4
 requests
 pytz
+mkdocs-material
