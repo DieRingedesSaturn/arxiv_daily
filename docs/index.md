@@ -9,24 +9,24 @@
 
 ## 最新天文简报 (ATel)
 
-### [2] | [HCT followup observations of SN2026ejy.](https://www.astronomerstelegram.org/?read=17708)
-- **日期**: 5 Mar 2026 UT | **源**: `SN2026ejy`
-- **设备**: HCT (Himalayan Chandra Telescope)
-- **概览**: 天文学家利用HCT望远镜对超新星SN2026ejy进行了后续光谱观测。
+### [9] | [ASKAP-VAST detection of radio emission from GS 1354-64/BW Cir](https://www.astronomerstelegram.org/?read=17710)
+- **日期**: 5 Mar 2026 UT | **源**: `GS 1354-64 / BW Cir`
+- **设备**: ASKAP, Swift/XRT, MAXI/GSC
+- **概览**: 黑洞X射线双星GS 1354-64在经历了长期静默后再次进入射电与X射线波段的爆发活动。
 
-1. **核心现象**：天文学家对爆发源SN2026ejy进行了后续光谱观测，旨在确定其爆发类型及演化阶段。
-2. **设备**：使用了位于印度的2米级Himalayan Chandra Telescope (HCT)。
-3. **性质**：该天体为一颗典型的超新星。
-4. **我们能做什么**：鉴于该目标属于超新星，且亮度随时间衰减，若该源目前星等处于我方1m望远镜观测范围内（<21等），我们可以进行长期的多波段测光监测，记录其光变曲线（Light Curve）以辅助研究其爆发包层性质。然而，该类目标与课题组主要关注的BHXRB/AGN/CV方向重叠度较低，除非具备特殊科学意义（如高能瞬变源关联），否则优先级较低。
+### 核心现象与性质
+GS 1354-64 是一颗著名的黑洞瞬变源。本次由 ASKAP-VAST 巡天项目在射电波段探测到显著发射，同时 Swift/XRT 确认了其对应的 X 射线增亮。该天体目前处于典型的吸积爆发态，展示了黑洞吸积盘与喷流的剧烈耦合。
+
+### 我们能做什么？
+1. **多波段监测**：虽该源赤纬较低，若后续有北半球可见的新兴瞬变源，可利用我组 1m 望远镜进行密集测光，分析轨道周期调制或吸积盘不稳定性。
+2. **后续申请**：基于此类经典 BHXRB 爆发，可联合申请大口径望远镜光谱观测，研究吸积流动力学及黑洞自旋。
+3. **协同研究**：利用课题组在 CV 观测积累的经验，对同类吸积系统（如 LMXBs）进行时域特征对比研究。
 
 ---
 
-### [3] | [MAXI/GSC observation of an outburst onset of a Be/X-ray binary pulsar GS 1843+00](https://www.astronomerstelegram.org/?read=17706)
-- **日期**: 3 Mar 2026 UT | **源**: `GS 1843+00`
-- **设备**: MAXI/GSC
-- **概览**: Be/X射线双星脉冲星GS 1843+00进入新一轮爆发周期。
-
-MAXI/GSC监测显示Be/X射线双星GS 1843+00再次进入爆发活跃期。该源属于中子星双星系统，典型爆发通常源于中子星吸积盘动力学不稳定性。由于该源处于银道面且光学对应体较暗，对于贵组1m望远镜而言，如果其爆发期间光学对应体亮度优于16等，可进行多波段测光以监测轨道周期调制的吸积流量变化，但这通常具有挑战性，建议优先关注更亮或更近的CV或BHXRB目标。
+### [3] | [CHIME/FRB and Outriggers localization of Repeating FRB 20251229A](https://www.astronomerstelegram.org/?read=17709)
+- **日期**: 5 Mar 2026 UT | **源**: `FRB 20251229A`
+- **设备**: CHIME/FRB, CHIME/FRB Outriggers
 
 
 [查看本周完整 ATel](./atels/2026-W10.md)
