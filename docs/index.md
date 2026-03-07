@@ -7,22 +7,22 @@
 - **ATel 范围**: 17650 之后
 ## 最新天文简报 (ATel)
 
-### [9] | ATel 17710: [ASKAP-VAST detection of radio emission from GS 1354-64/BW Cir](https://www.astronomerstelegram.org/?read=17710)
-- **日期**: 5 Mar 2026 UT | **源**: `GS 1354-64`
+### [8] | ATel 17713: [3C 279: ALMA detection of a new polarized mm/sub-mm flare](https://www.astronomerstelegram.org/?read=17713)
+- **日期**: 6 Mar 2026 UT | **源**: `3C 279`
 
-**爆发速递**: ASKAP-VAST 巡天探测到了已知黑洞X射线双星 GS 1354-64 (BW Cir) 的射电辐射。作为著名的黑洞候选体，此次射电探测可能预示着该源进入了新的活跃状态或吸积模式的转变。
-**观测短评**: 该源位于南天（赤纬约-64度），我组北纬40度的1m望远镜无法观测。由于其属于核心研究领域，建议立即申请 Swift 或 Insight-HXMT 进行X射线监测，并协调南半球的光学（如ESO/LCO）和射电资源进行多波段联合观测，以深入研究吸积与喷流的物理机制。
-
----
-
-### [2] | ATel 17709: [CHIME/FRB and Outriggers localization of Repeating FRB 20251229A](https://www.astronomerstelegram.org/?read=17709)
-- **日期**: 5 Mar 2026 UT | **源**: `FRB 20251229A`
-
-**爆发速递**: CHIME/FRB 及其辅助站（Outriggers）成功对重复快速射电暴 FRB 20251229A 进行了精确定位。
-**观测短评**: 该源属于快速射电暴，并非课题组核心研究的黑洞吸积或 AGN 领域。FRB 的光学对应体通常极其微弱，远超 1m 望远镜的观测极限（21等）。目前暂无必要申请空间设备跟进，除非有显著的 X 射线对应物发现。
+**爆发速递**: ALMA 探测到著名耀变体 (Blazar) 3C 279 在毫米/亚毫米波段出现了新的极化耀发。此类高频极化观测对于揭示相对论性喷流内部的磁场构型及能量释放过程具有重要意义。
+**观测短评**: 该源是研究 AGN 喷流物理的经典目标。3C 279 赤纬约 -5 度，北纬 40 度地区可见。鉴于其目前在毫米波段活跃，极可能伴随光学耀发，建议利用 1m 望远镜进行光学测光监控。同时，该源适合申请 Swift 或 Insight-HXMT 进行 X 射线联动观测，以构建多波段能谱并研究吸积-喷流耦合机制。
 
 ---
 
+### [7] | ATel 17712: [SVOM/ECLAIRs detection of a possible X-ray outburst of the High-Mass X-ray Binary LS V +44 17 / RX J0440.9+4431](https://www.astronomerstelegram.org/?read=17712)
+- **日期**: 6 Mar 2026 UT | **源**: `LS V +44 17`
+
+**爆发速递**: SVOM/ECLAIRs 探测到高质量 X 射线双星 LS V +44 17 (RX J0440.9+4431) 的一次可能 X 射线爆发。该源是一个已知的 Be/X 射线双星系统。**观测短评**: 该源赤纬约 +44 度，非常适合北半球 1m 望远镜进行光学后随，其亮度通常在 1m 望远镜观测范围内。建议利用课题组熟悉的 Insight-HXMT 或 Swift 进行 X 射线能谱和时变监测，以研究中子星吸积物理。
+
+---
+
+### [3] | ATel 17711: [Repeating FRB 20240114A: the flaring radio source is linked to the FRB](https://www.astronomerstelegram.org/?read=17711)
 
 
 [查看本周完整 ATel](./atels/2026-W10.md)
