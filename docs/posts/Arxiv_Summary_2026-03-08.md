@@ -1,28 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17650 之后
-## 最新天文简报 (ATel)
-
-### [5] | ATel 17714: [MAXI/GSC detection of an X-ray outburst from the Be/X-ray binary pulsar IGR J06074+2205](https://www.astronomerstelegram.org/?read=17714)
-- **日期**: 9 Mar 2026 UT | **源**: `IGR J06074+2205`
-
-**爆发速递**: MAXI/GSC探测到Be/X射线双星脉冲星IGR J06074+2205的X射线爆发，4-10 keV能段流量达到约20 mCrab。该源为已知的高质量X射线双星。**观测短评**: 该源赤纬约+22度，北半球观测条件良好，1m望远镜可尝试对其Be伴星进行光学测光监测。虽然属于NSXRB，但其吸积过程可作为对比研究，建议关注Insight-HXMT或Swift的后续观测数据。
-
----
-
-
-
-[查看本周完整 ATel](./atels/2026-W11.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-08
 
 *Tags: #arXiv #Astrophysics*
 
@@ -192,5 +168,3 @@
   - *本文利用表面磁通输运模型研究了太阳第24周活动区分布对大尺度磁场偶极分量的影响。*
 - **[0]** [Solar Irradiance Reconstruction over the Telescopic Era Using a Revised Photospheric Magnetic Field Model](http://arxiv.org/abs/2603.05592v1)
   - *本文利用改进的物理模型重建了过去四百年的太阳总辐照度与光谱辐照度，属于太阳物理与气候研究领域。*
-
-[查看历史目录](./posts/index.md)
