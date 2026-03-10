@@ -1,28 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17650 之后
-## 最新天文简报 (ATel)
-
-### [7] | ATel 17715: [The flaring blazar S5 1044+71 shows a significant increase in its optical brightness](https://www.astronomerstelegram.org/?read=17715)
-- **日期**: 9 Mar 2026 UT | **源**: `S5 1044+71`
-
-**爆发速递**: 耀变体 S5 1044+71 的光学亮度出现显著增加，表现出明显的爆发活动。**观测短评**: 该源属于 AGN 类别，与课题组研究的喷流物理高度相关。目标位于北天高纬度（+71度），非常适合我们 1m 望远镜进行长期测光监测。建议利用现有设备跟进，并视情况申请 Swift 等空间设备进行多波段能谱分析。
-
----
-
-
-
-[查看本周完整 ATel](./atels/2026-W11.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-09
 
 *Tags: #arXiv #Astrophysics*
 
@@ -126,5 +102,3 @@
   - *该论文研究了脉冲星晕的各向异性扩散模型，旨在通过HAWC观测数据解释Geminga和Monogem晕的非对称形态并约束星际磁场性质。*
 - **[0]** [Uncertainty-Aware Solar Flare Regression](http://arxiv.org/abs/2603.06712v1)
   - *本文研究利用共形预测方法提升太阳耀斑回归预测的可靠性与置信区间估计。*
-
-[查看历史目录](./posts/index.md)
