@@ -1,28 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17650 之后
-## 最新天文简报 (ATel)
-
-### [5] | ATel 17716: [Optical follow-up of IGR J06074+2205](https://www.astronomerstelegram.org/?read=17716)
-- **日期**: 10 Mar 2026 UT | **源**: `IGR J06074+2205`
-
-**爆发速递**: 研究人员对IGR J06074+2205进行了光学后随观测，确认其伴星为一颗Be星，证实该源为典型的Be/X射线双星(BeXRB)。**观测短评**: 该源属于中子星X射线双星，虽非课题组核心关注的黑洞双星，但其光学亮度(通常V~12-15等)完全在1m望远镜的观测能力范围内，适合开展长期测光监测以研究吸积盘演化，建议在爆发期间进行跟进。
-
----
-
-
-
-[查看本周完整 ATel](./atels/2026-W11.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-10
 
 *Tags: #arXiv #Astrophysics*
 
@@ -321,5 +297,3 @@ AI识别天体: [微类星体 (Microquasars), 活动星系核 (AGN)]
   - *解析失败*
 - **[0]** [Fine Structure and Formation Mechanism of a Sunspot Bipolar Light Bridge in NOAA AR 13663](http://arxiv.org/abs/2603.07944v1)
   - *本文研究了太阳黑子中双极光桥的精细结构及其形成机制，属于太阳物理学领域。*
-
-[查看历史目录](./posts/index.md)
