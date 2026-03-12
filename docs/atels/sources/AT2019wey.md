@@ -9,8 +9,7 @@
 ### ATel 17686: [ATLAS and ZTF optical observations of the X-ray transient AT2019wey during the recent X-ray rebrightening](https://www.astronomerstelegram.org/?read=17686)
 - **日期**: 17 Feb 2026 UT
 
-**爆发速递**: ATLAS和ZTF巡天观测到X射线暂现源AT2019wey在近期X射线再次增亮期间的光学对应表现。该源是已知的黑洞X射线双星候选体。
-**观测短评**: 该源属于核心研究领域，具有极高的多波段联合观测价值。1m望远镜可进行测光跟进。建议结合Insight-HXMT或Swift数据进行吸积物理研究，并考虑申请射电观测以探测喷流演化。
+**爆发速递**: ATLAS和ZTF报告了X射线暂现源AT2019wey在近期X射线再次增亮期间的光学观测结果。该源在X射线活动增强的同时，光学波段也表现出明显的增亮现象。**观测短评**: AT2019wey是极具研究价值的黑洞双星候选体。其光学亮度在1m望远镜的测光极限内，适合开展多色测光监测以研究吸积盘结构。建议申请HXMT或Swift进行同步X射线观测，分析爆发态转换过程。
 
 ---
 

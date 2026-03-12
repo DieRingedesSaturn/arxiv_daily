@@ -4,26 +4,24 @@
 
 ## 监控配置
 - **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17650 之后
+- **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [1] | ATel 17719: [December 2025 Gemini spectroscopic and photometric constraints on the activity and gas contents of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17719)
+### [8] | ATel 17720: [Aql X-1 at stage of fading after current flare](https://www.astronomerstelegram.org/?read=17720)
+- **日期**: 12 Mar 2026 UT | **源**: `Aql X-1`
+
+**爆发速递**: Aql X-1 在经历近期爆发后，目前正处于衰减阶段。监测数据表明其X射线通量持续下降，标志着本次爆发活动趋于结束。**观测短评**: 该源为典型的中子星X射线双星，目前处于衰减期，光学波段可能存在吸积盘辐射变化。考虑到其亮度及演化阶段，具备一定的光学监测价值，可利用1m望远镜进行测光监测以捕捉吸积盘演化特征，无需额外申请大型设备。
+
+---
+
+### [0] | ATel 17719: [December 2025 Gemini spectroscopic and photometric constraints on the activity and gas contents of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17719)
 - **日期**: 12 Mar 2026 UT | **源**: `3I/ATLAS`
 
-**爆发速递**: Gemini望远镜于2025年12月对星际天体3I/ATLAS进行了光谱和测光观测，旨在约束其活动性及气体含量。**观测短评**: 该目标为星际天体，不属于课题组核心关注的黑洞双星、活动星系核或TDE等致密天体吸积物理领域。虽然其光学亮度可能在1m望远镜观测范围内，但科学目标不匹配，无须申请后续观测。
+**爆发速递**: 本文报道了2025年12月对天体3I/ATLAS进行的Gemini光谱与测光观测，旨在约束其活动性及气体含量。该天体并非黑洞、中子星或活动星系核等高能天体，属于太阳系内或近邻天体研究范畴。**观测短评**: 该目标与本课题组关注的吸积物理及高能暂现源研究方向不符，且不属于激变变星或其他适合1米级光学望远镜跟进的范畴，无光学后随观测价值，无需申请额外设备观测。
 
 ---
 
-### [7] | ATel 17718: [Another Fast NIR flare of the FSRQ GB6 J0742+5444](https://www.astronomerstelegram.org/?read=17718)
-- **日期**: 11 Mar 2026 UT | **源**: `GB6 J0742+5444`
-
-**爆发速递**: 观测到平谱射电类星体 (FSRQ) GB6 J0742+5444 再次发生快速近红外 (NIR) 剧烈爆发。此类源的快速变率通常与相对论性喷流中的物理过程密切相关。**观测短评**: 该源位于北天 (Dec +54)，非常适合北纬40度的1m望远镜进行光学后随监测。鉴于其展现出的快速变率，建议开展多波段时变分析，并可考虑申请 Swift 或 XMM-Newton 进行 X 射线同步观测以研究喷流辐射机制。
-
----
-
-### [2] | ATel 17717: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=17717)
-- **日期**: 11 Mar 2026 UT | **源**: `Unknown`
-
+### [8] | ATel 17718: [Another Fast NIR flare of the FSRQ GB6 J0742+5444](https://www.astronomerstelegram.org/?read=17718)
 
 [查看本周完整 ATel](./atels/2026-W11.md)
 

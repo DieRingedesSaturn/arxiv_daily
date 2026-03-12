@@ -25,7 +25,7 @@ def normalize_source_name(name: str) -> str:
     if not name: return ""
     name = re.sub(r'\(.*?\)', '', name)
     name = re.sub(r'^(SOURCE|OBJECT)[:\s]+', '', name, flags=re.IGNORECASE)
-    return re.sub(r'[^A-Z0-9\+\-\.]', '', name.upper())
+    return re.sub(r'[^A-Z0-9\+\-\._]', '', name.upper())
 
 def get_aliases_from_simbad(primary_name: str) -> list[str]:
     if not Simbad: return []
@@ -212,24 +212,26 @@ def ai_summarize_atel(atel):
     Title: {atel['title']}
     Content: {atel['content']}
     """
-    # ATel阶段逻辑同上：免费 Flash -> 免费 Lite -> 付费 Lite
+    # ATel阶段：直接使用 Lite 模型 (免费额度大且效果稳定)
     try:
-        return generate_content_with_retry(model=GEMINI_MODEL_FLASH, contents=prompt, schema=ATelAnalysis, max_retries=2, base_delay=2, provider="google")
+        return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, schema=ATelAnalysis, max_retries=3, base_delay=5, provider="google")
     except Exception as e:
-        print(f"  [Fallback 1] ATel 免费 Flash 受限，降级免费 Lite...")
+        print(f"  [Fallback] ATel 免费 Lite 线路受限，尝试第三方付费 Lite 兜底...")
         try:
-            return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, schema=ATelAnalysis, max_retries=2, base_delay=2, provider="google")
+            return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, schema=ATelAnalysis, max_retries=2, provider="openai")
         except Exception:
-            print(f"  [Fallback 2] ATel 免费路线挂掉，启用第三方付费 Lite 兜底...")
-            try:
-                return generate_content_with_retry(model=GEMINI_MODEL_LITE, contents=prompt, schema=ATelAnalysis, max_retries=2, provider="openai")
-            except Exception:
-                return None
+            return None
 
 # ================= 存储与索引 =================
 def get_iso_week(date_str: str):
     try:
-        return f"{datetime.datetime.strptime(date_str.split(';')[0].replace(' UT', '').strip(), '%d %b %Y').isocalendar()[0]}-W{datetime.datetime.strptime(date_str.split(';')[0].replace(' UT', '').strip(), '%d %b %Y').isocalendar()[1]:02d}"
+        # 预处理日期字符串：12 March 2026 -> 12 Mar 2026
+        parts = date_str.split(';')[0].replace(' UT', '').strip().split()
+        if len(parts) >= 2:
+            parts[1] = parts[1][:3] # 截断月份为 3 位
+        clean_date = " ".join(parts)
+        dt = datetime.datetime.strptime(clean_date, '%d %b %Y')
+        return f"{dt.isocalendar()[0]}-W{dt.isocalendar()[1]:02d}"
     except:
         return f"{datetime.datetime.now().isocalendar()[0]}-W{datetime.datetime.now().isocalendar()[1]:02d}"
 
@@ -249,9 +251,13 @@ def update_weekly_atel(new_items):
         old_content = ""
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
-                old_content = f.read().split("\n\n---\n\n", 1)[-1] if "\n\n---\n\n" in f.read() else f.read()
+                content = f.read()
+                # 查找第一个条目标题的位置，从而跳过旧的头部
+                match = re.search(r'### ', content)
+                if match:
+                    old_content = content[match.start():]
         with open(file_path, 'w', encoding='utf-8') as f:
-            f.write(f"# ATel Weekly: {week}\n\n*Tags: #ATel*\n\n" + new_block + old_content)
+            f.write(f"# ATel Weekly: {week}\n\n*Tags: #ATel*\n\n---\n\n" + new_block + old_content)
 
 def update_source_atel(new_items):
     sources_dir = os.path.join(ATELS_DIR, "sources")
@@ -271,7 +277,10 @@ def update_source_atel(new_items):
         old_content = ""
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
-                old_content = f.read().split("\n\n---\n\n", 1)[-1] if "\n\n---\n\n" in f.read() else ""
+                content = f.read()
+                match = re.search(r'### ', content)
+                if match:
+                    old_content = content[match.start():]
                 
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(f"# Source: {s_name.replace('___', ' / ').replace('_', ' ')}\n\n*Tags: #ATel #{cls}*\n\n- **类别**: {cls}\n\n---\n\n" + entry + old_content)
@@ -291,7 +300,9 @@ def update_indexes(arxiv_files_updated=True):
     if os.path.exists(s_dir):
         for sf in os.listdir(s_dir):
             if not sf.endswith(".md"): continue
-            c = open(os.path.join(s_dir, sf), 'r', encoding='utf-8').read()
+            # 性能优化：仅读取文件头部 1KB 即可获取元数据
+            with open(os.path.join(s_dir, sf), 'r', encoding='utf-8') as f:
+                c = f.read(1024)
             m_cat = re.search(r'- \*\*类别\*\*: (.*)', c)
             m_id = re.search(r'### ATel (\d+):', c)
             m_dt = re.search(r'- \*\*日期\*\*: (\d{1,2}\s+[A-Za-z]+\s+\d{4})', c)
@@ -311,11 +322,18 @@ def update_indexes(arxiv_files_updated=True):
     # Home Page
     snippet = "暂无记录"
     if w_files:
-        lines = open(os.path.join(ATELS_DIR, w_files[0]), 'r', encoding='utf-8').readlines()
-        snippet = "".join(lines[4:20]) + f"\n\n[查看本周完整 ATel](./atels/{w_files[0]})"
+        content = open(os.path.join(ATELS_DIR, w_files[0]), 'r', encoding='utf-8').read()
+        match = re.search(r'### ', content)
+        if match:
+            # 获取第一个条目开始后的前 15 行作为摘要
+            snippet_raw = content[match.start():]
+            snippet = "\n".join(snippet_raw.splitlines()[:15])
+        else:
+            snippet = "暂无记录"
+        snippet += f"\n\n[查看本周完整 ATel](./atels/{w_files[0]})"
     
     with open("./docs/index.md", 'w', encoding='utf-8') as f:
-        f.write(f"# ArXiv Daily Tracker\n\n> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。\n\n## 监控配置\n- **arXiv 分类**: `{', '.join(ARXIV_CATEGORIES)}`\n- **ATel 范围**: 17650 之后\n## 最新天文简报 (ATel)\n\n{snippet}\n\n[查看所有 ATel 索引](./atels/index.md)\n\n---\n\n## 最新论文 (arXiv)\n")
+        f.write(f"# ArXiv Daily Tracker\n\n> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。\n\n## 监控配置\n- **arXiv 分类**: `{', '.join(ARXIV_CATEGORIES)}`\n- **ATel 范围**: 17680 之后\n## 最新天文简报 (ATel)\n\n{snippet}\n\n[查看所有 ATel 索引](./atels/index.md)\n\n---\n\n## 最新论文 (arXiv)\n")
         arx_files = sorted([f for f in os.listdir(POSTS_DIR) if f.startswith("Arxiv_Summary_") and f.endswith(".md")], reverse=True)
         if arx_files:
             f.write("".join(open(os.path.join(POSTS_DIR, arx_files[0]), 'r', encoding='utf-8').readlines()[1:]) + "\n[查看历史目录](./posts/index.md)\n")
@@ -335,17 +353,22 @@ def main():
         rss_data = get_latest_atel_info_from_rss()
         max_rss_id = max(rss_data.keys()) if rss_data else state['last_id']
         new_atels = []
+        last_success_id = state['last_id']
         for aid in range(state['last_id'] + 1, max_rss_id + 1):
             detail = fetch_atel_detail(aid)
-            if not detail: continue
+            if not detail: 
+                print(f"[Warning] 无法抓取 ATel {aid}，停止同步以防跳过。")
+                break
             print(f"  -> 分析 ATel {aid}: {detail['title'][:40]}...")
             ans = ai_summarize_atel(detail)
-            if ans: new_atels.append({'obj': detail, 'analysis': ans})
+            if ans: 
+                new_atels.append({'obj': detail, 'analysis': ans})
+                last_success_id = aid
             
         if new_atels:
             update_weekly_atel(new_atels)
             update_source_atel(new_atels)
-            state['last_id'] = max_rss_id
+            state['last_id'] = last_success_id
             with open(STATE_FILE, 'w') as f: json.dump(state, f)
         update_indexes(arxiv_files_updated=False)
 
@@ -365,7 +388,7 @@ def main():
             for p in candidates:
                 ans = ai_relevance_check(p)
                 scored.append({'paper': p, 'analysis': ans, 'score': ans.get('score', 0)})
-                time.sleep(1.5)
+                time.sleep(4.0)
             
             scored.sort(key=lambda x: x['score'], reverse=True)
             high_score, low_score = [], []
@@ -376,7 +399,7 @@ def main():
                 print(f"  -> [{score}分] {p.title[:30]}...")
                 if score >= 6:
                     high_score.append({'paper': p, 'analysis': ans, 'summary': ai_summarize_short(p, ans)})
-                    time.sleep(3)
+                    time.sleep(4.5)
                 else:
                     low_score.append({'paper': p, 'analysis': ans})
                     
