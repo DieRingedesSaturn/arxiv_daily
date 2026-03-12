@@ -195,7 +195,31 @@ def fetch_atel_detail(atel_id):
         if m := re.search(r'on\s+(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4});\s+\d{2}:\d{2}\s+UT', full_text) or re.search(r'(\d{1,2}\s+[A-Za-z]{3,}\s+\d{4}).*?UT', full_text):
             date_str = m.group(1).strip() + " UT"
             
-        content = soup.find('div', id='teltext').get_text(strip=True) if soup.find('div', id='teltext') else ""
+        # --- 优化后的正文提取逻辑 ---
+        content = ""
+        # 1. 优先尝试标准的 teltext 容器
+        content_div = soup.find('div', id='teltext')
+        if content_div:
+            content = content_div.get_text(separator='\n', strip=True)
+        
+        # 2. 如果没有 teltext，则寻找 subjects 之后的所有段落
+        if not content:
+            subjects_div = soup.find('div', id='subjects')
+            if subjects_div:
+                paragraphs = []
+                # 查找 subjects 之后的所有兄弟节点中的段落 (支持大小写 P)
+                for sibling in subjects_div.find_next_siblings(['p', 'P']):
+                    txt = sibling.get_text(strip=True)
+                    # 排除掉社交媒体按钮等干扰项
+                    if txt and "Tweet" not in txt and len(txt) > 5:
+                        paragraphs.append(txt)
+                content = "\n\n".join(paragraphs)
+        
+        # 3. 最后的保底方案：抓取所有较长的段落
+        if not content:
+            all_p = soup.find_all(['p', 'P'])
+            content = "\n\n".join([p.get_text(strip=True) for p in all_p if len(p.get_text()) > 50 and "Tweet" not in p.get_text()])
+
         return {'id': atel_id, 'title': title, 'date': date_str, 'content': content, 'link': url}
     except Exception as e:
         print(f"[Error] 抓取 ATel {atel_id} 失败: {e}")
@@ -225,14 +249,17 @@ def ai_summarize_atel(atel):
 # ================= 存储与索引 =================
 def get_iso_week(date_str: str):
     try:
-        # 预处理日期字符串：12 March 2026 -> 12 Mar 2026
-        parts = date_str.split(';')[0].replace(' UT', '').strip().split()
-        if len(parts) >= 2:
-            parts[1] = parts[1][:3] # 截断月份为 3 位
-        clean_date = " ".join(parts)
+        # 预处理日期字符串，提取 日、月、年
+        # 示例: "12 Mar 2026 UT" 或 "12 March 2026"
+        m = re.search(r'(\d{1,2})\s+([A-Za-z]+)\s+(\d{4})', date_str)
+        if not m: return f"{datetime.datetime.now().isocalendar()[0]}-W{datetime.datetime.now().isocalendar()[1]:02d}"
+        
+        day, mon, year = m.group(1), m.group(2)[:3].capitalize(), m.group(3)
+        clean_date = f"{day} {mon} {year}"
         dt = datetime.datetime.strptime(clean_date, '%d %b %Y')
         return f"{dt.isocalendar()[0]}-W{dt.isocalendar()[1]:02d}"
-    except:
+    except Exception as e:
+        print(f"  [Warning] 日期解析失败 '{date_str}': {e}")
         return f"{datetime.datetime.now().isocalendar()[0]}-W{datetime.datetime.now().isocalendar()[1]:02d}"
 
 def update_weekly_atel(new_items):
@@ -303,9 +330,10 @@ def update_indexes(arxiv_files_updated=True):
             # 性能优化：仅读取文件头部 1KB 即可获取元数据
             with open(os.path.join(s_dir, sf), 'r', encoding='utf-8') as f:
                 c = f.read(1024)
-            m_cat = re.search(r'- \*\*类别\*\*: (.*)', c)
+            # 兼容性正则：支持不同语言和格式
+            m_cat = re.search(r'-\s*\*\*[^:*]+\*\*[:\s]+(.*)', c) 
             m_id = re.search(r'### ATel (\d+):', c)
-            m_dt = re.search(r'- \*\*日期\*\*: (\d{1,2}\s+[A-Za-z]+\s+\d{4})', c)
+            m_dt = re.search(r'-\s*\*\*[^:*]+\*\*[:\s]+(\d{1,2}\s+[A-Za-z]+\s+\d{4})', c)
             dt_str = m_dt.group(1).strip() if m_dt else "01 Jan 1970"
             try: parsed_dt = datetime.datetime.strptime(dt_str, "%d %b %Y")
             except: parsed_dt = datetime.datetime(1970, 1, 1)
@@ -355,14 +383,24 @@ def main():
         new_atels = []
         last_success_id = state['last_id']
         for aid in range(state['last_id'] + 1, max_rss_id + 1):
-            detail = fetch_atel_detail(aid)
+            detail = None
+            for retry in range(2): # 允许重试一次
+                detail = fetch_atel_detail(aid)
+                if detail: break
+                time.sleep(5)
+            
             if not detail: 
-                print(f"[Warning] 无法抓取 ATel {aid}，停止同步以防跳过。")
-                break
+                print(f"[Warning] 无法抓取 ATel {aid}，跳过此 ID。")
+                last_success_id = aid # 跳过并标记为已处理
+                continue
+
             print(f"  -> 分析 ATel {aid}: {detail['title'][:40]}...")
             ans = ai_summarize_atel(detail)
             if ans: 
                 new_atels.append({'obj': detail, 'analysis': ans})
+                last_success_id = aid
+            else:
+                # 如果 AI 解析失败但抓取成功，也视为处理过（可能是内容不符合 Schema）
                 last_success_id = aid
             
         if new_atels:
