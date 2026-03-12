@@ -1,37 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17650 之后
-## 最新天文简报 (ATel)
-
-### [1] | ATel 17719: [December 2025 Gemini spectroscopic and photometric constraints on the activity and gas contents of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17719)
-- **日期**: 12 Mar 2026 UT | **源**: `3I/ATLAS`
-
-**爆发速递**: Gemini望远镜于2025年12月对星际天体3I/ATLAS进行了光谱和测光观测，旨在约束其活动性及气体含量。**观测短评**: 该目标为星际天体，不属于课题组核心关注的黑洞双星、活动星系核或TDE等致密天体吸积物理领域。虽然其光学亮度可能在1m望远镜观测范围内，但科学目标不匹配，无须申请后续观测。
-
----
-
-### [7] | ATel 17718: [Another Fast NIR flare of the FSRQ GB6 J0742+5444](https://www.astronomerstelegram.org/?read=17718)
-- **日期**: 11 Mar 2026 UT | **源**: `GB6 J0742+5444`
-
-**爆发速递**: 观测到平谱射电类星体 (FSRQ) GB6 J0742+5444 再次发生快速近红外 (NIR) 剧烈爆发。此类源的快速变率通常与相对论性喷流中的物理过程密切相关。**观测短评**: 该源位于北天 (Dec +54)，非常适合北纬40度的1m望远镜进行光学后随监测。鉴于其展现出的快速变率，建议开展多波段时变分析，并可考虑申请 Swift 或 XMM-Newton 进行 X 射线同步观测以研究喷流辐射机制。
-
----
-
-### [2] | ATel 17717: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=17717)
-- **日期**: 11 Mar 2026 UT | **源**: `Unknown`
-
-
-[查看本周完整 ATel](./atels/2026-W11.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-11
 
 *Tags: #arXiv #Astrophysics*
 
@@ -265,5 +232,3 @@
   - *该论文开发了用于模拟大气中碳-14产生与传输的动力学模型，旨在分析历史上的极端太阳粒子事件。*
 - **[0]** [A Modified Conveyor Belt Model: Implications for Surface Density Thresholds for Massive Star Formation](http://arxiv.org/abs/2603.09873v1)
   - *本文通过改进传送带模型研究分子云团中大质量恒星形成的表面密度阈值及其演化特征。*
-
-[查看历史目录](./posts/index.md)

@@ -33,6 +33,7 @@
 - [M31N_2025-12f](./sources/M31N_2025-12f.md) | *最新动态: ATel 17683 (16 Feb 2026)*
 
 ### AGN
+- [GB6_J0742+5444](./sources/GB6_J0742+5444.md) | *最新动态: ATel 17718 (11 Mar 2026)*
 - [S5_1044+71](./sources/S5_1044+71.md) | *最新动态: ATel 17715 (9 Mar 2026)*
 - [3C_279](./sources/3C_279.md) | *最新动态: ATel 17713 (6 Mar 2026)*
 - [Fermi_J1820-1648](./sources/Fermi_J1820-1648.md) | *最新动态: ATel 17707 (3 Mar 2026)*
@@ -58,13 +59,13 @@
 - [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17709 (5 Mar 2026)*
 
 ### Other
+- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17719 (12 Mar 2026)*
 - [V838_Mon](./sources/V838_Mon.md) | *最新动态: ATel 17702 (27 Feb 2026)*
 - [1BMW_045320.6+025843](./sources/1BMW_045320.6+025843.md) | *最新动态: ATel 17695 (23 Feb 2026)*
 - [M81N_2026-02a](./sources/M81N_2026-02a.md) | *最新动态: ATel 17694 (23 Feb 2026)*
 - [Quadrantids](./sources/Quadrantids.md) | *最新动态: ATel 17676 (12 Feb 2026)*
 - [8P_Tuttle](./sources/8P_Tuttle.md) | *最新动态: ATel 17675 (12 Feb 2026)*
 - [AT2026cex](./sources/AT2026cex.md) | *最新动态: ATel 17677 (12 Feb 2026)*
-- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17664 (10 Feb 2026)*
 - [Comet_240P](./sources/Comet_240P.md) | *最新动态: ATel 17665 (10 Feb 2026)*
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17658 (9 Feb 2026)*
 - [AT2024wpp](./sources/AT2024wpp.md) | *最新动态: ATel 17651 (7 Feb 2026)*
