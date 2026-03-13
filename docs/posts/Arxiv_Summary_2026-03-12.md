@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17721: [Independent Discovery of a Probable Nova in M31, AT 2026fkb](https://www.astronomerstelegram.org/?read=17721)
-- **日期**: 12 Mar 2026 UT | **源**: `AT 2026fkb`
-
-**爆发速递**: Ondrejov 0.65m 望远镜在仙女座星系 (M31) 中心区域发现了一颗可能的新星，命名为 AT 2026fkb (M31N 2026-03a)，其 R 波段星等约为 16.9 等。**观测短评**: 该目标位于 M31，属于河外新星。虽然其亮度处于我方 1m 望远镜的测光能力范围内，但由于该类目标不属于黑洞或中子星吸积物理的核心研究范畴，且缺乏高能对应体，因此光学后随观测的优先级较低，暂无必要申请额外资源进行跟进。
-
----
-
-### [8] | ATel 17720: [Aql X-1 at stage of fading after current flare](https://www.astronomerstelegram.org/?read=17720)
-- **日期**: 12 Mar 2026 UT | **源**: `Aql X-1`
-
-**爆发速递**: SAO RAS利用1米和0.5米光学望远镜监测发现，软X射线暂现源Aql X-1在经历3月份的爆发峰值后，目前已进入衰减阶段，R波段亮度在12月下旬降至18.2-18.3等。**观测短评**: 该源为经典的低质量X射线双星，目前处于衰减期，光学亮度已接近我方1米望远镜的观测极限（16等），常规测光难度较大。鉴于其处于衰减阶段，建议优先关注X射线及射电波段的后续监测数据，以研究吸积盘演化，暂无需动用我方光学设备进行跟进。
-
----
-
-### [0] | ATel 17719: [December 2025 Gemini spectroscopic and photometric constraints on the activity and gas contents of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17719)
-
-[查看本周完整 ATel](./atels/2026-W11.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-12
 
 *Tags: #arXiv #Astrophysics*
 
@@ -251,5 +220,3 @@ AI识别天体: [活动星系核 (AGN), 星系团]
   - *本文通过长期光谱偏振监测确定了造父变星北极星的自转周期及磁场特性，并探讨了其自转与轨道轴的倾角偏差。*
 - **[0]** [Strong Prevalence of Hammerhead Velocity Distributions Close to the Heliospheric Current Sheet](http://arxiv.org/abs/2603.11329v1)
   - *本文利用帕克太阳探测器数据研究了太阳风中“锤头状”质子速度分布与日球层电流片的相关性。*
-
-[查看历史目录](./posts/index.md)
