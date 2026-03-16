@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17723: [Detection of a PRS at 650 MHz associated with repeating FRB 20251229A using the uGMRT](https://www.astronomerstelegram.org/?read=17723)
-- **日期**: 15 Mar 2026 UT | **源**: `FRB 20251229A`
-
-**爆发速递**: 研究团队利用uGMRT在650 MHz频段探测到了重复快速射电暴FRB 20251229A的持续射电辐射(PRS)，通量约为64 uJy，并将其定位至宿主星系SDSS J204123.23+160126.54。**观测短评**: 该目标属于快速射电暴领域，虽然其宿主星系具有光学对应体，但由于FRB本身在光学波段缺乏显著的瞬变特征，且该源距离较远，不属于课题组1米望远镜的常规跟进范畴。目前无需申请额外光学观测，建议持续关注射电波段的后续研究进展。
-
----
-
-### [4] | ATel 17722: [NuSTAR confirms ongoing X-ray outburst from Be/X-ray binary pulsar GS 1843+00](https://www.astronomerstelegram.org/?read=17722)
-- **日期**: 13 Mar 2026 UT | **源**: `GS 1843+00`
-
-**爆发速递**: Be/X射线双星脉冲星GS 1843+00在经历了长达16年的沉寂后，于2026年2月再次进入爆发活跃期。NuSTAR观测确认了该源的X射线辐射，测得自转周期约为29.83秒，并揭示了复杂的脉冲轮廓及能谱特征，当前光度约为7×10^37 erg/s。**观测短评**: 该源为Be/X射线双星，属于中子星吸积系统，虽非课题组核心研究的黑洞双星，但其吸积物理具有参考价值。由于该源主要表现为硬X射线辐射，且光学对应体通常较暗，我方1米望远镜跟进价值有限，建议重点关注空间X射线波段的后续时变分析结果。
-
----
-
-### [2] | ATel 17721: [Independent Discovery of a Probable Nova in M31, AT 2026fkb](https://www.astronomerstelegram.org/?read=17721)
-
-[查看本周完整 ATel](./atels/2026-W11.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-15
 
 *Tags: #arXiv #Astrophysics*
 
@@ -148,5 +117,3 @@
   - *本文利用Hinode卫星数据研究太阳极区磁通量反演方法，探讨了不同大气模型对磁场测量结果的影响。*
 - **[0]** [Dark Matter, Baryon Number, and Cosmic-Ray Antinuclei](http://arxiv.org/abs/2603.12314v1)
   - *本文提出了一种暗物质湮灭产生重子数与轻子数粒子的模型，旨在解释AMS观测到的反氘核与反氦核信号。*
-
-[查看历史目录](./posts/index.md)

@@ -36,8 +36,8 @@
 - [SN2026ejy](./sources/SN2026ejy.md) | *最新动态: ATel 17708 (5 Mar 2026)*
 
 ### FRB
+- [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17723 (15 Mar 2026)*
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
-- [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17709 (5 Mar 2026)*
 
 ### Other
 - [AT_2026fkb](./sources/AT_2026fkb.md) | *最新动态: ATel 17721 (12 Mar 2026)*
