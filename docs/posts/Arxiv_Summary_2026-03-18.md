@@ -1,27 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 17724: [MAXI/GSC observes GS 1354-64 entering the soft state](https://www.astronomerstelegram.org/?read=17724)
-- **日期**: 16 Mar 2026 UT | **源**: `GS 1354-64`
-
-**爆发速递**: MAXI/GSC监测显示黑洞X射线双星GS 1354-64在经历硬态到软态的转变后，目前已正式进入软态。观测表明该源在2月16日出现次峰后通量逐渐下降，且硬X射线能段光子计数显著减少，能谱呈现明显的软化特征。**观测短评**: 该源作为经典的黑洞X射线双星，处于软态期间是研究吸积盘物理的绝佳窗口。虽然目前处于软态，但仍建议进行多波段联合监测以捕捉状态演化细节。考虑到该源的亮度变化，可利用LCO或ESO等设备进行光学后随观测，若有必要，可申请Swift或XMM-Newton进行进一步的X射线能谱分析。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W12.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-18
 
 *Tags: #arXiv #Astrophysics*
 
@@ -198,5 +175,3 @@
   - *本文通过分析109个Ia型超新星的光变曲线，探讨了不同光谱亚型在演化过程中的差异及其物理起源。*
 - **[1]** [Signatures of Reconnection and a Split Heliospheric Tail in High-Energy Energetic Neutral Atoms](http://arxiv.org/abs/2603.13088v2)
   - *该论文利用MHD模拟研究日球层尾部结构，提出磁重联机制解释卡西尼号观测到的高能中性原子带，属于太阳物理与日球层物理领域。*
-
-[查看历史目录](./posts/index.md)
