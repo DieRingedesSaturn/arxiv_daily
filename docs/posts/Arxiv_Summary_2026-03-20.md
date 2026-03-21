@@ -1,34 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 17725: [AX Per returning to lower state after outburst](https://www.astronomerstelegram.org/?read=17725)
-- **日期**: 19 Mar 2026 UT | **源**: `AX Per`
-
-**爆发速递**: AO Shumen利用60cm望远镜对共生变星AX Per进行了多波段光度监测。观测显示，继1月中旬爆发后，该源在3月9日至17日期间亮度持续下降，目前正回归至爆发前状态，且短波段（B和V波段）的亮度变化更为显著。**观测短评**: 该源属于共生变星，虽处于我们关注的暂现源范畴，但目前正处于爆发后的衰减期，且亮度处于常规监测范围。考虑到其已回归至基准状态，无需动用我方1m望远镜进行额外跟进，暂无申请大型设备观测的必要。
-
----
-
-### [10] | ATel 17724: [MAXI/GSC observes GS 1354-64 entering the soft state](https://www.astronomerstelegram.org/?read=17724)
-- **日期**: 16 Mar 2026 UT | **源**: `GS 1354-64`
-
-**爆发速递**: MAXI/GSC监测显示黑洞X射线双星GS 1354-64在经历硬态到软态的转变后，目前已正式进入软态。观测表明该源在2月16日出现次峰后通量逐渐下降，且硬X射线能段光子计数显著减少，能谱呈现明显的软化特征。**观测短评**: 该源作为经典的黑洞X射线双星，处于软态期间是研究吸积盘物理的绝佳窗口。虽然目前处于软态，但仍建议进行多波段联合监测以捕捉状态演化细节。考虑到该源的亮度变化，可利用LCO或ESO等设备进行光学后随观测，若有必要，可申请Swift或XMM-Newton进行进一步的X射线能谱分析。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W12.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-20
 
 *Tags: #arXiv #Astrophysics*
 
@@ -61,5 +31,3 @@
   - *本文利用GWTC-4.0引力波数据对广义相对论在强引力场下的有效性进行了检验，结果显示观测数据与广义相对论预测高度一致。*
 - **[1]** [Non-Markovian Cosmic-Ray Pitch-Angle Transport from Mirror Interactions](http://arxiv.org/abs/2603.19037v1)
   - *本文研究了磁流体湍流中宇宙线投射角的非马尔可夫输运过程，重点分析了磁镜效应与回旋共振散射的相互作用。*
-
-[查看历史目录](./posts/index.md)
