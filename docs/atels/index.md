@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W13](2026-W13.md)
 - [2026-W12](2026-W12.md)
 - [2026-W11](2026-W11.md)
 - [2026-W10](2026-W10.md)
@@ -44,8 +45,8 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17726 (23 Mar 2026)*
 - [AT_2026fkb](./sources/AT_2026fkb.md) | *最新动态: ATel 17721 (12 Mar 2026)*
-- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17719 (12 Mar 2026)*
 - [Fermi_J1820-1648](./sources/Fermi_J1820-1648.md) | *最新动态: ATel 17707 (3 Mar 2026)*
 - [AT_2026epw](./sources/AT_2026epw.md) | *最新动态: ATel 17703 (27 Feb 2026)*
 - [V838_Mon](./sources/V838_Mon.md) | *最新动态: ATel 17702 (27 Feb 2026)*

@@ -1,27 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17726: [Detection of H2O in the coma of interstellar comet 3I/ATLAS with MAJIS/JUICE](https://www.astronomerstelegram.org/?read=17726)
-- **日期**: 23 Mar 2026 UT | **源**: `3I/ATLAS`
-
-**爆发速递**: JUICE探测器上的MAJIS光谱仪在星际彗星3I/ATLAS的彗发中探测到了2.7微米的水分子发射带，并计算了其产水率。**观测短评**: 该目标为太阳系外星际彗星，属于行星科学范畴，与本课题组关注的黑洞吸积、AGN及高能暂现源研究方向无关，且该目标亮度及观测性质不适合本组1米光学望远镜跟进，无需申请后续观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W13.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-24
 
 *Tags: #arXiv #Astrophysics*
 
@@ -289,5 +266,3 @@
   - *本文研究了利用Hβ谱线反演太阳色球层磁场的方法，属于太阳物理领域，与黑洞吸积及暂现源研究无关。*
 - **[0]** [Q/W-band Observations toward Starless Cores in Orion (QWOSCO) I. Overview, Isotopologues, Isomers, and Complex Organics](http://arxiv.org/abs/2603.21212v1)
   - *该论文利用Yebes 40米望远镜对猎户座无星核进行了Q/W波段分子谱线巡天，研究其化学组成与演化。*
-
-[查看历史目录](./posts/index.md)
