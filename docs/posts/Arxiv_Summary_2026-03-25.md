@@ -1,27 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17726: [Detection of H2O in the coma of interstellar comet 3I/ATLAS with MAJIS/JUICE](https://www.astronomerstelegram.org/?read=17726)
-- **日期**: 23 Mar 2026 UT | **源**: `3I/ATLAS`
-
-**爆发速递**: JUICE探测器上的MAJIS光谱仪在星际彗星3I/ATLAS的彗发中探测到了2.7微米的水分子发射带，并计算了其产水率。**观测短评**: 该目标为太阳系外星际彗星，属于行星科学范畴，与本课题组关注的黑洞吸积、AGN及高能暂现源研究方向无关，且该目标亮度及观测性质不适合本组1米光学望远镜跟进，无需申请后续观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W13.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-25
 
 *Tags: #arXiv #Astrophysics*
 
@@ -150,5 +127,3 @@
   - *本文通过分析疏散星团M67中类太阳恒星的主序带宽度，推导出类太阳恒星长期光度变化的上限。*
 - **[0]** [Magnetic flux systems involved in the May 2024 solar energetic events from AR 13664 inferred through coronal dimmings](http://arxiv.org/abs/2603.23623v1)
   - *本文分析了2024年5月太阳活动区AR 13664产生的日冕暗化现象及其与耀斑重联和日冕物质抛射的磁场演化关系。*
-
-[查看历史目录](./posts/index.md)
