@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17728: [EP260324a: Einstein Probe detection of an X-ray transient](https://www.astronomerstelegram.org/?read=17728)
-- **日期**: 26 Mar 2026 UT | **源**: `EP260324a`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的宽视场X射线望远镜(WXT)探测到一个新的X射线暂现源EP260324a，后续FXT观测将其精确定位并发现其与星系SDSS J084412.34+820110.9高度重合，推测其X射线光度高达10^44 erg/s量级。**观测短评**: 该源极有可能是AGN的耀发活动，具有较高的多波段研究价值。鉴于其位于高赤纬区域，且亮度处于可观测范围，建议利用现有设备进行光学测光监测以确认其光变特征，并结合EP后续数据进行多波段联合分析。
-
----
-
-### [10] | ATel 17727: [Einstein Probe detection of a new outburst from XTE 1739-285](https://www.astronomerstelegram.org/?read=17727)
-- **日期**: 26 Mar 2026 UT | **源**: `XTE J1739-285`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的宽视场X射线望远镜(WXT)于2026年3月15日探测到黑洞X射线双星XTE J1739-285的新一轮爆发。该源目前处于增亮阶段，最新能谱可用幂律模型拟合，光子指数为2.7，0.5-4 keV能段通量持续上升。**观测短评**: 该源为经典的黑洞X射线双星，具有极高的多波段研究价值。鉴于其目前处于爆发上升期，建议利用课题组可申请的Swift或LCO进行高频监测，以捕捉能谱演化特征。若后续光学亮度进入16等以内，可利用我方1m望远镜进行光谱监测，建议密切关注后续X射线监测数据。
-
----
-
-### [0] | ATel 17726: [Detection of H2O in the coma of interstellar comet 3I/ATLAS with MAJIS/JUICE](https://www.astronomerstelegram.org/?read=17726)
-
-[查看本周完整 ATel](./atels/2026-W13.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-26
 
 *Tags: #arXiv #Astrophysics*
 
@@ -192,5 +161,3 @@
   - *该论文研究了太阳耀斑期间日冕物质抛射在全日面极紫外观测中的微分发射度（DEM）特征。*
 - **[0]** [The Coldest Known Y Dwarfs: Estimates of their Effective Temperatures](http://arxiv.org/abs/2603.24740v1)
   - *本文研究了Y型矮星的有效温度及其与红外颜色的关系，并分析了部分Y型矮星的物理性质与双星特征。*
-
-[查看历史目录](./posts/index.md)

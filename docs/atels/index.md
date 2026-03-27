@@ -12,6 +12,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
+- [XTE_J1739-285](./sources/XTE_J1739-285.md) | *最新动态: ATel 17727 (26 Mar 2026)*
 - [GS_1354-64](./sources/GS_1354-64.md) | *最新动态: ATel 17724 (16 Mar 2026)*
 - [AT2019wey](./sources/AT2019wey.md) | *最新动态: ATel 17686 (17 Feb 2026)*
 
@@ -28,6 +29,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [EP260324a](./sources/EP260324a.md) | *最新动态: ATel 17728 (26 Mar 2026)*
 - [GB6_J0742+5444](./sources/GB6_J0742+5444.md) | *最新动态: ATel 17718 (11 Mar 2026)*
 - [S5_1044+71](./sources/S5_1044+71.md) | *最新动态: ATel 17715 (9 Mar 2026)*
 - [3C_279](./sources/3C_279.md) | *最新动态: ATel 17713 (6 Mar 2026)*
