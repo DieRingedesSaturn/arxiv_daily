@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17729: [A fast NIR flare and Historical NIR light maximum of the FSRQ PKS0748+126](https://www.astronomerstelegram.org/?read=17729)
-- **日期**: 27 Mar 2026 UT | **源**: `PKS0748+126`
-
-**爆发速递**: 研究人员利用墨西哥INAOE的2.1米望远镜观测到平谱射电类星体PKS0748+126发生历史性近红外耀发。该源在19天内亮度翻倍，H波段亮度较8年前增加了40倍以上，目前处于近16年来的最高亮度水平。**观测短评**: 该源为典型的AGN耀发，具有极高的多波段联合观测价值。虽然其亮度（J=12.6等）处于我们1米望远镜的观测能力范围内，但由于该源主要表现为近红外耀发，建议优先利用Swift或EP进行X射线监测，并协调射电望远镜跟进，以研究其吸积与喷流物理。
-
----
-
-### [8] | ATel 17728: [EP260324a: Einstein Probe detection of an X-ray transient](https://www.astronomerstelegram.org/?read=17728)
-- **日期**: 26 Mar 2026 UT | **源**: `EP260324a`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的宽视场X射线望远镜(WXT)探测到一个新的X射线暂现源EP260324a，后续FXT观测将其精确定位并发现其与星系SDSS J084412.34+820110.9高度重合，推测其X射线光度高达10^44 erg/s量级。**观测短评**: 该源极有可能是AGN的耀发活动，具有较高的多波段研究价值。鉴于其位于高赤纬区域，且亮度处于可观测范围，建议利用现有设备进行光学测光监测以确认其光变特征，并结合EP后续数据进行多波段联合分析。
-
----
-
-### [10] | ATel 17727: [Einstein Probe detection of a new outburst from XTE 1739-285](https://www.astronomerstelegram.org/?read=17727)
-
-[查看本周完整 ATel](./atels/2026-W13.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-27
 
 *Tags: #arXiv #Astrophysics*
 
@@ -63,5 +32,3 @@
 
 ## 其他相关 (0篇)
 
-
-[查看历史目录](./posts/index.md)
