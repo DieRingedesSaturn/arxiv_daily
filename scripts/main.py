@@ -84,11 +84,31 @@ def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 200) -> lis
     print(f"[System] 正在检索最新的 {max_results} 篇 arXiv 论文...")
     query = ' OR '.join([f'cat:{c}' for c in ARXIV_CATEGORIES])
     search = arxiv.Search(query=query, max_results=max_results, sort_by=arxiv.SortCriterion.SubmittedDate)
-    client_arxiv = arxiv.Client(page_size=100, delay_seconds=3, num_retries=3)
     
-    new_papers = [res for res in client_arxiv.results(search) if res.entry_id.replace("http://", "https://") not in processed_ids]
-    print(f"[System] 过滤后发现 {len(new_papers)} 篇未处理的新论文。")
-    return new_papers
+    # 增加重试次数和延迟时间
+    client_arxiv = arxiv.Client(page_size=100, delay_seconds=10, num_retries=10)
+    
+    max_outer_retries = 3
+    for attempt in range(max_outer_retries):
+        try:
+            new_papers = [res for res in client_arxiv.results(search) if res.entry_id.replace("http://", "https://") not in processed_ids]
+            print(f"[System] 过滤后发现 {len(new_papers)} 篇未处理的新论文。")
+            return new_papers
+        except Exception as e:
+            # 捕获所有异常，但特别记录 HTTPError 或 UnexpectedEmptyPageError
+            is_arxiv_error = "arxiv" in str(type(e)).lower()
+            if is_arxiv_error:
+                if attempt < max_outer_retries - 1:
+                    wait_time = (attempt + 1) * 60
+                    print(f"[Warning] arXiv API 请求失败 ({e})。正在进行第 {attempt+1} 次重试，等待 {wait_time} 秒...")
+                    time.sleep(wait_time)
+                else:
+                    print(f"[Error] arXiv API 请求在 {max_outer_retries} 次尝试后仍然失败。")
+                    raise e
+            else:
+                # 非 arXiv 相关的异常直接抛出
+                raise e
+    return []
 
 def keyword_pre_filter(papers: list[arxiv.Result]) -> list[arxiv.Result]:
     candidates = [p for p in papers if any(k.lower() in (p.title + " " + p.summary).lower() for k in KEYWORDS_BROAD)]
