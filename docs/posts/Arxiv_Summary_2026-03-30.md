@@ -1,27 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 17732: [Fermi-LAT detection of a new gamma-ray transient, Fermi J0207.4+6720](https://www.astronomerstelegram.org/?read=17732)
-- **日期**: 30 Mar 2026 UT | **源**: `Fermi J0207.4+6720`
-
-**爆发速递**: Fermi-LAT 探测到一个新的伽马射线暂现源 Fermi J0207.4+6720，该源在2026年2月至3月期间表现出显著的伽马射线辐射，且位置与射电源 GB6 J0207+6719 重合。**观测短评**: 该源极可能为活动星系核（AGN），具有较高的多波段后随观测价值。鉴于其伽马射线活跃，建议利用 Swift 或其他 X 射线设备进行监测，并结合光学望远镜确认其光学对应体及红移，以进一步研究其吸积物理。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W14.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-30
 
 *Tags: #arXiv #Astrophysics*
 
@@ -311,5 +288,3 @@
   - *本文利用GRAPES-3缪子望远镜研究了雷暴期间缪子电荷不对称性及其对雷暴事件方向分布的影响，属于大气物理与宇宙线探测领域。*
 - **[0]** [Dynamical Age of Alfvénic Turbulence in the Solar Wind](http://arxiv.org/abs/2603.25989v1)
   - *本文研究了太阳风中阿尔芬湍流的动力学年龄及其随日心距离的演化规律。*
-
-[查看历史目录](./posts/index.md)
