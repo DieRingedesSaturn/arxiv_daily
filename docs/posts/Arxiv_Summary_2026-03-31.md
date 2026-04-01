@@ -1,34 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17733: [Detection of OH 18 cm lines in 3I/ATLAS with FAST](https://www.astronomerstelegram.org/?read=17733)
-- **日期**: 31 Mar 2026 UT | **源**: `3I/ATLAS`
-
-**爆发速递**: FAST望远镜利用超宽带接收机对第三个进入太阳系的星际天体3I/ATLAS进行了观测，成功探测到OH 18cm谱线的吸收与发射特征，并给出了相应的视向速度与积分强度数据。**观测短评**: 该目标属于太阳系内星际天体研究范畴，与本课题组关注的黑洞吸积、AGN及高能暂现源物理方向无关，且该目标不具备光学后随观测价值，无需申请相关设备进行跟进。
-
----
-
-### [6] | ATel 17732: [Fermi-LAT detection of a new gamma-ray transient, Fermi J0207.4+6720](https://www.astronomerstelegram.org/?read=17732)
-- **日期**: 30 Mar 2026 UT | **源**: `Fermi J0207.4+6720`
-
-**爆发速递**: Fermi-LAT 探测到一个新的伽马射线暂现源 Fermi J0207.4+6720，该源在2026年2月至3月期间表现出显著的伽马射线辐射，且位置与射电源 GB6 J0207+6719 重合。**观测短评**: 该源极可能为活动星系核（AGN），具有较高的多波段后随观测价值。鉴于其伽马射线活跃，建议利用 Swift 或其他 X 射线设备进行监测，并结合光学望远镜确认其光学对应体及红移，以进一步研究其吸积物理。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W14.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-03-31
 
 *Tags: #arXiv #Astrophysics*
 
@@ -245,5 +215,3 @@
   - *本文利用多波段观测研究了宁静太阳网络环中的小尺度极紫外爆发增强现象及其磁重联驱动机制。*
 - **[0]** [Statistics of transition-region loop brightenings and their heating implication](http://arxiv.org/abs/2603.28207v1)
   - *本文利用太阳轨道器和SDO数据统计分析了太阳过渡区环的增亮事件及其加热机制，属于太阳物理研究范畴。*
-
-[查看历史目录](./posts/index.md)

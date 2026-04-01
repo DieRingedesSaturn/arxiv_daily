@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 17733: [Detection of OH 18 cm lines in 3I/ATLAS with FAST](https://www.astronomerstelegram.org/?read=17733)
+- **日期**: 31 Mar 2026 UT
+
+**爆发速递**: FAST望远镜利用超宽带接收机对第三个进入太阳系的星际天体3I/ATLAS进行了观测，成功探测到OH 18cm谱线的吸收与发射特征，并给出了相应的视向速度与积分强度数据。**观测短评**: 该目标属于太阳系内星际天体研究范畴，与本课题组关注的黑洞吸积、AGN及高能暂现源物理方向无关，且该目标不具备光学后随观测价值，无需申请相关设备进行跟进。
+
+---
+
 ### ATel 17726: [Detection of H2O in the coma of interstellar comet 3I/ATLAS with MAJIS/JUICE](https://www.astronomerstelegram.org/?read=17726)
 - **日期**: 23 Mar 2026 UT
 
