@@ -13,6 +13,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
+- [MAXI_J1816-195](./sources/MAXI_J1816-195.md) | *最新动态: ATel 17734 (1 Apr 2026)*
 - [XTE_J1739-285](./sources/XTE_J1739-285.md) | *最新动态: ATel 17727 (26 Mar 2026)*
 - [GS_1354-64](./sources/GS_1354-64.md) | *最新动态: ATel 17724 (16 Mar 2026)*
 - [AT2019wey](./sources/AT2019wey.md) | *最新动态: ATel 17686 (17 Feb 2026)*
@@ -47,10 +48,11 @@
 - [SN2026ejy](./sources/SN2026ejy.md) | *最新动态: ATel 17708 (5 Mar 2026)*
 
 ### FRB
-- [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17723 (15 Mar 2026)*
+- [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17735 (1 Apr 2026)*
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [M81N_2026-04a](./sources/M81N_2026-04a.md) | *最新动态: ATel 17736 (2 Apr 2026)*
 - [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17733 (31 Mar 2026)*
 - [AT_2026fkb](./sources/AT_2026fkb.md) | *最新动态: ATel 17721 (12 Mar 2026)*
 - [Fermi_J1820-1648](./sources/Fermi_J1820-1648.md) | *最新动态: ATel 17707 (3 Mar 2026)*

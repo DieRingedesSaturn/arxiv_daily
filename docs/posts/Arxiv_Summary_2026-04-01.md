@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17736: [Discovery of a Probable Nova in M81, M81N 2026-04a](https://www.astronomerstelegram.org/?read=17736)
-- **日期**: 2 Apr 2026 UT | **源**: `M81N 2026-04a`
-
-**爆发速递**: Ondrejov天文台0.65米望远镜在M81星系中发现了一颗可能的新星M81N 2026-04a，其视星等约为19.4等。**观测短评**: 该目标位于河外星系，亮度较暗（19.4等），已接近我方1米望远镜的测光极限，且光谱观测难度极大。考虑到该目标不属于我方重点研究的BHXRB或AGN领域，且缺乏光学后随观测的显著科学价值，建议不进行跟进观测。
-
----
-
-### [2] | ATel 17735: [VLA non-detection of a compact persistent radio source associated with the repeating FRB 20251229A](https://www.astronomerstelegram.org/?read=17735)
-- **日期**: 1 Apr 2026 UT | **源**: `FRB 20251229A`
-
-**爆发速递**: 研究团队利用VLA射电望远镜对重复快速射电暴FRB 20251229A进行了C波段观测，旨在搜寻其伴随的致密持续射电辐射源(PRS)。观测结果显示在6 GHz处未探测到致密源，3-sigma上限为10 uJy。结合此前uGMRT在低频的探测结果，推测该源具有陡峭的谱指数(alpha<-0.8)。**观测短评**: 该目标属于快速射电暴领域，与课题组关注的黑洞吸积及光学暂现源物理关联较弱。由于该目标主要依赖射电波段的高分辨率观测进行证认，且光学亮度极低，不具备光学后随观测价值，无需申请相关设备跟进。
-
----
-
-### [9] | ATel 17734: [Einstein Probe detection of the onset of a new X-ray outburst of MAXI J1816-195](https://www.astronomerstelegram.org/?read=17734)
-
-[查看本周完整 ATel](./atels/2026-W14.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-01
 
 *Tags: #arXiv #Astrophysics*
 
@@ -153,5 +122,3 @@
   - *该论文通过统计分析验证了POSS-I底片上瞬变源与核试验的时间相关性及地球阴影区缺失现象，属于历史底片数据挖掘与统计学研究，与黑洞吸积及暂现源物理无关。*
 - **[0]** [Analytical Scaling of Relativistic Drag in the Interstellar Medium](http://arxiv.org/abs/2604.00041v1)
   - *本文研究了宏观球形探测器在星际介质中以相对论速度飞行时受到的阻力与热负载效应，属于航天工程与星际物理范畴。*
-
-[查看历史目录](./posts/index.md)
