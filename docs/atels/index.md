@@ -45,6 +45,7 @@
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 17681 (14 Feb 2026)*
 
 ### SN
+- [AT2026fhw](./sources/AT2026fhw.md) | *最新动态: ATel 17737 (2 Apr 2026)*
 - [SN2026ejy](./sources/SN2026ejy.md) | *最新动态: ATel 17708 (5 Mar 2026)*
 
 ### FRB

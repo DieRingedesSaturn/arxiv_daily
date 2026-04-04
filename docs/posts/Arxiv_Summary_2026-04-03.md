@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17737: [Spectroscopic classification of the bright and nearby AT2026fhw with MDM/OSMOS](https://www.astronomerstelegram.org/?read=17737)
-- **日期**: 2 Apr 2026 UT | **源**: `AT2026fhw`
-
-**爆发速递**: 研究人员利用MDM 2.4m望远镜对ATLAS巡天发现的暂现源AT2026fhw进行了光谱观测。光谱分析显示其具有Si II、S II和Fe II的宽吸收特征，速度约为11,000 km/s，确认为红移z=0.019处的Ia型超新星，处于峰值亮度前几天。**观测短评**: 该目标为Ia型超新星，属于常规超新星研究范畴，与本组黑洞/AGN吸积物理的研究兴趣相关性较低。鉴于其亮度及演化阶段，虽具备光学观测价值，但无需动用本组望远镜资源进行后续跟进。
-
----
-
-### [2] | ATel 17736: [Discovery of a Probable Nova in M81, M81N 2026-04a](https://www.astronomerstelegram.org/?read=17736)
-- **日期**: 2 Apr 2026 UT | **源**: `M81N 2026-04a`
-
-**爆发速递**: Ondrejov天文台0.65米望远镜在M81星系中发现了一颗可能的新星M81N 2026-04a，其视星等约为19.4等。**观测短评**: 该目标位于河外星系，亮度较暗（19.4等），已接近我方1米望远镜的测光极限，且光谱观测难度极大。考虑到该目标不属于我方重点研究的BHXRB或AGN领域，且缺乏光学后随观测的显著科学价值，建议不进行跟进观测。
-
----
-
-### [2] | ATel 17735: [VLA non-detection of a compact persistent radio source associated with the repeating FRB 20251229A](https://www.astronomerstelegram.org/?read=17735)
-
-[查看本周完整 ATel](./atels/2026-W14.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-03
 
 *Tags: #arXiv #Astrophysics*
 
@@ -150,5 +119,3 @@
   - *本文研究了第25太阳活动周期间地磁暴对土耳其上空电离层电子密度的影响，属于空间天气与地球物理研究范畴。*
 - **[0]** [Addressing the open flux problem with a non-spherical solar coronal magnetic field model](http://arxiv.org/abs/2604.01028v1)
   - *本文提出了一种非球形源面模型（NSPF）来解决太阳日冕磁场外推中的开放磁通量缺失问题。*
-
-[查看历史目录](./posts/index.md)
