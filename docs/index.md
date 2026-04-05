@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [8] | ATel 17739: [An exceptional optical flare of the FSRQ OI 280 (PKS 0748+126)](https://www.astronomerstelegram.org/?read=17739)
+- **日期**: 4 Apr 2026 UT | **源**: `OI 280`
+
+**爆发速递**: 研究人员利用Siena和Montarrenti天文台的望远镜，观测到平谱射电类星体(FSRQ) OI 280发生了异常光学爆发，R波段亮度达到14.19等，此前Fermi-LAT已监测到其伽马射线爆发。**观测短评**: 该源属于AGN，符合课题组研究兴趣。其光学亮度(14.19等)远高于我方1m望远镜16等的光谱极限，具备极佳的后随观测条件。建议利用我方设备进行高频测光监测，并结合Swift或XMM-Newton申请X射线观测，以研究其多波段吸积与喷流物理特性。
+
+---
+
+### [8] | ATel 17738: [Important brightening and a historical NIR maximum light of the Blazar 3C345](https://www.astronomerstelegram.org/?read=17738)
+- **日期**: 4 Apr 2026 UT | **源**: `3C345`
+
+**爆发速递**: 研究团队利用墨西哥INAOE的2.1米望远镜及CANICA近红外相机，监测到活动星系核3C345（1ES1641+399）在2026年3月27日达到近17年来的近红外历史最高亮度，H波段亮度较此前监测到的最低值增长了超过10倍。**观测短评**: 该源为高红移耀变体，处于历史高亮状态，具有极高的多波段联合观测价值。虽然其亮度处于我们的光学望远镜观测极限内（J=13.46等），但由于该源主要在近红外波段表现活跃，建议优先协调Swift或EP等空间设备进行X射线监测，并利用大口径光学望远镜进行光谱跟踪，以研究其吸积与喷流物理机制。
+
+---
+
 ### [2] | ATel 17737: [Spectroscopic classification of the bright and nearby AT2026fhw with MDM/OSMOS](https://www.astronomerstelegram.org/?read=17737)
-- **日期**: 2 Apr 2026 UT | **源**: `AT2026fhw`
-
-**爆发速递**: 研究人员利用MDM 2.4m望远镜对ATLAS巡天发现的暂现源AT2026fhw进行了光谱观测。光谱分析显示其具有Si II、S II和Fe II的宽吸收特征，速度约为11,000 km/s，确认为红移z=0.019处的Ia型超新星，处于峰值亮度前几天。**观测短评**: 该目标为Ia型超新星，属于常规超新星研究范畴，与本组黑洞/AGN吸积物理的研究兴趣相关性较低。鉴于其亮度及演化阶段，虽具备光学观测价值，但无需动用本组望远镜资源进行后续跟进。
-
----
-
-### [2] | ATel 17736: [Discovery of a Probable Nova in M81, M81N 2026-04a](https://www.astronomerstelegram.org/?read=17736)
-- **日期**: 2 Apr 2026 UT | **源**: `M81N 2026-04a`
-
-**爆发速递**: Ondrejov天文台0.65米望远镜在M81星系中发现了一颗可能的新星M81N 2026-04a，其视星等约为19.4等。**观测短评**: 该目标位于河外星系，亮度较暗（19.4等），已接近我方1米望远镜的测光极限，且光谱观测难度极大。考虑到该目标不属于我方重点研究的BHXRB或AGN领域，且缺乏光学后随观测的显著科学价值，建议不进行跟进观测。
-
----
-
-### [2] | ATel 17735: [VLA non-detection of a compact persistent radio source associated with the repeating FRB 20251229A](https://www.astronomerstelegram.org/?read=17735)
 
 [查看本周完整 ATel](./atels/2026-W14.md)
 
