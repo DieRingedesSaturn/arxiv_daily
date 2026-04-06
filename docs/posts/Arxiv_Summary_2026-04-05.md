@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17740: [Fermi-LAT detection of enhanced gamma-ray activity from the FSRQ PKS 1958-179.](https://www.astronomerstelegram.org/?read=17740)
-- **日期**: 5 Apr 2026 UT | **源**: `PKS 1958-179`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 (FSRQ) PKS 1958-179 出现显著的伽马射线增强活动。2026年4月3日，其日均通量较 4FGL-DR4 平均水平提升了约 20 倍，达到历史最高水平，且能谱变硬。**观测短评**: 该源为典型的 AGN 活动，具有重要的多波段观测价值。虽然该源位于南天区，可能受限于我方 1m 望远镜的地理位置，但鉴于其处于历史高能爆发态，建议利用 Swift 或其他空间设备进行 X 射线及紫外波段的同步监测，以研究其吸积盘与喷流的响应关系。
-
----
-
-### [8] | ATel 17739: [An exceptional optical flare of the FSRQ OI 280 (PKS 0748+126)](https://www.astronomerstelegram.org/?read=17739)
-- **日期**: 4 Apr 2026 UT | **源**: `OI 280`
-
-**爆发速递**: 研究人员利用Siena和Montarrenti天文台的望远镜，观测到平谱射电类星体(FSRQ) OI 280发生了异常光学爆发，R波段亮度达到14.19等，此前Fermi-LAT已监测到其伽马射线爆发。**观测短评**: 该源属于AGN，符合课题组研究兴趣。其光学亮度(14.19等)远高于我方1m望远镜16等的光谱极限，具备极佳的后随观测条件。建议利用我方设备进行高频测光监测，并结合Swift或XMM-Newton申请X射线观测，以研究其多波段吸积与喷流物理特性。
-
----
-
-### [8] | ATel 17738: [Important brightening and a historical NIR maximum light of the Blazar 3C345](https://www.astronomerstelegram.org/?read=17738)
-
-[查看本周完整 ATel](./atels/2026-W14.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-05
 
 *Tags: #arXiv #Astrophysics*
 
@@ -83,5 +52,3 @@
   - *本文提出了一种基于物理先验的深度学习框架PhDLspec，用于从低分辨率光谱中高效提取恒星参数及元素丰度。*
 - **[1]** [Pulsar scintillation studies with LOFAR III. Annual variations in PSR~J0814$+$7429](http://arxiv.org/abs/2604.02681v1)
   - *本文利用LOFAR射电望远镜对脉冲星PSR J0814+7429进行了长期闪烁观测，分析了星际介质散射效应及其年度变化。*
-
-[查看历史目录](./posts/index.md)
