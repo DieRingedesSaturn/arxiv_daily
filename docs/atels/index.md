@@ -57,6 +57,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [PRIME26aaabsh](./sources/PRIME26aaabsh.md) | *最新动态: ATel 17743 (7 Apr 2026)*
 - [XRISM_J0516-0031](./sources/XRISM_J0516-0031.md) | *最新动态: ATel 17741 (6 Apr 2026)*
 - [M81N_2026-04a](./sources/M81N_2026-04a.md) | *最新动态: ATel 17736 (2 Apr 2026)*
 - [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17733 (31 Mar 2026)*

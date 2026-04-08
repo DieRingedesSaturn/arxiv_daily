@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17743: [PRIME discovery and IRTF confirmation of a bright nova PRIME26aaabsh at the Galactic center](https://www.astronomerstelegram.org/?read=17743)
-- **日期**: 7 Apr 2026 UT | **源**: `PRIME26aaabsh`
-
-**爆发速递**: PRIME巡天项目在银心方向发现了一颗明亮的近红外暂现源PRIME26aaabsh，IRTF光谱确认其具有He I及氢帕邢系发射线，被分类为经典新星。该源爆发幅度超过7等，目前处于衰减阶段。**观测短评**: 该源位于银心方向，消光极高（V波段约130等），光学波段几乎不可见，不适合我方1m光学望远镜跟进。由于其属于经典新星且处于高消光区域，主要依赖红外波段观测，建议关注后续红外测光或光谱监测数据。
-
----
-
-### [9] | ATel 17742: [New giant  radio  flare of microquasar Cyg X-3](https://www.astronomerstelegram.org/?read=17742)
-- **日期**: 6 Apr 2026 UT | **源**: `Cyg X-3`
-
-**爆发速递**: RATAN-600射电望远镜于2026年4月6日监测到微类星体Cyg X-3发生巨型射电爆发，11.2 GHz处的流量激增至6.6 Jy。该源此前长期处于超软X射线态，射电辐射处于极低水平，此次爆发标志着其活动性增强。**观测短评**: Cyg X-3作为经典的微类星体，此次射电爆发具有极高的多波段联合观测价值。虽然该源位于北半球，但由于其处于银道面且处于高流量状态，建议利用Swift或EP进行X射线监测，并协调射电及毫米波设备跟进。由于其光学波段受银道面消光影响严重，我方1m望远镜光学观测价值有限，重点应放在申请空间X射线及射电协同观测上。
-
----
-
-### [4] | ATel 17741: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare from ATO J079.1066-00.5215](https://www.astronomerstelegram.org/?read=17741)
-
-[查看本周完整 ATel](./atels/2026-W15.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-07
 
 *Tags: #arXiv #Astrophysics*
 
@@ -222,5 +191,3 @@
   - *该论文研究了引力不稳定性形成的巨行星大气中碳氧比的演化机制，属于系外行星形成领域。*
 - **[0]** [A critical analysis of main-sequence fitting in open clusters to derive the helium-to-metal enrichment ratio $ΔY/ΔZ$](http://arxiv.org/abs/2604.04506v1)
   - *该研究通过模拟分析指出，利用Gaia测光数据通过主序拟合推导疏散星团氦金属丰度比ΔY/ΔZ的方法存在显著且不可靠的系统偏差。*
-
-[查看历史目录](./posts/index.md)
