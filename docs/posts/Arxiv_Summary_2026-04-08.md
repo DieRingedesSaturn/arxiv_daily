@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [7] | ATel 17745: [Radio Flaring of the FSRQ B2 1420+32](https://www.astronomerstelegram.org/?read=17745)
-- **日期**: 8 Apr 2026 UT | **源**: `B2 1420+32`
-
-**爆发速递**: TELAMON项目利用Effelsberg 100米射电望远镜监测发现，TeV探测源B2 1420+32（FSRQ）在14mm和7mm波段出现快速射电爆发，5天内流量密度分别增加了约0.5 Jy和1.0 Jy，达到历史高位。**观测短评**: 该源为活跃的Blazar，且可能与Fermi伽马射线波段活动相关。虽然目前主要处于射电爆发期，但鉴于其作为TeV源的特性，具备多波段联合观测价值。由于其光学亮度通常较暗，我方1米望远镜可能难以进行有效的光学光谱监测，建议关注其高能波段（如Swift/XRT）的后续活动，并考虑申请空间X射线设备进行协同观测。
-
----
-
-### [0] | ATel 17744: [The detection of OH 18 cm lines in C/2025 R3 with FAST](https://www.astronomerstelegram.org/?read=17744)
-- **日期**: 8 Apr 2026 UT | **源**: `C/2025 R3`
-
-**爆发速递**: FAST望远镜利用超宽带接收机对长周期彗星C/2025 R3进行了射电观测，成功探测到18厘米波段的OH发射线，并给出了两次观测的线中心速度及积分强度数据。**观测短评**: 该目标为太阳系内彗星，属于射电波段研究范畴，与本课题组关注的黑洞吸积、AGN及高能暂现源物理方向无关，且不具备光学后随观测价值，无需申请后续观测。
-
----
-
-### [2] | ATel 17743: [PRIME discovery and IRTF confirmation of a bright nova PRIME26aaabsh at the Galactic center](https://www.astronomerstelegram.org/?read=17743)
-
-[查看本周完整 ATel](./atels/2026-W15.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-08
 
 *Tags: #arXiv #Astrophysics*
 
@@ -189,5 +158,3 @@
   - *该论文利用星震密度分析法研究双星系统中系外行星的宿主恒星归属，探讨其对行星半径分布的影响。*
 - **[0]** [New insights from cross-correlation studies between solar activity indices and cosmic-ray flux during Forbush decrease events](http://arxiv.org/abs/2604.06383v1)
   - *本文研究了太阳活动指数与福布什下降事件中宇宙射线通量之间的相关性，属于太阳物理与空间天气领域。*
-
-[查看历史目录](./posts/index.md)
