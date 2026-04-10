@@ -1,5 +1,6 @@
 # ArXiv 目录
 
+- [2026-04-09](Arxiv_Summary_2026-04-09.md)
 - [2026-04-08](Arxiv_Summary_2026-04-08.md)
 - [2026-04-07](Arxiv_Summary_2026-04-07.md)
 - [2026-04-06](Arxiv_Summary_2026-04-06.md)

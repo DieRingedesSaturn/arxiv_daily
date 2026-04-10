@@ -36,8 +36,8 @@
 ### AGN
 - [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17745 (8 Apr 2026)*
 - [PKS_1958-179](./sources/PKS_1958-179.md) | *最新动态: ATel 17740 (5 Apr 2026)*
-- [3C345](./sources/3C345.md) | *最新动态: ATel 17738 (4 Apr 2026)*
 - [PKS0748+126](./sources/PKS0748+126.md) | *最新动态: ATel 17739 (4 Apr 2026)*
+- [3C345](./sources/3C345.md) | *最新动态: ATel 17738 (4 Apr 2026)*
 - [Fermi_J0207.4+6720](./sources/Fermi_J0207.4+6720.md) | *最新动态: ATel 17732 (30 Mar 2026)*
 - [EP260324a](./sources/EP260324a.md) | *最新动态: ATel 17728 (26 Mar 2026)*
 - [GB6_J0742+5444](./sources/GB6_J0742+5444.md) | *最新动态: ATel 17718 (11 Mar 2026)*
