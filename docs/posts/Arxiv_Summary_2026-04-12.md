@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 17751: [Einstein Probe detection of a new outburst from XRB IGR J17331-2406](https://www.astronomerstelegram.org/?read=17751)
-- **日期**: 12 Apr 2026 UT | **源**: `IGR J17331-2406`
-
-**爆发速递**: Einstein Probe (EP) 的宽视场X射线望远镜 (WXT) 探测到黑洞X射线双星 IGR J17331-2406 的新一轮爆发。监测显示该源通量在 1.1 至 2.3e-11 erg/cm^2/s 之间波动，后续 FXT 观测显示其能谱可用光子指数为 1.0 的幂律模型拟合。**观测短评**: 该源为已知黑洞双星，当前处于活跃状态。鉴于其在X射线波段的持续演化，具有极高的多波段联合观测价值。建议利用课题组资源申请 Swift 或其他地面光学设备进行同步监测，以捕捉其吸积状态变化，若亮度允许，可利用 1m 望远镜进行光学测光跟进。
-
----
-
-### [2] | ATel 17750: [Corrigendum to Atel #17748](https://www.astronomerstelegram.org/?read=17750)
-- **日期**: 11 Apr 2026 UT | **源**: `M31N 2026-04a`
-
-**爆发速递**: 本文为ATel #17748的勘误，修正了仙女座星系（M31）中新星候选体M31N 2026-04a的坐标信息，并给出了其正式编号PNV J00433952+4116135。**观测短评**: 该目标位于M31，属于河外新星，亮度通常较暗且距离较远。鉴于其位于M31且已确认为新星，不属于课题组重点关注的BHXRB或AGN范畴，且受限于我方1m望远镜的口径与灵敏度，该目标不具备光学后随观测价值，无需申请额外资源跟进。
-
----
-
-### [7] | ATel 17749: [WW Lyn - X-ray brightening](https://www.astronomerstelegram.org/?read=17749)
-
-[查看本周完整 ATel](./atels/2026-W15.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-12
 
 *Tags: #arXiv #Astrophysics*
 
@@ -102,5 +71,3 @@
   - *该论文利用卷积神经网络对GOES软X射线数据进行处理，构建了一个更灵敏的太阳耀斑目录。*
 - **[0]** [Validating a Non-conventional Method for Expansion of Coronal Mass Ejections (CMEs) and Investigating the Evolution of a CME Substructures Using Solar Orbiter and Wind Observations](http://arxiv.org/abs/2604.08842v1)
   - *本文利用Solar Orbiter和Wind卫星数据验证了日冕物质抛射（CME）膨胀速度的CAAP估算方法，并研究了CME子结构的演化。*
-
-[查看历史目录](./posts/index.md)
