@@ -8,7 +8,7 @@ on:
     branches:
       - main  # 当你推送代码到 main 分支时自动触发
     paths-ignore:
-      - 'docs/posts/*.md' # 忽略日报文件变动，防止无限循环
+      - 'docs/**'  # 忽略所有生成的文档变动，防止推送触发无限循环
   workflow_dispatch: # 允许手动点按钮触发
 
 permissions:
@@ -26,7 +26,7 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v5
         with:
-          python-version: '3.10'
+          python-version: '3.12'
           cache: 'pip'
 
       - name: Install dependencies
@@ -39,6 +39,8 @@ jobs:
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
         run: |
           python scripts/main.py
 
