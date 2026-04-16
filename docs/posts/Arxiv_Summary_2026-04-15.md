@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17754: [Detection of the H-alpha and H2O+ emission lines in spectra of Comet C/2025 R3 (PanSTARRS)](https://www.astronomerstelegram.org/?read=17754)
-- **日期**: 15 Apr 2026 UT | **源**: `C/2025 R3 (PanSTARRS)`
-
-**爆发速递**: 意大利Asiago天文台利用1.22米Galileo望远镜对彗星C/2025 R3 (PanSTARRS)进行了光谱监测，成功探测到H-alpha发射线及H2O+发射带，并观测到随着彗星近日点距离减小，H-alpha发射强度显著增强的趋势。
-**观测短评**: 该目标为太阳系内彗星，与本课题组关注的黑洞吸积、AGN及高能暂现源物理研究方向无关。无需安排光学后随观测或申请其他设备资源。
-
----
-
-### [8] | ATel 17753: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ S3 0458-02](https://www.astronomerstelegram.org/?read=17753)
-- **日期**: 14 Apr 2026 UT | **源**: `S3 0458-02`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 (FSRQ) S3 0458-02 出现伽马射线耀发。2026年4月13日，其 E>100 MeV 的日均通量较 4FGL-DR4 平均水平增加了 10 倍以上，光子指数为 2.1，显示出硬化趋势。
-**观测短评**: 该源为已知的高红移 (z=2.286) 活动星系核，处于活跃状态。虽然其光学亮度可能较暗，但作为典型的 AGN 耀发事件，具有多波段联合观测价值。建议利用 Swift 或其他空间设备进行 X 射线监测，若光学亮度允许，可尝试进行测光观测以研究其吸积盘与喷流的响应关系。
-
----
-
-[查看本周完整 ATel](./atels/2026-W16.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-15
 
 *Tags: #arXiv #Astrophysics*
 
@@ -83,5 +52,3 @@
   - *解析失败*
 - **[0]** [Galactic Archaeology with the Subaru `Ōnohi`ula Prime Focus Spectrograph Strategic Program](http://arxiv.org/abs/2604.09875v2)
   - *解析失败*
-
-[查看历史目录](./posts/index.md)
