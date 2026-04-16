@@ -33,55 +33,114 @@
 
 *Tags: #arXiv #Astrophysics*
 
-## 重点关注 (0篇)
+## 重点关注 (5篇)
 
-今日无重点推荐。
+### [10] | [Radiation hydrodynamic simulations for the origin of quasi-periodic oscillations for accretion onto supermassive black holes](http://arxiv.org/abs/2604.13199v1)
+**Authors**: Yiyang Lin, Erlin Qiao, Jifeng Liu et al.
 
-## 其他相关 (22篇)
+> *通过辐射流体动力学模拟研究超大质量黑洞吸积流中的准周期振荡(QPO)起源，并将其与AGN和TDE观测数据进行对比。*
 
+**研究背景**: 准周期振荡（QPO）已在活动星系核（AGN）和潮汐瓦解事件（TDE）等超大质量黑洞吸积系统中被多次观测到。然而，尽管已有多种理论模型被提出，关于QPO产生的物理起源及其背后的吸积动力学机制在天体物理界仍存在长期争议。
+
+**数据方法**: 研究者采用了辐射流体动力学（RHD）模拟方法，设定黑洞质量为$10^7$倍太阳质量，在10倍史瓦西半径处以不同吸积率注入质量。通过对模拟中不同半径处的质量流入率进行时间序列分析，提取QPO信号，并将其与广义相对论框架下的径向周转频率解析计算结果进行对比验证。
+
+**核心结论**: 模拟成功捕捉到了QPO信号，发现在大于3.8倍史瓦西半径的区域，其频率与径向周转频率高度吻合。研究提出最大径向周转频率可作为观测QPO频率的有效代理指标。此外，该模型在不同黑洞质量下的标度关系与现有AGN和TDE观测样本高度匹配，为揭示超大质量黑洞吸积盘的不稳定性提供了重要的理论支撑。
+
+---
+
+### [9] | [Radiative cooling effects on black hole hot accretion flows around the sub-Bondi radius](http://arxiv.org/abs/2604.13762v1)
+**Authors**: Mu-Qing Liu, Xiao-Hong Yang, De-Fu Bu et al.
+
+> *本文通过磁流体力学模拟研究了亚Bondi半径处辐射冷却对黑洞热吸积流动力学及风产生机制的影响。*
+
+**研究背景**: 传统黑洞吸积模拟多局限于黑洞附近区域，忽略了从黑洞视界到Bondi半径这一广阔尺度。此前研究指出，热吸积流中存在强风，且辐射冷却对其有显著影响，但辐射冷却在Bondi半径附近的具体动力学效应及对风产生机制的影响尚不明确。
+
+**数据方法**: 本研究采用二维磁流体力学（MHD）数值模拟方法，重点考察亚Bondi半径（sub-Bondi radius）尺度下，辐射冷却对热吸积流动力学演化及风产生过程的影响。通过分析不同质量吸积率下的模拟结果，结合Høiland判据评估吸积盘的对流稳定性。
+
+**核心结论**: 随着质量吸积率增加，辐射冷却增强导致吸积盘厚度减小。研究发现吸积流处于对流边缘稳定状态。在弱辐射冷却下，风是导致质量流入率向内减小的主要因素；而在强辐射冷却下，风的输出显著受抑，质量流入率的减小主要归因于磁旋转不稳定性（MRI）和对流驱动的湍流。该结论揭示了辐射冷却在抑制吸积过程及削弱吸积风功率方面的关键作用。
+
+AI识别天体: [黑洞]
+
+---
+
+### [7] | [JWST spectroscopy of SN 2010da/NGC 300 ULX-1: a surviving star hidden by dust](http://arxiv.org/abs/2604.13711v1)
+**Authors**: Emma R. Beasor, Ryan Lau, Nathan Smith et al. | **Targets**: SN 2010da, NGC 300 ULX-1
+
+> *利用JWST观测揭示了超亮X射线源NGC 300 ULX-1中伴星在爆发后的演化及尘埃形成过程，探讨了双星相互作用与吸积机制。*
+
+**研究背景**：SN 2010da/NGC 300 ULX-1是目前已知唯一由中子星和超巨星伴星组成的超亮X射线源（ULX）。自2010年爆发以来，该系统的伴星性质及演化路径一直是天体物理学界的研究热点，特别是关于其在爆发后的物理状态、尘埃形成机制以及是否在超新星事件中幸存等问题存在长期争议。
+
+**数据方法**：研究团队利用詹姆斯·韦布空间望远镜（JWST）的NIRSpec和MIRI积分视场光谱仪，获取了2024年11月的最新观测数据。通过对中红外能谱（SED）进行辐射转移建模，分析了该系统的光度演化、尘埃组分及化学性质，并与2018年之前的多波段数据进行了对比。
+
+**核心结论**：观测发现该系统自2018年起显著变暗，红超巨星特征消失，转而被约900K的厚尘埃壳遮蔽。光度分析证实伴星并未消失，排除了“失败超新星”情景。研究认为伴星是一颗幸存的AGB星，11微米的碳化硅（SiC）特征暗示其具有富碳属性。研究提出了新的演化模型：2010年的爆发触发了持续的超爱丁顿吸积并改变了周星环境，使伴星在经历短暂的红超巨星相后重新回归重度尘埃遮蔽状态。
+
+---
+
+### [7] | [The NuSTAR view of Ultra-Compact X-ray Binaries](http://arxiv.org/abs/2604.13187v1)
+**Authors**: A. Borghese, M. Armas Padilla, T. Muñoz-Darias et al. | **Targets**: 4U 1626-67
+
+> *本文利用NuSTAR档案数据对11个超致密X射线双星进行了能谱与时变分析，探讨了其吸积状态及物理特性。*
+
+**研究背景**：超紧凑X射线双星（UCXB）是具有极短轨道周期和贫氢伴星的低质量X射线双星（LMXB）子类。尽管其吸积盘尺寸和化学成分特殊，但关于其最内区物理过程是否与普通LMXB存在显著差异，以及其在硬X射线波段的光谱演化特征，仍需大样本的系统性研究来厘清。
+
+**数据方法**：本研究利用NuSTAR卫星对11颗确认的UCXB进行了37次存档观测。研究团队结合X射线颜色和分数均方根（RMS）值对样本进行了能态划分（硬态、软态及中间态），并首次在大样本中应用“三成分模型”拟合X射线连续谱，重点分析了不同能态下的连续谱参数及康普顿化特征。
+
+**核心结论**：研究发现UCXB的光谱特性与长周期LMXB高度相似，表明吸积盘尺寸和成分对双星最内区物理影响有限。但在软态样本中，UCXB表现出比普通LMXB更高的康普顿化份额。此外，研究特别指出慢速脉冲星4U 1626-67处于一种极冷的硬态（电子温度约6 keV），其温度与普通中子星LMXB的软态相当，为理解该类天体的吸积物理提供了新视角。
+
+---
+
+### [6] | [Targeted search for eccentric supermassive binary black holes in OJ 287 and nearby galaxy clusters with PPTA DR3](http://arxiv.org/abs/2604.13173v1)
+**Authors**: Shi-Yi Zhao, Xingjiang Zhu, Jacob Cardinal Tremblay et al. | **Targets**: OJ 287, Virgo, Fornax, Norma, Hercules, Coma, M87, NGC 4889
+
+> *利用PPTA DR3数据对OJ 287及邻近星系团中的超大质量双黑洞进行引力波搜寻并给出质量上限约束。*
+
+**研究背景**: 超大质量双黑洞（SMBBH）是引力波背景的重要来源，但其探测极具挑战。OJ 287等天体因其特殊的电磁辐射特征，被认为是潜在的SMBBH候选者。本研究旨在通过脉冲星计时阵列（PTA）寻找这些特定天体产生的连续引力波信号，以验证其双黑洞本质并约束其物理参数。
+
+**数据方法**: 研究利用帕克斯脉冲星计时阵列第三次数据发布（PPTA DR3），针对OJ 287及五个邻近星系团（Virgo、Fornax、Norma、Hercules、Coma）进行了贝叶斯定向搜索。模型创新性地引入了轨道偏心率（最高达0.8），以更准确地捕捉信号在多个谐波上的功率分布，从而提升对非圆形轨道双黑洞的探测灵敏度。
+
+**核心结论**: 本次搜索未发现显著引力波信号。研究对OJ 287的总质量设定了上限（Mtot < 5.25 × 10^10 M⊙），并对M87和NGC 4889等星系中心潜在的SMBBH质量比进行了约束。结果排除了这些系统中存在质量比q ≳ 10^-2的双黑洞，有效否定了该参数空间内等质量黑洞并合的可能性，展示了PTA在探测SMBBH种群方面的强大潜力。
+
+---
+
+## 其他相关 (19篇)
+
+- **[4]** [The 256-antenna Coherent All-Sky Monitor](http://arxiv.org/abs/2604.13903v1)
+  - *本文介绍了CASM-256射电阵列，旨在通过大视场实时观测发现快速射电暴及银河系内各类快速射电暂现源。*
+- **[3]** [Investigating the effect of sensitivity of KAGRA on sky localization of gravitational-wave sources from compact binary coalescences](http://arxiv.org/abs/2604.13580v1)
+  - *本文研究了KAGRA引力波探测器加入全球网络后对致密双星并合事件天区定位精度的提升作用。*
+- **[3]** [Simulation of non X-ray background for the DIffuse X-ray Explorer (DIXE) mission](http://arxiv.org/abs/2604.13569v1)
+  - *本文通过Geant4模拟了中国空间站DIXE任务的非X射线背景（NXB），评估了其对弥散X射线观测的影响。*
+- **[3]** [Relaxation of magnetically-confined mountains on accreting neutron stars through cross-field mass transport](http://arxiv.org/abs/2604.13557v1)
+  - *本文通过数值模拟研究了吸积中子星上磁约束“山丘”在磁流体不稳定性驱动下的质量跨磁力线输运过程。*
+- **[2]** [Gravitational Sommerfeld Effects: Formalism, Renormalization, and Perturbation to $O(G^{10})$](http://arxiv.org/abs/2604.14112v1)
+  - *本文利用有效场论框架，推导了双星旋进引力波形中引力Sommerfeld因子的解析解及高阶修正。*
+- **[2]** [Basilic: An end-to-end pipeline for Bayesian burst inference and model classification in gravitational-wave data](http://arxiv.org/abs/2604.13839v1)
+  - *本文介绍了一个用于引力波短时爆发信号贝叶斯推断与模型分类的自动化处理流程Basilic。*
+- **[1]** [Search for CBCs with SSM Components in Data from The First Part of LVK Fourth Observing Run](http://arxiv.org/abs/2604.14095v1)
+  - *本文利用LVK第四次观测运行数据搜索亚太阳质量致密天体双星并合引力波信号，并对原初黑洞模型进行约束。*
+- **[1]** [JOYS$+$: A JWST/MIRI survey of the evolution of H$_2$ winds and jets from low-mass protostars](http://arxiv.org/abs/2604.13773v1)
+  - *本文利用JWST/MIRI观测研究了低质量原恒星的H2风与喷流演化，探讨了其吸积与外流机制。*
+- **[1]** [Fundamental effective temperature measurements for eclipsing binary stars -- VIII. NIRPS spectroscopy of CD-27 2812](http://arxiv.org/abs/2604.13631v1)
+  - *本文利用高分辨率近红外光谱对食双星CD-27 2812进行分析，精确测量了其中M矮星的质量、半径及有效温度。*
+- **[1]** [Observational constraints on nonlocal black holes via gravitational lensing](http://arxiv.org/abs/2604.13223v1)
+  - *该论文研究非局域引力理论下黑洞的引力透镜效应，旨在通过观测约束偏离广义相对论的参数空间。*
+- **[1]** [Galactic Archaeology with the Subaru `Ōnohi`ula Prime Focus Spectrograph Strategic Program](http://arxiv.org/abs/2604.09875v2)
+  - *该论文介绍了Subaru PFS光谱仪的银河考古巡天计划，旨在通过恒星光谱研究银河系及本星系群矮星系的演化历史。*
 - **[0]** [Analysis of Lyman-beta and Lyman-gamma Lines in a Pre-Eruptive and Eruptive Prominence with Solar Orbiter SPICE Observations](http://arxiv.org/abs/2604.13990v1)
-  - *解析失败*
+  - *本文利用Solar Orbiter的SPICE仪器分析了日珥爆发前后的莱曼线光谱特征，研究太阳大气等离子体动力学。*
 - **[0]** [Shock properties for solar energetic particle events with signatures of inverse velocity arrival](http://arxiv.org/abs/2604.13962v1)
-  - *解析失败*
-- **[0]** [The 256-antenna Coherent All-Sky Monitor](http://arxiv.org/abs/2604.13903v1)
-  - *解析失败*
-- **[0]** [Basilic: An end-to-end pipeline for Bayesian burst inference and model classification in gravitational-wave data](http://arxiv.org/abs/2604.13839v1)
-  - *解析失败*
-- **[0]** [JOYS$+$: A JWST/MIRI survey of the evolution of H$_2$ winds and jets from low-mass protostars](http://arxiv.org/abs/2604.13773v1)
-  - *解析失败*
-- **[0]** [Radiative cooling effects on black hole hot accretion flows around the sub-Bondi radius](http://arxiv.org/abs/2604.13762v1)
-  - *解析失败*
-- **[0]** [JWST spectroscopy of SN 2010da/NGC 300 ULX-1: a surviving star hidden by dust](http://arxiv.org/abs/2604.13711v1)
-  - *解析失败*
-- **[0]** [Fundamental effective temperature measurements for eclipsing binary stars -- VIII. NIRPS spectroscopy of CD-27 2812](http://arxiv.org/abs/2604.13631v1)
-  - *解析失败*
+  - *本文研究了太阳高能粒子事件中出现的反向速度到达现象，探讨了日冕物质抛射驱动激波的演化与磁连接对粒子能谱的影响。*
 - **[0]** [SJET: An Interactive Solar Jet Extraction Tool](http://arxiv.org/abs/2604.13590v1)
-  - *解析失败*
+  - *本文介绍了一种用于太阳喷流特征提取的交互式Python工具SJET，旨在标准化太阳大气中喷流的几何参数测量。*
 - **[0]** [Understanding mechanisms underlying solar cycle predictability with a general framework](http://arxiv.org/abs/2604.13585v1)
-  - *解析失败*
-- **[0]** [Investigating the effect of sensitivity of KAGRA on sky localization of gravitational-wave sources from compact binary coalescences](http://arxiv.org/abs/2604.13580v1)
-  - *解析失败*
-- **[0]** [Simulation of non X-ray background for the DIffuse X-ray Explorer (DIXE) mission](http://arxiv.org/abs/2604.13569v1)
-  - *解析失败*
-- **[0]** [Relaxation of magnetically-confined mountains on accreting neutron stars through cross-field mass transport](http://arxiv.org/abs/2604.13557v1)
-  - *解析失败*
+  - *本文构建了一个通用框架，探讨了太阳表面磁场在发电机模型中对后续周期预测能力的物理机制。*
 - **[0]** [Rings Around Non-Spherical Worlds: Sub-mm Dust Retention Around Triaxial Small Bodies in the Solar System](http://arxiv.org/abs/2604.13234v1)
-  - *解析失败*
+  - *该论文研究了太阳系内三轴小天体周围尘埃环的动力学演化与稳定性，与黑洞吸积及高能暂现源研究无关。*
 - **[0]** [A spatial and kinematical reinterpretation of Gould's Belt in light of Gaia](http://arxiv.org/abs/2604.13225v1)
-  - *解析失败*
-- **[0]** [Observational constraints on nonlocal black holes via gravitational lensing](http://arxiv.org/abs/2604.13223v1)
-  - *解析失败*
-- **[0]** [Radiation hydrodynamic simulations for the origin of quasi-periodic oscillations for accretion onto supermassive black holes](http://arxiv.org/abs/2604.13199v1)
-  - *解析失败*
-- **[0]** [The NuSTAR view of Ultra-Compact X-ray Binaries](http://arxiv.org/abs/2604.13187v1)
-  - *解析失败*
+  - *该论文利用Gaia DR3数据重新评估了古尔德带，认为其并非物理实体，而是由局部恒星形成历史和投影效应形成的星群。*
 - **[0]** [Chromospheric dynamics and turbulence regulate the solar FIP effect](http://arxiv.org/abs/2604.13174v1)
-  - *解析失败*
-- **[0]** [Targeted search for eccentric supermassive binary black holes in OJ 287 and nearby galaxy clusters with PPTA DR3](http://arxiv.org/abs/2604.13173v1)
-  - *解析失败*
+  - *本文研究太阳色球层动力学与湍流对日冕元素丰度（FIP效应）的调节机制，属于太阳物理学范畴。*
 - **[0]** [Solar photospheric spectrum microvariability III. Radial velocities and line profiles in magnetic active-region granulation](http://arxiv.org/abs/2604.13166v1)
-  - *解析失败*
-- **[0]** [Galactic Archaeology with the Subaru `Ōnohi`ula Prime Focus Spectrograph Strategic Program](http://arxiv.org/abs/2604.09875v2)
-  - *解析失败*
+  - *本文研究了太阳光球层磁活动区米粒组织的径向速度与谱线轮廓变化，旨在为系外行星探测提供恒星活动背景噪声模型。*
 
 [查看历史目录](./posts/index.md)

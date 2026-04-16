@@ -102,6 +102,12 @@ def run_arxiv_task(target_date):
         logger.info("开始生成论文摘要 (高分优先，尝试使用 Flash 模型)...")
         for item in scored:
             score, p, ans = item['score'], item['paper'], item['analysis']
+            
+            # 过滤掉完全解析失败的论文，不再写入 Markdown 文件
+            if ans.get('one_sentence_summary') == "解析失败":
+                logger.warning(f"  [Skipped] 论文解析失败，跳过写入: {p.title[:30]}...")
+                continue
+                
             logger.info(f"  -> [{score}分] {p.title[:30]}...")
             if score >= 6:
                 high_score.append({
@@ -112,7 +118,11 @@ def run_arxiv_task(target_date):
             else:
                 low_score.append({'paper': p, 'analysis': ans})
 
-        generate_obsidian_note(high_score, low_score, target_date)
+        # 仅在有成功解析的论文时才生成笔记
+        if high_score or low_score:
+            generate_obsidian_note(high_score, low_score, target_date)
+        else:
+            logger.warning("所有候选论文均解析失败，本次不生成 ArXiv 笔记。")
 
         new_ids = [p.entry_id.replace("http://", "https://") for p in raw_papers]
         arxiv_state['processed_ids'] = sorted(

@@ -2,8 +2,8 @@ name: Daily ArXiv Update
 
 on:
   schedule:
-    # 每天 UTC 时间 00:00 运行 (对应北京时间 08:00)
-    - cron: '0 0 * * *'
+    # 每天 UTC 时间 02:00 运行 (对应北京时间 10:00)
+    - cron: '2 0 * * *'
   push:
     branches:
       - main  # 当你推送代码到 main 分支时自动触发
