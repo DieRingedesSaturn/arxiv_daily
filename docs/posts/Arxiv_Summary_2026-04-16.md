@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17755: [Fermi-LAT detection of renewed high gamma-ray activity from the BL Lac PKS 0537-441](https://www.astronomerstelegram.org/?read=17755)
-- **日期**: 16 Apr 2026 UT | **源**: `PKS 0537-441`
-
-**爆发速递**: Fermi-LAT 探测到 BL Lac 天体 PKS 0537-441 出现高能伽马射线耀发，4月15日日均通量较平均水平提升约5倍，且伴随能谱变硬，探测到 27 GeV 高能光子。**观测短评**: 该源处于高活动态，具有极高的多波段联合观测价值。由于其位于南天区（Dec -44度），北半球望远镜观测受限，建议利用 ESO 或 LCO 等南半球设备进行光学监测，以捕捉耀发期间的同步辐射变化，验证吸积与喷流物理模型。
-
----
-
-### [0] | ATel 17754: [Detection of the H-alpha and H2O+ emission lines in spectra of Comet C/2025 R3 (PanSTARRS)](https://www.astronomerstelegram.org/?read=17754)
-- **日期**: 15 Apr 2026 UT | **源**: `C/2025 R3 (PanSTARRS)`
-
-**爆发速递**: 意大利Asiago天文台利用1.22米Galileo望远镜对彗星C/2025 R3 (PanSTARRS)进行了光谱监测，成功探测到H-alpha发射线及H2O+发射带，并观测到随着彗星近日点距离减小，H-alpha发射强度显著增强的趋势。
-**观测短评**: 该目标为太阳系内彗星，与本课题组关注的黑洞吸积、AGN及高能暂现源物理研究方向无关。无需安排光学后随观测或申请其他设备资源。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W16.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-16
 
 *Tags: #arXiv #Astrophysics*
 
@@ -143,5 +112,3 @@
   - *本文利用GALAH DR4巡天数据筛选并验证了大量s-过程元素丰度异常的恒星样本，旨在研究AGB阶段的双星相互作用与核合成。*
 - **[0]** [Radiation doses during extreme solar energetic particle events](http://arxiv.org/abs/2604.15160v1)
   - *本文研究了太阳高能粒子事件对航空及航天环境造成的辐射剂量风险，属于空间天气与太阳物理领域。*
-
-[查看历史目录](./posts/index.md)
