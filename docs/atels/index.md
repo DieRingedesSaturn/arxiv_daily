@@ -65,6 +65,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [PSR_J2238+5903](./sources/PSR_J2238+5903.md) | *最新动态: ATel 17756 (17 Apr 2026)*
 - [C_2025_R3](./sources/C_2025_R3.md) | *最新动态: ATel 17754 (15 Apr 2026)*
 - [M31N_2026-04a](./sources/M31N_2026-04a.md) | *最新动态: ATel 17750 (11 Apr 2026)*
 - [PRIME26aaabsh](./sources/PRIME26aaabsh.md) | *最新动态: ATel 17743 (7 Apr 2026)*

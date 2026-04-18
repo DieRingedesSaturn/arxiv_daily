@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [1] | ATel 17756: [Discovery of Radio Pulsation from the Radio-quiet Gamma-ray Pulsar PSR J2238+5903 with Deep FAST Observations](https://www.astronomerstelegram.org/?read=17756)
+- **日期**: 17 Apr 2026 UT | **源**: `PSR J2238+5903`
+
+**爆发速递**: 研究团队利用FAST望远镜在L波段观测中，首次探测到了伽马射线脉冲星PSR J2238+5903的射电脉冲信号。该源此前被归类为射电宁静脉冲星，此次发现证实了其射电辐射的存在，并与LHAASO探测到的甚高能伽马射线源存在空间关联。**观测短评**: 该目标为脉冲星，主要涉及射电与高能波段的物理机制研究，与课题组关注的吸积暂现源（如BHXRB、AGN）关联度极低。由于其光学亮度极暗且不属于光学后随观测范畴，无需利用现有1m望远镜进行跟进，亦无需申请其他设备观测。
+
+---
+
 ### [8] | ATel 17755: [Fermi-LAT detection of renewed high gamma-ray activity from the BL Lac PKS 0537-441](https://www.astronomerstelegram.org/?read=17755)
 - **日期**: 16 Apr 2026 UT | **源**: `PKS 0537-441`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [0] | ATel 17754: [Detection of the H-alpha and H2O+ emission lines in spectra of Comet C/2025 R3 (PanSTARRS)](https://www.astronomerstelegram.org/?read=17754)
-- **日期**: 15 Apr 2026 UT | **源**: `C/2025 R3 (PanSTARRS)`
-
-**爆发速递**: 意大利Asiago天文台利用1.22米Galileo望远镜对彗星C/2025 R3 (PanSTARRS)进行了光谱监测，成功探测到H-alpha发射线及H2O+发射带，并观测到随着彗星近日点距离减小，H-alpha发射强度显著增强的趋势。
-**观测短评**: 该目标为太阳系内彗星，与本课题组关注的黑洞吸积、AGN及高能暂现源物理研究方向无关。无需安排光学后随观测或申请其他设备资源。
-
----
-
 
 [查看本周完整 ATel](./atels/2026-W16.md)
 
