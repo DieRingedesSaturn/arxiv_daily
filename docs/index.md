@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [8] | ATel 17758: [Complete fading of the recent 1.4 GHz radio flare in Cygnus X-3 observed with the Nasu radio telescope array](https://www.astronomerstelegram.org/?read=17758)
+- **日期**: 19 Apr 2026 UT | **源**: `Cygnus X-3`
+
+**爆发速递**: 那须射电望远镜阵列监测显示，Cygnus X-3 在 4 月 8 日达到 5.4 Jy 的 1.4 GHz 射电爆发峰值后，通量持续下降，至 4 月 16 日已低于 200 mJy 的探测阈值，表明该次射电爆发为短时演化事件。**观测短评**: Cygnus X-3 作为经典的黑洞/中子星候选体，其射电爆发与吸积态演化密切相关。虽然目前射电爆发已衰减，但该源仍处于活跃期，建议利用 Swift 或 Insight-HXMT 关注其 X 射线能谱状态变化，以分析射电与 X 射线的关联。由于该源目前处于低射电通量状态，光学后随观测价值有限，暂无需动用 1m 望远镜。
+
+---
+
+### [2] | ATel 17757: [Spectroscopic Classifications of Optical Transients with the Lick Shane telescope](https://www.astronomerstelegram.org/?read=17757)
+- **日期**: 18 Apr 2026 UT | **源**: `Unknown`
+
+**爆发速递**: Lick天文台Shane望远镜利用Kast光谱仪对LSST和ZTF发现的两个光学暂现源进行了光谱分类，确认AT2026ivl为Ia型超新星，AT2026ies为II型超新星。**观测短评**: 该ATel报告的是常规超新星分类，与黑洞吸积、喷流物理及QPE等核心研究兴趣关联度较低。虽然目标亮度可能在1m望远镜观测范围内，但由于缺乏特殊物理机制（如吸积盘演化），无需投入课题组观测资源进行后续跟进。
+
+---
+
 ### [1] | ATel 17756: [Discovery of Radio Pulsation from the Radio-quiet Gamma-ray Pulsar PSR J2238+5903 with Deep FAST Observations](https://www.astronomerstelegram.org/?read=17756)
-- **日期**: 17 Apr 2026 UT | **源**: `PSR J2238+5903`
-
-**爆发速递**: 研究团队利用FAST望远镜在L波段观测中，首次探测到了伽马射线脉冲星PSR J2238+5903的射电脉冲信号。该源此前被归类为射电宁静脉冲星，此次发现证实了其射电辐射的存在，并与LHAASO探测到的甚高能伽马射线源存在空间关联。**观测短评**: 该目标为脉冲星，主要涉及射电与高能波段的物理机制研究，与课题组关注的吸积暂现源（如BHXRB、AGN）关联度极低。由于其光学亮度极暗且不属于光学后随观测范畴，无需利用现有1m望远镜进行跟进，亦无需申请其他设备观测。
-
----
-
-### [8] | ATel 17755: [Fermi-LAT detection of renewed high gamma-ray activity from the BL Lac PKS 0537-441](https://www.astronomerstelegram.org/?read=17755)
-- **日期**: 16 Apr 2026 UT | **源**: `PKS 0537-441`
-
-**爆发速递**: Fermi-LAT 探测到 BL Lac 天体 PKS 0537-441 出现高能伽马射线耀发，4月15日日均通量较平均水平提升约5倍，且伴随能谱变硬，探测到 27 GeV 高能光子。**观测短评**: 该源处于高活动态，具有极高的多波段联合观测价值。由于其位于南天区（Dec -44度），北半球望远镜观测受限，建议利用 ESO 或 LCO 等南半球设备进行光学监测，以捕捉耀发期间的同步辐射变化，验证吸积与喷流物理模型。
-
----
-
-### [0] | ATel 17754: [Detection of the H-alpha and H2O+ emission lines in spectra of Comet C/2025 R3 (PanSTARRS)](https://www.astronomerstelegram.org/?read=17754)
 
 [查看本周完整 ATel](./atels/2026-W16.md)
 

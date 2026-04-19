@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 17758: [Complete fading of the recent 1.4 GHz radio flare in Cygnus X-3 observed with the Nasu radio telescope array](https://www.astronomerstelegram.org/?read=17758)
+- **日期**: 19 Apr 2026 UT
+
+**爆发速递**: 那须射电望远镜阵列监测显示，Cygnus X-3 在 4 月 8 日达到 5.4 Jy 的 1.4 GHz 射电爆发峰值后，通量持续下降，至 4 月 16 日已低于 200 mJy 的探测阈值，表明该次射电爆发为短时演化事件。**观测短评**: Cygnus X-3 作为经典的黑洞/中子星候选体，其射电爆发与吸积态演化密切相关。虽然目前射电爆发已衰减，但该源仍处于活跃期，建议利用 Swift 或 Insight-HXMT 关注其 X 射线能谱状态变化，以分析射电与 X 射线的关联。由于该源目前处于低射电通量状态，光学后随观测价值有限，暂无需动用 1m 望远镜。
+
+---
+
 ### ATel 17746: [Rapid rise of 1.4 GHz radio emission from Cygnus X-3 detected with the Nasu telescope array](https://www.astronomerstelegram.org/?read=17746)
 - **日期**: 10 Apr 2026 UT
 
