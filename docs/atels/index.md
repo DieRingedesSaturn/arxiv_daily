@@ -34,7 +34,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
-- [WW_Lyn](./sources/WW_Lyn.md) | *最新动态: ATel 17749 (11 Apr 2026)*
+- [WW_Lyn](./sources/WW_Lyn.md) | *最新动态: ATel 17759 (19 Apr 2026)*
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
