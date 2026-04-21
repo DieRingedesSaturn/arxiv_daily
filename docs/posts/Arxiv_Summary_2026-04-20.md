@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [5] | ATel 17759: [Follow-up optical linear polarimetric observations of WW Lyn](https://www.astronomerstelegram.org/?read=17759)
-- **日期**: 19 Apr 2026 UT | **源**: `WW Lyn`
-
-**爆发速递**: 研究人员针对激变变星WW Lyn的X射线活跃状态进行了光学线性偏振观测。使用11英寸施密特-卡塞格林望远镜在V波段获取了数据，结果显示其去偏振后的线性偏振度为0.0% ± 0.15%，表明该目标在当前状态下未表现出可测量的线性偏振。**观测短评**: 该目标为激变变星，属于课题组关注的拓展领域。虽然偏振观测结果为零，但鉴于其处于活跃期，仍具有光学监测价值。考虑到我方1米望远镜的测光能力，可对其进行常规光变监测以辅助分析其吸积状态，无需申请大型设备进行偏振后随。
-
----
-
-### [8] | ATel 17758: [Complete fading of the recent 1.4 GHz radio flare in Cygnus X-3 observed with the Nasu radio telescope array](https://www.astronomerstelegram.org/?read=17758)
-- **日期**: 19 Apr 2026 UT | **源**: `Cygnus X-3`
-
-**爆发速递**: 那须射电望远镜阵列监测显示，Cygnus X-3 在 4 月 8 日达到 5.4 Jy 的 1.4 GHz 射电爆发峰值后，通量持续下降，至 4 月 16 日已低于 200 mJy 的探测阈值，表明该次射电爆发为短时演化事件。**观测短评**: Cygnus X-3 作为经典的黑洞/中子星候选体，其射电爆发与吸积态演化密切相关。虽然目前射电爆发已衰减，但该源仍处于活跃期，建议利用 Swift 或 Insight-HXMT 关注其 X 射线能谱状态变化，以分析射电与 X 射线的关联。由于该源目前处于低射电通量状态，光学后随观测价值有限，暂无需动用 1m 望远镜。
-
----
-
-### [2] | ATel 17757: [Spectroscopic Classifications of Optical Transients with the Lick Shane telescope](https://www.astronomerstelegram.org/?read=17757)
-
-[查看本周完整 ATel](./atels/2026-W16.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-20
 
 *Tags: #arXiv #Astrophysics*
 
@@ -156,5 +125,3 @@
   - *该论文研究了太阳米波段爆发中的长周期脉动现象，探讨了其与太阳黑子及日冕环磁流体波的关联。*
 - **[0]** [Requiem for a belt: A spatial and kinematical reinterpretation of Gould's Belt in light of Gaia](http://arxiv.org/abs/2604.13225v2)
   - *该论文利用Gaia DR3数据分析指出古尔德带并非物理实体，而是由局部恒星形成历史和投影效应形成的星群。*
-
-[查看历史目录](./posts/index.md)
