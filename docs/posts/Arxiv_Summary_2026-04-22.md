@@ -1,27 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17760: [SVOM/ECLAIRs detection of a rare type-I X-ray burst from RX J1718.4-4029](https://www.astronomerstelegram.org/?read=17760)
-- **日期**: 21 Apr 2026 UT | **源**: `RX J1718.4-4029`
-
-**爆发速递**: SVOM/ECLAIRs 望远镜于2026年4月19日探测到来自低质量吸积中子星双星 RX J1718.4-4029 的一次 I 型 X 射线爆发。该爆发持续约13.5秒，能谱符合黑体辐射模型，推测其源于低吸积率下的热核闪烁。**观测短评**: 该源为罕见的爆发源，具有重要的物理研究价值。由于该目标位于南天区（赤纬-40度），对于北纬40度的1米望远镜观测存在困难。建议利用 LCO 等全球望远镜网络进行多波段监测，以捕捉其低态下的吸积行为，无需申请我方设备跟进。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W17.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-22
 
 *Tags: #arXiv #Astrophysics*
 
@@ -150,5 +127,3 @@
   - *本文利用机器学习方法分析并预测第25太阳周期的太阳p模式频率偏移，旨在研究太阳内部动力学与空间天气之间的联系。*
 - **[0]** [Ultra-High-Energy Tau Neutrinos as Probes of Lorentz Invariance](http://arxiv.org/abs/2604.19880v1)
   - *本文研究利用超高能陶微子探测洛伦兹不变性破坏，属于基础物理与高能天体物理交叉领域，与黑洞吸积及暂现源研究无关。*
-
-[查看历史目录](./posts/index.md)
