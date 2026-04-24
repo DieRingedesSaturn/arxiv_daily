@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17762: [Discovery of a Probable Nova in M31, M31N 2026-04b](https://www.astronomerstelegram.org/?read=17762)
-- **日期**: 23 Apr 2026 UT | **源**: `M31N 2026-04b`
-
-**爆发速递**: Belec nad Orlici 0.4米望远镜在M31星系中发现了一颗疑似新星，编号为M31N 2026-04b。该目标在2026年4月23日的H_alpha波段观测中亮度达到15.9等，而在2021年及2026年4月10日的观测中均未见明显源。**观测短评**: 该目标位于仙女座大星系(M31)内，虽然属于新星爆发，但其亮度(15.9等)接近我方1米望远镜的光谱极限，且位于河外星系，与我方重点关注的银河系内黑洞双星及AGN物理关联较弱。除非有极高科学价值的特殊爆发类型确认，否则无需投入我方望远镜资源进行后随观测。
-
----
-
-### [5] | ATel 17761: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare possibly from 2MASS J05333511-6854544](https://www.astronomerstelegram.org/?read=17761)
-- **日期**: 23 Apr 2026 UT | **源**: `XRISM J0534-6855`
-
-**爆发速递**: XRISM/Xtend 巡天项目在 2026 年 4 月 17 日探测到一次来自 XRISM J0534-6855 的 X 射线耀发，该源距离约 127 pc，可能对应 2MASS J05333511-6854544。耀发持续时间较短，呈指数衰减，峰值光度约为 5 × 10^31 erg/s。**观测短评**: 该源距离极近，属于银河系内或邻近源，虽然其物理性质尚不明确，但极短的耀发特征可能与恒星活动相关。鉴于其光学对应体亮度较高，具备光学后随观测价值，可利用 1m 望远镜进行测光监测以确认其光学波段的对应活动，暂无需申请大型空间设备跟进。
-
----
-
-### [8] | ATel 17760: [SVOM/ECLAIRs detection of a rare type-I X-ray burst from RX J1718.4-4029](https://www.astronomerstelegram.org/?read=17760)
-
-[查看本周完整 ATel](./atels/2026-W17.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-23
 
 *Tags: #arXiv #Astrophysics*
 
@@ -197,5 +166,3 @@
   - *该论文提出了一种利用视觉Transformer模型将SDO观测数据转化为太阳色球层热力学参数的方法，属于太阳物理研究领域。*
 - **[0]** [Ultra High Energy Cosmic Rays from the Local Void](http://arxiv.org/abs/2604.21099v1)
   - *该论文探讨了来自局部宇宙空洞的超高能宇宙射线，并推测其可能为轻磁单极子，与本课题组的吸积物理研究方向无关。*
-
-[查看历史目录](./posts/index.md)
