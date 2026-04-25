@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [0] | ATel 17763: [X-flaring region AR 4419 to the solar limb: opportunity for white light signatures](https://www.astronomerstelegram.org/?read=17763)
+- **日期**: 24 Apr 2026 UT | **源**: `AR 14419`
+
+**爆发速递**: 该ATel报告了太阳活动区AR 14419在接近太阳边缘时发生的X级耀斑活动，并指出其演化迅速，在2026年4月24日达到X2.5级峰值。报告还提到该区域存在周期性X射线通量模式，可用于预测后续强耀斑。**观测短评**: 本研究关注黑洞、中子星等高能天体物理，该目标为太阳物理现象，与课题组研究兴趣完全无关，且不属于我方望远镜观测范畴，无需跟进。
+
+---
+
 ### [2] | ATel 17762: [Discovery of a Probable Nova in M31, M31N 2026-04b](https://www.astronomerstelegram.org/?read=17762)
 - **日期**: 23 Apr 2026 UT | **源**: `M31N 2026-04b`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [5] | ATel 17761: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare possibly from 2MASS J05333511-6854544](https://www.astronomerstelegram.org/?read=17761)
-- **日期**: 23 Apr 2026 UT | **源**: `XRISM J0534-6855`
-
-**爆发速递**: XRISM/Xtend 巡天项目在 2026 年 4 月 17 日探测到一次来自 XRISM J0534-6855 的 X 射线耀发，该源距离约 127 pc，可能对应 2MASS J05333511-6854544。耀发持续时间较短，呈指数衰减，峰值光度约为 5 × 10^31 erg/s。**观测短评**: 该源距离极近，属于银河系内或邻近源，虽然其物理性质尚不明确，但极短的耀发特征可能与恒星活动相关。鉴于其光学对应体亮度较高，具备光学后随观测价值，可利用 1m 望远镜进行测光监测以确认其光学波段的对应活动，暂无需申请大型空间设备跟进。
-
----
-
-### [8] | ATel 17760: [SVOM/ECLAIRs detection of a rare type-I X-ray burst from RX J1718.4-4029](https://www.astronomerstelegram.org/?read=17760)
 
 [查看本周完整 ATel](./atels/2026-W17.md)
 
