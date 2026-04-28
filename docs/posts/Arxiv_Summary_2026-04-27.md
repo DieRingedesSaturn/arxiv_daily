@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17769: [Fermi-LAT detection of enhanced gamma-ray activity from 4C +33.06 and VHE emission from PKS 1440-389](https://www.astronomerstelegram.org/?read=17769)
-- **日期**: 27 Apr 2026 UT | **源**: `4C +33.06`
-
-**爆发速递**: Fermi-LAT 探测到耀变体 4C +33.06 和 PKS 1440-389 的伽马射线流量显著增强。其中 4C +33.06 流量较平均水平提升超 70 倍，能谱变硬；PKS 1440-389 流量提升超 10 倍，并伴随 110 GeV 的甚高能光子发射。**观测短评**: 两者均为典型的 AGN 耀发事件，具有极高的多波段联合观测价值。虽然 1m 望远镜受限于视场和灵敏度，但对于此类亮源的光学监测仍有意义。建议利用 Swift 或其他空间设备进行 X 射线能谱追踪，并协调地面光学望远镜开展测光监测，以捕捉吸积盘与喷流的响应关系。
-
----
-
-### [6] | ATel 17768: [XRISM/Xtend Transient Search (XTS) detected an X-ray brightening of XRISM J1847+8008](https://www.astronomerstelegram.org/?read=17768)
-- **日期**: 27 Apr 2026 UT | **源**: `XRISM J1847+8008`
-
-**爆发速递**: XRISM/Xtend 巡天项目 (XTS) 于 2026 年 4 月 26 日探测到暂现源 XRISM J1847+8008 的 X 射线爆发。该爆发持续时间较短，呈指数衰减，峰值通量约为 7 × 10^-12 erg s^-1 cm^-2。研究推测其可能与 183 pc 外的白矮星 GALEX J184630.2+800753 相关。**观测短评**: 该源被推测为白矮星相关系统，属于激变变星 (CV) 候选体，符合课题组观测兴趣。鉴于其处于衰减阶段且亮度较低，建议利用 1m 望远镜进行光学监测以确认其光变特征，并结合 Gaia 数据进一步证认其光学对应体。目前无需申请大型设备，优先进行地基光学跟进。
-
----
-
-### [1] | ATel 17767: [A flare of 6.668 GHz methanol maser in G11.497-1.485 (IRAS 18134-1942)](https://www.astronomerstelegram.org/?read=17767)
-
-[查看本周完整 ATel](./atels/2026-W18.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-27
 
 *Tags: #arXiv #Astrophysics*
 
@@ -365,5 +334,3 @@
   - *本文利用多视角观测分析了太阳上一次失败的日珥爆发过程，揭示了磁重联在抑制日冕物质抛射中的关键作用。*
 - **[0]** [Radial evolution of Alfvén wave Parametric Decay Instability in the near-Sun solar wind: Effects of Temperature Anisotropy](http://arxiv.org/abs/2604.22489v2)
   - *本文研究了近太阳太阳风中温度各向异性对阿尔芬波参数衰变不稳定性增长率的影响。*
-
-[查看历史目录](./posts/index.md)
