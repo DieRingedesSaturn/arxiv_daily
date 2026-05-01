@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17770: [SVOM/ECLAIRs detection of the ongoing outburst from the HMXB XTE J1859+083](https://www.astronomerstelegram.org/?read=17770)
-- **日期**: 30 Apr 2026 UT | **源**: `XTE J1859+083`
-
-**爆发速递**: SVOM卫星的ECLAIRs望远镜于2026年4月27日探测到高能X射线爆发，随后MXT跟进观测确认该源为高质量X射线双星XTE J1859+083。联合能谱分析显示其具有典型的吸积脉冲星特征，光子指数为1.33，截止能量约为21 keV。**观测短评**: 该源为包含Be星伴星的中子星双星系统，目前处于爆发活跃期。虽然SVOM/VT未观测到显著光学变化，但鉴于其作为HMXB的物理性质，后续多波段监测对于理解其吸积动力学具有重要价值。考虑到其光学亮度及系统特性，建议利用课题组1米望远镜进行长期光学监测，并可申请Swift或XMM-Newton进行深入时变分析。
-
----
-
-### [8] | ATel 17769: [Fermi-LAT detection of enhanced gamma-ray activity from 4C +33.06 and VHE emission from PKS 1440-389](https://www.astronomerstelegram.org/?read=17769)
-- **日期**: 27 Apr 2026 UT | **源**: `4C +33.06`
-
-**爆发速递**: Fermi-LAT 探测到耀变体 4C +33.06 和 PKS 1440-389 的伽马射线流量显著增强。其中 4C +33.06 流量较平均水平提升超 70 倍，能谱变硬；PKS 1440-389 流量提升超 10 倍，并伴随 110 GeV 的甚高能光子发射。**观测短评**: 两者均为典型的 AGN 耀发事件，具有极高的多波段联合观测价值。虽然 1m 望远镜受限于视场和灵敏度，但对于此类亮源的光学监测仍有意义。建议利用 Swift 或其他空间设备进行 X 射线能谱追踪，并协调地面光学望远镜开展测光监测，以捕捉吸积盘与喷流的响应关系。
-
----
-
-### [6] | ATel 17768: [XRISM/Xtend Transient Search (XTS) detected an X-ray brightening of XRISM J1847+8008](https://www.astronomerstelegram.org/?read=17768)
-
-[查看本周完整 ATel](./atels/2026-W18.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-04-30
 
 *Tags: #arXiv #Astrophysics*
 
@@ -213,5 +182,3 @@
   - *本文通过N体模拟研究了湍流团块吸积模型下大质量恒星周围的恒星成团性与多重性演化。*
 - **[1]** [Iron He-triplet signatures of shocks in the hottest galaxy clusters. Z/W line ratio, line broadening, and electron-ion temperature equilibration](http://arxiv.org/abs/2604.27212v1)
   - *本文研究了星系团碰撞激波中铁离子He-like三线谱特征，旨在利用XRISM高分辨率光谱约束星系团内介质的电子-离子平衡过程。*
-
-[查看历史目录](./posts/index.md)
