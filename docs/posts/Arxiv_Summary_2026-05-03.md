@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17772: [MAXI/GSC detection of an X-ray burst probably from GS 0836-429 (MX 0836-42)](https://www.astronomerstelegram.org/?read=17772)
-- **日期**: 1 May 2026 UT | **源**: `GS 0836-429`
-
-**爆发速递**: MAXI/GSC于2026年4月30日探测到来自GS 0836-429（又名MX 0836-42）的一次明亮X射线爆发，通量约为162 mCrab。该源为中子星X射线双星，此前已沉寂多年，此次爆发可能预示其进入新的活跃期。**观测短评**: 该源为已知的中子星X射线爆发源，具有重要的时变与吸积物理研究价值。虽然光学对应体较暗，但若后续进入持续爆发状态，可利用LCO或ESO等设备进行多波段监测。鉴于其历史活跃记录，建议密切关注其X射线波段的后续活动，暂无需立即动用我方1m望远镜跟进。
-
----
-
-### [10] | ATel 17771: [NuSTAR detects hard-state decay and weak reflection in GS 1354-64](https://www.astronomerstelegram.org/?read=17771)
-- **日期**: 1 May 2026 UT | **源**: `GS 1354-64`
-
-**爆发速递**: NuSTAR对黑洞X射线双星GS 1354-64进行了多次观测，记录了其从爆发初期的高亮硬态到近期衰减阶段的演化。最新观测显示源处于低硬态，通量显著下降，正趋于宁静期。**观测短评**: 该源为典型的黑洞X射线双星，符合课题组核心研究方向。目前源已进入衰减期，光学亮度可能较低，需评估当前星等是否在1m望远镜观测极限内。鉴于其处于爆发末期，若有后续多波段监测需求，可利用现有空间设备资源进行协同观测。
-
----
-
-### [8] | ATel 17770: [SVOM/ECLAIRs detection of the ongoing outburst from the HMXB XTE J1859+083](https://www.astronomerstelegram.org/?read=17770)
-
-[查看本周完整 ATel](./atels/2026-W18.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-03
 
 *Tags: #arXiv #Astrophysics*
 
@@ -100,5 +69,3 @@
   - *本文提出了一种基于机器学习的自动识别算法，用于检测帕克太阳探测器观测到的太阳风中离子声波及相关电子加热现象。*
 - **[0]** [Self-consistent numerical simulations for the formation and dynamics of solar prominences](http://arxiv.org/abs/2605.00102v1)
   - *本文通过三维数值模拟研究了太阳日珥的形成机制与动力学演化过程。*
-
-[查看历史目录](./posts/index.md)
