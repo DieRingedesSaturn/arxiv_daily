@@ -1,27 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 17773: [Fermi-LAT detection of a new gamma-ray source, Fermi J1443+7152](https://www.astronomerstelegram.org/?read=17773)
-- **日期**: 5 May 2026 UT | **源**: `Fermi J1443+7152`
-
-**爆发速递**: Fermi-LAT通过全天变率分析(FAVA)探测到一个新的伽马射线暂现源Fermi J1443+7152，其位置与光学暂现源AT 2026jcu重合。该源在2026年3月至5月期间表现出显著的伽马射线辐射，能谱指数约为2.3。**观测短评**: 该源目前缺乏明确的多波段对应体性质，虽然存在光学对应体，但其物理本质尚不明确。由于该源处于高能伽马射线波段，且与课题组核心研究的BHXRB或AGN关联性较弱，光学后随观测价值有限。除非后续有更明确的吸积特征证据，否则暂无需动用1m望远镜跟进。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W19.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-04
 
 *Tags: #arXiv #Astrophysics*
 
@@ -217,5 +194,3 @@
   - *本文提出一种源对齐方法，利用磁场回溯技术分析帕克太阳探测器与太阳轨道器数据，研究太阳风在内日球层的径向演化与加速机制。*
 - **[0]** [Statistically Significant Linear Alignments Among High-Confidence Transient Candidates on POSS-I Photographic Plates](http://arxiv.org/abs/2605.01190v1)
   - *该论文研究POSS-I底片中消失源的线性排列现象，推测其可能与高空不明物体或观测伪影有关，与黑洞吸积及暂现源物理研究无关。*
-
-[查看历史目录](./posts/index.md)
