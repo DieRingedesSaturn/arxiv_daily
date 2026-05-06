@@ -1,34 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17774: [ATCA detection of SN 2024ggi](https://www.astronomerstelegram.org/?read=17774)
-- **日期**: 5 May 2026 UT | **源**: `SN 2024ggi`
-
-**爆发速递**: 研究团队利用澳大利亚望远镜致密阵列 (ATCA) 对位于 NGC 3621 的 II 型超新星 SN 2024ggi 进行了射电波段观测，在 5.5 GHz 和 9.0 GHz 频段均探测到显著的射电辐射，且相比两年前的观测数据有明显增亮。**观测短评**: 该目标为超新星，虽处于研究兴趣边缘，但其射电增亮现象具有一定物理研究价值。由于该源已处于演化后期且主要依赖射电观测，我方 1m 光学望远镜跟进意义有限，建议关注后续射电监测数据即可，无需申请额外光学观测。
-
----
-
-### [3] | ATel 17773: [Fermi-LAT detection of a new gamma-ray source, Fermi J1443+7152](https://www.astronomerstelegram.org/?read=17773)
-- **日期**: 5 May 2026 UT | **源**: `Fermi J1443+7152`
-
-**爆发速递**: Fermi-LAT通过全天变率分析(FAVA)探测到一个新的伽马射线暂现源Fermi J1443+7152，其位置与光学暂现源AT 2026jcu重合。该源在2026年3月至5月期间表现出显著的伽马射线辐射，能谱指数约为2.3。**观测短评**: 该源目前缺乏明确的多波段对应体性质，虽然存在光学对应体，但其物理本质尚不明确。由于该源处于高能伽马射线波段，且与课题组核心研究的BHXRB或AGN关联性较弱，光学后随观测价值有限。除非后续有更明确的吸积特征证据，否则暂无需动用1m望远镜跟进。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W19.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-05
 
 *Tags: #arXiv #Astrophysics*
 
@@ -135,5 +105,3 @@
   - *本文利用IRIS观测数据研究了太阳过渡区Si IV谱线的非高斯分布特征及其与磁场几何构型的关系。*
 - **[0]** [Chromosphere of the quiet Sun -- II. Atmospheric response to small-scale magnetic flux emergence](http://arxiv.org/abs/2605.03019v1)
   - *本文利用3D辐射磁流体模拟研究了宁静太阳中磁通量涌现对色球层加热及大气热力学耦合的影响。*
-
-[查看历史目录](./posts/index.md)
