@@ -44,6 +44,8 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [LEDA_735555](./sources/LEDA_735555.md) | *最新动态: ATel 17775 (6 May 2026)*
+- [S5_1803+784](./sources/S5_1803+784.md) | *最新动态: ATel 17776 (6 May 2026)*
 - [4C_+33.06](./sources/4C_+33.06.md) | *最新动态: ATel 17769 (27 Apr 2026)*
 - [PKS_0235-618](./sources/PKS_0235-618.md) | *最新动态: ATel 17766 (26 Apr 2026)*
 - [PKS_0537-441](./sources/PKS_0537-441.md) | *最新动态: ATel 17755 (16 Apr 2026)*

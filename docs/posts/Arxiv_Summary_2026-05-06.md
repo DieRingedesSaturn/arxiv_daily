@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17776: [Fermi LAT detection of renewed gamma-ray activity from the BL Lac S5 1803+784](https://www.astronomerstelegram.org/?read=17776)
-- **日期**: 6 May 2026 UT | **源**: `S5 1803+784`
-
-**爆发速递**: Fermi-LAT 探测到 BL Lac 天体 S5 1803+784 出现显著的伽马射线耀发。2026年5月5日，其日均伽马射线通量达到 (1.3+/-0.1) X 10^-6 photons cm^-2 s^-1，较平均水平提升超过10倍，创下该源的历史最高日通量记录。**观测短评**: 该源为活跃的 AGN，处于高能耀发状态，具有极高的多波段联合观测价值。虽然该源位于高赤纬，但其光学对应体亮度通常较亮，建议利用 1m 望远镜进行光学监测以捕捉可能的同步辐射变化，并可考虑申请 Swift 或其他空间设备进行能谱覆盖，以研究其喷流物理机制。
-
----
-
-### [8] | ATel 17775: [Einstein Probe detection of the brightening of the Galaxy LEDA 735555](https://www.astronomerstelegram.org/?read=17775)
-- **日期**: 6 May 2026 UT | **源**: `LEDA 735555`
-
-**爆发速递**: Einstein Probe (EP) 的宽场X射线望远镜 (WXT) 和后续X射线望远镜 (FXT) 探测到星系 LEDA 735555 的X射线流量显著增强。该源在0.5-10 keV能段的通量较历史 eROSITA 观测值高出一个数量级以上，对应光度约为 2e44 erg/s，且光学波段也观测到了同步增亮现象。**观测短评**: 该源为已知的活动星系核 (AGN)，此次爆发表现出显著的X射线与光学增亮，符合课题组对AGN吸积物理的研究兴趣。鉴于其历史曾有爆发记录 (AT 2021jbt)，建议利用现有光学设备进行长期监测以捕捉光变特征，并可考虑申请 Swift 或 XMM-Newton 进行多波段联合观测，以分析其吸积状态的变化。
-
----
-
-### [2] | ATel 17774: [ATCA detection of SN 2024ggi](https://www.astronomerstelegram.org/?read=17774)
-
-[查看本周完整 ATel](./atels/2026-W19.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-06
 
 *Tags: #arXiv #Astrophysics*
 
@@ -155,5 +124,3 @@
   - *本文提出了一种利用正交基函数和时间感知神经网络CANSTAR来消除恒星活动引起的径向速度抖动，以提升系外行星探测精度的方法。*
 - **[0]** [Ensemble modeling of Coronal Mass Ejection dynamics and forecasts at 1 AU with a semi-analytic flux-rope model](http://arxiv.org/abs/2605.04284v1)
   - *该论文研究日冕物质抛射（CME）的动力学模型及1 AU处的传播预报，属于太阳物理学领域。*
-
-[查看历史目录](./posts/index.md)
