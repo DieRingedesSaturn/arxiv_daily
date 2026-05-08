@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17778: [LEDA 735555: WISE detection of long-term infrared brightening and a flare in 2021](https://www.astronomerstelegram.org/?read=17778)
-- **日期**: 7 May 2026 UT | **源**: `LEDA 735555`
-
-**爆发速递**: Einstein Probe 和 eROSITA 在星系 LEDA 735555 中探测到多次 X 射线耀发，并伴随光学（Gaia21daz/AT 2021jbt）及红外（WISE）波段的增亮。红外光变显示出长期的上升趋势，且在耀发期间伴随尘埃加热迹象。**观测短评**: 该源表现出类似 AGN 的活动特征，具有较高的多波段研究价值。鉴于其光学暂现源属性，建议利用 1m 望远镜进行光学光谱监测以确认其物理本质（如 TDE 或 AGN 耀发）。若光谱特征符合，可进一步申请 Swift 或 XMM-Newton 进行深度的 X 射线能谱分析。
-
----
-
-### [8] | ATel 17777: [LEDA 735555: eROSITA detection of a flare in  2020-2022](https://www.astronomerstelegram.org/?read=17777)
-- **日期**: 7 May 2026 UT | **源**: `LEDA 735555`
-
-**爆发速递**: eROSITA在2020年至2022年间监测到星系LEDA 735555的X射线流量显著上升并随后衰减，该爆发与光学暂现源AT 2021jbt在时间上吻合，且近期Einstein Probe也报告了该源的增亮现象。**观测短评**: 该源表现出典型的潮汐撕裂事件(TDE)特征，具有较高的多波段研究价值。虽然该源目前处于衰减阶段，但鉴于其在X射线波段的显著活动，建议利用Swift或XMM-Newton进行后续X射线监测，以分析其吸积演化过程。若光学亮度尚在可测范围内，可利用1m望远镜进行长期测光监测。
-
----
-
-### [8] | ATel 17776: [Fermi LAT detection of renewed gamma-ray activity from the BL Lac S5 1803+784](https://www.astronomerstelegram.org/?read=17776)
-
-[查看本周完整 ATel](./atels/2026-W19.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-07
 
 *Tags: #arXiv #Astrophysics*
 
@@ -164,5 +133,3 @@
   - *本文利用Nobeyama射电日像仪数据分析了太阳极区微波增亮与极区冕洞及磁场演化的相关性。*
 - **[0]** [Ag I model atom and the 3D non-LTE solar silver abundance](http://arxiv.org/abs/2605.05356v1)
   - *本文构建了银(Ag)的3D非局部热力学平衡模型，并据此重新测定了太阳银丰度，旨在研究银元素的核合成与化学演化。*
-
-[查看历史目录](./posts/index.md)
