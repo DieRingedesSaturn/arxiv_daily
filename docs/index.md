@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [8] | ATel 17778: [LEDA 735555: WISE detection of long-term infrared brightening and a flare in 2021](https://www.astronomerstelegram.org/?read=17778)
-- **日期**: 7 May 2026 UT | **源**: `LEDA 735555`
+### [8] | ATel 17782: [Optical brightening of the blazar TXS 1420+326 (OQ 334)](https://www.astronomerstelegram.org/?read=17782)
+- **日期**: 8 May 2026 UT | **源**: `TXS 1420+326`
 
-**爆发速递**: Einstein Probe 和 eROSITA 在星系 LEDA 735555 中探测到多次 X 射线耀发，并伴随光学（Gaia21daz/AT 2021jbt）及红外（WISE）波段的增亮。红外光变显示出长期的上升趋势，且在耀发期间伴随尘埃加热迹象。**观测短评**: 该源表现出类似 AGN 的活动特征，具有较高的多波段研究价值。鉴于其光学暂现源属性，建议利用 1m 望远镜进行光学光谱监测以确认其物理本质（如 TDE 或 AGN 耀发）。若光谱特征符合，可进一步申请 Swift 或 XMM-Newton 进行深度的 X 射线能谱分析。
-
----
-
-### [8] | ATel 17777: [LEDA 735555: eROSITA detection of a flare in  2020-2022](https://www.astronomerstelegram.org/?read=17777)
-- **日期**: 7 May 2026 UT | **源**: `LEDA 735555`
-
-**爆发速递**: eROSITA在2020年至2022年间监测到星系LEDA 735555的X射线流量显著上升并随后衰减，该爆发与光学暂现源AT 2021jbt在时间上吻合，且近期Einstein Probe也报告了该源的增亮现象。**观测短评**: 该源表现出典型的潮汐撕裂事件(TDE)特征，具有较高的多波段研究价值。虽然该源目前处于衰减阶段，但鉴于其在X射线波段的显著活动，建议利用Swift或XMM-Newton进行后续X射线监测，以分析其吸积演化过程。若光学亮度尚在可测范围内，可利用1m望远镜进行长期测光监测。
+**爆发速递**: NMW-TexasTech巡天项目报告称，TeV探测源及平谱射电类星体TXS 1420+326近期出现显著光学增亮，星等已从大于15.4等升至14.35等，且此前已观测到GeV及射电波段的活跃迹象。**观测短评**: 该源为已知的高能活动星系核，当前处于活跃期。考虑到其当前亮度(约14.3等)在我们的1米望远镜测光极限(21等)范围内，具备良好的光学监测价值，可进行持续测光以捕捉其光变特征。建议结合多波段数据进行分析，必要时可申请Swift等空间设备进行X射线协同观测。
 
 ---
 
-### [8] | ATel 17776: [Fermi LAT detection of renewed gamma-ray activity from the BL Lac S5 1803+784](https://www.astronomerstelegram.org/?read=17776)
+### [8] | ATel 17781: [SPT-SV J222602.8-540533: South Pole Telescope Reports Detection of a Flaring Millimeter-Band Source](https://www.astronomerstelegram.org/?read=17781)
+- **日期**: 8 May 2026 UT | **源**: `SPT-SV J222602.8-540533`
+
+**爆发速递**: 南极望远镜(SPT-3G)探测到毫米波段暂现源SPT-SV J222602.8-540533发生剧烈耀发，150 GHz通量较静止期增加超过8倍。该源对应红移z=0.0571的星系LEDA 422944，此前已被eROSITA探测到X射线辐射，表现为低光度AGN或Seyfert星系特征。**观测短评**: 该源处于活动状态且具有多波段研究价值，特别是其倒谱特征暗示厘米波段可能尚未达到峰值。虽然该源位于南天区，但鉴于其AGN性质，建议利用Swift或XMM-Newton进行X射线监测，并协调射电望远镜跟进，以研究其吸积与喷流活动。
+
+---
+
+### [8] | ATel 17780: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ 3C 395](https://www.astronomerstelegram.org/?read=17780)
 
 [查看本周完整 ATel](./atels/2026-W19.md)
 
