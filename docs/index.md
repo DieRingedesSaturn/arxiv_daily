@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [8] | ATel 17782: [Optical brightening of the blazar TXS 1420+326 (OQ 334)](https://www.astronomerstelegram.org/?read=17782)
-- **日期**: 8 May 2026 UT | **源**: `TXS 1420+326`
+### [2] | ATel 17788: [Confirmation that M31N 2026-04c is the fourth reported eruption of the recurrent nova 1960-12a](https://www.astronomerstelegram.org/?read=17788)
+- **日期**: 9 May 2026 UT | **源**: `M31N 1960-12a`
 
-**爆发速递**: NMW-TexasTech巡天项目报告称，TeV探测源及平谱射电类星体TXS 1420+326近期出现显著光学增亮，星等已从大于15.4等升至14.35等，且此前已观测到GeV及射电波段的活跃迹象。**观测短评**: 该源为已知的高能活动星系核，当前处于活跃期。考虑到其当前亮度(约14.3等)在我们的1米望远镜测光极限(21等)范围内，具备良好的光学监测价值，可进行持续测光以捕捉其光变特征。建议结合多波段数据进行分析，必要时可申请Swift等空间设备进行X射线协同观测。
-
----
-
-### [8] | ATel 17781: [SPT-SV J222602.8-540533: South Pole Telescope Reports Detection of a Flaring Millimeter-Band Source](https://www.astronomerstelegram.org/?read=17781)
-- **日期**: 8 May 2026 UT | **源**: `SPT-SV J222602.8-540533`
-
-**爆发速递**: 南极望远镜(SPT-3G)探测到毫米波段暂现源SPT-SV J222602.8-540533发生剧烈耀发，150 GHz通量较静止期增加超过8倍。该源对应红移z=0.0571的星系LEDA 422944，此前已被eROSITA探测到X射线辐射，表现为低光度AGN或Seyfert星系特征。**观测短评**: 该源处于活动状态且具有多波段研究价值，特别是其倒谱特征暗示厘米波段可能尚未达到峰值。虽然该源位于南天区，但鉴于其AGN性质，建议利用Swift或XMM-Newton进行X射线监测，并协调射电望远镜跟进，以研究其吸积与喷流活动。
+**爆发速递**: 研究团队通过对比观测图像，确认了仙女座星系(M31)中的暂现源 M31N 2026-04c 为复发新星 M31N 1960-12a 的第四次爆发。该源在R波段表现出快速衰减特征，t2约为3.9天。**观测短评**: 该目标位于M31，距离较远且亮度已降至20等以下，超出了我方1米望远镜的有效观测极限。由于该源属于已知复发新星的常规监测范畴，且目前已处于衰减后期，无需额外申请观测资源。
 
 ---
 
-### [8] | ATel 17780: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ 3C 395](https://www.astronomerstelegram.org/?read=17780)
+### [8] | ATel 17787: [Enhanced optical activity of the BL Lac S5 1803+784](https://www.astronomerstelegram.org/?read=17787)
+- **日期**: 9 May 2026 UT | **源**: `S5 1803+784`
+
+**爆发速递**: BL Lac天体S5 1803+784近期表现出增强的光学活动，R波段亮度约为13.8-13.9等。此前Fermi/LAT已报告该源处于耀发状态，此次观测进一步证实了其多波段的活跃性。**观测短评**: 该源目前处于高亮状态，具有极高的光学监测价值。鉴于其亮度（约14等）远高于我方1m望远镜的测光极限，完全具备观测条件。建议利用我方设备进行持续的光学监测，并结合多波段数据分析其吸积与喷流物理过程，必要时可申请Swift或XMM-Newton进行X射线协同观测。
+
+---
+
+### [8] | ATel 17786: [Fermi-LAT detection of renewed gamma-ray activity from the CSS 3C 138](https://www.astronomerstelegram.org/?read=17786)
 
 [查看本周完整 ATel](./atels/2026-W19.md)
 
