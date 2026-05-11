@@ -39,17 +39,18 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [TCP_J07151825+4753167_and_TCP_J15030519+2202041](./sources/TCP_J07151825+4753167_and_TCP_J15030519+2202041.md) | *最新动态: ATel 17791 (10 May 2026)*
 - [T_CrB](./sources/T_CrB.md) | *最新动态: ATel 17784 (9 May 2026)*
 - [XRISM_J1847+8008](./sources/XRISM_J1847+8008.md) | *最新动态: ATel 17768 (27 Apr 2026)*
 - [WW_Lyn](./sources/WW_Lyn.md) | *最新动态: ATel 17759 (19 Apr 2026)*
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17790 (10 May 2026)*
 - [S5_1803+784](./sources/S5_1803+784.md) | *最新动态: ATel 17787 (9 May 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 17786 (9 May 2026)*
 - [3C_395](./sources/3C_395.md) | *最新动态: ATel 17780 (8 May 2026)*
 - [SPT-SV_J222602.8-540533](./sources/SPT-SV_J222602.8-540533.md) | *最新动态: ATel 17781 (8 May 2026)*
-- [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17782 (8 May 2026)*
 - [LEDA_735555](./sources/LEDA_735555.md) | *最新动态: ATel 17778 (7 May 2026)*
 - [4C_+33.06](./sources/4C_+33.06.md) | *最新动态: ATel 17769 (27 Apr 2026)*
 - [PKS_0235-618](./sources/PKS_0235-618.md) | *最新动态: ATel 17766 (26 Apr 2026)*
@@ -79,7 +80,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
-- [EP260507b](./sources/EP260507b.md) | *最新动态: ATel 17783 (9 May 2026)*
+- [EP260507b](./sources/EP260507b.md) | *最新动态: ATel 17789 (10 May 2026)*
 - [M31N_2026-04c](./sources/M31N_2026-04c.md) | *最新动态: ATel 17788 (9 May 2026)*
 - [XRISM_J0602-4006](./sources/XRISM_J0602-4006.md) | *最新动态: ATel 17785 (9 May 2026)*
 - [XRISM_J2052-5701](./sources/XRISM_J2052-5701.md) | *最新动态: ATel 17779 (8 May 2026)*

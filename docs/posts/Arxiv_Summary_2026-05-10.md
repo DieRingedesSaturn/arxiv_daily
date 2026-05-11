@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 17791: [Spectroscopic and photometric confirmation of TCP J07151825+4753167 and TCP J15030519+2202041 as hydrogen-rich and helium-rich WZ Sge-type dwarf novae](https://www.astronomerstelegram.org/?read=17791)
-- **日期**: 10 May 2026 UT | **源**: `TCP J07151825+4753167 and TCP J15030519+2202041`
-
-**爆发速递**: 研究团队利用Seimei望远镜的KOOLS-IFU光谱仪，确认了两个新的WZ Sge型矮新星。其中TCP J07151825+4753167为富氢型，TCP J15030519+2202041为富氦型（AM CVn类），后者还被观测到早期超驼峰现象。**观测短评**: 两者均处于爆发状态且亮度适中（14等左右），非常适合我方1米望远镜进行长期的测光监测，以研究其超驼峰演化及轨道周期。建议立即安排跟进观测，无需申请大型设备。
-
----
-
-### [8] | ATel 17790: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ OQ 334](https://www.astronomerstelegram.org/?read=17790)
-- **日期**: 10 May 2026 UT | **源**: `OQ 334`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 (FSRQ) OQ 334 出现显著的伽马射线耀发活动。2026年5月9日，其日均伽马射线通量较 4FGL-DR4 平均水平激增超过 40 倍，光子指数为 2.1，处于较硬的能谱状态。**观测短评**: 该源为已知活跃的 AGN，此次耀发强度显著，具有极高的多波段联合观测价值。虽然 1m 光学望远镜难以直接观测其高能物理过程，但建议利用 Swift 或其他多波段资源进行同步监测，以研究其吸积与喷流物理，必要时可申请相关空间设备进行深度分析。
-
----
-
-### [8] | ATel 17789: [EP260507b: LCO optical upper limits](https://www.astronomerstelegram.org/?read=17789)
-
-[查看本周完整 ATel](./atels/2026-W19.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-10
 
 *Tags: #arXiv #Astrophysics*
 
@@ -141,5 +110,3 @@
   - *本文对原恒星HOPS 373的爆发进行了射电连续谱与水脉泽监测，发现其自由-自由辐射并未随吸积爆发发生显著变化。*
 - **[1]** [A PINK update: Improvements to the CELEBI fast radio burst data reduction and analysis pipeline](http://arxiv.org/abs/2605.06766v1)
   - *本文介绍了CELEBI快速射电暴数据处理流水线的更新版本PINK，旨在提升FRB的定位精度、偏振校准及信噪比。*
-
-[查看历史目录](./posts/index.md)
