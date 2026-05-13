@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17797: [Discovery of a Probable Nova in M31, M31N 2026-05a](https://www.astronomerstelegram.org/?read=17797)
-- **日期**: 12 May 2026 UT | **源**: `M31N 2026-05a`
-
-**爆发速递**: Belec nad Orlici (HVBO) 和 Ondrejov (D65) 望远镜在仙女座星系 (M31) 中发现了一颗疑似新星 M31N 2026-05a。该目标在 H_alpha 和 R 波段均有探测，亮度约为 16.5-18.7 等。**观测短评**: 该目标位于 M31，属于河外新星。虽然其亮度处于我方 1m 望远镜的观测极限附近，但由于其位于 M31 且为新星，科学价值主要在于光谱分类与光变曲线监测。考虑到我方设备能力，该目标优先级较低，暂无必要申请大型设备跟进。
-
----
-
-### [3] | ATel 17796: [ASKAP VAST observations of SPT-SV J222602.8-540533](https://www.astronomerstelegram.org/?read=17796)
-- **日期**: 12 May 2026 UT | **源**: `SPT-SV J222602.8-540533`
-
-**爆发速递**: ASKAP VAST巡天对毫米波暂现源SPT-SV J222602.8-540533进行了射电波段观测。数据表明，该位置存在一个长期稳定的射电点源，其0.9 GHz通量密度约为2 mJy，且在1.37 GHz至1.7 GHz范围内表现为平谱特征。**观测短评**: 该源在射电波段表现为持续性源，而非新出现的暂现源，与毫米波爆发的关联性尚不明确。由于其主要特征为射电持续源且缺乏光学暂现特征，目前不建议使用1米光学望远镜进行跟进，暂无申请其他多波段设备观测的必要。
-
----
-
-### [6] | ATel 17795: [Ongoing optical flare of the blazar B2 1420+32](https://www.astronomerstelegram.org/?read=17795)
-
-[查看本周完整 ATel](./atels/2026-W20.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-12
 
 *Tags: #arXiv #Astrophysics*
 
@@ -444,5 +413,3 @@ AI识别天体: [中等质量黑洞, 黑洞双星]
   - *本文研究了太阳日冕物质抛射与日球层电流片的相互作用及其对太阳磁场结构的影响。*
 - **[0]** [Revisiting predictions for cosmic-ray antinucleon fluxes from Galactic Dark Matter](http://arxiv.org/abs/2605.08338v1)
   - *本文研究了银河系暗物质湮灭产生的宇宙线反核子通量预测，旨在通过AMS-02和GAPS数据约束暗物质模型。*
-
-[查看历史目录](./posts/index.md)
