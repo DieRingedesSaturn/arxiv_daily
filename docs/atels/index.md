@@ -81,6 +81,8 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [24P_Schaumasse](./sources/24P_Schaumasse.md) | *最新动态: ATel 17799 (13 May 2026)*
+- [63P_Wild_1](./sources/63P_Wild_1.md) | *最新动态: ATel 17798 (13 May 2026)*
 - [M31N_2026-05a](./sources/M31N_2026-05a.md) | *最新动态: ATel 17797 (12 May 2026)*
 - [SPT-SV_J222602.8-540533](./sources/SPT-SV_J222602.8-540533.md) | *最新动态: ATel 17796 (12 May 2026)*
 - [XRISM_J0602-4006](./sources/XRISM_J0602-4006.md) | *最新动态: ATel 17794 (11 May 2026)*

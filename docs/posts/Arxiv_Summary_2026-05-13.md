@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17799: [Two Apparent Outbursts of Comet 24P/Schaumasse](https://www.astronomerstelegram.org/?read=17799)
-- **日期**: 13 May 2026 UT | **源**: `24P/Schaumasse`
-
-**爆发速递**: 本文报道了彗星 24P/Schaumasse 发生的两次小规模爆发事件，分别由 ZTF 巡天发现并利用 LCO 全球望远镜网络及鹿林天文台进行了后续测光观测。**观测短评**: 该目标属于太阳系内天体，与课题组关注的黑洞吸积、AGN 及高能暂现源物理研究方向无关，无需投入观测资源。
-
----
-
-### [0] | ATel 17798: [Apparent Outburst of Comet 63P/Wild 1](https://www.astronomerstelegram.org/?read=17798)
-- **日期**: 13 May 2026 UT | **源**: `63P/Wild 1`
-
-**爆发速递**: ZTF与ATLAS巡天项目监测到彗星63P/Wild 1发生了一次约-1.2星等的爆发事件。观测显示该彗星在2026年5月4日亮度达到峰值，随后迅速下降，LCO后续观测证实了其亮度回落趋势。**观测短评**: 该目标为太阳系内彗星，与本课题组关注的黑洞、中子星及活动星系核等高能天体物理研究方向无关，无需进行光学后随观测或申请其他设备资源。
-
----
-
-### [2] | ATel 17797: [Discovery of a Probable Nova in M31, M31N 2026-05a](https://www.astronomerstelegram.org/?read=17797)
-
-[查看本周完整 ATel](./atels/2026-W20.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-13
 
 *Tags: #arXiv #Astrophysics*
 
@@ -188,5 +157,3 @@
   - *本文利用光谱偏振分析研究太阳色球层波与日冕元素丰度异常（FIP效应）之间的物理联系。*
 - **[0]** [Height Variations of Magnetoacoustic Cutoff Frequency in the Solar Atmosphere](http://arxiv.org/abs/2605.13040v1)
   - *本文利用IRIS观测数据分析了太阳大气中磁声截止频率随高度的变化规律。*
-
-[查看历史目录](./posts/index.md)
