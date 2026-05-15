@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17802: [VERITAS Detection of VHE gamma-ray flaring from B2 1420+32](https://www.astronomerstelegram.org/?read=17802)
-- **日期**: 15 May 2026 UT | **源**: `B2 1420+32`
-
-**爆发速递**: VERITAS 望远镜在 2026 年 5 月探测到平谱射电类星体 (FSRQ) B2 1420+32 的甚高能 (VHE) 伽马射线耀发，显著性达到 6.3 倍标准差，通量约为蟹状星云的 5%。该源此前在射电、近红外、光学及 MeV-GeV 波段均表现出活跃的耀发状态。**观测短评**: 该源属于活动星系核 (AGN)，符合课题组核心研究领域。鉴于其目前处于多波段活跃期，具有极高的多波段联合观测价值。虽然其光学亮度可能超出 1m 望远镜的观测极限，但建议利用 Swift 或其他空间设备进行后续能谱监测，并关注其长期时变特征，必要时可申请更大口径光学望远镜进行协同观测。
-
----
-
-### [4] | ATel 17801: [Discovery of a likely new Galactic recurrent nova with ZTF, ASAS-SN, and NEOWISE.](https://www.astronomerstelegram.org/?read=17801)
-- **日期**: 14 May 2026 UT | **源**: `AT2026lck`
-
-**爆发速递**: DCAP团队利用ZTF、ASAS-SN及NEOWISE数据，确认银河系内新发现的再发新星AT2026lck。该源在2010年、2017年及2026年均有爆发记录，爆发周期约为9年。近红外光谱显示其具有典型的Fe II型新星特征，伴有明显的P-Cygni轮廓。**观测短评**: 该源目前处于爆发活跃期，具有较高的光学亮度（r~13.8等），适合进行光学测光与光谱监测以研究其演化过程。虽然其位于北纬40度望远镜的观测范围内，但由于该源表现出明显的消光特征，建议优先利用具备红外观测能力的设备进行持续追踪，以深入分析其吸积与喷流物理机制。
-
----
-
-### [2] | ATel 17800: [FAST discovery of an FRB in the POP survey](https://www.astronomerstelegram.org/?read=17800)
-
-[查看本周完整 ATel](./atels/2026-W20.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-14
 
 *Tags: #arXiv #Astrophysics*
 
@@ -201,5 +170,3 @@
   - *该论文通过相对论数值模拟研究了脉冲星风中行星的磁层相互作用，并提出利用射电辐射探测脉冲星行星的可能性。*
 - **[0]** [Analysing the highly irregular boundaries of solar pores](http://arxiv.org/abs/2605.15112v1)
   - *本文提出了一种利用凸包分析太阳黑子孔洞边界不规则性的方法，并研究了其中的磁流体动力学波模。*
-
-[查看历史目录](./posts/index.md)
