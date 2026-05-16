@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [3] | ATel 17804: [Identification and spectroscopic classification of a reddened classical nova AT2026ldc with strong CO emission](https://www.astronomerstelegram.org/?read=17804)
+- **日期**: 15 May 2026 UT | **源**: `AT2026ldc`
+
+**爆发速递**: ZTF与WINTER巡天发现了一颗红化的经典新星AT2026ldc。光谱观测显示其具有强且宽的氢、氦、碳、氧发射线，且氦线呈现P-Cygni轮廓，同时伴有显著的CO发射带，特征类似于2017年的蛇夫座新星。**观测短评**: 该目标属于经典新星，虽非课题组核心研究的BHXRB或AGN，但其具有较强的红外特征。由于其光学星等较暗(r=16.7)，处于课题组1m望远镜光谱观测极限附近，且该类天体非主要研究方向，建议优先关注其他高能暂现源，无需投入额外观测资源。
+
+---
+
+### [2] | ATel 17803: [Spectroscopic Classification of AT 2026mko with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=17803)
+- **日期**: 15 May 2026 UT | **源**: `AT 2026mko`
+
+**爆发速递**: 利用Lick天文台Shane望远镜的Kast光谱仪，研究人员对源自ZTF数据流的暂现源AT 2026mko进行了光谱观测，将其分类为红移z=0.08的Ia型超新星，处于爆发前8天阶段。**观测短评**: 该目标为典型的Ia型超新星，属于常规超新星研究范畴，与本课题组关注的黑洞吸积及高能暂现源物理关联度较低。鉴于其亮度及类型，无需申请额外资源进行跟进观测。
+
+---
+
 ### [8] | ATel 17802: [VERITAS Detection of VHE gamma-ray flaring from B2 1420+32](https://www.astronomerstelegram.org/?read=17802)
-- **日期**: 15 May 2026 UT | **源**: `B2 1420+32`
-
-**爆发速递**: VERITAS 望远镜在 2026 年 5 月探测到平谱射电类星体 (FSRQ) B2 1420+32 的甚高能 (VHE) 伽马射线耀发，显著性达到 6.3 倍标准差，通量约为蟹状星云的 5%。该源此前在射电、近红外、光学及 MeV-GeV 波段均表现出活跃的耀发状态。**观测短评**: 该源属于活动星系核 (AGN)，符合课题组核心研究领域。鉴于其目前处于多波段活跃期，具有极高的多波段联合观测价值。虽然其光学亮度可能超出 1m 望远镜的观测极限，但建议利用 Swift 或其他空间设备进行后续能谱监测，并关注其长期时变特征，必要时可申请更大口径光学望远镜进行协同观测。
-
----
-
-### [4] | ATel 17801: [Discovery of a likely new Galactic recurrent nova with ZTF, ASAS-SN, and NEOWISE.](https://www.astronomerstelegram.org/?read=17801)
-- **日期**: 14 May 2026 UT | **源**: `AT2026lck`
-
-**爆发速递**: DCAP团队利用ZTF、ASAS-SN及NEOWISE数据，确认银河系内新发现的再发新星AT2026lck。该源在2010年、2017年及2026年均有爆发记录，爆发周期约为9年。近红外光谱显示其具有典型的Fe II型新星特征，伴有明显的P-Cygni轮廓。**观测短评**: 该源目前处于爆发活跃期，具有较高的光学亮度（r~13.8等），适合进行光学测光与光谱监测以研究其演化过程。虽然其位于北纬40度望远镜的观测范围内，但由于该源表现出明显的消光特征，建议优先利用具备红外观测能力的设备进行持续追踪，以深入分析其吸积与喷流物理机制。
-
----
-
-### [2] | ATel 17800: [FAST discovery of an FRB in the POP survey](https://www.astronomerstelegram.org/?read=17800)
 
 [查看本周完整 ATel](./atels/2026-W20.md)
 
