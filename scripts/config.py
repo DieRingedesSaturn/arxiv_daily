@@ -10,8 +10,8 @@ OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
 OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "https://api.ohmygpt.com/v1")
 
 # ================= 模型配置 =================
-GEMINI_MODEL_FLASH = "gemini-3-flash-preview"
-GEMINI_MODEL_LITE = "gemini-3.1-flash-lite-preview"
+GEMINI_MODEL_FLASH = "gemini-3.1-flash-lite"
+GEMINI_MODEL_LITE = "gemini-3.1-flash-lite"
 
 # ================= 天文检索配置 =================
 ARXIV_CATEGORIES = ["astro-ph.HE", "astro-ph.SR"]

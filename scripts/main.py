@@ -88,50 +88,71 @@ def run_arxiv_task(target_date):
     raw_papers = get_new_arxiv_papers(processed_ids, max_results=200)
     candidates = keyword_pre_filter(raw_papers)
 
+    if not raw_papers:
+        logger.info("没有发现需要分析的新论文。")
+        update_indexes(arxiv_files_updated=True)
+        return
+
+    # 初始已完成集合：所有未通过关键词初筛的论文
+    candidate_entry_ids = {p.entry_id.replace("http://", "https://") for p in candidates}
+    finished_ids = {
+        p.entry_id.replace("http://", "https://") for p in raw_papers 
+        if p.entry_id.replace("http://", "https://") not in candidate_entry_ids
+    }
+
     if candidates:
         logger.info(f"正在使用 Lite 模型为 {len(candidates)} 篇候选论文进行初筛打分...")
-        scored = []
+        scored_successfully = []
         for p in candidates:
             ans = ai_relevance_check(p)
-            scored.append({'paper': p, 'analysis': ans, 'score': ans.get('score', 0)})
+            p_id = p.entry_id.replace("http://", "https://")
+            
+            if ans.get('one_sentence_summary') != "解析失败":
+                score = ans.get('score', 0)
+                scored_successfully.append({'paper': p, 'analysis': ans, 'score': score})
+                # 如果分值低，它不需要摘要，直接标记为完成
+                if score < 6:
+                    finished_ids.add(p_id)
+            else:
+                logger.warning(f"  [Failed] 论文评分解析失败，稍后重试: {p.title[:30]}...")
             time.sleep(4.0)
 
-        scored.sort(key=lambda x: x['score'], reverse=True)
+        scored_successfully.sort(key=lambda x: x['score'], reverse=True)
         high_score, low_score = [], []
 
         logger.info("开始生成论文摘要 (高分优先，尝试使用 Flash 模型)...")
-        for item in scored:
+        for item in scored_successfully:
             score, p, ans = item['score'], item['paper'], item['analysis']
-            
-            # 过滤掉完全解析失败的论文，不再写入 Markdown 文件
-            if ans.get('one_sentence_summary') == "解析失败":
-                logger.warning(f"  [Skipped] 论文解析失败，跳过写入: {p.title[:30]}...")
-                continue
-                
-            logger.info(f"  -> [{score}分] {p.title[:30]}...")
+            p_id = p.entry_id.replace("http://", "https://")
+
             if score >= 6:
-                high_score.append({
-                    'paper': p, 'analysis': ans,
-                    'summary': ai_summarize_short(p, ans),
-                })
+                logger.info(f"  -> [{score}分] {p.title[:30]}...")
+                summary = ai_summarize_short(p, ans)
+                if not summary.startswith("摘要生成失败"):
+                    high_score.append({
+                        'paper': p, 'analysis': ans,
+                        'summary': summary,
+                    })
+                    finished_ids.add(p_id)
+                else:
+                    logger.warning(f"  [Failed] 摘要生成失败，稍后重试: {p.title[:30]}...")
                 time.sleep(4.5)
             else:
+                # 低分论文已经在上面标记为 finished 了，这里只需加入列表供生成笔记使用
                 low_score.append({'paper': p, 'analysis': ans})
 
         # 仅在有成功解析的论文时才生成笔记
         if high_score or low_score:
             generate_obsidian_note(high_score, low_score, target_date)
         else:
-            logger.warning("所有候选论文均解析失败，本次不生成 ArXiv 笔记。")
+            logger.warning("本次运行未产生任何成功解析的论文。")
 
-        new_ids = [p.entry_id.replace("http://", "https://") for p in raw_papers]
-        arxiv_state['processed_ids'] = sorted(
-            list(processed_ids | set(new_ids)), reverse=True
-        )[:1000]
-        with open(ARXIV_STATE_FILE, 'w') as f:
-            json.dump(arxiv_state, f, indent=2)
-    else:
-        logger.info("没有发现需要分析的新论文。")
+    # 更新并持久化状态
+    arxiv_state['processed_ids'] = sorted(
+        list(processed_ids | finished_ids), reverse=True
+    )[:1000]
+    with open(ARXIV_STATE_FILE, 'w') as f:
+        json.dump(arxiv_state, f, indent=2)
 
     update_indexes(arxiv_files_updated=True)
 

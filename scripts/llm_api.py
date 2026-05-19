@@ -23,6 +23,7 @@ _RETRYABLE_ERRORS = [
     "RESOURCE_EXHAUSTED", "UNAVAILABLE", "OVERLOADED",  # Google API
     "RATE_LIMIT", "RATE LIMIT", "QUOTA",                # 限流相关
     "TIMEOUT", "TIMED OUT", "CONNECTION",               # 网络瞬态
+    "SSL", "EOF", "UNEXPECTED_EOF",                     # 网络中断 (常见于 SSL 握手或长连接断开)
     "JSONDECODEERROR", "EXPECTING VALUE",               # JSON 解析失败 (模型偶发空响应)
     "INTERNAL", "SERVER_ERROR",                         # 服务端内部错误
 ]
