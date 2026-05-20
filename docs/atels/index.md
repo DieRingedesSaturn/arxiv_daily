@@ -41,7 +41,6 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
-- [AT2026lck](./sources/AT2026lck.md) | *最新动态: ATel 17801 (14 May 2026)*
 - [TCP_J07151825+4753167_and_TCP_J15030519+2202041](./sources/TCP_J07151825+4753167_and_TCP_J15030519+2202041.md) | *最新动态: ATel 17791 (10 May 2026)*
 - [T_CrB](./sources/T_CrB.md) | *最新动态: ATel 17784 (9 May 2026)*
 - [XRISM_J1847+8008](./sources/XRISM_J1847+8008.md) | *最新动态: ATel 17768 (27 Apr 2026)*
@@ -85,6 +84,8 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [AT2026lck](./sources/AT2026lck.md) | *最新动态: ATel 17806 (19 May 2026)*
+- [M81N_2026-05a](./sources/M81N_2026-05a.md) | *最新动态: ATel 17807 (19 May 2026)*
 - [AT2026clk](./sources/AT2026clk.md) | *最新动态: ATel 17805 (18 May 2026)*
 - [AT2026ldc](./sources/AT2026ldc.md) | *最新动态: ATel 17804 (15 May 2026)*
 - [24P_Schaumasse](./sources/24P_Schaumasse.md) | *最新动态: ATel 17799 (13 May 2026)*

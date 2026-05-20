@@ -1,8 +1,15 @@
 # Source: AT2026lck
 
-*Tags: #ATel #CV*
+*Tags: #ATel #Other*
 
-- **类别**: CV
+- **类别**: Other
+
+---
+
+### ATel 17806: [Correction to ATel 17805](https://www.astronomerstelegram.org/?read=17806)
+- **日期**: 19 May 2026 UT
+
+**爆发速递**: 本文是对 ATel 17805 的勘误，确认此前报道的光谱数据属于新星 AT2026 lck，而非此前误写的 clk。**观测短评**: 该目标为新星，与本组黑洞及活动星系核的研究兴趣关联度极低，无需跟进。
 
 ---
 
