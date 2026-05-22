@@ -16,6 +16,12 @@ from utils import logger
 # ================= 论文获取 =================
 def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 200) -> list[arxiv.Result]:
     """从 arXiv API 获取最新论文，过滤已处理的 ID。"""
+    # 强制 urllib3 (requests) 仅使用 IPv4 路由，以规避 GitHub Actions 的 IPv6 429 速率限制
+    import urllib3.util.connection as urllib3_conn
+    import socket
+    import random
+    urllib3_conn.allowed_gai_family = lambda: socket.AF_INET
+
     logger.info(f"正在检索最新的 {max_results} 篇 arXiv 论文...")
     query = ' OR '.join([f'cat:{c}' for c in ARXIV_CATEGORIES])
     search = arxiv.Search(
@@ -23,7 +29,8 @@ def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 200) -> lis
         max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate,
     )
-    client_arxiv = arxiv.Client(page_size=100, delay_seconds=10, num_retries=10)
+    # 将分页延迟增大至 15 秒，以降低触发频控的概率
+    client_arxiv = arxiv.Client(page_size=100, delay_seconds=15, num_retries=10)
 
     max_outer_retries = 3
     for attempt in range(max_outer_retries):
@@ -38,7 +45,8 @@ def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 200) -> lis
             is_arxiv_error = "arxiv" in str(type(e)).lower()
             if is_arxiv_error:
                 if attempt < max_outer_retries - 1:
-                    wait_time = (attempt + 1) * 60
+                    # 使用较长的指数退避，并引入 10-30 秒的随机抖动 (Jitter) 以错开并发
+                    wait_time = (attempt + 1) * 90 + random.randint(10, 30)
                     logger.warning(
                         f"arXiv API 请求失败 ({e})。正在进行第 {attempt+1} 次重试，等待 {wait_time} 秒..."
                     )
@@ -49,6 +57,7 @@ def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 200) -> lis
             else:
                 raise
     return []
+
 
 
 # ================= 关键词预筛 =================

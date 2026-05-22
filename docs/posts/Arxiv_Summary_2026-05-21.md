@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17807: [Discovery of a Probable Nova in M81, M81N 2026-05a](https://www.astronomerstelegram.org/?read=17807)
-- **日期**: 19 May 2026 UT | **源**: `M81N 2026-05a`
-
-**爆发速递**: Ondrejov天文台的0.65米望远镜在M81星系中发现了一颗疑似新星，命名为M81N 2026-05a。该目标在5月17日和18日的观测中亮度约为20.5-20.7等。**观测短评**: 该目标位于河外星系M81，亮度较暗（20.5等），已接近我方1米望远镜的测光极限，且光谱观测难度极大。考虑到其不属于黑洞或中子星双星等核心研究范畴，暂无必要申请额外资源进行跟进。
-
----
-
-### [0] | ATel 17806: [Correction to ATel 17805](https://www.astronomerstelegram.org/?read=17806)
-- **日期**: 19 May 2026 UT | **源**: `AT2026 lck`
-
-**爆发速递**: 本文是对 ATel 17805 的勘误，确认此前报道的光谱数据属于新星 AT2026 lck，而非此前误写的 clk。**观测短评**: 该目标为新星，与本组黑洞及活动星系核的研究兴趣关联度极低，无需跟进。
-
----
-
-### [2] | ATel 17805: [Spectroscopy of the Nova AT2026clk obtained in France](https://www.astronomerstelegram.org/?read=17805)
-
-[查看本周完整 ATel](./atels/2026-W21.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-21
 
 *Tags: #arXiv #Astrophysics*
 
@@ -226,5 +195,3 @@ AI识别天体: [伽马射线暴, 致密双星并合]
   - *本文利用Gaia数据与食双星对疏散星团NGC 6791进行了精确的年龄测定，主要服务于银河系考古与星震学研究。*
 - **[0]** [Decoding the Radial Velocity Signatures of Solar Faculae with 3D MHD Simulations](http://arxiv.org/abs/2605.22615v1)
   - *该论文利用3D MHD模拟研究了太阳光斑对径向速度信号的影响，属于恒星活动与系外行星探测领域。*
-
-[查看历史目录](./posts/index.md)
