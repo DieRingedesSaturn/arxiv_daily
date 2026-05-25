@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17810: [Discovery of a Possible Symbiotic Nova in M31, M31N 2022-10c](https://www.astronomerstelegram.org/?read=17810)
-- **日期**: 22 May 2026 UT | **源**: `M31N 2022-10c`
-
-**爆发速递**: 研究团队在仙女座星系(M31)中发现了一颗可能的共生新星M31N 2022-10c。该天体表现出极慢的光度演化特征，且近期在Hα波段观测到明显的增亮现象。**观测短评**: 该目标位于M31中心附近，亮度在16-20等之间，受限于我方1m望远镜的测光极限(21等)及M31中心的高背景干扰，观测难度较大。鉴于其分类尚不明确，建议利用大口径望远镜进行光谱确认，我方暂无需投入观测资源。
-
----
-
-### [3] | ATel 17809: [GX 1+4 exhibits a period of nearly constant pulse frequency](https://www.astronomerstelegram.org/?read=17809)
-- **日期**: 22 May 2026 UT | **源**: `GX 1+4`
-
-**爆发速递**: Fermi/GBM监测显示，长期处于自旋减慢状态的X射线双星脉冲星GX 1+4，自MJD 61000起脉冲频率趋于稳定（约4.37 mHz），且已持续约200天。此外，该源近期出现了约28年来的首次自旋加速现象。**观测短评**: 该源为著名的吸积脉冲星，虽非课题组核心研究的黑洞双星或AGN，但其吸积动力学演化具有物理意义。由于该源主要在X射线波段表现出显著的脉冲频率变化，光学波段的跟进价值有限，且该源位于银道面附近，受消光影响较大，暂无必要申请光学望远镜观测。
-
----
-
-### [8] | ATel 17808: [Fermi LAT detection of historical maximum gamma-ray flux from 3C 138](https://www.astronomerstelegram.org/?read=17808)
-
-[查看本周完整 ATel](./atels/2026-W21.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-24
 
 *Tags: #arXiv #Astrophysics*
 
@@ -122,5 +91,3 @@ AI识别天体: [AGN, 黑洞]
   - *本文综述了太阳动力学天文台（SDO）在太阳物理学及空间天气预测领域的科学贡献与数据应用。*
 - **[0]** [Mg II h&k spectral line properties computed using 3D radiative transfer in an enhanced network region simulated with the MURaM-ChE code](http://arxiv.org/abs/2605.22916v1)
   - *本文利用MURaM-ChE代码对太阳色球层增强网络区域的Mg II h&k谱线进行了3D辐射转移模拟研究。*
-
-[查看历史目录](./posts/index.md)
