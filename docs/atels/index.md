@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W22](2026-W22.md)
 - [2026-W21](2026-W21.md)
 - [2026-W20](2026-W20.md)
 - [2026-W19](2026-W19.md)
@@ -49,6 +50,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [ON_393](./sources/ON_393.md) | *最新动态: ATel 17812 (25 May 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 17808 (22 May 2026)*
 - [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17802 (15 May 2026)*
 - [HB89_1420+326](./sources/HB89_1420+326.md) | *最新动态: ATel 17792 (11 May 2026)*
@@ -85,6 +87,8 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [ASASSN-26no](./sources/ASASSN-26no.md) | *最新动态: ATel 17813 (26 May 2026)*
+- [XRISM_J2326+5843](./sources/XRISM_J2326+5843.md) | *最新动态: ATel 17811 (25 May 2026)*
 - [M31N_2022-10c](./sources/M31N_2022-10c.md) | *最新动态: ATel 17810 (22 May 2026)*
 - [AT2026lck](./sources/AT2026lck.md) | *最新动态: ATel 17806 (19 May 2026)*
 - [M81N_2026-05a](./sources/M81N_2026-05a.md) | *最新动态: ATel 17807 (19 May 2026)*

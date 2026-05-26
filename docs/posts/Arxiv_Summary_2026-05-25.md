@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17813: [ASASSN-26no is a new Galactic classical nova in Musca](https://www.astronomerstelegram.org/?read=17813)
-- **日期**: 26 May 2026 UT | **源**: `ASASSN-26no`
-
-**爆发速递**: ASAS-SN巡天项目于2026年5月24日发现银河系内新星ASASSN-26no，该源在5月11日即有迹可循。SOAR望远镜的光谱观测显示其具有平坦连续谱及强H、He I、Fe II发射线，且伴随明显的P Cygni轮廓，确认为一颗慢速经典新星。**观测短评**: 该源为银河系内新星，目前亮度较高（g=8.6），但属于经典新星范畴，与本组黑洞/AGN研究兴趣相关性较低。鉴于其亮度已处于较亮阶段，且已有专业大口径设备跟进，无需动用本组1m望远镜进行后续观测。
-
----
-
-### [8] | ATel 17812: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ ON 393](https://www.astronomerstelegram.org/?read=17812)
-- **日期**: 25 May 2026 UT | **源**: `ON 393`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 (FSRQ) ON 393 的伽马射线活动增强。2026年5月24日，其日均伽马射线通量较 4FGL-DR4 平均水平增加了20倍以上，且光子指数变硬至 2.0。**观测短评**: 该源为典型的活动星系核，处于高能爆发状态，具有极高的多波段联合观测价值。虽然其红移较高 (z=0.806)，光学亮度可能较暗，但仍建议利用现有光学设备进行监测，以捕捉其光学波段的同步耀发，并可考虑申请 Swift 或 XMM-Newton 等空间设备进行后续能谱分析。
-
----
-
-### [6] | ATel 17811: [XRISM/Xtend Transient Search (XTS) detected a flare or outburst from a new X-ray transient source candidate XRISM J2326+5843](https://www.astronomerstelegram.org/?read=17811)
-
-[查看本周完整 ATel](./atels/2026-W22.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-25
 
 *Tags: #arXiv #Astrophysics*
 
@@ -239,5 +208,3 @@ AI识别天体: [耀变体/Blazars]
   - *本文利用辐射磁流体动力学模拟研究了太阳针状体的驱动机制及其与背景磁场的关系。*
 - **[0]** [Solar Axions from Nuclear Transitions](http://arxiv.org/abs/2605.24121v1)
   - *本文利用Chandrayaan-2卫星的XSM数据，通过分析太阳核跃迁产生的轴子辐射来约束轴子与核子及光子的耦合常数。*
-
-[查看历史目录](./posts/index.md)
