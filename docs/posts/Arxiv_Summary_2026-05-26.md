@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 17816: [MAXI/GSC detection of an X-ray outburst from the Be/X-ray binary pulsar LS V +44 17 (RX J0440.9+4431)](https://www.astronomerstelegram.org/?read=17816)
-- **日期**: 27 May 2026 UT | **源**: `LS V +44 17`
-
-**爆发速递**: MAXI/GSC 监测系统于 2026 年 5 月 22 日探测到 Be/X 射线双星脉冲星 LS V +44 17 的 X 射线爆发。该源在 2023 年后一直处于静默状态，近期通量出现明显增长，并在 5 月 26 日观测到通量翻倍至约 36 mCrab。**观测短评**: 该源为典型的 Be/X 射线双星，具有明确的周期性爆发特征。虽然其主要物理机制为中子星吸积，但光学波段对 Be 星盘的演化监测具有重要价值。考虑到其亮度处于可观测范围，建议利用 1m 望远镜进行光学测光监测，并结合 Swift 等空间设备进行多波段联合分析。
-
----
-
-### [4] | ATel 17815: [MAXI/GSC Observation of an X-ray Outburst from the Be/X-ray Binary Pulsar 1A 0535-66 (1A 0538-66)](https://www.astronomerstelegram.org/?read=17815)
-- **日期**: 26 May 2026 UT | **源**: `1A 0535-66`
-
-**爆发速递**: MAXI/GSC 监测系统于 2026 年 5 月 21 日探测到 Be/X 射线双星脉冲星 1A 0535-66 的 X 射线爆发。该源表现出典型的快升指数衰减 (FRED) 轮廓，峰值通量约为 104 mCrab，对应 X 射线光度约 3×10^38 erg/s。分析显示此次爆发发生在轨道相位 0.95-1.00 附近。**观测短评**: 该源为大麦哲伦云中的高光度脉冲星，虽非课题组核心研究的黑洞双星，但其吸积物理具有参考价值。由于该源位于南天且距离较远，光学亮度较低，不适合我方 1m 望远镜跟进。鉴于其已进入衰减期，建议利用 Swift 或 Insight-HXMT 等空间设备进行后续监测。
-
----
-
-### [9] | ATel 17814: [Non-detection of Cygnus X-3 following recent radio rebrightening with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=17814)
-
-[查看本周完整 ATel](./atels/2026-W22.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-26
 
 *Tags: #arXiv #Astrophysics*
 
@@ -150,5 +119,3 @@ AI识别天体: [超大质量黑洞]
   - *本文提出了一种改进的多级追踪算法，用于分析太阳黑子本影点（UDs）的物理特性及空间分布。*
 - **[0]** [Bimodality in Rotational Modulation of Planet-Hosting Stars](http://arxiv.org/abs/2605.26197v1)
   - *该论文利用开普勒数据分析发现行星宿主恒星的旋转调制存在双峰分布，揭示了行星系统可能对恒星磁活动产生影响。*
-
-[查看历史目录](./posts/index.md)

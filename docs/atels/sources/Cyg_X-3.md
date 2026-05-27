@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 17814: [Non-detection of Cygnus X-3 following recent radio rebrightening with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=17814)
+- **日期**: 26 May 2026 UT
+
+**爆发速递**: Nasu射电望远镜阵列报告称，此前观测到的Cygnus X-3射电再次增亮活动已减弱。在5月22日至24日的观测中，该源在1.4 GHz波段未被显著探测到，通量已降至200 mJy探测极限以下。**观测短评**: Cygnus X-3作为经典的黑洞/中子星X射线双星，其射电活动与吸积态演化密切相关。虽然目前射电活动减弱，但该源处于活跃期，建议利用Swift或Insight-HXMT等设备监测其X射线能谱与时变特征，以判断是否伴随吸积态转换。光学波段受银道面消光影响严重，我方1m望远镜观测价值有限，重点应放在多波段空间设备联合监测上。
+
+---
+
 ### ATel 17758: [Complete fading of the recent 1.4 GHz radio flare in Cygnus X-3 observed with the Nasu radio telescope array](https://www.astronomerstelegram.org/?read=17758)
 - **日期**: 19 Apr 2026 UT
 
