@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17818: [Einstein Probe catches the onset of a new outburst from the NS LMXB MXB 1730-335 (Rapid Burster)](https://www.astronomerstelegram.org/?read=17818)
-- **日期**: 27 May 2026 UT | **源**: `MXB 1730-335`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的宽视场X射线望远镜(WXT)探测到中子星低质量X射线双星MXB 1730-335(Rapid Burster)的新一轮爆发。EP-FXT后续观测确认源持续增亮，并观测到典型的II型X射线爆发行为。**观测短评**: 该源是著名的Rapid Burster，具有极高的物理研究价值。虽然其位于球状星团Liller 1中，光学观测受消光影响较大，但鉴于其独特的吸积动力学，建议利用Swift或XMM-Newton进行多波段联合监测，以捕捉其吸积状态演化。若有射电观测资源，建议跟进以研究喷流活动。
-
----
-
-### [0] | ATel 17817: [ATLAS-Teide Detects Centaur (60558) 174P/Echeclus in Ongoing Outburst](https://www.astronomerstelegram.org/?read=17817)
-- **日期**: 27 May 2026 UT | **源**: `174P/Echeclus`
-
-**爆发速递**: ATLAS-Teide 巡天项目于2026年5月11日探测到半人马小行星 174P/Echeclus 处于爆发状态，其亮度达到 18.28 等，较预期静止亮度高出约 13 倍。该天体以周期性爆发活动著称，本次观测暂未发现明显的彗发结构。**观测短评**: 该目标属于太阳系小天体，与本课题组关注的黑洞吸积、AGN及高能暂现源物理方向无关。虽然其亮度处于我方 1m 望远镜观测能力范围内，但由于缺乏高能物理研究价值，无需进行后续跟进观测或申请其他空间设备资源。
-
----
-
-### [6] | ATel 17816: [MAXI/GSC detection of an X-ray outburst from the Be/X-ray binary pulsar LS V +44 17 (RX J0440.9+4431)](https://www.astronomerstelegram.org/?read=17816)
-
-[查看本周完整 ATel](./atels/2026-W22.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-27
 
 *Tags: #arXiv #Astrophysics*
 
@@ -181,5 +150,3 @@ AI识别天体: [超大质量黑洞, 星系群]
   - *本文通过高分辨率光谱偏振观测，首次探测并分析了赫比格Ae星HD179218的大尺度磁场结构及其磁层吸积特征。*
 - **[1]** [Imaging spectroscopy reveals spike-like repeating radio burst pairs in the solar corona](http://arxiv.org/abs/2605.23484v2)
   - *该研究利用成像光谱技术分析了太阳日冕中出现的尖峰状重复射电爆发对，揭示了日冕等离子体湍流与磁重联过程。*
-
-[查看历史目录](./posts/index.md)
