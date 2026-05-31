@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [5] | ATel 17819: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare possibly from 2SXPS J232525.2+583935](https://www.astronomerstelegram.org/?read=17819)
-- **日期**: 28 May 2026 UT | **源**: `XRISM J2325+5840`
+### [2] | ATel 17823: [Infrared Spectroscopy Confirms the Transition of IRAS 21204+4913 to an FU Ori Outburst](https://www.astronomerstelegram.org/?read=17823)
+- **日期**: 30 May 2026 UT | **源**: `IRAS 21204+4913`
 
-**爆发速递**: XRISM/Xtend 巡天项目在 2026 年 5 月 26 日探测到一次来自 XRISM J2325+5840 的 X 射线爆发，该源可能对应 2SXPS J232525.2+583935。爆发持续时间较短，呈指数衰减，峰值通量约为 3.1 × 10^-13 erg s^-1 cm^-2。**观测短评**: 该源距离较近（约 200 pc），光度较低，属于低光度 X 射线暂现源。由于其光学对应体亮度未知且该源性质尚不明确，目前光学后随观测价值有限。建议优先关注后续 X 射线监测数据，暂无需动用 1m 望远镜进行光学跟进。
-
----
-
-### [8] | ATel 17818: [Einstein Probe catches the onset of a new outburst from the NS LMXB MXB 1730-335 (Rapid Burster)](https://www.astronomerstelegram.org/?read=17818)
-- **日期**: 27 May 2026 UT | **源**: `MXB 1730-335`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的宽视场X射线望远镜(WXT)探测到中子星低质量X射线双星MXB 1730-335(Rapid Burster)的新一轮爆发。EP-FXT后续观测确认源持续增亮，并观测到典型的II型X射线爆发行为。**观测短评**: 该源是著名的Rapid Burster，具有极高的物理研究价值。虽然其位于球状星团Liller 1中，光学观测受消光影响较大，但鉴于其独特的吸积动力学，建议利用Swift或XMM-Newton进行多波段联合监测，以捕捉其吸积状态演化。若有射电观测资源，建议跟进以研究喷流活动。
+**爆发速递**: 研究团队利用凯克天文台的NIRES光谱仪对IRAS 21204+4913进行了近红外光谱观测，通过对比FU Ori型天体（FUOr）的吸积盘模型及分子/原子特征，确认该源正处于FU Ori型爆发状态。**观测短评**: 该目标属于年轻恒星爆发，与课题组关注的黑洞吸积及高能暂现源物理领域关联度较低。由于其处于高消光环境且主要特征需近红外光谱确认，超出了课题组1米光学望远镜的观测能力范围，建议无需跟进。
 
 ---
 
-### [0] | ATel 17817: [ATLAS-Teide Detects Centaur (60558) 174P/Echeclus in Ongoing Outburst](https://www.astronomerstelegram.org/?read=17817)
+### [2] | ATel 17822: [A dim host galaxy for FRB 20251229A: a FRB 20121102A host twin?](https://www.astronomerstelegram.org/?read=17822)
+- **日期**: 29 May 2026 UT | **源**: `FRB 20251229A`
+
+**爆发速递**: 研究团队利用LBT望远镜对快速射电暴FRB 20251229A的定位区域进行了深度光学成像观测，发现了一个位于FRB中心附近约2.4角秒处的微弱不规则星系。该星系绝对星等约为-14.2，可能是目前已知最暗的FRB宿主星系候选者。**观测短评**: 该目标属于FRB研究范畴，且宿主星系极其暗弱（g/r波段约24等），远超我方1米望远镜的观测极限（16-21等），不具备光学后随观测价值。目前已有大型设备（LBT）介入，无需申请额外观测。
+
+---
+
+### [9] | ATel 17821: [Fermi-LAT detection of a historic gamma-ray flare from OQ 334 with ASAS-SN optical brightening](https://www.astronomerstelegram.org/?read=17821)
 
 [查看本周完整 ATel](./atels/2026-W22.md)
 

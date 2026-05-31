@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 17820: [Spectral softening of Cygnus X-3 observed with SVOM/ECLAIRs](https://www.astronomerstelegram.org/?read=17820)
+- **日期**: 29 May 2026 UT
+
+**爆发速递**: SVOM/ECLAIRs 监测显示微类星体 Cygnus X-3 在2026年5月27日发生显著能谱软化，10-20 keV 波段计数率大幅下降，能谱转变为以盘黑体为主的超软态，这通常预示着后续可能发生射电耀发。**观测短评**: 该源处于典型的黑洞X射线双星态转换过程，具有极高的多波段联合观测价值。建议利用课题组可申请的 X 射线设备（如 Insight-HXMT 或 Swift）进行持续监测，并关注射电波段的后续活动，以捕捉可能的喷流爆发事件。
+
+---
+
 ### ATel 17814: [Non-detection of Cygnus X-3 following recent radio rebrightening with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=17814)
 - **日期**: 26 May 2026 UT
 
