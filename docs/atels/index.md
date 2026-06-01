@@ -88,6 +88,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [EP260530a](./sources/EP260530a.md) | *最新动态: ATel 17824 (31 May 2026)*
 - [IRAS_21204+4913](./sources/IRAS_21204+4913.md) | *最新动态: ATel 17823 (30 May 2026)*
 - [XRISM_J2325+5840](./sources/XRISM_J2325+5840.md) | *最新动态: ATel 17819 (28 May 2026)*
 - [174P_Echeclus](./sources/174P_Echeclus.md) | *最新动态: ATel 17817 (27 May 2026)*

@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17824: [EP260530a: Einstein Probe detection of an X-ray transient](https://www.astronomerstelegram.org/?read=17824)
-- **日期**: 31 May 2026 UT | **源**: `EP260530a`
-
-**爆发速递**: Einstein Probe (EP) 的宽视场X射线望远镜 (WXT) 探测到一个新的X射线暂现源 EP260530a，随后通过 EP 的后随X射线望远镜 (FXT) 精确锁定了位置。该源与光学暂现源 AT 2026nwl 在位置和时间上高度重合，光谱表现为软X射线黑体辐射特征。**观测短评**: 该源具有明确的光学对应体，且处于多波段联合观测的早期阶段。考虑到其软X射线能谱特征，可能涉及吸积过程或特殊暂现事件，具有较高的光学后随观测价值。建议利用课题组的 1m 望远镜进行测光监测，并结合 SVOM 或 Swift 等设备申请进一步的多波段观测以确认其物理本质。
-
----
-
-### [2] | ATel 17823: [Infrared Spectroscopy Confirms the Transition of IRAS 21204+4913 to an FU Ori Outburst](https://www.astronomerstelegram.org/?read=17823)
-- **日期**: 30 May 2026 UT | **源**: `IRAS 21204+4913`
-
-**爆发速递**: 研究团队利用凯克天文台的NIRES光谱仪对IRAS 21204+4913进行了近红外光谱观测，通过对比FU Ori型天体（FUOr）的吸积盘模型及分子/原子特征，确认该源正处于FU Ori型爆发状态。**观测短评**: 该目标属于年轻恒星爆发，与课题组关注的黑洞吸积及高能暂现源物理领域关联度较低。由于其处于高消光环境且主要特征需近红外光谱确认，超出了课题组1米光学望远镜的观测能力范围，建议无需跟进。
-
----
-
-### [2] | ATel 17822: [A dim host galaxy for FRB 20251229A: a FRB 20121102A host twin?](https://www.astronomerstelegram.org/?read=17822)
-
-[查看本周完整 ATel](./atels/2026-W22.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-05-31
 
 *Tags: #arXiv #Astrophysics*
 
@@ -106,5 +75,3 @@ AI识别天体: [超大质量黑洞, 类星体, 淬灭星系]
   - *该论文通过动力学模拟与化学演化模型探讨了地球与火星在吸积过程中的成分差异及其形成机制。*
 - **[0]** [Millicharged Particle Constraints from Asymptotic Giant Branch Stars](http://arxiv.org/abs/2605.30422v1)
   - *本文利用球状星团中渐近巨星支与水平支恒星数量比值，对毫电荷粒子的质量与电荷量进行了约束。*
-
-[查看历史目录](./posts/index.md)
