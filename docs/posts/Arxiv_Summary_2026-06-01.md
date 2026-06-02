@@ -1,34 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17826: [Discovery of a Probable Nova in M31, M31N 2026-06a](https://www.astronomerstelegram.org/?read=17826)
-- **日期**: 2 Jun 2026 UT | **源**: `M31N 2026-06a`
-
-**爆发速递**: Ondrejov 0.65米望远镜在仙女座星系(M31)中心区域发现了一颗疑似新星，命名为 M31N 2026-06a。该目标在6月2日观测中亮度约为17.4等，此前5月24日未见明显爆发。**观测短评**: 该目标位于M31，属于河外新星。虽然其亮度处于17等左右，但由于其位于M31背景复杂区域且亮度较暗，超出了我方1米望远镜的光谱观测极限(16等)，且测光观测价值有限，建议关注后续是否有更亮的光变特征或多波段爆发信息，目前无需申请额外设备跟进。
-
----
-
-### [8] | ATel 17825: [EP260530a/AT2026nwl: refined analysis of the EP-FXT observation](https://www.astronomerstelegram.org/?read=17825)
-- **日期**: 1 Jun 2026 UT | **源**: `EP260530a`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的FXT望远镜对暂现源EP260530a进行了后续观测，在WXT误差范围内精确定位了一个未编录的X射线源，并确认了其光学对应体AT2026nwl。能谱分析显示其符合幂律加黑体模型，0.3-10 keV波段通量约为5.3e-11 erg/s/cm2。**观测短评**: 该源已确认光学对应体，且处于活跃爆发期，具有较高的多波段研究价值。鉴于其亮度较高，建议利用课题组的1m望远镜进行光学测光监测，以分析其光变特征，并结合EP数据开展联合分析，必要时可申请Swift或XMM-Newton进行更深入的X射线能谱时变研究。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W23.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-01
 
 *Tags: #arXiv #Astrophysics*
 
@@ -291,5 +261,3 @@ AI识别天体: [超大质量黑洞双星]
   - *本文利用表面磁通输运模型研究了太阳光球层磁场演化中的非线性反馈机制及其对太阳周期的影响。*
 - **[0]** [Halo stars harbour few wide ultracool companions](http://arxiv.org/abs/2606.00300v1)
   - *该研究通过巡天观测发现金属贫乏晕星周围存在宽距超冷伴星的频率极低。*
-
-[查看历史目录](./posts/index.md)
