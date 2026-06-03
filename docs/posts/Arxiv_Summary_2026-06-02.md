@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17827: [A fast recent NIR flare of the Blazar CGRaBSJ1257+3229](https://www.astronomerstelegram.org/?read=17827)
-- **日期**: 2 Jun 2026 UT | **源**: `CGRaBS J1257+3229`
-
-**爆发速递**: 研究人员利用墨西哥INAOE的2.1米望远镜及CANICA近红外相机，监测到耀变体CGRaBS J1257+3229发生快速近红外爆发。观测显示其H波段在两天内亮度下降了2.2倍，推测其辐射区尺度小于两天光程。该源在过去一年内H波段亮度增长了14倍。**观测短评**: 该目标为典型的AGN耀变体，具有显著的多波段变率，符合课题组对AGN吸积与喷流物理的研究兴趣。虽然该源目前处于近红外高态，但其光学波段通常与近红外高度相关，具备光学后随观测价值。鉴于其快速变率，建议利用Swift或EP进行X射线监测，并协调地面光学望远镜进行同步测光，以捕捉其多波段演化特征。
-
----
-
-### [2] | ATel 17826: [Discovery of a Probable Nova in M31, M31N 2026-06a](https://www.astronomerstelegram.org/?read=17826)
-- **日期**: 2 Jun 2026 UT | **源**: `M31N 2026-06a`
-
-**爆发速递**: Ondrejov 0.65米望远镜在仙女座星系(M31)中心区域发现了一颗疑似新星，命名为 M31N 2026-06a。该目标在6月2日观测中亮度约为17.4等，此前5月24日未见明显爆发。**观测短评**: 该目标位于M31，属于河外新星。虽然其亮度处于17等左右，但由于其位于M31背景复杂区域且亮度较暗，超出了我方1米望远镜的光谱观测极限(16等)，且测光观测价值有限，建议关注后续是否有更亮的光变特征或多波段爆发信息，目前无需申请额外设备跟进。
-
----
-
-### [8] | ATel 17825: [EP260530a/AT2026nwl: refined analysis of the EP-FXT observation](https://www.astronomerstelegram.org/?read=17825)
-
-[查看本周完整 ATel](./atels/2026-W23.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-02
 
 *Tags: #arXiv #Astrophysics*
 
@@ -170,5 +139,3 @@ AI识别天体: [原始黑洞, 恒星, 太阳型恒星, 木星]
   - *该论文利用高分辨率M波段光谱探测了直接成像系外行星TWA 5 B大气中的气相SiO，旨在研究其大气化学成分与形成机制。*
 - **[0]** [Multi-Scale Magnetic Field Observations Reveal how Colliding Flows Trigger Star Formation](http://arxiv.org/abs/2605.30489v2)
   - *该论文利用多尺度偏振观测揭示了磁场在恒星形成过程中从大尺度纤维状云到小尺度原恒星的演化机制。*
-
-[查看历史目录](./posts/index.md)
