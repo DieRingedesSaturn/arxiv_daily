@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17829: [Large Apparent Outburst of Comet 220P/McNaught](https://www.astronomerstelegram.org/?read=17829)
-- **日期**: 3 Jun 2026 UT | **源**: `220P/McNaught`
-
-**爆发速递**: ZTF与ATLAS巡天监测发现彗星220P/McNaught发生了显著爆发，亮度从约17.4等激增至11等左右，爆发强度达6.3星等。后续观测显示其喷出物呈现对称分布，并伴有CN、C2及C3等气体发射线。
-**观测短评**: 该目标为太阳系内彗星，不属于黑洞、中子星或AGN等高能天体研究范畴，与课题组核心研究兴趣无关。无需占用课题组望远镜资源进行后续观测。
-
----
-
-### [8] | ATel 17828: [EP260531a: Einstein Probe detection of an X-ray transient](https://www.astronomerstelegram.org/?read=17828)
-- **日期**: 3 Jun 2026 UT | **源**: `EP260531a`
-
-**爆发速递**: Einstein Probe (EP) 卫星的宽视场X射线望远镜 (WXT) 探测到一个新的X射线暂现源 EP260531a。该源位于银道面附近，能谱呈现硬X射线特征，且在5月31日至6月3日期间流量持续上升，初步推测为银河系内的X射线双星候选体。**观测短评**: 该源具有典型的X射线双星爆发特征，属于课题组重点关注领域。由于其位于低银纬区域，消光可能较重，需关注后续光学/红外波段的对应体搜寻。建议密切关注EP后续的FXT观测数据，若能确定其光学对应体，可利用课题组的1m望远镜进行测光监测，并考虑申请Swift或LCO进行多波段协同观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W23.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-03
 
 *Tags: #arXiv #Astrophysics*
 
@@ -247,5 +216,3 @@ AI识别天体: [超大质量黑洞, 高红移星系]
   - *该论文提出了一种基于深度学习的太阳活动区矢量磁场演化短期预测模型，属于空间天气预报领域。*
 - **[0]** [Temporal Invariance Is an Illusion: Time-Dependent Influences of the Galactic Magnetic Field on UHECR Observations](http://arxiv.org/abs/2606.04140v1)
   - *该论文研究银河系磁场对超高能宇宙线传播的时间延迟影响，探讨其对能谱截断和各向异性的贡献，与本课题组黑洞吸积及暂现源研究方向无关。*
-
-[查看历史目录](./posts/index.md)
