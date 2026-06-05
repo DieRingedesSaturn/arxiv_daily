@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17832: [Erratum to ATEL #17831: Determination of the rotation period of Comet 10P (Tempel)](https://www.astronomerstelegram.org/?read=17832)
-- **日期**: 4 Jun 2026 UT | **源**: `10P/Tempel`
-
-**爆发速递**: 本文为 ATel #17831 的勘误，旨在补充关于彗星 10P (Tempel) 自转周期的标题信息。**观测短评**: 该目标为太阳系内彗星，与本课题组关注的黑洞吸积、AGN及暂现源物理研究方向完全无关，无需进行任何光学后随观测或设备申请。
-
----
-
-### [0] | ATel 17831: [A descriptive title](https://www.astronomerstelegram.org/?read=17831)
-- **日期**: 4 Jun 2026 UT | **源**: `10P/Tempel 2`
-
-**爆发速递**: 本文报道了对短周期彗星 10P/Tempel 2 的光度监测结果。研究团队利用意大利和西班牙的小口径望远镜，在2026年5月至6月期间进行了多次观测，确定了该彗星核的自转周期约为 8小时57分46秒，并发现其周期较2013年的观测数据有轻微减慢。**观测短评**: 该目标为太阳系内彗星，属于天体物理学中的太阳系科学范畴，与本课题组关注的黑洞吸积、AGN及高能暂现源等研究方向无关，无需进行光学后随观测或申请其他设备资源。
-
----
-
-### [2] | ATel 17830: [ALMA and MeerKAT detection of radio rebrightening of SN 2007it](https://www.astronomerstelegram.org/?read=17830)
-
-[查看本周完整 ATel](./atels/2026-W23.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-04
 
 *Tags: #arXiv #Astrophysics*
 
@@ -239,5 +208,3 @@ AI识别天体: [黑洞, 磁星]
   - *本文研究了太阳黑子孔隙中磁流体动力学波的振荡特征及其受不透明度效应的影响。*
 - **[0]** [UK White Paper on Space-based total solar eclipse observations: structure and dynamics of the solar atmosphere](http://arxiv.org/abs/2606.05244v1)
   - *本文探讨了利用月球掩食太阳进行空间观测以研究太阳大气结构、动力学及磁场演化的科学目标与任务规划。*
-
-[查看历史目录](./posts/index.md)
