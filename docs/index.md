@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [8] | ATel 17835: [FSRQ OQ 334: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=17835)
+- **日期**: 6 Jun 2026 UT | **源**: `OQ 334`
+
+**爆发速递**: IceCube合作组针对近期在射电、红外、光学及高能伽马射线波段均表现出剧烈耀发的平谱射电类星体(FSRQ) OQ 334进行了中微子搜寻。在2026年5月5日至6月4日期间，IceCube未探测到显著的中微子信号，给出了90%置信水平下的通量上限。**观测短评**: 该源目前处于多波段活跃期，虽然IceCube未发现中微子对应体，但其电磁波段的剧烈活动仍具有极高的研究价值。鉴于该源已在多个波段被广泛监测，建议继续关注其光变曲线演化。由于该源赤纬较高，若后续出现光学剧烈波动，可利用我方1m望远镜进行测光监测，以补充多波段时变数据。
+
+---
+
 ### [5] | ATel 17834: [Correction to Galactic coordinates of EP260531a](https://www.astronomerstelegram.org/?read=17834)
 - **日期**: 6 Jun 2026 UT | **源**: `EP260531a`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [8] | ATel 17833: [EP-FXT follow-up of the X-ray transient EP260531a](https://www.astronomerstelegram.org/?read=17833)
-- **日期**: 5 Jun 2026 UT | **源**: `EP260531a`
-
-**爆发速递**: Einstein Probe (EP) 卫星的 FXT 望远镜对暂现源 EP260531a 进行了后随观测。该源在 0.5-10 keV 能段表现出强烈的 X 射线辐射，能谱可用幂律加黑体模型拟合，且监测显示其亮度持续上升。**观测短评**: 该源目前处于高亮状态且性质尚不明确，具有较高的多波段研究价值。鉴于其亮度较高，建议利用 LCO 或其他地面光学设备进行快速测光与光谱监测以确定其光学对应体。若后续确认其为银河系内暂现源，可评估是否在 1m 望远镜观测能力范围内。
-
----
-
-### [0] | ATel 17832: [Erratum to ATEL #17831: Determination of the rotation period of Comet 10P (Tempel)](https://www.astronomerstelegram.org/?read=17832)
 
 [查看本周完整 ATel](./atels/2026-W23.md)
 
