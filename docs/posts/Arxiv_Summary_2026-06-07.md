@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17837: [Eight FRBs discovered in the FAST POP survey](https://www.astronomerstelegram.org/?read=17837)
-- **日期**: 7 Jun 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 利用FAST望远镜的POP巡天项目，研究人员通过TransientX流水线在数据中新发现了8例快速射电暴（FRB），其中包含一例疑似重复爆发源。文中详细列出了各源的坐标、色散量（DM）、脉冲宽度及信噪比等参数。**观测短评**: 该发现属于射电波段的瞬变源巡天，与课题组关注的黑洞吸积及光学/X射线暂现源物理关联度较低。由于FRB通常需要射电干涉阵列进行精确定位，且光学对应体极难探测，目前不建议利用现有1m光学望远镜进行跟进观测。
-
----
-
-### [10] | ATel 17836: [Extraordinary radio flaring activity of X-ray binary Cyg X-3 in 2026](https://www.astronomerstelegram.org/?read=17836)
-- **日期**: 7 Jun 2026 UT | **源**: `Cyg X-3`
-
-**爆发速递**: RATAN-600射电望远镜监测显示，银河系微类星体Cyg X-3在2026年上半年表现出极强的射电爆发活动，多次爆发在4.7 GHz频率下超过10 Jy。该爆发伴随X射线从超软态向硬态的转变，并被Fermi-LAT探测到高能伽马射线辐射。**观测短评**: Cyg X-3作为经典的微类星体，其射电与高能波段的剧烈活动是研究吸积与喷流物理的绝佳机会。虽然该源主要在射电和高能波段活跃，但其多波段联合观测对于理解喷流机制至关重要。建议利用LCO等全球网络进行持续的光学监测，以捕捉可能的伴随光学变化，并评估申请Swift或XMM-Newton进行后续X射线能谱分析的必要性。
-
----
-
-### [8] | ATel 17835: [FSRQ OQ 334: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=17835)
-
-[查看本周完整 ATel](./atels/2026-W23.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-07
 
 *Tags: #arXiv #Astrophysics*
 
@@ -187,5 +156,3 @@ AI识别天体: [旋转黑洞, 暗物质]
   - *本文研究了SDO/HMI与GONG太阳多普勒图在日震学测量中的系统性误差与相位异常，属于太阳物理领域。*
 - **[0]** [Where Not to Look: A Parametric Avoidance Model for SETI Target Selection](http://arxiv.org/abs/2606.06692v1)
   - *该论文提出了一种基于恒星参数的SETI目标筛选模型，旨在排除不适合生命存在的恒星以优化搜寻效率。*
-
-[查看历史目录](./posts/index.md)

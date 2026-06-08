@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 17836: [Extraordinary radio flaring activity of X-ray binary Cyg X-3 in 2026](https://www.astronomerstelegram.org/?read=17836)
+- **日期**: 7 Jun 2026 UT
+
+**爆发速递**: RATAN-600射电望远镜监测显示，银河系微类星体Cyg X-3在2026年上半年表现出极强的射电爆发活动，多次爆发在4.7 GHz频率下超过10 Jy。该爆发伴随X射线从超软态向硬态的转变，并被Fermi-LAT探测到高能伽马射线辐射。**观测短评**: Cyg X-3作为经典的微类星体，其射电与高能波段的剧烈活动是研究吸积与喷流物理的绝佳机会。虽然该源主要在射电和高能波段活跃，但其多波段联合观测对于理解喷流机制至关重要。建议利用LCO等全球网络进行持续的光学监测，以捕捉可能的伴随光学变化，并评估申请Swift或XMM-Newton进行后续X射线能谱分析的必要性。
+
+---
+
 ### ATel 17820: [Spectral softening of Cygnus X-3 observed with SVOM/ECLAIRs](https://www.astronomerstelegram.org/?read=17820)
 - **日期**: 29 May 2026 UT
 
