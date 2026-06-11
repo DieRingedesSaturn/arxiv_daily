@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 17840: [A candidate NIR counterpart of the new X-ray transient EP260531a and indications of a black-hole accretor from archival X-ray data](https://www.astronomerstelegram.org/?read=17840)
-- **日期**: 10 Jun 2026 UT | **源**: `EP260531a`
-
-**爆发速递**: Einstein Probe (EP) 发现新X射线暂现源 EP260531a，其X射线能谱表现出高消光及软谱特征，推测为银道面低质量X射线双星。研究人员通过UKIDSS巡天数据锁定了一颗高度红化的红巨星作为其候选光学/近红外对应体，并根据静止期X射线光度推测其中心天体更倾向于黑洞。**观测短评**: 该源位于银道面且具有高消光，光学波段极暗，超出我方1米望远镜观测能力。鉴于其疑似黑洞吸积系统的身份，建议利用Swift或XMM-Newton进行持续的X射线监测以确认其爆发演化及能谱状态，无需申请我方光学设备跟进。
-
----
-
-### [8] | ATel 17839: [Millimeter flaring in LEDA 66480/ESO 145-001](https://www.astronomerstelegram.org/?read=17839)
-- **日期**: 8 Jun 2026 UT | **源**: `LEDA 66480/ESO 145-001`
-
-**爆发速递**: 南极望远镜 (SPT) 合作组报告了位于合并星系对 LEDA 66480/ESO 145-001 中的源 SPT-SV J211659.7-592000 出现显著的毫米波段耀发。该源在 90 GHz 和 150 GHz 表现出平坦至轻微倒置的能谱，且具有超过 7 倍标准差的变率。历史观测显示其存在 X 射线辐射，被推测为低光度活动星系核 (LLAGN)。**观测短评**: 该源属于 AGN 范畴，符合课题组研究兴趣。鉴于其处于活跃状态且存在多波段变率，具有较高的多波段联合观测价值。虽然光学亮度可能较暗，但建议利用 Swift 或 XMM-Newton 进行 X 射线监测以确认吸积状态变化，并关注后续射电观测结果。
-
----
-
-### [0] | ATel 17838: [TRAPPIST production rates of comet 220P/McNaught in outburst](https://www.astronomerstelegram.org/?read=17838)
-
-[查看本周完整 ATel](./atels/2026-W24.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-10
 
 *Tags: #arXiv #Astrophysics*
 
@@ -265,5 +234,3 @@ AI识别天体: [玻色星, 黑洞]
   - *本文研究红巨星支恒星的混合模式可见度及其受磁阻尼影响的演化，属于恒星振动与内部结构研究领域。*
 - **[0]** [Some polarized lines of the second solar spectrum (SrI, CaI, BaII, C2, MgH, NdII) observed at the Meudon Solar Tower spectropolarimeter](http://arxiv.org/abs/2606.11848v1)
   - *本文利用Meudon太阳塔光谱偏振仪观测数据，研究了太阳边缘的第二光谱偏振特征，旨在通过Hanle效应探测太阳磁场。*
-
-[查看历史目录](./posts/index.md)

@@ -23,6 +23,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
+- [EP260531a](./sources/EP260531a.md) | *最新动态: ATel 17840 (10 Jun 2026)*
 - [Cyg_X-3](./sources/Cyg_X-3.md) | *最新动态: ATel 17836 (7 Jun 2026)*
 - [GS_1354-64](./sources/GS_1354-64.md) | *最新动态: ATel 17771 (1 May 2026)*
 - [IGR_J17331-2406](./sources/IGR_J17331-2406.md) | *最新动态: ATel 17751 (12 Apr 2026)*
@@ -93,7 +94,6 @@
 
 ### Other
 - [220P_McNaught](./sources/220P_McNaught.md) | *最新动态: ATel 17838 (8 Jun 2026)*
-- [EP260531a](./sources/EP260531a.md) | *最新动态: ATel 17834 (6 Jun 2026)*
 - [10P_Tempel](./sources/10P_Tempel.md) | *最新动态: ATel 17832 (4 Jun 2026)*
 - [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 17831 (4 Jun 2026)*
 - [M31N_2026-06a](./sources/M31N_2026-06a.md) | *最新动态: ATel 17826 (2 Jun 2026)*
