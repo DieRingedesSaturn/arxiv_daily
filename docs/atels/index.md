@@ -93,6 +93,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17841 (12 Jun 2026)*
 - [220P_McNaught](./sources/220P_McNaught.md) | *最新动态: ATel 17838 (8 Jun 2026)*
 - [10P_Tempel](./sources/10P_Tempel.md) | *最新动态: ATel 17832 (4 Jun 2026)*
 - [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 17831 (4 Jun 2026)*
@@ -127,7 +128,6 @@
 - [PRIME26aaabsh](./sources/PRIME26aaabsh.md) | *最新动态: ATel 17743 (7 Apr 2026)*
 - [XRISM_J0516-0031](./sources/XRISM_J0516-0031.md) | *最新动态: ATel 17741 (6 Apr 2026)*
 - [M81N_2026-04a](./sources/M81N_2026-04a.md) | *最新动态: ATel 17736 (2 Apr 2026)*
-- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17733 (31 Mar 2026)*
 - [AT_2026fkb](./sources/AT_2026fkb.md) | *最新动态: ATel 17721 (12 Mar 2026)*
 - [Fermi_J1820-1648](./sources/Fermi_J1820-1648.md) | *最新动态: ATel 17707 (3 Mar 2026)*
 - [V838_Mon](./sources/V838_Mon.md) | *最新动态: ATel 17702 (27 Feb 2026)*

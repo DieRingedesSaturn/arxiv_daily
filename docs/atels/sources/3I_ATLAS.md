@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 17841: [2026 January Gemini imaging and spectroscopic monitoring of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17841)
+- **日期**: 12 Jun 2026 UT
+
+**爆发速递**: 研究团队利用双子座北望远镜（Gemini North）的GMOS设备，对星际彗星3I/ATLAS进行了多波段成像与光谱观测，分析了其彗尾形态、颜色指数及CN、C3、C2等气体的产生率。**观测短评**: 该目标为太阳系外星际天体，属于行星科学范畴，与本课题组关注的黑洞吸积、高能暂现源等研究方向无关，且该目标亮度及性质不适合本组1米光学望远镜进行常规跟进观测，无申请必要。
+
+---
+
 ### ATel 17733: [Detection of OH 18 cm lines in 3I/ATLAS with FAST](https://www.astronomerstelegram.org/?read=17733)
 - **日期**: 31 Mar 2026 UT
 

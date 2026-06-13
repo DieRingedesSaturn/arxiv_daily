@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [0] | ATel 17841: [2026 January Gemini imaging and spectroscopic monitoring of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17841)
+- **日期**: 12 Jun 2026 UT | **源**: `3I/ATLAS`
+
+**爆发速递**: 研究团队利用双子座北望远镜（Gemini North）的GMOS设备，对星际彗星3I/ATLAS进行了多波段成像与光谱观测，分析了其彗尾形态、颜色指数及CN、C3、C2等气体的产生率。**观测短评**: 该目标为太阳系外星际天体，属于行星科学范畴，与本课题组关注的黑洞吸积、高能暂现源等研究方向无关，且该目标亮度及性质不适合本组1米光学望远镜进行常规跟进观测，无申请必要。
+
+---
+
 ### [10] | ATel 17840: [A candidate NIR counterpart of the new X-ray transient EP260531a and indications of a black-hole accretor from archival X-ray data](https://www.astronomerstelegram.org/?read=17840)
 - **日期**: 10 Jun 2026 UT | **源**: `EP260531a`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [8] | ATel 17839: [Millimeter flaring in LEDA 66480/ESO 145-001](https://www.astronomerstelegram.org/?read=17839)
-- **日期**: 8 Jun 2026 UT | **源**: `LEDA 66480/ESO 145-001`
-
-**爆发速递**: 南极望远镜 (SPT) 合作组报告了位于合并星系对 LEDA 66480/ESO 145-001 中的源 SPT-SV J211659.7-592000 出现显著的毫米波段耀发。该源在 90 GHz 和 150 GHz 表现出平坦至轻微倒置的能谱，且具有超过 7 倍标准差的变率。历史观测显示其存在 X 射线辐射，被推测为低光度活动星系核 (LLAGN)。**观测短评**: 该源属于 AGN 范畴，符合课题组研究兴趣。鉴于其处于活跃状态且存在多波段变率，具有较高的多波段联合观测价值。虽然光学亮度可能较暗，但建议利用 Swift 或 XMM-Newton 进行 X 射线监测以确认吸积状态变化，并关注后续射电观测结果。
-
----
-
-### [0] | ATel 17838: [TRAPPIST production rates of comet 220P/McNaught in outburst](https://www.astronomerstelegram.org/?read=17838)
 
 [查看本周完整 ATel](./atels/2026-W24.md)
 
