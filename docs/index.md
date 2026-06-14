@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [9] | ATel 17842: [SVOM follow-up of the X-ray transient EP260531a](https://www.astronomerstelegram.org/?read=17842)
+- **日期**: 13 Jun 2026 UT | **源**: `EP260531a`
+
+**爆发速递**: SVOM卫星对爱因斯坦探针(EP)发现的X射线暂现源EP260531a进行了后续观测。MXT光谱显示其符合吸收盘黑体模型(kT=0.47 keV)，通量处于平台期，能谱特征与处于低硬态的黑洞X射线双星相符。**观测短评**: 该源表现出黑洞双星特征，具有较高的研究价值。目前光学对应体尚未明确，存在多个候选源。考虑到该源位于南天区(Dec=-31)，我方1m望远镜无法观测，建议利用LCO或ESO等南半球设备进行高分辨率光学成像以锁定对应体，并持续关注其多波段演化。
+
+---
+
 ### [0] | ATel 17841: [2026 January Gemini imaging and spectroscopic monitoring of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17841)
 - **日期**: 12 Jun 2026 UT | **源**: `3I/ATLAS`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [10] | ATel 17840: [A candidate NIR counterpart of the new X-ray transient EP260531a and indications of a black-hole accretor from archival X-ray data](https://www.astronomerstelegram.org/?read=17840)
-- **日期**: 10 Jun 2026 UT | **源**: `EP260531a`
-
-**爆发速递**: Einstein Probe (EP) 发现新X射线暂现源 EP260531a，其X射线能谱表现出高消光及软谱特征，推测为银道面低质量X射线双星。研究人员通过UKIDSS巡天数据锁定了一颗高度红化的红巨星作为其候选光学/近红外对应体，并根据静止期X射线光度推测其中心天体更倾向于黑洞。**观测短评**: 该源位于银道面且具有高消光，光学波段极暗，超出我方1米望远镜观测能力。鉴于其疑似黑洞吸积系统的身份，建议利用Swift或XMM-Newton进行持续的X射线监测以确认其爆发演化及能谱状态，无需申请我方光学设备跟进。
-
----
-
-### [8] | ATel 17839: [Millimeter flaring in LEDA 66480/ESO 145-001](https://www.astronomerstelegram.org/?read=17839)
 
 [查看本周完整 ATel](./atels/2026-W24.md)
 
