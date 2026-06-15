@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17843: [Fermi-LAT detection of recent gamma-ray activity from Cygnus X-3](https://www.astronomerstelegram.org/?read=17843)
-- **日期**: 14 Jun 2026 UT | **源**: `Cygnus X-3`
-
-**爆发速递**: Fermi-LAT 探测到高能X射线双星 Cygnus X-3 近期出现显著的伽马射线爆发活动。6月13日观测到的日均伽马射线通量较 4FGL-DR4 平均水平提升了约 20 倍，且在 6 月上旬的 FAVA 分析中也表现出显著的低能段活跃性。**观测短评**: Cygnus X-3 作为著名的微类星体，其高能爆发通常伴随射电喷流活动。虽然该源位于北半球，但由于其处于银盘高消光区，光学观测价值有限。鉴于其处于活跃期，建议利用课题组的 Insight-HXMT 或申请 Swift 进行 X 射线能谱监测，并关注射电波段的同步观测以研究喷流物理。
-
----
-
-### [9] | ATel 17842: [SVOM follow-up of the X-ray transient EP260531a](https://www.astronomerstelegram.org/?read=17842)
-- **日期**: 13 Jun 2026 UT | **源**: `EP260531a`
-
-**爆发速递**: SVOM卫星对爱因斯坦探针(EP)发现的X射线暂现源EP260531a进行了后续观测。MXT光谱显示其符合吸收盘黑体模型(kT=0.47 keV)，通量处于平台期，能谱特征与处于低硬态的黑洞X射线双星相符。**观测短评**: 该源表现出黑洞双星特征，具有较高的研究价值。目前光学对应体尚未明确，存在多个候选源。考虑到该源位于南天区(Dec=-31)，我方1m望远镜无法观测，建议利用LCO或ESO等南半球设备进行高分辨率光学成像以锁定对应体，并持续关注其多波段演化。
-
----
-
-### [0] | ATel 17841: [2026 January Gemini imaging and spectroscopic monitoring of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17841)
-
-[查看本周完整 ATel](./atels/2026-W24.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-14
 
 *Tags: #arXiv #Astrophysics*
 
@@ -150,5 +119,3 @@ AI识别天体: [Seyfert galaxies, AGN]
   - *本文利用Sunrise-III/SUSI观测数据，对太阳黑子中近紫外多谱线波动的频率特征进行了系统性分析。*
 - **[0]** [Source Surface Height Optimisation for Improved Solar Wind Velocity Forecasting Across Solar Cycles 23, 24 and 25](http://arxiv.org/abs/2606.14134v1)
   - *该论文研究了势场源表面模型中源表面高度的优化，旨在提升太阳风速度的预报精度，与黑洞吸积及暂现源研究无关。*
-
-[查看历史目录](./posts/index.md)
