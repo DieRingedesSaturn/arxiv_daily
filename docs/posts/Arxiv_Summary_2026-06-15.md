@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 17846: [Discovery of a Bright Probable Nova in M81, M81N 2026-06a](https://www.astronomerstelegram.org/?read=17846)
-- **日期**: 15 Jun 2026 UT | **源**: `M81N 2026-06a`
-
-**爆发速递**: Ondrejov天文台0.65米望远镜于2026年6月13日发现M81星系内的一颗亮新星候选体M81N 2026-06a，视星等为18.9等。**观测短评**: 该目标位于M81星系，属于河外新星。虽然其亮度处于我们1米望远镜的测光极限范围内，但由于其位于河外星系，光谱获取难度较大，且不属于我们重点关注的BHXRB或AGN领域，光学后随观测价值有限，暂无必要申请额外设备跟进。
-
----
-
-### [2] | ATel 17845: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=17845)
-- **日期**: 15 Jun 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 本次ATel报告了利用Lick天文台Shane望远镜对两个暂现源（AT2026kwm和AT2026ore）的光谱分类结果，确认它们分别为II型超新星和Ia型超新星。**观测短评**: 该报告涉及的均为超新星目标，与课题组关注的吸积物理（BHXRB/AGN/TDE）关联度较低。虽然目标亮度可能在光学望远镜观测范围内，但由于缺乏进一步的物理研究价值，无需动用课题组的1m望远镜或申请其他大型设备进行跟进。
-
----
-
-### [9] | ATel 17844: [MeerKAT radio non-detection of the X-ray transient EP260531a](https://www.astronomerstelegram.org/?read=17844)
-
-[查看本周完整 ATel](./atels/2026-W25.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-15
 
 *Tags: #arXiv #Astrophysics*
 
@@ -264,5 +233,3 @@ AI识别天体: [超大质量黑洞, 恒星级黑洞]
   - *本文利用Hinode卫星数据研究了第25太阳周期的极区磁场极性反转过程及其时间特征。*
 - **[0]** [Comparative Analysis of Ellerman and Quiet Sun Ellerman Bombs in the Solar Atmosphere](http://arxiv.org/abs/2606.15111v1)
   - *本文研究了太阳大气中埃勒曼炸弹（EBs）与宁静太阳埃勒曼炸弹（QSEBs）的磁重联物理特性及演化。*
-
-[查看历史目录](./posts/index.md)
