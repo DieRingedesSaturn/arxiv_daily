@@ -32,6 +32,7 @@
 - [AT2019wey](./sources/AT2019wey.md) | *最新动态: ATel 17686 (17 Feb 2026)*
 
 ### NSXRB
+- [XTE_J1946+274](./sources/XTE_J1946+274.md) | *最新动态: ATel 17847 (17 Jun 2026)*
 - [LS_V_+44_17](./sources/LS_V_+44_17.md) | *最新动态: ATel 17816 (27 May 2026)*
 - [MXB_1730-335](./sources/MXB_1730-335.md) | *最新动态: ATel 17818 (27 May 2026)*
 - [1A_0538-66](./sources/1A_0538-66.md) | *最新动态: ATel 17815 (26 May 2026)*

@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 17847: [MAXI/GSC detection of an X-ray brightening from the Be/X-ray binary pulsar XTE J1946+274](https://www.astronomerstelegram.org/?read=17847)
-- **日期**: 17 Jun 2026 UT | **源**: `XTE J1946+274`
-
-**爆发速递**: MAXI/GSC 探测到 Be/X射线双星脉冲星 XTE J1946+274 的 X 射线增亮。该源在 2026 年 6 月 16 日触发警报，当前通量已达 45 mCrab，且 Fermi/GBM 监测显示脉冲通量自 6 月 10 日起显著增强，目前爆发强度已超过 2024 年峰值。**观测短评**: 该源为 Be/X 射线双星，属于中子星吸积系统。虽然其主要物理过程涉及吸积盘与中子星相互作用，与课题组核心关注的黑洞吸积物理有一定差异，但其作为高能暂现源仍具研究价值。考虑到该源此前光学后随未见明显变化，且 1m 望远镜灵敏度有限，建议优先利用 SVOM 或 Swift 进行多波段监测，暂无需动用 1m 光学望远镜跟进。
-
----
-
-### [3] | ATel 17846: [Discovery of a Bright Probable Nova in M81, M81N 2026-06a](https://www.astronomerstelegram.org/?read=17846)
-- **日期**: 15 Jun 2026 UT | **源**: `M81N 2026-06a`
-
-**爆发速递**: Ondrejov天文台0.65米望远镜于2026年6月13日发现M81星系内的一颗亮新星候选体M81N 2026-06a，视星等为18.9等。**观测短评**: 该目标位于M81星系，属于河外新星。虽然其亮度处于我们1米望远镜的测光极限范围内，但由于其位于河外星系，光谱获取难度较大，且不属于我们重点关注的BHXRB或AGN领域，光学后随观测价值有限，暂无必要申请额外设备跟进。
-
----
-
-### [2] | ATel 17845: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=17845)
-
-[查看本周完整 ATel](./atels/2026-W25.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-17
 
 *Tags: #arXiv #Astrophysics*
 
@@ -174,5 +143,3 @@ AI识别天体: [超大质量黑洞, 致密天体]
   - *本文提出了一个基于湍流加热机制的全球多离子太阳风模型，用于模拟日冕及内日球层中离子的温度分布。*
 - **[0]** [The Quiet-Sun DEM Under Kappa: Diagnostic Degeneracy and the Failure of the Conductive Closure](http://arxiv.org/abs/2606.18944v1)
   - *该论文探讨了太阳日冕中Kappa分布等离子体的热传导闭合失效问题及其对EUV-DEM诊断的影响。*
-
-[查看历史目录](./posts/index.md)
