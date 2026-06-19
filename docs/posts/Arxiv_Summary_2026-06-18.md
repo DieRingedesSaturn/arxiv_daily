@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [5] | ATel 17848: [Einstein Probe detection of an X-ray transient EP260617a](https://www.astronomerstelegram.org/?read=17848)
-- **日期**: 18 Jun 2026 UT | **源**: `EP260617a`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的宽视场X射线望远镜(WXT)于2026年6月17日探测到一个新的X射线暂现源EP260617a。该源在1.5 ks的曝光时间内未表现出显著变率，且在历史X射线巡天数据中无对应源。**观测短评**: 该源目前处于初步发现阶段，缺乏多波段信息。由于其定位精度仅为2.5角分，当前首要任务是进行X射线精确定位以寻找光学对应体。若后续能通过Swift等设备缩小误差范围，可评估其是否具备光学后随观测价值。
-
----
-
-### [6] | ATel 17847: [MAXI/GSC detection of an X-ray brightening from the Be/X-ray binary pulsar XTE J1946+274](https://www.astronomerstelegram.org/?read=17847)
-- **日期**: 17 Jun 2026 UT | **源**: `XTE J1946+274`
-
-**爆发速递**: MAXI/GSC 探测到 Be/X射线双星脉冲星 XTE J1946+274 的 X 射线增亮。该源在 2026 年 6 月 16 日触发警报，当前通量已达 45 mCrab，且 Fermi/GBM 监测显示脉冲通量自 6 月 10 日起显著增强，目前爆发强度已超过 2024 年峰值。**观测短评**: 该源为 Be/X 射线双星，属于中子星吸积系统。虽然其主要物理过程涉及吸积盘与中子星相互作用，与课题组核心关注的黑洞吸积物理有一定差异，但其作为高能暂现源仍具研究价值。考虑到该源此前光学后随未见明显变化，且 1m 望远镜灵敏度有限，建议优先利用 SVOM 或 Swift 进行多波段监测，暂无需动用 1m 光学望远镜跟进。
-
----
-
-### [3] | ATel 17846: [Discovery of a Bright Probable Nova in M81, M81N 2026-06a](https://www.astronomerstelegram.org/?read=17846)
-
-[查看本周完整 ATel](./atels/2026-W25.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-18
 
 *Tags: #arXiv #Astrophysics*
 
@@ -143,5 +112,3 @@ AI识别天体: [恒星级黑洞]
   - *本文利用SDO/AIA观测数据对2011年9月6日太阳大尺度日冕波进行了微分发射测量分析，探讨了其加热机制。*
 - **[0]** [Solar Wind Dependence on Source Distance from the Open-Closed Boundary](http://arxiv.org/abs/2606.20204v1)
   - *本文研究了太阳风成分与日冕磁场开放-封闭边界距离的依赖关系，探讨了交换重联在慢太阳风形成中的作用。*
-
-[查看历史目录](./posts/index.md)
