@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [0] | ATel 17852: [Major Solar Flare from AR 4473: does it peak its activity?](https://www.astronomerstelegram.org/?read=17852)
+- **日期**: 21 Jun 2026 UT | **源**: `AR 4473`
+
+**爆发速递**: 太阳活动区 AR 4473 于2026年6月21日爆发了一次 M6.9 级耀斑。该区域自6月19日以来表现出显著的活跃性，研究人员推测这可能是该区域在当前太阳周期下降阶段的最后一次显著爆发。**观测短评**: 该目标为太阳物理研究范畴，与本课题组关注的黑洞X射线双星、AGN及暂现源物理研究方向无关，且无法利用现有光学望远镜进行常规天体物理观测，无需跟进。
+
+---
+
+### [0] | ATel 17851: [The predominant solar active region AR 4473 in action](https://www.astronomerstelegram.org/?read=17851)
+- **日期**: 21 Jun 2026 UT | **源**: `AR 4473`
+
+**爆发速递**: 本文报告了太阳活动区 AR 4473 的活跃情况，该区域自2026年6月20日起在太阳东边缘产生频繁的耀斑爆发，包括 M1 和 M2.7 级耀斑，预计未来将持续产生强耀斑。**观测短评**: 该目标为太阳物理研究范畴，与本课题组关注的黑洞、中子星及活动星系核等深空暂现源研究方向无关，且不属于光学望远镜跟进的观测目标，无需申请后续观测。
+
+---
+
 ### [5] | ATel 17850: [EP260617a: optical observations with LCO](https://www.astronomerstelegram.org/?read=17850)
-- **日期**: 19 Jun 2026 UT | **源**: `EP260617a`
-
-**爆发速递**: LCO 1m 望远镜对 EP260617a 的位置进行了光学后随观测，在 SDSS-r 波段未发现新的暂现源，3-sigma 极限星等为 r > 22.7。观测区域内存在一颗历史变源，其光变周期约为 210 天，目前尚不确定其与该 EP 事件的关联。**观测短评**: 该目标目前未发现明确的光学对应体，且存在干扰变源，光学后随价值较低。鉴于我方 1m 望远镜测光极限为 21 等，该源若后续有更明确的暂现信号出现，可考虑进行常规监测，但目前无需申请额外资源。
-
----
-
-### [5] | ATel 17849: [EP-FXT follow-up of the X-ray transient EP260617a](https://www.astronomerstelegram.org/?read=17849)
-- **日期**: 19 Jun 2026 UT | **源**: `EP260617a`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的FXT望远镜对X射线暂现源EP260617a进行了后续观测，在WXT误差圆内未探测到X射线源，0.5-10 keV能段的流量上限为7e-14 erg/s/cm^2。**观测短评**: 该源目前处于X射线静默状态，且缺乏光学对应体信息，暂无明确的光学后随观测价值。鉴于EP任务的覆盖范围，建议持续关注后续是否有新的X射线爆发活动，目前无需申请额外设备观测。
-
----
-
-### [5] | ATel 17848: [Einstein Probe detection of an X-ray transient EP260617a](https://www.astronomerstelegram.org/?read=17848)
 
 [查看本周完整 ATel](./atels/2026-W25.md)
 
