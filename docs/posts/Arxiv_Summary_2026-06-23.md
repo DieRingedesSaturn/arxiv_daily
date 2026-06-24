@@ -1,34 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17854: [Fermi-LAT detection of increasing GeV gamma-ray activity from blazars 4C +33.06 and OQ 334](https://www.astronomerstelegram.org/?read=17854)
-- **日期**: 23 Jun 2026 UT | **源**: `4C +33.06 and OQ 334`
-
-**爆发速递**: Fermi-LAT 探测到两个平谱射电类星体 (FSRQ) 4C +33.06 和 OQ 334 的 GeV 能段伽马射线活动显著增强。其中 4C +33.06 达到历史最高通量，OQ 334 亦处于高能爆发状态，且能谱均较平时变硬。**观测短评**: 作为典型的 AGN 耀变体，此类源在爆发期间具有极高的多波段观测价值。虽然 1m 望远镜受限于灵敏度可能难以捕捉其微弱的光学变化，但鉴于其处于高能活跃期，建议利用 SVOM 或 Swift 等空间设备进行 X 射线及紫外波段的联合监测，以研究其吸积盘与喷流的耦合机制。
-
----
-
-### [6] | ATel 17853: [MAXI/GSC detection of a renewed activity from the Be/X-ray binary pulsar 1A 1118-616 or a possible new X-ray transient MAXI J1122-616](https://www.astronomerstelegram.org/?read=17853)
-- **日期**: 22 Jun 2026 UT | **源**: `MAXI J1122-616`
-
-**爆发速递**: MAXI/GSC 在 1A 1118-616 附近探测到微弱的 X 射线增强，暂定名为 MAXI J1122-616。该源在 4.0-10.0 keV 能段表现出约 31 mCrab 的通量，且存在缓慢上升趋势，目前尚不能排除其为 1A 1118-616 的再次活动或是一个全新的暂现源。**观测短评**: 该源为 Be/X 射线双星脉冲星候选体，具有一定的多波段研究价值。由于其位于南天区（赤纬 -61 度），超出我方 1m 望远镜的观测范围，建议利用 Swift 或其他南半球设备进行后续监测以确认其光学对应体及周期性特征。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W26.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-23
 
 *Tags: #arXiv #Astrophysics*
 
@@ -514,5 +484,3 @@ AI识别天体: [大质量黑洞双星, 环双星盘]
   - *该论文通过数值模拟研究了分子云核坍缩过程中的恒星形成效率，属于恒星形成与星际介质物理领域。*
 - **[0]** [Two stages of magnetic filament formation in the solar convective zone](http://arxiv.org/abs/2606.20992v1)
   - *本文探讨了太阳对流层中磁丝形成的两个阶段及其动力学机制，属于太阳物理学领域。*
-
-[查看历史目录](./posts/index.md)
