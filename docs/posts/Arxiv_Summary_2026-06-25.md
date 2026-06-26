@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17855: [Apparent Activity of Centaur 2024 XE22](https://www.astronomerstelegram.org/?read=17855)
-- **日期**: 25 Jun 2026 UT | **源**: `2024 XE22`
-
-**爆发速递**: 研究团队利用4.3米Lowell Discovery Telescope (LDT)对半人马小行星2024 XE22进行了观测，发现其存在约10角秒长的彗尾，证实了该天体的活动性。观测时其视星等约为21.7等。**观测短评**: 该目标属于太阳系小天体，与黑洞、中子星等高能天体研究方向无关。且其21.7等的亮度已超出我方1米望远镜21等的测光极限，不具备跟进观测价值。
-
----
-
-### [8] | ATel 17854: [Fermi-LAT detection of increasing GeV gamma-ray activity from blazars 4C +33.06 and OQ 334](https://www.astronomerstelegram.org/?read=17854)
-- **日期**: 23 Jun 2026 UT | **源**: `4C +33.06 and OQ 334`
-
-**爆发速递**: Fermi-LAT 探测到两个平谱射电类星体 (FSRQ) 4C +33.06 和 OQ 334 的 GeV 能段伽马射线活动显著增强。其中 4C +33.06 达到历史最高通量，OQ 334 亦处于高能爆发状态，且能谱均较平时变硬。**观测短评**: 作为典型的 AGN 耀变体，此类源在爆发期间具有极高的多波段观测价值。虽然 1m 望远镜受限于灵敏度可能难以捕捉其微弱的光学变化，但鉴于其处于高能活跃期，建议利用 SVOM 或 Swift 等空间设备进行 X 射线及紫外波段的联合监测，以研究其吸积盘与喷流的耦合机制。
-
----
-
-### [6] | ATel 17853: [MAXI/GSC detection of a renewed activity from the Be/X-ray binary pulsar 1A 1118-616 or a possible new X-ray transient MAXI J1122-616](https://www.astronomerstelegram.org/?read=17853)
-
-[查看本周完整 ATel](./atels/2026-W26.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-25
 
 *Tags: #arXiv #Astrophysics*
 
@@ -540,5 +509,3 @@ AI识别天体: [白矮星, 经典新星, 共生新星, 双星系统]
   - *该论文利用积分场光谱技术研究了太阳黑子大气中的磁流体动力学波与共振腔动力学，属于太阳物理领域。*
 - **[0]** [Symbiotic Magnetogenesis during Radiation Domination](http://arxiv.org/abs/2606.25171v1)
   - *该论文探讨了辐射主导时期轴子-膨胀子系统产生的暗磁场机制，属于早期宇宙学与暗物质理论研究。*
-
-[查看历史目录](./posts/index.md)
