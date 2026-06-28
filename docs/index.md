@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [2] | ATel 17856: [Spectroscopic Confirmation and Physical Characterization of the Most Probable Host Galaxy of Repeating FRB 20251229A](https://www.astronomerstelegram.org/?read=17856)
+- **日期**: 27 Jun 2026 UT | **源**: `FRB 20251229A`
+
+**爆发速递**: 研究团队利用10.4米GTC望远镜对重复快速射电暴FRB 20251229A的候选宿主星系SDSS J204123.23+160126.54进行了光谱观测，确定其红移为z=0.1275，并分析了该星系的恒星形成率、金属丰度及射电辐射特征。**观测短评**: 该目标属于FRB研究范畴，虽与本组核心黑洞吸积物理研究相关性较低，但其宿主星系环境分析对理解FRB起源有重要意义。由于该目标位于北半球且宿主星系较暗，超出本组1米望远镜的有效观测能力，无需申请跟进观测。
+
+---
+
 ### [0] | ATel 17855: [Apparent Activity of Centaur 2024 XE22](https://www.astronomerstelegram.org/?read=17855)
 - **日期**: 25 Jun 2026 UT | **源**: `2024 XE22`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [8] | ATel 17854: [Fermi-LAT detection of increasing GeV gamma-ray activity from blazars 4C +33.06 and OQ 334](https://www.astronomerstelegram.org/?read=17854)
-- **日期**: 23 Jun 2026 UT | **源**: `4C +33.06 and OQ 334`
-
-**爆发速递**: Fermi-LAT 探测到两个平谱射电类星体 (FSRQ) 4C +33.06 和 OQ 334 的 GeV 能段伽马射线活动显著增强。其中 4C +33.06 达到历史最高通量，OQ 334 亦处于高能爆发状态，且能谱均较平时变硬。**观测短评**: 作为典型的 AGN 耀变体，此类源在爆发期间具有极高的多波段观测价值。虽然 1m 望远镜受限于灵敏度可能难以捕捉其微弱的光学变化，但鉴于其处于高能活跃期，建议利用 SVOM 或 Swift 等空间设备进行 X 射线及紫外波段的联合监测，以研究其吸积盘与喷流的耦合机制。
-
----
-
-### [6] | ATel 17853: [MAXI/GSC detection of a renewed activity from the Be/X-ray binary pulsar 1A 1118-616 or a possible new X-ray transient MAXI J1122-616](https://www.astronomerstelegram.org/?read=17853)
 
 [查看本周完整 ATel](./atels/2026-W26.md)
 
