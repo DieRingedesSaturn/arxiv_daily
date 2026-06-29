@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 17857: [Discovery of an Apparent Nova Positionally Coincident with G170 in M31, M31N 2026-06c](https://www.astronomerstelegram.org/?read=17857)
-- **日期**: 28 Jun 2026 UT | **源**: `M31N 2026-06c`
-
-**爆发速递**: Ondrejov 0.65m望远镜在M31星系中心区域发现了一颗疑似新星 M31N 2026-06c，该天体与球状星团 G170 位置重合。观测显示其在H_alpha波段有明显增亮，R波段星等约为17.8等。**观测短评**: 该目标位于M31，且与球状星团相关联，具有一定的天体物理研究价值。但由于其星等较暗（16-18等），已接近我方1m望远镜的光谱极限，且该类目标不属于我方核心研究领域（BHXRB/AGN），建议优先关注其他高能暂现源，无需投入额外观测资源。
-
----
-
-### [2] | ATel 17856: [Spectroscopic Confirmation and Physical Characterization of the Most Probable Host Galaxy of Repeating FRB 20251229A](https://www.astronomerstelegram.org/?read=17856)
-- **日期**: 27 Jun 2026 UT | **源**: `FRB 20251229A`
-
-**爆发速递**: 研究团队利用10.4米GTC望远镜对重复快速射电暴FRB 20251229A的候选宿主星系SDSS J204123.23+160126.54进行了光谱观测，确定其红移为z=0.1275，并分析了该星系的恒星形成率、金属丰度及射电辐射特征。**观测短评**: 该目标属于FRB研究范畴，虽与本组核心黑洞吸积物理研究相关性较低，但其宿主星系环境分析对理解FRB起源有重要意义。由于该目标位于北半球且宿主星系较暗，超出本组1米望远镜的有效观测能力，无需申请跟进观测。
-
----
-
-### [0] | ATel 17855: [Apparent Activity of Centaur 2024 XE22](https://www.astronomerstelegram.org/?read=17855)
-
-[查看本周完整 ATel](./atels/2026-W26.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-28
 
 *Tags: #arXiv #Astrophysics*
 
@@ -351,5 +320,3 @@ AI识别天体: [毫秒脉冲星, 大质量黑洞双星]
   - *该论文通过数值模拟研究了银河系磁场中宇宙线从扩散到漂移主导的输运机制转变，探讨其与宇宙线能谱膝区的关系。*
 - **[0]** [Unprecedent fast winking of solar flares triggered by bursty magnetic reconnection](http://arxiv.org/abs/2606.27641v1)
   - *本文研究了太阳耀斑中紫外波段耀斑带核的快速准周期脉动现象，揭示了三维磁重联的爆发性本质。*
-
-[查看历史目录](./posts/index.md)
