@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17861: [Four solar flares from four different regions and X1 flare culminates the solar activity on 30 June 2026](https://www.astronomerstelegram.org/?read=17861)
-- **日期**: 30 Jun 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 本文报道了2026年6月30日太阳活动区AR 4478、4480、4475及4479发生的系列太阳耀斑事件，其中包括一次X1.1级耀斑。这些耀斑被认为具有共振爆发特性。**观测短评**: 该内容涉及太阳物理研究，与本课题组关注的黑洞X射线双星、AGN及暂现源物理研究方向无关，且太阳观测不在本组望远镜及常规申请设备的研究范畴内，无后续跟进价值。
-
----
-
-### [0] | ATel 17860: [A flare of the H2O maser W31(1)](https://www.astronomerstelegram.org/?read=17860)
-- **日期**: 30 Jun 2026 UT | **源**: `W31(1)`
-
-**爆发速递**: 俄罗斯Pushchino 22米射电望远镜监测到W31(1)区域的22.235 GHz水脉泽发生剧烈爆发，通量密度在2026年6月下旬从数百Jy飙升至超过5000 Jy。该源关联一个距离约5.8 kpc的超致密电离氢区(UCHII)。**观测短评**: 该目标为射电波段的水脉泽爆发，属于恒星形成区物理研究范畴，与本课题组关注的黑洞吸积、AGN及暂现源物理方向无关。由于其主要特征在射电波段，且光学波段受消光严重，不具备光学后随观测价值，无需申请相关设备跟进。
-
----
-
-### [8] | ATel 17859: [EP260628c: Einstein Probe detection of an X-ray transient](https://www.astronomerstelegram.org/?read=17859)
-
-[查看本周完整 ATel](./atels/2026-W27.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-06-30
 
 *Tags: #arXiv #Astrophysics*
 
@@ -510,5 +479,3 @@ AI识别天体: [毫秒脉冲星, 超大质量黑洞双星]
   - *本文综述了利用射电波在太阳日冕和太阳风中的传播效应来探测等离子体湍流与磁场结构的方法。*
 - **[0]** [Center-to-limb variations of solar active regions: Observations of spots, faculae, and network in the 6173 Å continuum](http://arxiv.org/abs/2606.28887v1)
   - *该论文研究了太阳活动区在6173埃连续谱下的中心到边缘变化，旨在改进恒星活动建模以辅助系外行星探测。*
-
-[查看历史目录](./posts/index.md)
