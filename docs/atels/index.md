@@ -26,6 +26,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
+- [GRS_1915+105](./sources/GRS_1915+105.md) | *最新动态: ATel 17865 (2 Jul 2026)*
 - [EP260531a](./sources/EP260531a.md) | *最新动态: ATel 17844 (15 Jun 2026)*
 - [GS_1354-64](./sources/GS_1354-64.md) | *最新动态: ATel 17771 (1 May 2026)*
 - [IGR_J17331-2406](./sources/IGR_J17331-2406.md) | *最新动态: ATel 17751 (12 Apr 2026)*
@@ -59,6 +60,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [PKS_1046-409](./sources/PKS_1046-409.md) | *最新动态: ATel 17864 (2 Jul 2026)*
 - [4C_+33.06](./sources/4C_+33.06.md) | *最新动态: ATel 17854 (23 Jun 2026)*
 - [LEDA_66480_ESO_145-001](./sources/LEDA_66480_ESO_145-001.md) | *最新动态: ATel 17839 (8 Jun 2026)*
 - [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17835 (6 Jun 2026)*
@@ -93,11 +95,14 @@
 - [SN2026ejy](./sources/SN2026ejy.md) | *最新动态: ATel 17708 (5 Mar 2026)*
 
 ### FRB
-- [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17856 (27 Jun 2026)*
+- [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17863 (1 Jul 2026)*
 - [DFC001](./sources/DFC001.md) | *最新动态: ATel 17800 (14 May 2026)*
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [UX_Ari](./sources/UX_Ari.md) | *最新动态: ATel 17866 (2 Jul 2026)*
+- [AT_2026rdg](./sources/AT_2026rdg.md) | *最新动态: ATel 17868 (2 Jul 2026)*
+- [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 17862 (1 Jul 2026)*
 - [W31(1)](./sources/W31(1).md) | *最新动态: ATel 17860 (30 Jun 2026)*
 - [EP260628c](./sources/EP260628c.md) | *最新动态: ATel 17859 (30 Jun 2026)*
 - [M31N_2026-06c](./sources/M31N_2026-06c.md) | *最新动态: ATel 17857 (28 Jun 2026)*
@@ -109,7 +114,6 @@
 - [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17841 (12 Jun 2026)*
 - [220P_McNaught](./sources/220P_McNaught.md) | *最新动态: ATel 17838 (8 Jun 2026)*
 - [10P_Tempel](./sources/10P_Tempel.md) | *最新动态: ATel 17832 (4 Jun 2026)*
-- [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 17831 (4 Jun 2026)*
 - [M31N_2026-06a](./sources/M31N_2026-06a.md) | *最新动态: ATel 17826 (2 Jun 2026)*
 - [EP260530a](./sources/EP260530a.md) | *最新动态: ATel 17825 (1 Jun 2026)*
 - [IRAS_21204+4913](./sources/IRAS_21204+4913.md) | *最新动态: ATel 17823 (30 May 2026)*
