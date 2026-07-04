@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [2] | ATel 17868: [Spectroscopic Classification of AT 2026rdg=ZTF26abemjfk as a Classical Nova](https://www.astronomerstelegram.org/?read=17868)
-- **日期**: 2 Jul 2026 UT | **源**: `AT 2026rdg`
+### [3] | ATel 17871: [AT2026rdg is a heavily reddened Nova in its early phase](https://www.astronomerstelegram.org/?read=17871)
+- **日期**: 3 Jul 2026 UT | **源**: `AT2026rdg`
 
-**爆发速递**: 研究者利用南非SAAO 1米Lesedi望远镜对暂现源AT 2026rdg进行了光谱观测，确认其为一颗高度红化的经典新星。该源最初由ZTF和NMW巡天发现，光谱显示出明显的Balmer线和O I 7773 P Cygni轮廓，吸收线速度约为-1100 km/s。**观测短评**: 该目标为经典新星，虽处于我们的光学望远镜观测能力范围内，但由于其属于常规新星爆发且缺乏黑洞/中子星吸积物理背景，暂无必要投入课题组的观测资源进行后续跟进。
-
----
-
-### [2] | ATel 17867: [Spectroscopy and photometry of AT 2026rdg, a highly reddened FeII-type nova](https://www.astronomerstelegram.org/?read=17867)
-- **日期**: 2 Jul 2026 UT | **源**: `AT 2026rdg`
-
-**爆发速递**: DCAP合作组报告发现了一颗高度红化的FeII型新星AT 2026rdg。该源在2026年7月1日被ZTF发现，随后多波段测光显示其具有极高的消光（E(B-V)约2 mag），光谱呈现典型的FeII型新星特征，包括具有P-Cygni轮廓的宽Balmer发射线及Fe II发射线。**观测短评**: 该目标为银道面附近的新星，虽然其亮度较高（V~11等），但由于其属于经典新星（Nova）而非课题组重点关注的黑洞或中子星吸积系统，且该源已有充分的光谱和测光覆盖，无需动用课题组的1m望远镜进行后续跟进。
+**爆发速递**: OHP天文台利用1.93米望远镜的Mistral光谱仪对AT2026rdg进行了观测，确认其为一颗处于早期阶段的强红化经典新星。光谱显示氢、氦及OI发射线，并伴有FeII及吸收线，P-Cygni轮廓表明膨胀速度约为1100 km/s，Halpha/HBeta比值证实了显著的红化效应。**观测短评**: 该目标属于经典新星，虽与课题组核心研究领域（BHXRB/AGN）关联度较低，但其亮度较高且处于早期演化阶段。鉴于其红化严重，若后续有测光需求，可评估我方1米望远镜的观测可行性，但目前无需优先申请大型设备资源。
 
 ---
 
-### [2] | ATel 17866: [MAXI/GSC detection of an X-ray flare from UX Ari on 2026-06-25 UT](https://www.astronomerstelegram.org/?read=17866)
+### [3] | ATel 17870: [Einstein Probe discovery of a new magnetar candidate in outburst: EP J223759.5+531421 (EP260628c)](https://www.astronomerstelegram.org/?read=17870)
+- **日期**: 3 Jul 2026 UT | **源**: `EP J223759.5+531421`
+
+**爆发速递**: 爱因斯坦探针卫星(EP)发现了暂现源EP J223759.5+531421，后续X射线观测揭示了约6秒的相干脉冲周期。能谱分析显示其具有双黑体成分及硬X射线幂律尾，结合爆发特征，目前被归类为磁星候选体，但也存在低质量X射线双星的可能。**观测短评**: 该源目前处于X射线爆发活跃期，但作为磁星候选体，其光学对应体通常极暗，且该源位于银道面附近，消光可能较严重。鉴于其光学亮度可能低于我方1米望远镜的极限，暂不建议安排光学跟进，建议优先关注后续X射线及射电波段的监测数据。
+
+---
+
+### [10] | ATel 17869: [Einstein Probe confirms the unprecedented low luminosity state of GRS 1915+105](https://www.astronomerstelegram.org/?read=17869)
 
 [查看本周完整 ATel](./atels/2026-W27.md)
 

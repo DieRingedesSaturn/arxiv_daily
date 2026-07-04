@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 17871: [AT2026rdg is a heavily reddened Nova in its early phase](https://www.astronomerstelegram.org/?read=17871)
+- **日期**: 3 Jul 2026 UT
+
+**爆发速递**: OHP天文台利用1.93米望远镜的Mistral光谱仪对AT2026rdg进行了观测，确认其为一颗处于早期阶段的强红化经典新星。光谱显示氢、氦及OI发射线，并伴有FeII及吸收线，P-Cygni轮廓表明膨胀速度约为1100 km/s，Halpha/HBeta比值证实了显著的红化效应。**观测短评**: 该目标属于经典新星，虽与课题组核心研究领域（BHXRB/AGN）关联度较低，但其亮度较高且处于早期演化阶段。鉴于其红化严重，若后续有测光需求，可评估我方1米望远镜的观测可行性，但目前无需优先申请大型设备资源。
+
+---
+
 ### ATel 17868: [Spectroscopic Classification of AT 2026rdg=ZTF26abemjfk as a Classical Nova](https://www.astronomerstelegram.org/?read=17868)
 - **日期**: 2 Jul 2026 UT
 
