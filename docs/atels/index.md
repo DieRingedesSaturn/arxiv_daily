@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W28](2026-W28.md)
 - [2026-W27](2026-W27.md)
 - [2026-W26](2026-W26.md)
 - [2026-W25](2026-W25.md)
@@ -60,10 +61,10 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17874 (6 Jul 2026)*
 - [PKS_1046-409](./sources/PKS_1046-409.md) | *最新动态: ATel 17864 (2 Jul 2026)*
 - [4C_+33.06](./sources/4C_+33.06.md) | *最新动态: ATel 17854 (23 Jun 2026)*
 - [LEDA_66480_ESO_145-001](./sources/LEDA_66480_ESO_145-001.md) | *最新动态: ATel 17839 (8 Jun 2026)*
-- [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17835 (6 Jun 2026)*
 - [ON_393](./sources/ON_393.md) | *最新动态: ATel 17827 (2 Jun 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 17808 (22 May 2026)*
 - [HB89_1420+326](./sources/HB89_1420+326.md) | *最新动态: ATel 17792 (11 May 2026)*
@@ -100,7 +101,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
-- [EP260628c](./sources/EP260628c.md) | *最新动态: ATel 17870 (3 Jul 2026)*
+- [EP260628c](./sources/EP260628c.md) | *最新动态: ATel 17872 (5 Jul 2026)*
 - [AT_2026rdg](./sources/AT_2026rdg.md) | *最新动态: ATel 17871 (3 Jul 2026)*
 - [UX_Ari](./sources/UX_Ari.md) | *最新动态: ATel 17866 (2 Jul 2026)*
 - [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 17862 (1 Jul 2026)*
