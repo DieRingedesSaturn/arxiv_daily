@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [7] | ATel 17880: [The blazar S4 0954+65: the new activity period after 15-months of quiet state](https://www.astronomerstelegram.org/?read=17880)
-- **日期**: 6 Jul 2026 UT | **源**: `S4 0954+65`
-
-**爆发速递**: 研究团队利用1米和0.5米反射望远镜监测发现，耀变体S4 0954+65在经历了15个月的平静期后进入活跃状态。该源在6月底亮度显著提升，最高达到R=13.80等，并观测到明显的日内光变（INV），在3.5小时内亮度增加0.5等。**观测短评**: 该源目前处于活跃期且亮度处于我方1米望远镜的可观测范围内（R<16等），具备极高的光学监测价值，可用于研究耀变体的短时标光变特性。建议持续关注其后续演化，必要时可申请Swift或XMM-Newton进行多波段联合观测以分析其吸积与喷流活动。
-
----
-
-### [0] | ATel 17879: [Solar flaring after the maximum of the cycle XXV: the case of highly flaring AR 4479](https://www.astronomerstelegram.org/?read=17879)
-- **日期**: 6 Jul 2026 UT | **源**: `AR 4479`
-
-**爆发速递**: 本文报道了太阳活动第25周期的活跃区AR 4479的爆发活动。该区域在2026年6月29日至7月6日期间表现出极高的爆发频率，共产生94次耀斑，包括1次X级耀斑及多次M级耀斑，是该周期内最活跃的五个区域之一。**观测短评**: 该目标为太阳物理研究对象，不属于黑洞X射线双星、AGN或TDE等课题组核心研究范畴，且无法通过课题组现有的光学望远镜或高能空间设备进行科学观测，建议忽略。
-
----
-
-### [3] | ATel 17878: [ASASSN-26dt: an SMC Nova with a Luminous Progenitor and CSM](https://www.astronomerstelegram.org/?read=17878)
-
-[查看本周完整 ATel](./atels/2026-W28.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-06
 
 *Tags: #arXiv #Astrophysics*
 
@@ -396,5 +365,3 @@ AI识别天体: [太阳, 快速射电暴, 伽马射线暴]
   - *本文综述了帕克太阳探测器观测到的太阳风磁场回折现象的演化机制及其对太阳风物理的影响。*
 - **[0]** [High-Energy Neutrino Tomography of the Earth's Interior with IceCube](http://arxiv.org/abs/2607.02644v1)
   - *本文利用IceCube观测到的高能中微子衰减效应，对地球内部密度分布及质量进行了层析成像分析。*
-
-[查看历史目录](./posts/index.md)
