@@ -27,7 +27,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
-- [GRS_1915+105](./sources/GRS_1915+105.md) | *最新动态: ATel 17869 (3 Jul 2026)*
+- [GRS_1915+105](./sources/GRS_1915+105.md) | *最新动态: ATel 17882 (9 Jul 2026)*
 - [EP260531a](./sources/EP260531a.md) | *最新动态: ATel 17844 (15 Jun 2026)*
 - [GS_1354-64](./sources/GS_1354-64.md) | *最新动态: ATel 17771 (1 May 2026)*
 - [IGR_J17331-2406](./sources/IGR_J17331-2406.md) | *最新动态: ATel 17751 (12 Apr 2026)*
@@ -61,6 +61,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [3C_273](./sources/3C_273.md) | *最新动态: ATel 17881 (9 Jul 2026)*
 - [S4_0954+65](./sources/S4_0954+65.md) | *最新动态: ATel 17880 (6 Jul 2026)*
 - [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17874 (6 Jul 2026)*
 - [PKS_1046-409](./sources/PKS_1046-409.md) | *最新动态: ATel 17864 (2 Jul 2026)*

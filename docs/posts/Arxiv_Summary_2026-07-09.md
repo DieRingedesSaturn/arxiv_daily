@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 17882: [COLIBRI optical observation of GRS 1915+105 during the unprecedented low luminosity state](https://www.astronomerstelegram.org/?read=17882)
-- **日期**: 9 Jul 2026 UT | **源**: `GRS 1915+105`
-
-**爆发速递**: COLIBRI望远镜对处于历史极低光度状态的黑洞X射线双星GRS 1915+105进行了光学成像观测。在i波段和zy波段的叠加图像中，未探测到该源，给出了i > 23.12和zy > 22.30的3-sigma探测极限。**观测短评**: 该源目前处于极罕见的低光度状态，具有极高的物理研究价值。由于其光学亮度已降至23等以下，超出了我方1米望远镜的观测能力（极限21等）。建议利用ESO或LCO等大口径设备进行深场监测，以捕捉其可能的光学再亮或状态转换过程。
-
----
-
-### [8] | ATel 17881: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ 3C 273](https://www.astronomerstelegram.org/?read=17881)
-- **日期**: 9 Jul 2026 UT | **源**: `3C 273`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 3C 273 的伽马射线活动增强。2026年7月7日，其日均伽马射线通量（E>100MeV）达到 (3.4+/-0.4) x 10^-6 photons cm^-2 s^-1，较 4FGL-DR4 平均水平提升了十倍以上。**观测短评**: 3C 273 作为著名的 AGN，此次耀发具有重要的多波段研究价值。虽然该源亮度较高，但其光学监测对于理解喷流物理至关重要。建议利用现有设备进行光学波段的持续监测，并结合 Swift 或 XMM-Newton 等空间设备进行联合观测，以捕捉其能谱演化特征。
-
----
-
-### [7] | ATel 17880: [The blazar S4 0954+65: the new activity period after 15-months of quiet state](https://www.astronomerstelegram.org/?read=17880)
-
-[查看本周完整 ATel](./atels/2026-W28.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-09
 
 *Tags: #arXiv #Astrophysics*
 
@@ -200,5 +169,3 @@ AI识别天体: [激变变星, 中间极星, 极星, 白矮星]
   - *该论文探讨了太阳Kerr场引力手征异常导致的年度调制效应，属于基础物理与暗物质探测领域，与黑洞吸积及暂现源研究无关。*
 - **[0]** [Stellar J-Harvesting: a novel angular momentum technosignature and first search in the Kepler field](http://arxiv.org/abs/2607.07781v1)
   - *本文提出了一种基于恒星自转异常的“恒星角动量捕获”技术签名搜索方法，并对Kepler巡天数据进行了初步分析。*
-
-[查看历史目录](./posts/index.md)
