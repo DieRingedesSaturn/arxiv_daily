@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [10] | ATel 17883: [Near-infrared observations of GRS 1915+105 during its unprecedented low-luminosity state](https://www.astronomerstelegram.org/?read=17883)
+- **日期**: 10 Jul 2026 UT | **源**: `GRS 1915+105`
+
+**爆发速递**: 研究团队利用10.4米GTC望远镜对处于前所未有低光度状态的黑洞X射线双星GRS 1915+105进行了近红外成像观测。结果显示该源在J、H、Ks波段均有探测，其中Ks波段亮度降至历史新低，接近伴星贡献水平，且未发现显著的短时标变率。**观测短评**: 该源处于极低吸积状态，是研究黑洞吸积盘与喷流物理的绝佳窗口。虽然其光学亮度较暗（J=18.58），超出了我方1米望远镜的光谱极限，但该源的持续低态演化值得通过SVOM或Swift进行多波段监测，以捕捉其可能的吸积重启过程。
+
+---
+
 ### [10] | ATel 17882: [COLIBRI optical observation of GRS 1915+105 during the unprecedented low luminosity state](https://www.astronomerstelegram.org/?read=17882)
 - **日期**: 9 Jul 2026 UT | **源**: `GRS 1915+105`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [8] | ATel 17881: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ 3C 273](https://www.astronomerstelegram.org/?read=17881)
-- **日期**: 9 Jul 2026 UT | **源**: `3C 273`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 3C 273 的伽马射线活动增强。2026年7月7日，其日均伽马射线通量（E>100MeV）达到 (3.4+/-0.4) x 10^-6 photons cm^-2 s^-1，较 4FGL-DR4 平均水平提升了十倍以上。**观测短评**: 3C 273 作为著名的 AGN，此次耀发具有重要的多波段研究价值。虽然该源亮度较高，但其光学监测对于理解喷流物理至关重要。建议利用现有设备进行光学波段的持续监测，并结合 Swift 或 XMM-Newton 等空间设备进行联合观测，以捕捉其能谱演化特征。
-
----
-
-### [7] | ATel 17880: [The blazar S4 0954+65: the new activity period after 15-months of quiet state](https://www.astronomerstelegram.org/?read=17880)
 
 [查看本周完整 ATel](./atels/2026-W28.md)
 
