@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [8] | ATel 17884: [Exceptionally high optical state of the blazar B2 1420+326](https://www.astronomerstelegram.org/?read=17884)
+- **日期**: 11 Jul 2026 UT | **源**: `B2 1420+326`
+
+**爆发速递**: 变脸耀变体 B2 1420+326 (z=0.68) 近期处于全波段异常高态，保加利亚 Belogradchik 60cm 望远镜于7月9日和10日观测显示其 R 波段亮度达到历史最高水平，并伴随显著的偏振变化。**观测短评**: 该源属于典型的 AGN 耀变体，具有极高的多波段研究价值。虽然其亮度目前处于高态，但由于该源位于北半球且处于高亮度期，若后续有进一步的剧烈活动，可利用我方 1m 望远镜进行测光监测，并建议通过 Swift 或 EP 等空间设备进行联合能谱分析。
+
+---
+
 ### [10] | ATel 17883: [Near-infrared observations of GRS 1915+105 during its unprecedented low-luminosity state](https://www.astronomerstelegram.org/?read=17883)
 - **日期**: 10 Jul 2026 UT | **源**: `GRS 1915+105`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [10] | ATel 17882: [COLIBRI optical observation of GRS 1915+105 during the unprecedented low luminosity state](https://www.astronomerstelegram.org/?read=17882)
-- **日期**: 9 Jul 2026 UT | **源**: `GRS 1915+105`
-
-**爆发速递**: COLIBRI望远镜对处于历史极低光度状态的黑洞X射线双星GRS 1915+105进行了光学成像观测。在i波段和zy波段的叠加图像中，未探测到该源，给出了i > 23.12和zy > 22.30的3-sigma探测极限。**观测短评**: 该源目前处于极罕见的低光度状态，具有极高的物理研究价值。由于其光学亮度已降至23等以下，超出了我方1米望远镜的观测能力（极限21等）。建议利用ESO或LCO等大口径设备进行深场监测，以捕捉其可能的光学再亮或状态转换过程。
-
----
-
-### [8] | ATel 17881: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ 3C 273](https://www.astronomerstelegram.org/?read=17881)
 
 [查看本周完整 ATel](./atels/2026-W28.md)
 
