@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 17887: [Spectroscopic confirmation of TCP J02191736+2857158 as a WZ Sge-type dwarf nova](https://www.astronomerstelegram.org/?read=17887)
-- **日期**: 12 Jul 2026 UT | **源**: `TCP J02191736+2857158`
-
-**爆发速递**: 日本京都大学Seimei望远镜利用KOOLS-IFU光谱仪确认了暂现源TCP J02191736+2857158为一颗WZ Sge型矮新星。该源由NMW-TexasTech巡天发现，爆发幅度约8.5等，光谱呈现蓝色连续谱及巴尔末线、氦线吸收特征，Hα线中心存在发射核。**观测短评**: 该目标为激变变星，爆发幅度大且处于可观测亮度范围内。考虑到其WZ Sge型属性，后续可能出现超爆发或回升现象，具有较高的光学监测价值。鉴于其当前亮度，我方1m望远镜具备良好的测光跟进能力，建议进行长期光变监测以捕捉其演化特征。
-
----
-
-### [3] | ATel 17886: [AT2026stb is a Galactic nova in Scutum](https://www.astronomerstelegram.org/?read=17886)
-- **日期**: 12 Jul 2026 UT | **源**: `AT2026stb`
-
-**爆发速递**: ZTF发现并由SOAR望远镜光谱证认为银河系内经典新星。该源位于盾牌座，目前处于增亮阶段，光谱显示明显的H-alpha、O I及He I发射线，且无P Cygni吸收特征，伴随显著消光。**观测短评**: 该目标为银河系内新星，虽非课题组核心研究的BHXRB或AGN，但其亮度处于上升期且目前星等(r=14.04)在我们的1m望远镜观测能力范围内。若需进行长时标光变监测或多波段协同，可考虑利用现有光学设备跟进，但无需申请大型空间设备资源。
-
----
-
-### [2] | ATel 17885: [EP260628c/EP J223759.5+531421: NOT optical upper limit](https://www.astronomerstelegram.org/?read=17885)
-
-[查看本周完整 ATel](./atels/2026-W28.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-12
 
 *Tags: #arXiv #Astrophysics*
 
@@ -190,5 +159,3 @@ AI识别天体: [激变变星, 极星, 中间极星, 白矮星]
   - *本文利用相对论平均场理论研究了强磁场下致密核物质的状态方程，探讨了磁场对中子星宏观性质的影响。*
 - **[0]** [Observations of the Halo Star HD 177566](http://arxiv.org/abs/2607.08858v1)
   - *本文对晕星HD 177566进行了紫外与光学光谱分析，确定其为处于后渐近巨星支（post-AGB）阶段的恒星。*
-
-[查看历史目录](./posts/index.md)
