@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17890: [Fermi-LAT detection of enhanced gamma-ray activity from the FSRQ B3 0227+403](https://www.astronomerstelegram.org/?read=17890)
-- **日期**: 13 Jul 2026 UT | **源**: `B3 0227+403`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 (FSRQ) B3 0227+403 的伽马射线活动显著增强。2026年7月12日，其日均伽马射线通量达到 (0.3+/-0.1) X 10^-6 photons cm^-2 s^-1，较 4FGL-DR4 平均水平提升了约 20 倍，创下该源的历史最高记录。**观测短评**: 该源为红移 z=1.019 的活动星系核，处于高能爆发态，具有极高的多波段联合观测价值。鉴于其位于北半球且处于活跃期，建议利用现有 1m 望远镜进行光学监测以捕捉可能的变率特征，并考虑申请 Swift 或其他空间设备进行 X 射线能谱分析，以研究其吸积与喷流物理过程。
-
----
-
-### [5] | ATel 17889: [Detection of superhumps during the superoutburst of Gaia19ati/ASASSN-15pa](https://www.astronomerstelegram.org/?read=17889)
-- **日期**: 13 Jul 2026 UT | **源**: `Gaia19ati`
-
-**爆发速递**: 研究团队利用智利ROAD 40cm望远镜对Gaia19ati/ASASSN-15pa进行了光度观测，在长时标爆发期间探测到了周期为0.076(1)天的超峰（superhumps），证实其为SU UMa型矮新星正在经历超级爆发。**观测短评**: 该目标属于激变变星（CV），符合课题组的重点拓展领域。虽然该源目前处于爆发期，但由于其位于南半球且已有全球协作网络（BHTOM）跟进，若我方1m望远镜观测条件允许，可作为光度监测的补充，但无需申请大型空间设备进行深度观测。
-
----
-
-### [2] | ATel 17888: [Radio Detection of SN 2001ig in NGC 7424 with uGMRT Band 4 at 650 MHz](https://www.astronomerstelegram.org/?read=17888)
-
-[查看本周完整 ATel](./atels/2026-W29.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-13
 
 *Tags: #arXiv #Astrophysics*
 
@@ -323,5 +292,3 @@ AI识别天体: [中子星, 红巨星]
   - *本文研究了洛伦兹对称性破缺下的光子衰变为中微子过程，并探讨了其对PeV光子稳定性的限制。*
 - **[0]** [Solar Wind Proton Implantation and Hydrogen Diffusion: Model Comparisons to M3 Observations](http://arxiv.org/abs/2607.09989v1)
   - *该论文研究月球表面太阳风质子注入与氢扩散过程，旨在解释月球矿物填图仪观测到的3微米吸收特征。*
-
-[查看历史目录](./posts/index.md)

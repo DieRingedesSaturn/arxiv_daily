@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W29](2026-W29.md)
 - [2026-W28](2026-W28.md)
 - [2026-W27](2026-W27.md)
 - [2026-W26](2026-W26.md)
@@ -54,6 +55,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [Gaia19ati](./sources/Gaia19ati.md) | *最新动态: ATel 17889 (13 Jul 2026)*
 - [TCP_J02191736+2857158](./sources/TCP_J02191736+2857158.md) | *最新动态: ATel 17887 (12 Jul 2026)*
 - [TCP_J07151825+4753167_and_TCP_J15030519+2202041](./sources/TCP_J07151825+4753167_and_TCP_J15030519+2202041.md) | *最新动态: ATel 17791 (10 May 2026)*
 - [T_CrB](./sources/T_CrB.md) | *最新动态: ATel 17784 (9 May 2026)*
@@ -62,6 +64,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [B3_0227+403](./sources/B3_0227+403.md) | *最新动态: ATel 17890 (13 Jul 2026)*
 - [B2_1420+32](./sources/B2_1420+32.md) | *最新动态: ATel 17884 (11 Jul 2026)*
 - [3C_273](./sources/3C_273.md) | *最新动态: ATel 17881 (9 Jul 2026)*
 - [S4_0954+65](./sources/S4_0954+65.md) | *最新动态: ATel 17880 (6 Jul 2026)*
@@ -92,6 +95,7 @@
 - [Fermi_J0346.0+5405](./sources/Fermi_J0346.0+5405.md) | *最新动态: ATel 17687 (18 Feb 2026)*
 
 ### SN
+- [SN_2001ig](./sources/SN_2001ig.md) | *最新动态: ATel 17888 (13 Jul 2026)*
 - [SN_2007it](./sources/SN_2007it.md) | *最新动态: ATel 17830 (4 Jun 2026)*
 - [AT_2026mko](./sources/AT_2026mko.md) | *最新动态: ATel 17803 (15 May 2026)*
 - [SN_2024ggi](./sources/SN_2024ggi.md) | *最新动态: ATel 17774 (5 May 2026)*
