@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [9] | ATel 17891: [Einstein Probe detection of a new X-ray outburst from LMXB GRS 1747-312 in Terzan 6](https://www.astronomerstelegram.org/?read=17891)
-- **日期**: 14 Jul 2026 UT | **源**: `GRS 1747-312`
-
-**爆发速递**: Einstein Probe (EP) 卫星的 WXT 仪器于2026年6月30日探测到低质量X射线双星 GRS 1747-312 的新一轮爆发。该源位于球状星团 Terzan 6 中，具有约6个月一次的准周期爆发特征。**观测短评**: 该源为已知的中子星X射线双星，处于球状星团中，具有明确的爆发周期。虽然该源主要在X射线波段表现活跃，但对于此类系统的多波段监测有助于理解其吸积动力学。考虑到其位于球状星团，光学观测受背景干扰较大，但若爆发强度足够，可尝试利用LCO等全球网络进行测光监测，目前暂无需动用自有1米望远镜。
-
----
-
-### [8] | ATel 17890: [Fermi-LAT detection of enhanced gamma-ray activity from the FSRQ B3 0227+403](https://www.astronomerstelegram.org/?read=17890)
-- **日期**: 13 Jul 2026 UT | **源**: `B3 0227+403`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 (FSRQ) B3 0227+403 的伽马射线活动显著增强。2026年7月12日，其日均伽马射线通量达到 (0.3+/-0.1) X 10^-6 photons cm^-2 s^-1，较 4FGL-DR4 平均水平提升了约 20 倍，创下该源的历史最高记录。**观测短评**: 该源为红移 z=1.019 的活动星系核，处于高能爆发态，具有极高的多波段联合观测价值。鉴于其位于北半球且处于活跃期，建议利用现有 1m 望远镜进行光学监测以捕捉可能的变率特征，并考虑申请 Swift 或其他空间设备进行 X 射线能谱分析，以研究其吸积与喷流物理过程。
-
----
-
-### [5] | ATel 17889: [Detection of superhumps during the superoutburst of Gaia19ati/ASASSN-15pa](https://www.astronomerstelegram.org/?read=17889)
-
-[查看本周完整 ATel](./atels/2026-W29.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-14
 
 *Tags: #arXiv #Astrophysics*
 
@@ -176,5 +145,3 @@ AI识别天体: [恒星级黑洞]
   - *本文探讨了平方公里阵列（SKA）在探测系外行星与超冷矮星射电辐射及磁场特征方面的应用前景。*
 - **[0]** [Structure and Dynamics of the Inner Corona Measured from the DEB Initiative 2024 Eclipse Image Sequence](http://arxiv.org/abs/2607.12950v1)
   - *该论文利用日全食观测数据分析了太阳内日冕的结构、动力学及径向速度，与黑洞吸积及暂现源研究无关。*
-
-[查看历史目录](./posts/index.md)
