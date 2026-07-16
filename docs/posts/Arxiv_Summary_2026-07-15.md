@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 17897: [BVRI photometry of B2 1420+326](https://www.astronomerstelegram.org/?read=17897)
-- **日期**: 15 Jul 2026 UT | **源**: `B2 1420+326`
-
-**爆发速递**: 研究团队使用35厘米望远镜对处于高光度状态的变脸耀变体 B2 1420+326 进行了 BVRI 波段的光学监测。观测显示该源较7月9日已减光约0.4等，目前正处于缓慢下降阶段，但仍维持在异常明亮的状态。**观测短评**: 该源作为典型的 AGN 目标，其光变行为对研究吸积盘与喷流物理具有重要价值。鉴于其目前亮度（约13等）远高于我们1米望远镜的观测极限，非常适合开展高频次的光学监测以捕捉其光变细节，建议持续关注其后续演化趋势。
-
----
-
-### [2] | ATel 17896: [SN 2026sqf: upper limits from an IceCube neutrino search](https://www.astronomerstelegram.org/?read=17896)
-- **日期**: 15 Jul 2026 UT | **源**: `SN 2026sqf`
-
-**爆发速递**: IceCube合作组针对超新星SN 2026sqf进行了中微子关联搜寻，分析了发现时间前后共6天的数据，结果未发现显著的中微子信号，并给出了90%置信水平下的通量上限。**观测短评**: 该目标为超新星，虽属于暂现源，但与本组重点关注的吸积物理（BHXRB/AGN）关联度较低。由于该源已通过TNS发布，且IceCube未探测到高能中微子，目前缺乏进一步光学跟进的紧迫性，无需申请额外观测资源。
-
----
-
-### [8] | ATel 17895: [Fermi-LAT detection of renewed gamma-ray activity from the TeV BL Lac VER J0521+211](https://www.astronomerstelegram.org/?read=17895)
-
-[查看本周完整 ATel](./atels/2026-W29.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-15
 
 *Tags: #arXiv #Astrophysics*
 
@@ -144,5 +113,3 @@ AI识别天体: [中子星, 红巨星]
   - *本文介绍了AIMS太阳磁场望远镜的微服务架构主控系统设计，重点在于望远镜自动化控制与软件架构实现。*
 - **[0]** [Rigidity spectra and onset geometry of the two largest Forbush decreases of solar cycle 25 from visibility-graph curvature](http://arxiv.org/abs/2607.13236v1)
   - *本文利用可见性图曲率分析方法研究了第25太阳周期的两次福布什下降事件，属于太阳物理与空间天气领域。*
-
-[查看历史目录](./posts/index.md)
