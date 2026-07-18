@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 17905: [Photometric observations of Gaia16adj/ASASSN-14eg in superoutburst](https://www.astronomerstelegram.org/?read=17905)
-- **日期**: 17 Jul 2026 UT | **源**: `Gaia16adj`
-
-**爆发速递**: 研究团队通过LCO及ROAD望远镜对Gaia16adj/ASASSN-14eg进行光度监测，确认其处于超级爆发阶段，并观测到明显的超驼峰(superhumps)现象，证实其为SU UMa型矮新星。**观测短评**: 该目标为激变变星，符合课题组对CV类源的关注范畴。虽然该源目前处于爆发衰减期，但其光变特征明确，具备光学监测价值。鉴于该源已纳入BHTOM平台管理，若后续有持续活动，可利用我方1m望远镜进行测光跟进，无需额外申请大型设备。
-
----
-
-### [3] | ATel 17904: [Planned NuSTAR monitoring campaign of the magnetar candidate EP J223759.5+531421 (EP260628c)](https://www.astronomerstelegram.org/?read=17904)
-- **日期**: 17 Jul 2026 UT | **源**: `EP J223759.5+531421`
-
-**爆发速递**: Einstein Probe发现的磁星候选体EP J223759.5+531421近期获批NuSTAR监测计划。该源表现出5.99秒的相干X射线脉冲及双热分量加硬幂律谱特征，目前射电观测未见信号。**观测短评**: 该源为磁星，非课题组重点关注的BHXRB或AGN，且光学亮度预期较低，不属于1m望远镜跟进范畴。鉴于Swift和NICER目前不可用，NuSTAR的监测对于研究磁星自转演化及脉冲形态演变具有唯一性，建议关注后续发布的时变分析结果。
-
----
-
-### [8] | ATel 17903: [Chandra detection of new outburst by XMMU J174445.5-295044](https://www.astronomerstelegram.org/?read=17903)
-
-[查看本周完整 ATel](./atels/2026-W29.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-17
 
 *Tags: #arXiv #Astrophysics*
 
@@ -234,5 +203,3 @@ AI识别天体: [激变变星, 白矮星]
   - *该论文利用APOGEE数据研究了疏散星团NGC 752和Ruprecht 147中恒星表面的原子扩散效应及其对年龄测定的影响。*
 - **[0]** [Structure and Dynamics of the Inner Corona Measured from the DEB Initiative 2024 Eclipse Image Sequence](http://arxiv.org/abs/2607.12950v2)
   - *该论文利用2024年日全食观测数据分析了太阳内日冕的结构、动力学特征及径向速度分布。*
-
-[查看历史目录](./posts/index.md)

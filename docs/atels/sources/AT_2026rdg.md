@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 17900: [Evolution of Nova Aql 2026 (V2104 Aql) from discovery to the t2 phase](https://www.astronomerstelegram.org/?read=17900)
+- **日期**: 16 Jul 2026 UT
+
+**爆发速递**: 暂现源AT 2026rdg被确认为一颗高度红化的FeII型新星，命名为V2104 Aql。该源被归类为“极快”新星，t2(V)约为9.0天。近期观测显示其在t2阶段后出现约0.25星等的亮度反弹。**观测短评**: 该源属于经典新星，虽非课题组核心研究的黑洞或AGN，但其亮度反弹现象具有一定研究价值。考虑到其目前V波段亮度已衰减，且课题组拥有1m光学望远镜，若后续出现显著的亮度变化或光谱演化，可进行常规测光监测，但无需申请大型空间设备资源。
+
+---
+
 ### ATel 17871: [AT2026rdg is a heavily reddened Nova in its early phase](https://www.astronomerstelegram.org/?read=17871)
 - **日期**: 3 Jul 2026 UT
 
