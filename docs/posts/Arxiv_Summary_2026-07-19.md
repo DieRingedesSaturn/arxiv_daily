@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 17907: [New faint optical activity in the black hole transient IGR J17091-3624](https://www.astronomerstelegram.org/?read=17907)
-- **日期**: 19 Jul 2026 UT | **源**: `IGR J17091-3624`
-
-**爆发速递**: 研究人员利用LCO望远镜网络监测发现，黑洞X射线双星IGR J17091-3624在经历2025年爆发后，近期光学波段出现微弱增亮迹象，目前处于极低水平的活动状态。**观测短评**: 该源属于典型的黑洞X射线双星，符合课题组研究兴趣。鉴于其光学亮度极暗（r'~20.5等），已接近我方1m望远镜的测光极限，常规监测难度较大。建议优先利用大口径设备（如ESO或LCO）进行多波段联合观测，以确认该增亮是否预示新一轮爆发活动。
-
----
-
-### [5] | ATel 17906: [Gaia24amv: SU UMa-type dwarf nova near the period gap](https://www.astronomerstelegram.org/?read=17906)
-- **日期**: 19 Jul 2026 UT | **源**: `Gaia24amv`
-
-**爆发速递**: 研究团队通过多台地面光学望远镜对激变变星Gaia24amv进行了光度监测，确认其在2026年6月至7月期间发生了超级爆发，并观测到周期约为0.091天的超峰（superhumps），将其分类为SU UMa型矮新星。**观测短评**: 该目标处于爆发活跃期，且亮度在16等左右，处于我方1米望远镜的观测能力范围内（光谱极限16等）。虽然该源属于激变变星，与核心黑洞研究方向不同，但作为重点拓展领域，可作为光学测光跟进的备选目标，建议关注BHTOM平台数据更新。
-
----
-
-### [6] | ATel 17905: [Photometric observations of Gaia16adj/ASASSN-14eg in superoutburst](https://www.astronomerstelegram.org/?read=17905)
-
-[查看本周完整 ATel](./atels/2026-W29.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-19
 
 *Tags: #arXiv #Astrophysics*
 
@@ -180,5 +149,3 @@ AI识别天体: [发光红新星, 双星系统]
   - *该论文研究超新星中集体中微子振荡对太阳系质子丰度核素产额的影响，属于核天体物理领域。*
 - **[0]** [The coronal mass ejection productivity of solar active region 13664/8](http://arxiv.org/abs/2607.14636v2)
   - *本文分析了太阳活动区13664/8的磁场演化与复杂性，探讨了其产生高频日冕物质抛射的物理机制。*
-
-[查看历史目录](./posts/index.md)

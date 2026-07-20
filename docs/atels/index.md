@@ -28,6 +28,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
+- [IGR_J17091-3624](./sources/IGR_J17091-3624.md) | *最新动态: ATel 17907 (19 Jul 2026)*
 - [GRS_1915+105](./sources/GRS_1915+105.md) | *最新动态: ATel 17883 (10 Jul 2026)*
 - [EP260531a](./sources/EP260531a.md) | *最新动态: ATel 17844 (15 Jun 2026)*
 - [GS_1354-64](./sources/GS_1354-64.md) | *最新动态: ATel 17771 (1 May 2026)*
@@ -57,6 +58,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [Gaia24amv](./sources/Gaia24amv.md) | *最新动态: ATel 17906 (19 Jul 2026)*
 - [Gaia16adj](./sources/Gaia16adj.md) | *最新动态: ATel 17905 (17 Jul 2026)*
 - [Gaia19ati](./sources/Gaia19ati.md) | *最新动态: ATel 17889 (13 Jul 2026)*
 - [TCP_J02191736+2857158](./sources/TCP_J02191736+2857158.md) | *最新动态: ATel 17887 (12 Jul 2026)*
