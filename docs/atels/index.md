@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W30](2026-W30.md)
 - [2026-W29](2026-W29.md)
 - [2026-W28](2026-W28.md)
 - [2026-W27](2026-W27.md)
@@ -38,6 +39,7 @@
 - [AT2019wey](./sources/AT2019wey.md) | *最新动态: ATel 17686 (17 Feb 2026)*
 
 ### NSXRB
+- [Cen_X-4](./sources/Cen_X-4.md) | *最新动态: ATel 17911 (20 Jul 2026)*
 - [XMMU_J174445.5-295044](./sources/XMMU_J174445.5-295044.md) | *最新动态: ATel 17903 (17 Jul 2026)*
 - [GRS_1747-312](./sources/GRS_1747-312.md) | *最新动态: ATel 17891 (14 Jul 2026)*
 - [4U_0115+63](./sources/4U_0115+63.md) | *最新动态: ATel 17858 (29 Jun 2026)*
@@ -58,6 +60,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [TCP_J20354364+6131329](./sources/TCP_J20354364+6131329.md) | *最新动态: ATel 17912 (20 Jul 2026)*
 - [Gaia24amv](./sources/Gaia24amv.md) | *最新动态: ATel 17906 (19 Jul 2026)*
 - [Gaia16adj](./sources/Gaia16adj.md) | *最新动态: ATel 17905 (17 Jul 2026)*
 - [Gaia19ati](./sources/Gaia19ati.md) | *最新动态: ATel 17889 (13 Jul 2026)*
@@ -117,7 +120,10 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
-- [EP260628c](./sources/EP260628c.md) | *最新动态: ATel 17904 (17 Jul 2026)*
+- [C_2023_R1](./sources/C_2023_R1.md) | *最新动态: ATel 17915 (20 Jul 2026)*
+- [M31N_2026-07a](./sources/M31N_2026-07a.md) | *最新动态: ATel 17914 (20 Jul 2026)*
+- [EP260628c](./sources/EP260628c.md) | *最新动态: ATel 17908 (20 Jul 2026)*
+- [EP_J223759.5+531421](./sources/EP_J223759.5+531421.md) | *最新动态: ATel 17913 (20 Jul 2026)*
 - [AT_2026rdg](./sources/AT_2026rdg.md) | *最新动态: ATel 17900 (16 Jul 2026)*
 - [AT2026stb](./sources/AT2026stb.md) | *最新动态: ATel 17886 (12 Jul 2026)*
 - [ASASSN-26dt](./sources/ASASSN-26dt.md) | *最新动态: ATel 17878 (6 Jul 2026)*

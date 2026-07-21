@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17915: [Detection and Monitoring of Fragments of Comet C/2023 R1 (PANSTARRS)](https://www.astronomerstelegram.org/?read=17915)
-- **日期**: 20 Jul 2026 UT | **源**: `C/2023 R1`
-
-**爆发速递**: BAA工作体验项目的学生利用LCOGT Faulkes望远镜监测到彗星C/2023 R1发生了碎裂，确认了碎片b的存在，并新发现了碎片c。观测显示碎片b正以约0.18角秒/天的速率远离主彗核。**观测短评**: 该目标为太阳系内天体（彗星），属于非高能暂现源，与本课题组关注的黑洞、中子星及活动星系核等吸积物理研究方向无关，无需进行光学后随观测或申请其他设备资源。
-
----
-
-### [2] | ATel 17914: [Independent Discovery of a Probable Nova in M31, AT 2026vdo](https://www.astronomerstelegram.org/?read=17914)
-- **日期**: 20 Jul 2026 UT | **源**: `M31N 2026-07b`
-
-**爆发速递**: Ondrejov 0.65m 望远镜在仙女座星系 (M31) 中心区域发现了一颗可能的新星，命名为 M31N 2026-07b (AT 2026vdo)，其 R 波段星等在 7 月 19 日达到 17.9 等。**观测短评**: 该目标位于 M31，属于河外新星。虽然其亮度处于我方 1m 望远镜的观测极限附近，但由于该目标位于拥挤的星系背景中，且属于常规新星，对我组核心研究兴趣（BHXRB/AGN）的科学产出贡献有限，暂无必要申请额外观测资源。
-
----
-
-### [2] | ATel 17913: [Cancellation of the planned NuSTAR high-cadence monitoring campaign of EP J223759.5+531421](https://www.astronomerstelegram.org/?read=17913)
-
-[查看本周完整 ATel](./atels/2026-W30.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-20
 
 *Tags: #arXiv #Astrophysics*
 
@@ -226,5 +195,3 @@ AI识别天体: [AGN, 黑洞]
   - *本文利用SDO/AIA观测数据研究了太阳日冕环中由耀斑激发的慢磁声波晃动振荡现象。*
 - **[0]** [Constraining the radial decay timescale of solar surface magnetic field through a comparative study of data-assimilative 2D surface flux transport and 3D dynamo models](http://arxiv.org/abs/2607.16939v1)
   - *本文通过对比2D表面磁通量输运模型与3D动力学模型，约束了太阳表面磁场径向衰减的时间尺度。*
-
-[查看历史目录](./posts/index.md)
