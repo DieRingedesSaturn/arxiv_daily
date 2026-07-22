@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 17919: [X-ray detection of the black hole transient IGR J17091-3624 during its recent optical brightening with Einstein Probe](https://www.astronomerstelegram.org/?read=17919)
-- **日期**: 22 Jul 2026 UT | **源**: `IGR J17091-3624`
-
-**爆发速递**: 爱因斯坦探针卫星(EP)的FXT望远镜对黑洞暂现源IGR J17091-3624进行了两次X射线观测，确认该源在光学增亮期间处于高信噪比的X射线活跃状态。**观测短评**: 该源为经典的黑洞X射线双星，符合课题组核心研究兴趣。鉴于其目前处于光学增亮阶段，具备极高的光学后随观测价值。建议利用课题组的1m望远镜进行持续测光监测，并结合EP及Swift数据开展多波段联合分析，无需额外申请大型设备即可开展初步研究。
-
----
-
-### [0] | ATel 17918: [Solar activity of the dominant region AR 4493: duration and flares frequency](https://www.astronomerstelegram.org/?read=17918)
-- **日期**: 21 Jul 2026 UT | **源**: `AR 4493`
-
-**爆发速递**: 本文报告了2026年7月20日出现在太阳中心的活跃区AR 4493。该区域增长迅速，并在首日表现出高频C级耀斑活动，其中包含三次M级耀斑。该区域目前是地球侧太阳X射线活动的主要来源。**观测短评**: 该目标为太阳物理研究对象，与本课题组关注的黑洞X射线双星、AGN及暂现源物理研究方向无关。无需进行光学后随观测或申请其他设备跟进。
-
----
-
-### [1] | ATel 17917: [Erratum to ATel #17910](https://www.astronomerstelegram.org/?read=17917)
-
-[查看本周完整 ATel](./atels/2026-W30.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-21
 
 *Tags: #arXiv #Astrophysics*
 
@@ -168,5 +137,3 @@ AI识别天体: [Be/X射线双星, 中子星, Be星]
   - *本文利用XMM-Newton数据研究了地球磁层中太阳风电荷交换产生的X射线发射，并构建了磁鞘的三维结构模型。*
 - **[0]** [Solar, Heliospheric and Ionospheric Physics: Pathfinders, Precursors and SKAO Perspective](http://arxiv.org/abs/2607.17881v2)
   - *本文综述了平方公里阵列天文台（SKAO）在太阳、日球层及电离层物理领域的科学目标与观测能力规划。*
-
-[查看历史目录](./posts/index.md)
