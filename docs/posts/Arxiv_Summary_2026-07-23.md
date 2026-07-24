@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [2] | ATel 17921: [FRB 20121102A is exhibiting hyperactivity with increased RM value at L-band detected by FAST](https://www.astronomerstelegram.org/?read=17921)
-- **日期**: 23 Jul 2026 UT | **源**: `FRB 20121102A`
-
-**爆发速递**: FAST望远镜监测到重复快速射电暴FRB 20121102A进入高频爆发活跃期，爆发率高达每小时约490次。观测发现其旋转测量值(RM)出现异常增加，达到35,645 rad m-2，且色散量(DM)呈现持续下降趋势，符合其约160天的周期性规律。**观测短评**: 该目标属于射电波段暂现源，主要依赖射电望远镜进行高频监测与偏振分析。由于其光学对应体极暗且主要在射电波段表现活跃，不属于课题组1米光学望远镜的常规跟进范畴，暂无光学后随观测价值。
-
----
-
-### [8] | ATel 17920: [Fermi-LAT detection of a flaring gamma-ray source associated with the FSRQ B3 0151+474](https://www.astronomerstelegram.org/?read=17920)
-- **日期**: 22 Jul 2026 UT | **源**: `B3 0151+474`
-
-**爆发速递**: Fermi-LAT 探测到平谱射电类星体 (FSRQ) B3 0151+474 处于伽马射线高能爆发状态。在 2026 年 7 月 13 日至 20 日期间，其伽马射线通量较平均水平增加了 40 倍，光子指数变硬至 1.9，并探测到 14 GeV 的高能光子。**观测短评**: 该源为典型的活动星系核 (AGN) 耀发，具有极高的多波段联合观测价值。鉴于其处于高能活跃期，建议利用 Swift 或其他 X 射线/光学设备进行后随监测，以研究其吸积与喷流物理。若该源亮度适中，可考虑利用 1m 望远镜进行光学监测，必要时可申请 Swift 或 XMM-Newton 进行深入能谱分析。
-
----
-
-### [10] | ATel 17919: [X-ray detection of the black hole transient IGR J17091-3624 during its recent optical brightening with Einstein Probe](https://www.astronomerstelegram.org/?read=17919)
-
-[查看本周完整 ATel](./atels/2026-W30.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-23
 
 *Tags: #arXiv #Astrophysics*
 
@@ -313,5 +282,3 @@ AI识别天体: [Little Red Dots (LRDs), 超大质量恒星 (Supermassive Stars)
   - *该论文研究了渐近巨星支恒星HD 216595的径向速度变化，探讨了其起源是亚恒星伴星还是恒星自身活动。*
 - **[0]** [A Deep Learning Framework for Predicting Solar EUV Irradiance During Significant Flares](http://arxiv.org/abs/2607.19597v1)
   - *本文提出了一种基于深度学习的框架，用于预测太阳耀斑期间的极紫外（EUV）辐射强度。*
-
-[查看历史目录](./posts/index.md)
