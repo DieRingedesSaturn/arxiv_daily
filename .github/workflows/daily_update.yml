@@ -2,7 +2,7 @@ name: Daily ArXiv Update
 
 on:
   schedule:
-    # 每天 UTC 时间 02:00 运行 (对应北京时间 10:00)
+    # 每天 UTC 00:02 运行（台北/北京时间 08:02）
     - cron: '2 0 * * *'
   push:
     branches:
@@ -13,6 +13,10 @@ on:
 
 permissions:
   contents: write
+
+concurrency:
+  group: arxiv-daily-main
+  cancel-in-progress: false
 
 jobs:
   build-and-deploy:
@@ -34,28 +38,74 @@ jobs:
           python -m pip install --upgrade pip
           pip install -r requirements.txt
 
-      - name: Run ArXiv Scraper
-        # 仅在定时触发或手动触发时运行爬虫，推送时不运行（节省 API 额度且防止冲突）
+      - name: Run Regression Tests
+        run: python -m unittest discover -s tests -v
+
+      - name: Configure Git
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email 'github-actions[bot]@users.noreply.github.com'
+
+      - name: Run ATel Task
+        id: atel
+        continue-on-error: true
         if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
         env:
           GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
           OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
           OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
         run: |
-          python scripts/main.py
+          python scripts/main.py --task atel
 
-      - name: Commit and Push Changes
+      - name: Commit and Push ATel Changes
+        if: steps.atel.outcome == 'success'
         run: |
-          git config --global user.name 'github-actions[bot]'
-          git config --global user.email 'github-actions[bot]@users.noreply.github.com'
-          git add .
-          # 如果有改动（例如生成的日报或你修改的配置），则提交
+          git add docs/atels docs/index.md
           if ! git diff --staged --quiet; then
-            git commit -m "Auto-update: content/config changed [skip ci]"
+            git commit -m "Auto-update: ATel content [skip ci]"
             git push origin main
           fi
 
+      - name: Clean Failed ATel Changes
+        if: steps.atel.outcome == 'failure'
+        run: git restore --staged --worktree -- docs/atels docs/index.md
+
+      - name: Run arXiv Task
+        id: arxiv
+        continue-on-error: true
+        if: github.event_name == 'schedule' || github.event_name == 'workflow_dispatch'
+        env:
+          GOOGLE_API_KEY: ${{ secrets.GOOGLE_API_KEY }}
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          OPENAI_BASE_URL: ${{ secrets.OPENAI_BASE_URL }}
+        run: |
+          python scripts/main.py --task arxiv
+
+      - name: Commit and Push arXiv Changes
+        if: steps.arxiv.outcome == 'success'
+        run: |
+          git add docs/posts docs/index.md
+          if ! git diff --staged --quiet; then
+            git commit -m "Auto-update: arXiv content [skip ci]"
+            git push origin main
+          fi
+
+      - name: Clean Failed arXiv Changes
+        if: steps.arxiv.outcome == 'failure'
+        run: git restore --staged --worktree -- docs/posts docs/index.md
+
       - name: Deploy to GitHub Pages
-        # 只要能运行到这一步，就执行部署（确保主题修改能立即上线）
+        if: >-
+          always() &&
+          (github.event_name == 'push' ||
+           steps.atel.outcome == 'success' ||
+           steps.arxiv.outcome == 'success')
         run: |
           mkdocs gh-deploy --force
+
+      - name: Report Task Failure
+        if: >-
+          always() &&
+          (steps.atel.outcome == 'failure' ||
+           steps.arxiv.outcome == 'failure')
+        run: exit 1

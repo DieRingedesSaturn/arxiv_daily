@@ -71,15 +71,6 @@ def update_weekly_atel(new_items: list):
         file_path = os.path.join(ATELS_DIR, f"{week}.md")
         items.sort(key=lambda x: x['obj']['id'], reverse=True)
 
-        new_block = ""
-        for i in items:
-            new_block += (
-                f"### [{i['analysis']['score']}] | ATel {i['obj']['id']}: "
-                f"[{i['obj']['title']}]({i['obj']['link']})\n"
-                f"- **日期**: {i['obj']['date']} | **源**: `{i['analysis'].get('object_name', 'Unknown')}`\n\n"
-                f"{i['analysis']['summary_md']}\n\n---\n\n"
-            )
-
         old_content = ""
         if os.path.exists(file_path):
             with open(file_path, 'r', encoding='utf-8') as f:
@@ -87,6 +78,20 @@ def update_weekly_atel(new_items: list):
                 match = re.search(r'### ', content)
                 if match:
                     old_content = content[match.start():]
+
+        new_block = ""
+        for i in items:
+            if re.search(rf'\bATel {i["obj"]["id"]}:', old_content):
+                logger.warning(
+                    f"ATel {i['obj']['id']} 已存在于 {week}，跳过重复写入。"
+                )
+                continue
+            new_block += (
+                f"### [{i['analysis']['score']}] | ATel {i['obj']['id']}: "
+                f"[{i['obj']['title']}]({i['obj']['link']})\n"
+                f"- **日期**: {i['obj']['date']} | **源**: `{i['analysis'].get('object_name', 'Unknown')}`\n\n"
+                f"{i['analysis']['summary_md']}\n\n---\n\n"
+            )
 
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(f"# ATel Weekly: {week}\n\n*Tags: #ATel*\n\n---\n\n" + new_block + old_content)
@@ -126,6 +131,12 @@ def update_source_atel(new_items: list):
                 match = re.search(r'### ', content)
                 if match:
                     old_content = content[match.start():]
+
+        if re.search(rf'\bATel {obj["id"]}:', old_content):
+            logger.warning(
+                f"ATel {obj['id']} 已存在于源文件 {s_name}，跳过重复写入。"
+            )
+            continue
 
         with open(file_path, 'w', encoding='utf-8') as f:
             f.write(

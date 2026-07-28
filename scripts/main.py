@@ -33,19 +33,31 @@ def run_atel_task():
     os.makedirs(ATELS_DIR, exist_ok=True)
 
     if os.path.exists(STATE_FILE):
-        with open(STATE_FILE, 'r') as f:
+        with open(STATE_FILE, 'r', encoding='utf-8') as f:
             state = json.load(f)
     else:
-        state = {'last_id': 0}
+        state = {'last_id': 0, 'pending_ids': []}
 
-    logger.info(f"正在同步 ATel (上次记录 ID: {state['last_id']})...")
+    last_id = int(state.get('last_id', 0))
+    pending_ids = {
+        int(aid) for aid in state.get('pending_ids', [])
+        if isinstance(aid, int) or str(aid).isdigit()
+    }
+
+    logger.info(
+        f"正在同步 ATel (上次记录 ID: {last_id}, "
+        f"待重试: {len(pending_ids)})..."
+    )
     rss_data = get_latest_atel_info_from_rss()
-    max_rss_id = max(rss_data.keys()) if rss_data else state['last_id']
+    max_rss_id = max(rss_data.keys()) if rss_data else last_id
+    ids_to_process = sorted(
+        pending_ids | set(range(last_id + 1, max_rss_id + 1))
+    )
 
     new_atels = []
-    last_success_id = state['last_id']
+    failed_ids = set()
 
-    for aid in range(state['last_id'] + 1, max_rss_id + 1):
+    for aid in ids_to_process:
         detail = None
         for retry in range(2):
             detail = fetch_atel_detail(aid)
@@ -54,22 +66,27 @@ def run_atel_task():
             time.sleep(5)
 
         if not detail:
-            logger.warning(f"无法抓取 ATel {aid}，跳过此 ID。")
-            last_success_id = aid
+            logger.warning(f"无法抓取 ATel {aid}，加入待重试队列。")
+            failed_ids.add(aid)
             continue
 
         logger.info(f"  -> 分析 ATel {aid}: {detail['title'][:40]}...")
         ans = ai_summarize_atel(detail)
         if ans:
             new_atels.append({'obj': detail, 'analysis': ans})
-        last_success_id = aid
+        else:
+            logger.warning(f"ATel {aid} 分析失败，加入待重试队列。")
+            failed_ids.add(aid)
 
     if new_atels:
         update_weekly_atel(new_atels)
         update_source_atel(new_atels)
-        state['last_id'] = last_success_id
-        with open(STATE_FILE, 'w') as f:
-            json.dump(state, f)
+
+    if ids_to_process:
+        state['last_id'] = max(last_id, max(ids_to_process))
+        state['pending_ids'] = sorted(failed_ids)
+        with open(STATE_FILE, 'w', encoding='utf-8') as f:
+            json.dump(state, f, ensure_ascii=False, indent=2)
 
     update_indexes(arxiv_files_updated=False)
 
