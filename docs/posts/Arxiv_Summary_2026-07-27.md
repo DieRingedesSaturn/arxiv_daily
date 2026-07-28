@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 17928: [Fermi-LAT detection of enhanced gamma-ray activity from the BL Lac 4C +14.60](https://www.astronomerstelegram.org/?read=17928)
-- **日期**: 26 Jul 2026 UT | **源**: `4C +14.60`
-
-**爆发速递**: Fermi-LAT空间望远镜在2026年7月25日观测到BL Lac型活动星系核4C +14.60的伽马射线活动显著增强，日均光通量较长期平均值激增120倍，达到历史最高水平，且能谱明显变硬。
-**观测短评**: 该目标属于活动星系核（AGN），文末鼓励多波段联合观测。虽然其红移较大（z=0.606），光学对应体较暗，但对研究高能耀发和多波段吸积喷流物理具有较高价值，可评估是否利用Swift等空间设备或大型地面望远镜进行跟进。
-
----
-
-### [0] | ATel 17927: [FRB 20121102A: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=17927)
-- **日期**: 26 Jul 2026 UT | **源**: `FRB 20121102A`
-
-**爆发速递**: IceCube合作组报告了对重复快速射电暴FRB 20121102A方向的缪子中微子搜寻结果，在FAST观测到其活跃期的时间窗口内未探测到显著的中微子信号，并给出了通量上限。
-**观测短评**: 该目标属于快速射电暴，与本组重点关注的黑洞X射线双星与吸积物理等研究兴趣无关，且无光学后随跟进价值，无需使用本组望远镜进行观测。
-
----
-
-[查看本周完整 ATel](./atels/2026-W30.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-27
 
 *Tags: #arXiv #Astrophysics*
 
@@ -259,5 +228,3 @@
   - *本文利用附近星系分布约束了超高能宇宙线（UHECR）的传播视界，研究其天体物理起源与大尺度各向异性。*
 - **[0]** [Search for continuous gravitational waves from the pulsar J0435+3233](http://arxiv.org/abs/2607.18219v2)
   - *利用LIGO O4a公开数据对毫秒脉冲星J0435+3233的连续引力波进行了搜寻。*
-
-[查看历史目录](./posts/index.md)
