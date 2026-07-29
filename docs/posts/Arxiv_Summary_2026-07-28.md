@@ -1,28 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17929: [Is Comet C/2023 R1 (PanStarrs) undergoing a full fragmentation process?](https://www.astronomerstelegram.org/?read=17929)
-- **日期**: 28 Jul 2026 UT | **源**: `Comet C/2023 R1 (PanStarrs)`
-
-**爆发速递**: 本篇ATel简报报告了彗星C/2023 R1 (PanStarrs)可能正在经历完全解体过程，研究人员利用LCO和Kottamia望远镜观测到了多个远离主核的凝聚体（碎片B、C和D）。
-**观测短评**: 该目标为太阳系彗星活动，与本组研究黑洞、中子星、AGN及高能暂现源的核心兴趣无关，亦不属于适合我们望远镜跟进的银河系变星或高能暂现源，无需申请任何后续观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W31.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-28
 
 *Tags: #arXiv #Astrophysics*
 
@@ -160,5 +136,3 @@
   - *本文研究了具有电荷涨落的磁化等离子体中的一种新型电荷流动不稳定性，属于基础等离子体物理范畴。*
 - **[0]** [A Quiet Host in an Active Planet-Forming Disk: Optical Spectroscopy of WISPIT 2](http://arxiv.org/abs/2607.20649v2)
   - *本文利用光学光谱研究了年轻主序前恒星WISPIT 2的大气参数及吸积状态。*
-
-[查看历史目录](./posts/index.md)
