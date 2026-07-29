@@ -7,23 +7,16 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 17928: [Fermi-LAT detection of enhanced gamma-ray activity from the BL Lac 4C +14.60](https://www.astronomerstelegram.org/?read=17928)
-- **日期**: 26 Jul 2026 UT | **源**: `4C +14.60`
+### [0] | ATel 17929: [Is Comet C/2023 R1 (PanStarrs) undergoing a full fragmentation process?](https://www.astronomerstelegram.org/?read=17929)
+- **日期**: 28 Jul 2026 UT | **源**: `Comet C/2023 R1 (PanStarrs)`
 
-**爆发速递**: Fermi-LAT空间望远镜在2026年7月25日观测到BL Lac型活动星系核4C +14.60的伽马射线活动显著增强，日均光通量较长期平均值激增120倍，达到历史最高水平，且能谱明显变硬。
-**观测短评**: 该目标属于活动星系核（AGN），文末鼓励多波段联合观测。虽然其红移较大（z=0.606），光学对应体较暗，但对研究高能耀发和多波段吸积喷流物理具有较高价值，可评估是否利用Swift等空间设备或大型地面望远镜进行跟进。
-
----
-
-### [0] | ATel 17927: [FRB 20121102A: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=17927)
-- **日期**: 26 Jul 2026 UT | **源**: `FRB 20121102A`
-
-**爆发速递**: IceCube合作组报告了对重复快速射电暴FRB 20121102A方向的缪子中微子搜寻结果，在FAST观测到其活跃期的时间窗口内未探测到显著的中微子信号，并给出了通量上限。
-**观测短评**: 该目标属于快速射电暴，与本组重点关注的黑洞X射线双星与吸积物理等研究兴趣无关，且无光学后随跟进价值，无需使用本组望远镜进行观测。
+**爆发速递**: 本篇ATel简报报告了彗星C/2023 R1 (PanStarrs)可能正在经历完全解体过程，研究人员利用LCO和Kottamia望远镜观测到了多个远离主核的凝聚体（碎片B、C和D）。
+**观测短评**: 该目标为太阳系彗星活动，与本组研究黑洞、中子星、AGN及高能暂现源的核心兴趣无关，亦不属于适合我们望远镜跟进的银河系变星或高能暂现源，无需申请任何后续观测。
 
 ---
 
-[查看本周完整 ATel](./atels/2026-W30.md)
+
+[查看本周完整 ATel](./atels/2026-W31.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
