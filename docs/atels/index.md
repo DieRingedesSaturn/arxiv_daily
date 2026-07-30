@@ -62,7 +62,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
-- [EP_J194531.8-612009](./sources/EP_J194531.8-612009.md) | *最新动态: ATel 17926 (25 Jul 2026)*
+- [EP_J194531.8-612009](./sources/EP_J194531.8-612009.md) | *最新动态: ATel 17930 (29 Jul 2026)*
 - [TCP_J20354364+6131329](./sources/TCP_J20354364+6131329.md) | *最新动态: ATel 17912 (20 Jul 2026)*
 - [Gaia24amv](./sources/Gaia24amv.md) | *最新动态: ATel 17906 (19 Jul 2026)*
 - [Gaia16adj](./sources/Gaia16adj.md) | *最新动态: ATel 17905 (17 Jul 2026)*

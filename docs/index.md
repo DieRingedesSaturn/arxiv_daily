@@ -7,6 +7,14 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [4] | ATel 17930: [EP J194531.8-612009 is a periodic source in optical wavelengths](https://www.astronomerstelegram.org/?read=17930)
+- **日期**: 29 Jul 2026 UT | **源**: `EP J194531.8-612009`
+
+**爆发速递**: 研究人员通过TESS观测发现X射线暂现源及激变变星候选体EP J194531.8-612009在光学波段具有1.897小时的周期性信号。
+**观测短评**: 该目标属于激变变星，有光学后随观测价值以确定其周期性质。但因其位置可能超出我方1m光学望远镜的舒适观测纬度或星等限制，暂无迫切申请其他设备的必要。
+
+---
+
 ### [0] | ATel 17929: [Is Comet C/2023 R1 (PanStarrs) undergoing a full fragmentation process?](https://www.astronomerstelegram.org/?read=17929)
 - **日期**: 28 Jul 2026 UT | **源**: `Comet C/2023 R1 (PanStarrs)`
 
@@ -14,7 +22,6 @@
 **观测短评**: 该目标为太阳系彗星活动，与本组研究黑洞、中子星、AGN及高能暂现源的核心兴趣无关，亦不属于适合我们望远镜跟进的银河系变星或高能暂现源，无需申请任何后续观测。
 
 ---
-
 
 [查看本周完整 ATel](./atels/2026-W31.md)
 
