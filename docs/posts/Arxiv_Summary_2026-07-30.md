@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 17931: [MAXI/GSC detection of a recurrent X-ray outburst from the Be/X-ray binary pulsar LS V +44 17 (RX J0440.9+4431)](https://www.astronomerstelegram.org/?read=17931)
-- **日期**: 30 Jul 2026 UT | **源**: `LS V +44 17`
-
-**爆发速递**: MAXI/GSC 警报系统监测到 Be/X射线双星脉冲星 LS V +44 17 (RX J0440.9+4431) 发生新的 X 射线爆发，4-10 keV 通量达到 119 mCrab，较 5 月峰值翻倍。**观测短评**: 该源为中子星 X 射线双星，虽然超出我们核心黑洞吸积研究，但属于 X 射线暂现源，且鼓励多波段后随观测。若光学亮度合适，1米望远镜可评估跟进，但优先级较低，暂无必要优先申请大设备。设备支持 SVOM 和 Swift 联合观测。
-
----
-
-### [4] | ATel 17930: [EP J194531.8-612009 is a periodic source in optical wavelengths](https://www.astronomerstelegram.org/?read=17930)
-- **日期**: 29 Jul 2026 UT | **源**: `EP J194531.8-612009`
-
-**爆发速递**: 研究人员通过TESS观测发现X射线暂现源及激变变星候选体EP J194531.8-612009在光学波段具有1.897小时的周期性信号。
-**观测短评**: 该目标属于激变变星，有光学后随观测价值以确定其周期性质。但因其位置可能超出我方1m光学望远镜的舒适观测纬度或星等限制，暂无迫切申请其他设备的必要。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W31.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-07-30
 
 *Tags: #arXiv #Astrophysics*
 
@@ -358,5 +327,3 @@
   - *本文利用Aditya-L1等卫星的多波段观测研究了太阳耀斑爆发前的色球层演化与多波段诊断。*
 - **[0]** [Chemical modelling of interstellar MgS](http://arxiv.org/abs/2607.25758v2)
   - *本文对银心分子云G+0.693中的星际硫化镁(MgS)进行了化学建模与形成机制分析。*
-
-[查看历史目录](./posts/index.md)
