@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 17931: [MAXI/GSC detection of a recurrent X-ray outburst from the Be/X-ray binary pulsar LS V +44 17 (RX J0440.9+4431)](https://www.astronomerstelegram.org/?read=17931)
-- **日期**: 30 Jul 2026 UT | **源**: `LS V +44 17`
+### [6] | ATel 17933: [EP J194531.8-612009: a new magnetic cataclysmic variable](https://www.astronomerstelegram.org/?read=17933)
+- **日期**: 1 Aug 2026 UT | **源**: `EP J194531.8-612009`
 
-**爆发速递**: MAXI/GSC 警报系统监测到 Be/X射线双星脉冲星 LS V +44 17 (RX J0440.9+4431) 发生新的 X 射线爆发，4-10 keV 通量达到 119 mCrab，较 5 月峰值翻倍。**观测短评**: 该源为中子星 X 射线双星，虽然超出我们核心黑洞吸积研究，但属于 X 射线暂现源，且鼓励多波段后随观测。若光学亮度合适，1米望远镜可评估跟进，但优先级较低，暂无必要优先申请大设备。设备支持 SVOM 和 Swift 联合观测。
-
----
-
-### [4] | ATel 17930: [EP J194531.8-612009 is a periodic source in optical wavelengths](https://www.astronomerstelegram.org/?read=17930)
-- **日期**: 29 Jul 2026 UT | **源**: `EP J194531.8-612009`
-
-**爆发速递**: 研究人员通过TESS观测发现X射线暂现源及激变变星候选体EP J194531.8-612009在光学波段具有1.897小时的周期性信号。
-**观测短评**: 该目标属于激变变星，有光学后随观测价值以确定其周期性质。但因其位置可能超出我方1m光学望远镜的舒适观测纬度或星等限制，暂无迫切申请其他设备的必要。
+**爆发速递**: 利用1.60米望远镜及SPARC4偏振仪，研究人员对X射线暂现源EP J194531.8-612009进行了g、r、i、z波段的偏振时序观测，证实其为一磁激变变星。
+**观测短评**: 该源已被证认为磁激变变星（极星类），展现出周期性通量调制及圆偏振信号。虽然该目标属于激变变星范畴，但由于其处于南半球且已得到较充分的偏振和光变观测，结合我方1米望远镜的极限星等和地理位置限制，无须申请或安排额外望远镜进行后随跟进。
 
 ---
 
+### [6] | ATel 17932: [The detection of superhumps confirms Gaia20eud as an SU UMa-type dwarf nova](https://www.astronomerstelegram.org/?read=17932)
+- **日期**: 31 Jul 2026 UT | **源**: `Gaia20eud`
+
+**爆发速递**: 观测者通过ZTF与ROAD望远镜发现矮新星Gaia20eud再次进入爆发，并通过测光光变曲线探测到了超驼峰(superhump)，证实其为SU UMa型矮新星。
+**观测短评**: 目标是一颗SU UMa型矮新星，正处于超爆发状态。虽然其爆发时亮度(约17.8等)在我们的1米光学望远镜测光能力范围内(极限21等)，但属于激变变星(CV)，仅在课题组拓展兴趣范围内，可结合BHTOM平台进行后随光学测光观测。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W31.md)
 
