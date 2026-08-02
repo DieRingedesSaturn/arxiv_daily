@@ -76,8 +76,8 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [4C_10.45](./sources/4C_10.45.md) | *最新动态: ATel 17935 (1 Aug 2026)*
 - [4C_+14.60](./sources/4C_+14.60.md) | *最新动态: ATel 17928 (26 Jul 2026)*
-- [4C_10.45](./sources/4C_10.45.md) | *最新动态: ATel 17924 (24 Jul 2026)*
 - [B3_0151+474](./sources/B3_0151+474.md) | *最新动态: ATel 17920 (22 Jul 2026)*
 - [3C_395](./sources/3C_395.md) | *最新动态: ATel 17901 (16 Jul 2026)*
 - [S4_0954+65](./sources/S4_0954+65.md) | *最新动态: ATel 17899 (16 Jul 2026)*
@@ -121,8 +121,8 @@
 - [SN2026ejy](./sources/SN2026ejy.md) | *最新动态: ATel 17708 (5 Mar 2026)*
 
 ### FRB
+- [FRB_20251125A](./sources/FRB_20251125A.md) | *最新动态: ATel 17934 (1 Aug 2026)*
 - [FRB_20121102A](./sources/FRB_20121102A.md) | *最新动态: ATel 17927 (26 Jul 2026)*
-- [FRB_20251125A](./sources/FRB_20251125A.md) | *最新动态: ATel 17898 (16 Jul 2026)*
 - [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17863 (1 Jul 2026)*
 - [DFC001](./sources/DFC001.md) | *最新动态: ATel 17800 (14 May 2026)*
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*

@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 17933: [EP J194531.8-612009: a new magnetic cataclysmic variable](https://www.astronomerstelegram.org/?read=17933)
-- **日期**: 1 Aug 2026 UT | **源**: `EP J194531.8-612009`
+### [6] | ATel 17935: [Einstein Probe X-ray detection of the FSRQ 4C +10.45 following renewed gamma-ray activity](https://www.astronomerstelegram.org/?read=17935)
+- **日期**: 1 Aug 2026 UT | **源**: `4C +10.45`
 
-**爆发速递**: 利用1.60米望远镜及SPARC4偏振仪，研究人员对X射线暂现源EP J194531.8-612009进行了g、r、i、z波段的偏振时序观测，证实其为一磁激变变星。
-**观测短评**: 该源已被证认为磁激变变星（极星类），展现出周期性通量调制及圆偏振信号。虽然该目标属于激变变星范畴，但由于其处于南半球且已得到较充分的偏振和光变观测，结合我方1米望远镜的极限星等和地理位置限制，无须申请或安排额外望远镜进行后随跟进。
+**爆发速递**: 继Fermi-LAT和光学望远镜探测到平谱射电类星体4C +10.45的伽马射线与光学增强活动后，爱因斯坦探针卫星(EP)的后随X射线望远镜(FXT)对其进行了观测，显著探测到了X射线辐射并给出了能谱参数。
+**观测短评**: 该目标属于活动星系核(AGN)，符合本课题组的多波段联合观测与吸积物理研究兴趣。虽然其伴随光学活动，但结合其光学亮度和本组1米望远镜的极限，跟进测光价值有限，无需特殊申请其他地面大型设备。焦点可放在其多波段时变与能谱分析上。
+
+---
+
+### [0] | ATel 17934: [The FAST POP-discovered FRB 20251125A remains active in continued FAST observations](https://www.astronomerstelegram.org/?read=17934)
+- **日期**: 1 Aug 2026 UT | **源**: `FRB 20251125A`
+
+**爆发速递**: FAST望远镜团队报告了对重复快速射电暴FRB 20251125A的持续跟踪观测，在约30小时的曝光中探测到436个高信噪比爆发，并估算了其色散量与红移。**观测短评**: 该目标为射电波段的快速射电暴，缺乏光学对应体或激变变星特征，超出了我们1m光学望远镜的跟进能力，且与我们的黑洞吸积和AGN等核心研究领域无关，无申请其他设备观测的必要。
 
 ---
 
-### [6] | ATel 17932: [The detection of superhumps confirms Gaia20eud as an SU UMa-type dwarf nova](https://www.astronomerstelegram.org/?read=17932)
-- **日期**: 31 Jul 2026 UT | **源**: `Gaia20eud`
-
-**爆发速递**: 观测者通过ZTF与ROAD望远镜发现矮新星Gaia20eud再次进入爆发，并通过测光光变曲线探测到了超驼峰(superhump)，证实其为SU UMa型矮新星。
-**观测短评**: 目标是一颗SU UMa型矮新星，正处于超爆发状态。虽然其爆发时亮度(约17.8等)在我们的1米光学望远镜测光能力范围内(极限21等)，但属于激变变星(CV)，仅在课题组拓展兴趣范围内，可结合BHTOM平台进行后随光学测光观测。
-
----
 
 [查看本周完整 ATel](./atels/2026-W31.md)
 
