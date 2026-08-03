@@ -7,18 +7,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 17935: [Einstein Probe X-ray detection of the FSRQ 4C +10.45 following renewed gamma-ray activity](https://www.astronomerstelegram.org/?read=17935)
-- **日期**: 1 Aug 2026 UT | **源**: `4C +10.45`
+### [6] | ATel 17937: [Fermi-LAT detection of renewed gamma-ray activity from the radio galaxy NGC 1275](https://www.astronomerstelegram.org/?read=17937)
+- **日期**: 2 Aug 2026 UT | **源**: `NGC 1275`
 
-**爆发速递**: 继Fermi-LAT和光学望远镜探测到平谱射电类星体4C +10.45的伽马射线与光学增强活动后，爱因斯坦探针卫星(EP)的后随X射线望远镜(FXT)对其进行了观测，显著探测到了X射线辐射并给出了能谱参数。
-**观测短评**: 该目标属于活动星系核(AGN)，符合本课题组的多波段联合观测与吸积物理研究兴趣。虽然其伴随光学活动，但结合其光学亮度和本组1米望远镜的极限，跟进测光价值有限，无需特殊申请其他地面大型设备。焦点可放在其多波段时变与能谱分析上。
+**爆发速递**: Fermi-LAT合作组使用大面积望远镜(LAT)观测到射电星系NGC 1275的伽马射线活性复苏，通量显著增强。
+**观测短评**: 该目标为活动星系核(AGN)，符合多波段联合观测兴趣。虽然光学后随不在课题组核心1米望远镜的主打范围内，但鼓励多波段观测，必要时可考虑申请Swift等空间设备跟进。
 
 ---
 
-### [0] | ATel 17934: [The FAST POP-discovered FRB 20251125A remains active in continued FAST observations](https://www.astronomerstelegram.org/?read=17934)
-- **日期**: 1 Aug 2026 UT | **源**: `FRB 20251125A`
+### [0] | ATel 17936: [GRB 260802A / EP J223759.5+531421: SVOM/COLIBRI (FM-GFT) optical upper limit](https://www.astronomerstelegram.org/?read=17936)
+- **日期**: 2 Aug 2026 UT | **源**: `GRB 260802A`
 
-**爆发速递**: FAST望远镜团队报告了对重复快速射电暴FRB 20251125A的持续跟踪观测，在约30小时的曝光中探测到436个高信噪比爆发，并估算了其色散量与红移。**观测短评**: 该目标为射电波段的快速射电暴，缺乏光学对应体或激变变星特征，超出了我们1m光学望远镜的跟进能力，且与我们的黑洞吸积和AGN等核心研究领域无关，无申请其他设备观测的必要。
+**爆发速递**: SVOM/COLIBRI望远镜利用DDRAGO广角成像仪对SVOM发现的GRB 260802A (EP J223759.5+531421) 进行了z波段光学观测，在ECLAIRs和XMM精确定位位置均未探测到新光学对应体。**观测短评**: 本文仅给出光学上限，且该目标属于伽马射线暴，不在本组核心研究的吸积双星或AGN范畴内，且限值超出我方1m望远镜的测光极限，无跟进观测价值。
 
 ---
 
