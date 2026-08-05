@@ -7,13 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 17938: [LHAASO detection of VHE gamma-ray emission from the extreme HBL 1ES 1028+511](https://www.astronomerstelegram.org/?read=17938)
-- **日期**: 3 Aug 2026 UT | **源**: `1ES 1028+511`
+### [3] | ATel 17941: [M31N 2026-08a is the third reported eruption of the recurrent nova M31N 2006-11c](https://www.astronomerstelegram.org/?read=17941)
+- **日期**: 4 Aug 2026 UT | **源**: `M31N 2026-08a`
 
-**爆发速递**: LHAASO利用WCDA实时报警系统探测到极高同步加速峰值BL Lac天体(EHBL) 1ES 1028+511的甚高能伽马射线辐射，能量超过1 TeV，流量约为0.06 Crab。**观测短评**: 该目标为已知VHE发射源，激发了多波段后随观测需求。鉴于其为活动星系核(AGN)且红移较高，光学变星特征与我们的1m望远镜契合度有限，暂无需使用本组设备进行优先跟进。
+**爆发速递**: F. Castellani等人利用0.4米和0.65米望远镜发现了仙女座星系(M31)中的复发新星M31N 2026-08a，这被证实是已知复发新星M31N 2006-11c的第三次爆发。
+**观测短评**: 该目标属于激变变星(CV)，其光学星等在17至18等左右，处于我们1米望远镜的光学测光极限之内。但鉴于其位于M31且属于常规新星爆发，与我们的核心研究领域(BHXRB/AGN吸积物理)关联较弱，暂无必要申请其他设备进行多波段跟进。
 
 ---
 
+### [0] | ATel 17940: [Opportunities of solar astrometry with the Spanish solar eclipse of 12 August 2026](https://www.astronomerstelegram.org/?read=17940)
+- **日期**: 4 Aug 2026 UT | **源**: `Unknown`
+
+**爆发速递**: 本篇ATel简报介绍并讨论了2026年8月12日西班牙日全食期间利用贝利珠（Baily's beads）计时来精确测量太阳直径的观测机会与策略。
+**观测短评**: 该内容属于太阳物理学范畴，与黑洞吸积、暂现源及本组1米光学望远镜的常规研究方向无关，无须跟进或申请相关观测。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W32.md)
 
