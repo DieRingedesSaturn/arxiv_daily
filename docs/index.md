@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 17941: [M31N 2026-08a is the third reported eruption of the recurrent nova M31N 2006-11c](https://www.astronomerstelegram.org/?read=17941)
-- **日期**: 4 Aug 2026 UT | **源**: `M31N 2026-08a`
+### [6] | ATel 17943: [Fermi-LAT detection of further gamma-ray brightening in the radio galaxy NGC 1275](https://www.astronomerstelegram.org/?read=17943)
+- **日期**: 5 Aug 2026 UT | **源**: `NGC 1275`
 
-**爆发速递**: F. Castellani等人利用0.4米和0.65米望远镜发现了仙女座星系(M31)中的复发新星M31N 2026-08a，这被证实是已知复发新星M31N 2006-11c的第三次爆发。
-**观测短评**: 该目标属于激变变星(CV)，其光学星等在17至18等左右，处于我们1米望远镜的光学测光极限之内。但鉴于其位于M31且属于常规新星爆发，与我们的核心研究领域(BHXRB/AGN吸积物理)关联较弱，暂无必要申请其他设备进行多波段跟进。
+**爆发速递**: Fermi-LAT望远镜观测到射电星系NGC 1275发生进一步的高能伽马射线增亮，日均通量较第四版星表平均值大幅增加超过10倍，达到了该源有史以来的最高LAT日通量水平，并伴随能谱变硬及极高能光子发射。
+**观测短评**: 该目标属于活动星系核（AGN），契合本组多波段联合观测的研究兴趣。由于其处于高活动状态，非常适合呼吁并发起多波段后随观测，建议关注并评估利用Swift或其他可用空间/地面设备进行多波段跟进的必要性。
 
 ---
 
-### [0] | ATel 17940: [Opportunities of solar astrometry with the Spanish solar eclipse of 12 August 2026](https://www.astronomerstelegram.org/?read=17940)
-- **日期**: 4 Aug 2026 UT | **源**: `Unknown`
+### [0] | ATel 17942: [Observing session on Comet P10/Tempel during an earthquake at the Kottamia Astrophysical Observatory (MPC Q62, Egypt)](https://www.astronomerstelegram.org/?read=17942)
+- **日期**: 5 Aug 2026 UT | **源**: `Comet 10P/Tempel`
 
-**爆发速递**: 本篇ATel简报介绍并讨论了2026年8月12日西班牙日全食期间利用贝利珠（Baily's beads）计时来精确测量太阳直径的观测机会与策略。
-**观测短评**: 该内容属于太阳物理学范畴，与黑洞吸积、暂现源及本组1米光学望远镜的常规研究方向无关，无须跟进或申请相关观测。
+**爆发速递**: 本篇ATel报道了埃及Kottamia天体物理天文台使用1.88米望远镜观测彗星10P/Tempel时，遭遇5.4级地震并记录下地震对望远镜指向影响的过程。
+**观测短评**: 该事件属于太阳系小天体观测且受到地震干扰，与本课题组关注的吸积物理、暂现源及高能天体方向无关，不具备光学后随观测价值，无需申请任何跟进观测。
 
 ---
 
