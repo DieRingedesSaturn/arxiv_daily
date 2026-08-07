@@ -1,8 +1,16 @@
 # Source: AT 2026rdg
 
-*Tags: #ATel #Other*
+*Tags: #ATel #CV*
 
-- **类别**: Other
+- **类别**: CV
+
+---
+
+### ATel 17944: [Photometric Follow-up Observations of a Reddened Galactic Nova AT 2026rdg with BHTOM.space Global Telescope Network](https://www.astronomerstelegram.org/?read=17944)
+- **日期**: 6 Aug 2026 UT
+
+**爆发速递**: BHTOM.space全球望远镜网络对银河系内高度红化的FeII型新星AT 2026rdg（Nova Aql 2026）开展了多波段光变监测，获取了超5000个测量数据，显示其亮度持续下降。
+**观测短评**: 该目标是一颗经典新星（广义上归类于激变变星相关暂现源），虽然属于我方1米望远镜的观测能力范围内，但已有大量地面和业余望远镜网络（BHTOM）在进行高强度跟进，缺乏独占的望远镜申请和后随观测必要性。
 
 ---
 

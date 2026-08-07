@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 17943: [Fermi-LAT detection of further gamma-ray brightening in the radio galaxy NGC 1275](https://www.astronomerstelegram.org/?read=17943)
-- **日期**: 5 Aug 2026 UT | **源**: `NGC 1275`
+### [3] | ATel 17945: [PRIME discovery and IRTF confirmation of a bright nova PRIME26ahygn at the Galactic center](https://www.astronomerstelegram.org/?read=17945)
+- **日期**: 6 Aug 2026 UT | **源**: `PRIME26ahygn`
 
-**爆发速递**: Fermi-LAT望远镜观测到射电星系NGC 1275发生进一步的高能伽马射线增亮，日均通量较第四版星表平均值大幅增加超过10倍，达到了该源有史以来的最高LAT日通量水平，并伴随能谱变硬及极高能光子发射。
-**观测短评**: 该目标属于活动星系核（AGN），契合本组多波段联合观测的研究兴趣。由于其处于高活动状态，非常适合呼吁并发起多波段后随观测，建议关注并评估利用Swift或其他可用空间/地面设备进行多波段跟进的必要性。
+**爆发速递**: PRIME望远镜在银河系核球巡天中发现了一颗非常明亮的近红外暂现源PRIME26ahygn，随后通过IRTF近红外光谱证实其为一颗新经典新星。
+**观测短评**: 该目标位于银心附近且目前处于红外波段，光学星等较暗或消光极大，不适合我们组的1m光学望远镜跟进，也超出核心黑洞吸积研究范畴，无申请其他设备观测的必要。
 
 ---
 
-### [0] | ATel 17942: [Observing session on Comet P10/Tempel during an earthquake at the Kottamia Astrophysical Observatory (MPC Q62, Egypt)](https://www.astronomerstelegram.org/?read=17942)
-- **日期**: 5 Aug 2026 UT | **源**: `Comet 10P/Tempel`
+### [3] | ATel 17944: [Photometric Follow-up Observations of a Reddened Galactic Nova AT 2026rdg with BHTOM.space Global Telescope Network](https://www.astronomerstelegram.org/?read=17944)
+- **日期**: 6 Aug 2026 UT | **源**: `AT 2026rdg`
 
-**爆发速递**: 本篇ATel报道了埃及Kottamia天体物理天文台使用1.88米望远镜观测彗星10P/Tempel时，遭遇5.4级地震并记录下地震对望远镜指向影响的过程。
-**观测短评**: 该事件属于太阳系小天体观测且受到地震干扰，与本课题组关注的吸积物理、暂现源及高能天体方向无关，不具备光学后随观测价值，无需申请任何跟进观测。
+**爆发速递**: BHTOM.space全球望远镜网络对银河系内高度红化的FeII型新星AT 2026rdg（Nova Aql 2026）开展了多波段光变监测，获取了超5000个测量数据，显示其亮度持续下降。
+**观测短评**: 该目标是一颗经典新星（广义上归类于激变变星相关暂现源），虽然属于我方1米望远镜的观测能力范围内，但已有大量地面和业余望远镜网络（BHTOM）在进行高强度跟进，缺乏独占的望远镜申请和后随观测必要性。
 
 ---
 
