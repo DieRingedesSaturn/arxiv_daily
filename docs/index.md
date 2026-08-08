@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 17945: [PRIME discovery and IRTF confirmation of a bright nova PRIME26ahygn at the Galactic center](https://www.astronomerstelegram.org/?read=17945)
-- **日期**: 6 Aug 2026 UT | **源**: `PRIME26ahygn`
+### [3] | ATel 17949: [Fermi-LAT detection of renewed gamma-ray activity from the compact steep spectrum quasar 3C 138](https://www.astronomerstelegram.org/?read=17949)
+- **日期**: 7 Aug 2026 UT | **源**: `3C 138`
 
-**爆发速递**: PRIME望远镜在银河系核球巡天中发现了一颗非常明亮的近红外暂现源PRIME26ahygn，随后通过IRTF近红外光谱证实其为一颗新经典新星。
-**观测短评**: 该目标位于银心附近且目前处于红外波段，光学星等较暗或消光极大，不适合我们组的1m光学望远镜跟进，也超出核心黑洞吸积研究范畴，无申请其他设备观测的必要。
+**爆发速递**: 费米大视场望远镜(Fermi-LAT)近期探测到致密陡谱类星体3C 138的伽马射线活性显著增强，日平均通量较平均水平升高超过500倍。**观测短评**: 该目标属于活动星系核(AGN)，符合本组核心研究领域。但鉴于其主要在伽马射线波段爆发且多为空间高能观测，光学后随及本组1m望远镜的跟进价值相对有限，暂无须紧急申请其他地面设备观测。
+
+---
+
+### [4] | ATel 17948: [Error estimation and statistical significance of the EP J194531.8-612009 period](https://www.astronomerstelegram.org/?read=17948)
+- **日期**: 7 Aug 2026 UT | **源**: `EP J194531.8-612009`
+
+**爆发速递**: 作者通过TESS数据对爱因斯坦探针(EP)发现的暂现源EP J194531.8-612009进行了周期修正与定位验证，测得其周期约为1.897小时，并通过TESS_Localize将其精确对应至Gaia源。  **观测短评**: 该源极短的周期暗示其可能是一颗激变变星(CV)，其光学星等在1m望远镜观测能力范围内，具备一定的光学后随观测价值，可考虑进一步关注其光变特征。
 
 ---
 
-### [3] | ATel 17944: [Photometric Follow-up Observations of a Reddened Galactic Nova AT 2026rdg with BHTOM.space Global Telescope Network](https://www.astronomerstelegram.org/?read=17944)
-- **日期**: 6 Aug 2026 UT | **源**: `AT 2026rdg`
-
-**爆发速递**: BHTOM.space全球望远镜网络对银河系内高度红化的FeII型新星AT 2026rdg（Nova Aql 2026）开展了多波段光变监测，获取了超5000个测量数据，显示其亮度持续下降。
-**观测短评**: 该目标是一颗经典新星（广义上归类于激变变星相关暂现源），虽然属于我方1米望远镜的观测能力范围内，但已有大量地面和业余望远镜网络（BHTOM）在进行高强度跟进，缺乏独占的望远镜申请和后随观测必要性。
-
----
+### [3] | ATel 17947: [Photometric follow up observations of the possible Galactic Nova in Taurus TCP J05210763+2338194](https://www.astronomerstelegram.org/?read=17947)
 
 [查看本周完整 ATel](./atels/2026-W32.md)
 
