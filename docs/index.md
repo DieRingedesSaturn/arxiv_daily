@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [3] | ATel 17950: [Spectroscopic classification and BVRI photometry of TCP J05210763+2338194 as a FeII-type nova](https://www.astronomerstelegram.org/?read=17950)
+- **日期**: 8 Aug 2026 UT | **源**: `TCP J05210763+2338194`
+
+**爆发速递**: NMW-TexasTech巡天项目发现了暂现源TCP J05210763+2338194，研究人员通过多方望远镜进行了BVRI波段光度测量与低分辨率光谱观测，确认其为一颗FeII型新星。**观测短评**: 该目标是一颗新星，虽属于光学暂现源且亮度较亮，但由于本课题组核心研究方向为黑洞X射线双星、AGN及吸积喷流物理，与新星关联较弱。虽然我们的1m望远镜具备光学观测能力，但该目标优先级不高，暂无必要专门申请设备跟进。
+
+---
+
 ### [3] | ATel 17949: [Fermi-LAT detection of renewed gamma-ray activity from the compact steep spectrum quasar 3C 138](https://www.astronomerstelegram.org/?read=17949)
 - **日期**: 7 Aug 2026 UT | **源**: `3C 138`
 
@@ -15,13 +22,6 @@
 ---
 
 ### [4] | ATel 17948: [Error estimation and statistical significance of the EP J194531.8-612009 period](https://www.astronomerstelegram.org/?read=17948)
-- **日期**: 7 Aug 2026 UT | **源**: `EP J194531.8-612009`
-
-**爆发速递**: 作者通过TESS数据对爱因斯坦探针(EP)发现的暂现源EP J194531.8-612009进行了周期修正与定位验证，测得其周期约为1.897小时，并通过TESS_Localize将其精确对应至Gaia源。  **观测短评**: 该源极短的周期暗示其可能是一颗激变变星(CV)，其光学星等在1m望远镜观测能力范围内，具备一定的光学后随观测价值，可考虑进一步关注其光变特征。
-
----
-
-### [3] | ATel 17947: [Photometric follow up observations of the possible Galactic Nova in Taurus TCP J05210763+2338194](https://www.astronomerstelegram.org/?read=17947)
 
 [查看本周完整 ATel](./atels/2026-W32.md)
 
