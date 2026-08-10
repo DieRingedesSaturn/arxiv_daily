@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 17950: [Spectroscopic classification and BVRI photometry of TCP J05210763+2338194 as a FeII-type nova](https://www.astronomerstelegram.org/?read=17950)
-- **日期**: 8 Aug 2026 UT | **源**: `TCP J05210763+2338194`
+### [3] | ATel 17952: [Optical spectroscopic followup of AT2026nwl/EP260530a](https://www.astronomerstelegram.org/?read=17952)
+- **日期**: 9 Aug 2026 UT | **源**: `AT2026nwl`
 
-**爆发速递**: NMW-TexasTech巡天项目发现了暂现源TCP J05210763+2338194，研究人员通过多方望远镜进行了BVRI波段光度测量与低分辨率光谱观测，确认其为一颗FeII型新星。**观测短评**: 该目标是一颗新星，虽属于光学暂现源且亮度较亮，但由于本课题组核心研究方向为黑洞X射线双星、AGN及吸积喷流物理，与新星关联较弱。虽然我们的1m望远镜具备光学观测能力，但该目标优先级不高，暂无必要专门申请设备跟进。
-
----
-
-### [3] | ATel 17949: [Fermi-LAT detection of renewed gamma-ray activity from the compact steep spectrum quasar 3C 138](https://www.astronomerstelegram.org/?read=17949)
-- **日期**: 7 Aug 2026 UT | **源**: `3C 138`
-
-**爆发速递**: 费米大视场望远镜(Fermi-LAT)近期探测到致密陡谱类星体3C 138的伽马射线活性显著增强，日平均通量较平均水平升高超过500倍。**观测短评**: 该目标属于活动星系核(AGN)，符合本组核心研究领域。但鉴于其主要在伽马射线波段爆发且多为空间高能观测，光学后随及本组1m望远镜的跟进价值相对有限，暂无须紧急申请其他地面设备观测。
+**爆发速递**: 本篇ATel报道了利用法国上普罗旺斯天文台1.93米望远镜及MISTRAL光谱仪对暂现源AT2026nwl/EP260530a的光学光谱后随观测，记录了其自2026年6月至7月间发射线与连续谱的演化。**观测短评**: 该目标表现出光谱特征的演化，但其具体物理分类（如CV或特定暂现源）在此信使中未完全定论且偏离我们的核心吸积物理兴趣，结合其后续变暗和发射线消失，暂无使用我台1米望远镜跟进的迫切需求或申请大型设备观测的必要。
 
 ---
 
-### [4] | ATel 17948: [Error estimation and statistical significance of the EP J194531.8-612009 period](https://www.astronomerstelegram.org/?read=17948)
+### [6] | ATel 17951: [Detection of Superhumps during a Superoutburst in Gaia20ffw](https://www.astronomerstelegram.org/?read=17951)
+- **日期**: 9 Aug 2026 UT | **源**: `Gaia20ffw`
+
+**爆发速递**: 研究人员利用智利ROAD天文台的C14望远镜对激变变星Gaia20ffw进行了时间分辨光度观测，在其超级爆发期间成功探测到了周期约为0.0801天的超驼峰（superhumps），证实该目标为SU UMa型矮新星。
+**观测短评**: 该目标为激变变星（CV），且处于持续爆发状态，光度处于我们1米光学望远镜的观测能力范围内，具备良好的光学跟进与测光观测价值。建议利用自有望远镜开展长期的光变监测。
+
+---
+
 
 [查看本周完整 ATel](./atels/2026-W32.md)
 
