@@ -1,62 +1,220 @@
 """
 ArXiv 论文获取、筛选与 AI 评估模块。
 """
+from dataclasses import dataclass
+import datetime
+import re
 import time
+import xml.etree.ElementTree as ET
+
 import arxiv
+import requests
 
 from config import (
     ARXIV_CATEGORIES, KEYWORDS_BROAD, RESEARCH_INTEREST,
-    GEMINI_MODEL_LITE, GEMINI_MODEL_FLASH,
+    GEMINI_MODEL_LITE, GEMINI_MODEL_FLASH, PAID_MODEL,
 )
 from schemas import PaperEvaluation
 from llm_api import generate_content_with_retry
 from utils import logger
 
 
-# ================= 论文获取 =================
-def get_new_arxiv_papers(processed_ids: set[str], max_results: int = 200) -> list[arxiv.Result]:
-    """从 arXiv API 获取最新论文，过滤已处理的 ID。"""
-    # 强制 urllib3 (requests) 仅使用 IPv4 路由，以规避 GitHub Actions 的 IPv6 429 速率限制
-    import urllib3.util.connection as urllib3_conn
-    import socket
-    import random
-    urllib3_conn.allowed_gai_family = lambda: socket.AF_INET
+ARXIV_ATOM_BASE_URL = "https://rss.arxiv.org/atom"
+ARXIV_REQUEST_INTERVAL_SECONDS = 3
+ARXIV_USER_AGENT = (
+    "arxiv_daily/1.0 "
+    "(+https://github.com/DieRingedesSaturn/arxiv_daily)"
+)
 
-    logger.info(f"正在检索最新的 {max_results} 篇 arXiv 论文...")
-    query = ' OR '.join([f'cat:{c}' for c in ARXIV_CATEGORIES])
+
+@dataclass(frozen=True)
+class ArxivAuthor:
+    """兼容 ``arxiv.Result.authors`` 的最小作者记录。"""
+
+    name: str
+
+
+@dataclass(frozen=True)
+class ArxivPaper:
+    """日报生成所需的 arXiv 论文元数据。"""
+
+    entry_id: str
+    title: str
+    summary: str
+    authors: list[ArxivAuthor]
+    announcement_date: datetime.date
+
+
+def _normalize_entry_id(entry_id: str) -> str:
+    return entry_id.replace("http://", "https://")
+
+
+def _clean_atom_summary(summary: str) -> str:
+    """移除 arXiv Atom 日报在摘要前添加的公告头。"""
+    return re.sub(
+        r"^arXiv:\S+\s+Announce Type:\s*[^\n]+\s+Abstract:\s*",
+        "",
+        summary.strip(),
+        count=1,
+        flags=re.IGNORECASE,
+    ).strip()
+
+
+def parse_arxiv_atom_feed(xml_content: bytes | str) -> list[ArxivPaper]:
+    """解析 arXiv 官方 Atom 日报，返回与现有处理链兼容的记录。"""
+    root = ET.fromstring(xml_content)
+    if not root.tag.endswith("feed"):
+        raise ValueError("arXiv Atom 响应缺少 feed 根节点")
+
+    namespaces = {
+        "atom": "http://www.w3.org/2005/Atom",
+        "dc": "http://purl.org/dc/elements/1.1/",
+    }
+    entries = root.findall("atom:entry", namespaces)
+    papers = []
+
+    for entry in entries:
+        raw_id = (entry.findtext("atom:id", default="", namespaces=namespaces)).strip()
+        title = (entry.findtext("atom:title", default="", namespaces=namespaces)).strip()
+        summary = (entry.findtext("atom:summary", default="", namespaces=namespaces)).strip()
+        published = (
+            entry.findtext("atom:published", default="", namespaces=namespaces)
+        ).strip()
+        if not raw_id or not title or not summary or not published:
+            logger.warning("arXiv Atom 条目缺少 id/title/summary/published，已跳过。")
+            continue
+
+        try:
+            announcement_date = datetime.datetime.fromisoformat(
+                published.replace("Z", "+00:00")
+            ).date()
+        except ValueError:
+            logger.warning(f"arXiv Atom 条目的 published 日期无效: {published}")
+            continue
+
+        identifier = raw_id.rsplit(":", 1)[-1]
+        creator = (
+            entry.findtext("dc:creator", default="", namespaces=namespaces)
+        ).strip()
+        author_names = [name.strip() for name in creator.split(",") if name.strip()]
+        authors = [ArxivAuthor(name) for name in author_names]
+        if not authors:
+            authors = [ArxivAuthor("作者未知")]
+
+        papers.append(
+            ArxivPaper(
+                entry_id=f"https://arxiv.org/abs/{identifier}",
+                title=" ".join(title.split()),
+                summary=_clean_atom_summary(summary),
+                authors=authors,
+                announcement_date=announcement_date,
+            )
+        )
+
+    if entries and not papers:
+        raise ValueError("arXiv Atom 响应包含条目，但没有可用论文元数据")
+    return papers
+
+
+def _get_papers_from_atom(max_results: int) -> list[ArxivPaper]:
+    categories = "+".join(ARXIV_CATEGORIES)
+    url = f"{ARXIV_ATOM_BASE_URL}/{categories}"
+    logger.info(f"正在从 arXiv 官方 Atom 日报获取: {categories}...")
+    response = requests.get(
+        url,
+        headers={"User-Agent": ARXIV_USER_AGENT},
+        timeout=30,
+    )
+    response.raise_for_status()
+    return parse_arxiv_atom_feed(response.content)[:max_results]
+
+
+def _run_search_api(query: str, max_results: int) -> list[arxiv.Result]:
+    """以统一的限速配置执行一次 legacy search API 查询。"""
     search = arxiv.Search(
         query=query,
         max_results=max_results,
         sort_by=arxiv.SortCriterion.SubmittedDate,
     )
-    # 将分页延迟增大至 15 秒，以降低触发频控的概率
-    client_arxiv = arxiv.Client(page_size=100, delay_seconds=15, num_retries=10)
+    client = arxiv.Client(
+        page_size=min(100, max_results),
+        delay_seconds=3,
+        num_retries=2,
+    )
+    return list(client.results(search))
 
-    max_outer_retries = 3
-    for attempt in range(max_outer_retries):
-        try:
-            new_papers = [
-                res for res in client_arxiv.results(search)
-                if res.entry_id.replace("http://", "https://") not in processed_ids
-            ]
-            logger.info(f"过滤后发现 {len(new_papers)} 篇未处理的新论文。")
-            return new_papers
-        except Exception as e:
-            is_arxiv_error = "arxiv" in str(type(e)).lower()
-            if is_arxiv_error:
-                if attempt < max_outer_retries - 1:
-                    # 使用较长的指数退避，并引入 10-30 秒的随机抖动 (Jitter) 以错开并发
-                    wait_time = (attempt + 1) * 90 + random.randint(10, 30)
-                    logger.warning(
-                        f"arXiv API 请求失败 ({e})。正在进行第 {attempt+1} 次重试，等待 {wait_time} 秒..."
-                    )
-                    time.sleep(wait_time)
-                else:
-                    logger.error(f"arXiv API 请求在 {max_outer_retries} 次尝试后仍然失败。")
-                    raise
-            else:
-                raise
-    return []
+
+def _get_papers_from_search_api(max_results: int) -> list[arxiv.Result]:
+    """Atom 日报不可用时，使用低频、单层重试的搜索 API 回退。"""
+    query = ' OR '.join([f'cat:{category}' for category in ARXIV_CATEGORIES])
+    return _run_search_api(query, max_results)
+
+
+def get_arxiv_papers_for_date(
+    target_date: datetime.date,
+    processed_ids: set[str],
+    max_results: int = 200,
+) -> list[arxiv.Result]:
+    """按提交日期检索历史论文，用于 RSS 无法覆盖的人工回填。"""
+    date_token = target_date.strftime("%Y%m%d")
+    category_query = ' OR '.join(
+        f'cat:{category}' for category in ARXIV_CATEGORIES
+    )
+    query = (
+        f'({category_query}) AND '
+        f'submittedDate:[{date_token}0000 TO {date_token}2359]'
+    )
+    logger.info(f"正在检索 arXiv 历史提交日期: {target_date}...")
+    papers = _run_search_api(query, max_results)
+    if len(papers) >= max_results:
+        raise RuntimeError(
+            f"{target_date} 的检索结果达到上限 {max_results}，"
+            "为避免静默漏文，已中止本日回填。"
+        )
+
+    normalized_processed_ids = {
+        _normalize_entry_id(entry_id) for entry_id in processed_ids
+    }
+    new_papers = [
+        paper for paper in papers
+        if _normalize_entry_id(paper.entry_id) not in normalized_processed_ids
+    ]
+    logger.info(
+        f"arXiv 历史检索过滤后发现 {len(new_papers)} 篇未处理论文。"
+    )
+    return new_papers
+
+
+# ================= 论文获取 =================
+def get_new_arxiv_papers(
+    processed_ids: set[str],
+    max_results: int = 200,
+) -> list[ArxivPaper | arxiv.Result]:
+    """从每日 Atom feed 获取论文，不可用时回退到搜索 API。"""
+    try:
+        papers = _get_papers_from_atom(max_results)
+        source = "Atom"
+    except Exception as atom_error:
+        logger.warning(
+            f"arXiv Atom 日报获取失败 ({atom_error})，"
+            "回退到搜索 API..."
+        )
+        # arXiv 对所有 legacy API（含 RSS）统一要求请求间隔至少 3 秒。
+        time.sleep(ARXIV_REQUEST_INTERVAL_SECONDS)
+        papers = _get_papers_from_search_api(max_results)
+        source = "API"
+
+    normalized_processed_ids = {
+        _normalize_entry_id(entry_id) for entry_id in processed_ids
+    }
+    new_papers = [
+        paper for paper in papers
+        if _normalize_entry_id(paper.entry_id) not in normalized_processed_ids
+    ]
+    logger.info(
+        f"arXiv {source} 过滤后发现 {len(new_papers)} 篇未处理的新论文。"
+    )
+    return new_papers
 
 
 
@@ -94,7 +252,7 @@ def ai_relevance_check(paper) -> dict:
         logger.info("  [Fallback] 免费 Lite 打分拥堵，切换付费 Lite...")
         try:
             return generate_content_with_retry(
-                model=GEMINI_MODEL_LITE, contents=prompt,
+                model=PAID_MODEL, contents=prompt,
                 schema=PaperEvaluation, provider="openai", max_retries=2,
             )
         except Exception:
@@ -137,7 +295,7 @@ def ai_summarize_short(paper, analysis_info: dict) -> str:
             logger.info("  [Fallback 2] 免费路线全挂，启用第三方付费 lite 兜底...")
             try:
                 return generate_content_with_retry(
-                    model=GEMINI_MODEL_LITE, contents=prompt,
+                    model=PAID_MODEL, contents=prompt,
                     max_retries=2, provider="openai",
                 )
             except Exception as e3:

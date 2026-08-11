@@ -10,6 +10,7 @@ from bs4 import BeautifulSoup
 
 from config import (
     ATEL_BASE_URL, ATEL_RSS_URL, RESEARCH_INTEREST, GEMINI_MODEL_LITE,
+    PAID_MODEL,
 )
 from schemas import ATelAnalysis
 from llm_api import generate_content_with_retry
@@ -118,7 +119,7 @@ def ai_summarize_atel(atel: dict) -> dict | None:
         logger.info("  [Fallback] ATel 免费 Lite 线路受限，尝试第三方付费 Lite 兜底...")
         try:
             return generate_content_with_retry(
-                model=GEMINI_MODEL_LITE, contents=prompt,
+                model=PAID_MODEL, contents=prompt,
                 schema=ATelAnalysis, max_retries=2, provider="openai",
             )
         except Exception:

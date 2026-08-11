@@ -5,7 +5,7 @@ ArXiv Daily Tracker - 主入口编排脚本。
     python scripts/main.py                  # 运行全部任务
     python scripts/main.py --task arxiv     # 仅运行 ArXiv
     python scripts/main.py --task atel      # 仅运行 ATel
-    python scripts/main.py --date 2026-04-14  # 指定日期
+    python scripts/main.py --task arxiv --backfill-start 2026-08-01 --backfill-end 2026-08-10
 """
 import os
 import json
@@ -16,7 +16,7 @@ import argparse
 from config import ATELS_DIR, POSTS_DIR, STATE_FILE, ARXIV_STATE_FILE
 from utils import logger
 from arxiv_manager import (
-    get_new_arxiv_papers, keyword_pre_filter,
+    get_new_arxiv_papers, get_arxiv_papers_for_date, keyword_pre_filter,
     ai_relevance_check, ai_summarize_short,
 )
 from atel_manager import (
@@ -91,7 +91,31 @@ def run_atel_task():
     update_indexes(arxiv_files_updated=False)
 
 
-def run_arxiv_task(target_date):
+def _resolve_arxiv_target_date(papers, requested_date=None):
+    """优先使用显式日期，否则采用 Atom feed 的正式公告日期。"""
+    if requested_date is not None:
+        return requested_date
+
+    announcement_dates = {
+        paper.announcement_date
+        for paper in papers
+        if getattr(paper, 'announcement_date', None) is not None
+    }
+    if len(announcement_dates) == 1:
+        target_date = announcement_dates.pop()
+        logger.info(f"使用 arXiv feed 公告日期生成日报: {target_date}")
+        return target_date
+    if len(announcement_dates) > 1:
+        raise ValueError(
+            "arXiv feed 同时包含多个公告日期，拒绝写入单个日报: "
+            + ", ".join(str(date) for date in sorted(announcement_dates))
+        )
+
+    # 搜索 API 回退没有公告日期字段，保留旧行为作为降级路径。
+    return datetime.datetime.now(datetime.timezone.utc).date() - datetime.timedelta(days=1)
+
+
+def run_arxiv_task(target_date=None, backfill_date=None):
     """执行 ArXiv 论文获取、评估与总结任务。"""
     os.makedirs(POSTS_DIR, exist_ok=True)
 
@@ -102,13 +126,22 @@ def run_arxiv_task(target_date):
         arxiv_state = {'processed_ids': []}
 
     processed_ids = set(arxiv_state.get('processed_ids', []))
-    raw_papers = get_new_arxiv_papers(processed_ids, max_results=200)
+    if backfill_date is not None:
+        raw_papers = get_arxiv_papers_for_date(
+            backfill_date,
+            processed_ids,
+            max_results=200,
+        )
+    else:
+        raw_papers = get_new_arxiv_papers(processed_ids, max_results=200)
     candidates = keyword_pre_filter(raw_papers)
 
     if not raw_papers:
         logger.info("没有发现需要分析的新论文。")
         update_indexes(arxiv_files_updated=True)
         return
+
+    target_date = _resolve_arxiv_target_date(raw_papers, target_date)
 
     # 初始已完成集合：所有未通过关键词初筛的论文
     candidate_entry_ids = {p.entry_id.replace("http://", "https://") for p in candidates}
@@ -174,22 +207,80 @@ def run_arxiv_task(target_date):
     update_indexes(arxiv_files_updated=True)
 
 
+def _parse_cli_date(value):
+    try:
+        return datetime.datetime.strptime(value, "%Y-%m-%d").date()
+    except ValueError as error:
+        raise argparse.ArgumentTypeError(
+            f"日期必须为 YYYY-MM-DD: {value}"
+        ) from error
+
+
+def _iter_date_range(start_date, end_date):
+    if end_date < start_date:
+        raise ValueError("回填结束日期不能早于开始日期")
+    current_date = start_date
+    while current_date <= end_date:
+        yield current_date
+        current_date += datetime.timedelta(days=1)
+
+
+def run_arxiv_backfill(start_date, end_date):
+    """逐日回填缺失日报，已有文件不覆盖。"""
+    for target_date in _iter_date_range(start_date, end_date):
+        output_path = os.path.join(
+            POSTS_DIR,
+            f"Arxiv_Summary_{target_date:%Y-%m-%d}.md",
+        )
+        if os.path.exists(output_path):
+            logger.info(f"日报已存在，跳过回填: {output_path}")
+            continue
+        run_arxiv_task(target_date=target_date, backfill_date=target_date)
+        if target_date < end_date:
+            time.sleep(3)
+
+
 def main():
     parser = argparse.ArgumentParser(description="ArXiv Daily Tracker")
-    parser.add_argument('--date', type=str, help="目标日期 (YYYY-MM-DD)")
+    parser.add_argument(
+        '--date',
+        type=_parse_cli_date,
+        help="仅覆盖正常日更的输出日期 (YYYY-MM-DD)，不用于历史检索",
+    )
+    parser.add_argument(
+        '--backfill-start',
+        type=_parse_cli_date,
+        help="历史回填开始日期 (YYYY-MM-DD)",
+    )
+    parser.add_argument(
+        '--backfill-end',
+        type=_parse_cli_date,
+        help="历史回填结束日期 (YYYY-MM-DD，含当日)",
+    )
     parser.add_argument('--task', choices=['arxiv', 'atel', 'all'], default='all', help="执行的任务类型")
     args = parser.parse_args()
+
+    backfill_requested = (
+        args.backfill_start is not None or args.backfill_end is not None
+    )
+    if backfill_requested:
+        if args.backfill_start is None or args.backfill_end is None:
+            parser.error("--backfill-start 和 --backfill-end 必须同时提供")
+        if args.task != 'arxiv':
+            parser.error("历史回填必须显式指定 --task arxiv")
+        if args.date is not None:
+            parser.error("历史回填不能与 --date 同时使用")
+        try:
+            run_arxiv_backfill(args.backfill_start, args.backfill_end)
+        except ValueError as error:
+            parser.error(str(error))
+        return
 
     if args.task in ['atel', 'all']:
         run_atel_task()
 
     if args.task in ['arxiv', 'all']:
-        target_date = (
-            datetime.datetime.strptime(args.date, "%Y-%m-%d").date()
-            if args.date
-            else datetime.datetime.now(datetime.timezone.utc).date() - datetime.timedelta(days=1)
-        )
-        run_arxiv_task(target_date)
+        run_arxiv_task(args.date)
 
 
 if __name__ == "__main__":

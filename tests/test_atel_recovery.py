@@ -1,4 +1,5 @@
 import importlib
+import datetime
 import json
 import sys
 import types
@@ -17,6 +18,7 @@ def _load_main_with_stubbed_dependencies():
     arxiv_manager = types.ModuleType("arxiv_manager")
     for name in (
         "get_new_arxiv_papers",
+        "get_arxiv_papers_for_date",
         "keyword_pre_filter",
         "ai_relevance_check",
         "ai_summarize_short",
@@ -152,6 +154,83 @@ class ATelRecoveryTests(unittest.TestCase):
             state = json.loads(state_file.read_text(encoding="utf-8"))
             self.assertEqual(state, {"last_id": 21, "pending_ids": [21]})
             self.main.update_weekly_atel.assert_not_called()
+
+
+class ArxivDateTests(unittest.TestCase):
+    def setUp(self):
+        self.main = _load_main_with_stubbed_dependencies()
+
+    def test_feed_announcement_date_is_used_by_default(self):
+        papers = [
+            types.SimpleNamespace(
+                announcement_date=datetime.date(2026, 8, 10),
+            ),
+            types.SimpleNamespace(
+                announcement_date=datetime.date(2026, 8, 10),
+            ),
+        ]
+        self.assertEqual(
+            self.main._resolve_arxiv_target_date(papers),
+            datetime.date(2026, 8, 10),
+        )
+
+    def test_explicit_date_overrides_feed_date(self):
+        requested = datetime.date(2026, 8, 9)
+        papers = [
+            types.SimpleNamespace(
+                announcement_date=datetime.date(2026, 8, 10),
+            )
+        ]
+        self.assertEqual(
+            self.main._resolve_arxiv_target_date(papers, requested),
+            requested,
+        )
+
+    def test_mixed_feed_dates_are_rejected(self):
+        papers = [
+            types.SimpleNamespace(
+                announcement_date=datetime.date(2026, 8, 9),
+            ),
+            types.SimpleNamespace(
+                announcement_date=datetime.date(2026, 8, 10),
+            ),
+        ]
+        with self.assertRaisesRegex(ValueError, "多个公告日期"):
+            self.main._resolve_arxiv_target_date(papers)
+
+    def test_backfill_range_is_inclusive(self):
+        self.assertEqual(
+            list(
+                self.main._iter_date_range(
+                    datetime.date(2026, 8, 2),
+                    datetime.date(2026, 8, 4),
+                )
+            ),
+            [
+                datetime.date(2026, 8, 2),
+                datetime.date(2026, 8, 3),
+                datetime.date(2026, 8, 4),
+            ],
+        )
+
+    def test_backfill_skips_existing_daily_file(self):
+        with TemporaryDirectory() as tmp:
+            existing = Path(tmp) / "Arxiv_Summary_2026-08-02.md"
+            existing.write_text("manual", encoding="utf-8")
+            with (
+                patch.object(self.main, "POSTS_DIR", tmp),
+                patch.object(self.main, "run_arxiv_task") as run,
+                patch.object(self.main.time, "sleep"),
+            ):
+                self.main.run_arxiv_backfill(
+                    datetime.date(2026, 8, 2),
+                    datetime.date(2026, 8, 3),
+                )
+
+            run.assert_called_once_with(
+                target_date=datetime.date(2026, 8, 3),
+                backfill_date=datetime.date(2026, 8, 3),
+            )
 
 
 class ATelIdempotencyTests(unittest.TestCase):

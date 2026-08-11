@@ -2,8 +2,8 @@ name: Daily ArXiv Update
 
 on:
   schedule:
-    # 每天 UTC 00:02 运行（台北/北京时间 08:02）
-    - cron: '2 0 * * *'
+    # 等待 arXiv 每日 Atom feed 更新后运行：UTC 06:17（台北/北京时间 14:17）
+    - cron: '17 6 * * *'
   push:
     branches:
       - main  # 当你推送代码到 main 分支时自动触发

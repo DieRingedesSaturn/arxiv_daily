@@ -7,11 +7,17 @@ API_PROVIDER = os.environ.get("API_PROVIDER", "google").lower()
 # 双端密钥分离管理
 GOOGLE_API_KEY = os.environ.get("GOOGLE_API_KEY", "")
 OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY", "")
-OPENAI_BASE_URL = os.environ.get("OPENAI_BASE_URL", "https://api.ohmygpt.com/v1")
+OPENAI_BASE_URL = (
+    os.environ.get("OPENAI_BASE_URL") or "https://api.ohmygpt.com/v1"
+)
 
 # ================= 模型配置 =================
+# Google 免费渠道
 GEMINI_MODEL_FLASH = "gemini-3.5-flash-lite"
 GEMINI_MODEL_LITE = "gemini-3.5-flash-lite"
+
+# OpenAI-compatible 付费渠道；更换模型时只需修改这里。
+PAID_MODEL = "deepseek-v4-flash"
 
 # ================= 天文检索配置 =================
 ARXIV_CATEGORIES = ["astro-ph.HE", "astro-ph.SR"]
