@@ -21,6 +21,7 @@ from utils import logger
 
 ARXIV_ATOM_BASE_URL = "https://rss.arxiv.org/atom"
 ARXIV_REQUEST_INTERVAL_SECONDS = 3
+ARXIV_BACKFILL_RETRY_DELAYS_SECONDS = (60, 180, 300)
 ARXIV_USER_AGENT = (
     "arxiv_daily/1.0 "
     "(+https://github.com/DieRingedesSaturn/arxiv_daily)"
@@ -165,7 +166,27 @@ def get_arxiv_papers_for_date(
         f'submittedDate:[{date_token}0000 TO {date_token}2359]'
     )
     logger.info(f"正在检索 arXiv 历史提交日期: {target_date}...")
-    papers = _run_search_api(query, max_results)
+    papers = None
+    for attempt in range(len(ARXIV_BACKFILL_RETRY_DELAYS_SECONDS) + 1):
+        try:
+            papers = _run_search_api(query, max_results)
+            break
+        except Exception as error:
+            is_rate_limited = "429" in str(error)
+            if not is_rate_limited or attempt >= len(
+                ARXIV_BACKFILL_RETRY_DELAYS_SECONDS
+            ):
+                raise
+            wait_seconds = ARXIV_BACKFILL_RETRY_DELAYS_SECONDS[attempt]
+            logger.warning(
+                f"arXiv 历史接口返回 429，等待 {wait_seconds} 秒后"
+                f"重试 {target_date} ({attempt + 1}/"
+                f"{len(ARXIV_BACKFILL_RETRY_DELAYS_SECONDS)})..."
+            )
+            time.sleep(wait_seconds)
+
+    if papers is None:
+        raise RuntimeError(f"{target_date} 的历史检索未返回结果")
     if len(papers) >= max_results:
         raise RuntimeError(
             f"{target_date} 的检索结果达到上限 {max_results}，"

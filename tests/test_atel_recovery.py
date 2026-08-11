@@ -220,17 +220,27 @@ class ArxivDateTests(unittest.TestCase):
             with (
                 patch.object(self.main, "POSTS_DIR", tmp),
                 patch.object(self.main, "run_arxiv_task") as run,
-                patch.object(self.main.time, "sleep"),
+                patch.object(self.main.time, "sleep") as sleep,
             ):
                 self.main.run_arxiv_backfill(
                     datetime.date(2026, 8, 2),
-                    datetime.date(2026, 8, 3),
+                    datetime.date(2026, 8, 4),
                 )
 
-            run.assert_called_once_with(
-                target_date=datetime.date(2026, 8, 3),
-                backfill_date=datetime.date(2026, 8, 3),
+            self.assertEqual(
+                run.call_args_list,
+                [
+                    unittest.mock.call(
+                        target_date=datetime.date(2026, 8, 3),
+                        backfill_date=datetime.date(2026, 8, 3),
+                    ),
+                    unittest.mock.call(
+                        target_date=datetime.date(2026, 8, 4),
+                        backfill_date=datetime.date(2026, 8, 4),
+                    ),
+                ],
             )
+            sleep.assert_called_once_with(60)
 
 
 class ATelIdempotencyTests(unittest.TestCase):

@@ -201,6 +201,47 @@ class ArxivAtomTests(unittest.TestCase):
                     max_results=2,
                 )
 
+    def test_historical_fetch_cools_down_and_retries_429(self):
+        paper = types.SimpleNamespace(
+            entry_id="https://arxiv.org/abs/2608.00003v1"
+        )
+        with (
+            patch.object(
+                self.manager,
+                "_run_search_api",
+                side_effect=[RuntimeError("HTTP 429"), [paper]],
+            ) as search,
+            patch.object(self.manager.time, "sleep") as sleep,
+        ):
+            result = self.manager.get_arxiv_papers_for_date(
+                __import__("datetime").date(2026, 8, 6),
+                set(),
+                max_results=50,
+            )
+
+        self.assertEqual(result, [paper])
+        self.assertEqual(search.call_count, 2)
+        sleep.assert_called_once_with(60)
+
+    def test_historical_fetch_does_not_retry_non_429_errors(self):
+        with (
+            patch.object(
+                self.manager,
+                "_run_search_api",
+                side_effect=RuntimeError("HTTP 503"),
+            ) as search,
+            patch.object(self.manager.time, "sleep") as sleep,
+        ):
+            with self.assertRaisesRegex(RuntimeError, "503"):
+                self.manager.get_arxiv_papers_for_date(
+                    __import__("datetime").date(2026, 8, 6),
+                    set(),
+                    max_results=50,
+                )
+
+        search.assert_called_once()
+        sleep.assert_not_called()
+
 
 if __name__ == "__main__":
     unittest.main()

@@ -74,5 +74,6 @@ with `set -a; source .env; set +a`.
 Historical RSS/Atom snapshots cannot be requested after the daily feed changes.
 The backfill command therefore approximates missing days with the search API's
 `submittedDate` field, skips existing daily files, and never replaces a manually
-generated report. Normal scheduled runs continue to use the Atom feed's official
-announcement date.
+generated report. It leaves 60 seconds between dates and applies 60/180/300-second
+cooldowns when the historical endpoint returns HTTP 429. Normal scheduled runs
+continue to use the Atom feed's official announcement date.

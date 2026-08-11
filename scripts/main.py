@@ -237,7 +237,8 @@ def run_arxiv_backfill(start_date, end_date):
             continue
         run_arxiv_task(target_date=target_date, backfill_date=target_date)
         if target_date < end_date:
-            time.sleep(3)
+            # 历史 search API 对连续查询的窗口限流比最低三秒间隔更严格。
+            time.sleep(60)
 
 
 def main():
