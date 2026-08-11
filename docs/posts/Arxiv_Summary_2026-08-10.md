@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 17956: [Magnitudes and colors of comet 220P/McNaught during outburst](https://www.astronomerstelegram.org/?read=17956)
-- **日期**: 10 Aug 2026 UT | **源**: `220P/McNaught`
-
-**爆发速递**: 保加利亚罗津国家天文台的50/70厘米施密特望远镜对处于爆发中的彗星220P/McNaught进行了BVRI宽带滤光片测光观测，给出了不同孔径下的星等、颜色及尘埃生产率参数。
-**观测短评**: 该目标为太阳系彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域无关，且不属于适合跟进的激变变星或其他高能暂现源，无光学后随观测价值，无需申请设备观测。
-
----
-
-### [8] | ATel 17955: [NGC 1275 is presently in an exceptionally bright state in the optical as well](https://www.astronomerstelegram.org/?read=17955)
-- **日期**: 10 Aug 2026 UT | **源**: `NGC 1275`
-
-**爆发速递**: 德国Hans-Haffner-Sternwarte天文台等机构通过0.5米望远镜监测发现，活动星系核NGC 1275（3C 84）在光学R波段达到近年来罕见的极亮状态（~12.7 mag），并伴随费米伽马射线卫星监测到的高能活动增强。
-**观测短评**: 该目标属于活动星系核（AGN），且当前正处于极高光度状态，具有极高的多波段联合观测与光学后随价值。由于其R波段星等约为12.7等，亮度极高，完全在我们的1米望远镜光谱与测光极限之内，非常适合使用我们的望远镜进行跟进观测，同时建议积极申请Swift或XMM-Newton等空间 X射线望远镜进行联合观测。
-
----
-
-[查看本周完整 ATel](./atels/2026-W33.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-10
 
 *Tags: #arXiv #Astrophysics*
 
@@ -116,5 +85,3 @@
   - *本文利用LISA空间引力波天文台观测超大质量黑洞双星合并及其残余，探讨了利用超辐射不稳定性质探测超轻玻色子的前景。*
 - **[0]** [Astrophysical origins of TeV features in the cosmic-ray lepton spectrum](http://arxiv.org/abs/2608.09336v1)
   - *该论文研究了宇宙线轻子能谱中TeV特征的天体物理起源，探讨了邻近脉冲星和超新星遗迹的贡献。*
-
-[查看历史目录](./posts/index.md)
