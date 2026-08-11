@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 17956: [Magnitudes and colors of comet 220P/McNaught during outburst](https://www.astronomerstelegram.org/?read=17956)
+- **日期**: 10 Aug 2026 UT
+
+**爆发速递**: 保加利亚罗津国家天文台的50/70厘米施密特望远镜对处于爆发中的彗星220P/McNaught进行了BVRI宽带滤光片测光观测，给出了不同孔径下的星等、颜色及尘埃生产率参数。
+**观测短评**: 该目标为太阳系彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域无关，且不属于适合跟进的激变变星或其他高能暂现源，无光学后随观测价值，无需申请设备观测。
+
+---
+
 ### ATel 17838: [TRAPPIST production rates of comet 220P/McNaught in outburst](https://www.astronomerstelegram.org/?read=17838)
 - **日期**: 8 Jun 2026 UT
 
