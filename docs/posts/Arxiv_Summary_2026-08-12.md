@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 17959: [OHP/MISTRAL optical spectroscopic followup of NGC1275](https://www.astronomerstelegram.org/?read=17959)
-- **日期**: 12 Aug 2026 UT | **源**: `NGC 1275`
-
-**爆发速递**: 观测团队利用OHP 1.93米望远镜上的MISTRAL光谱成像仪对处于异常高亮度状态的活动星系核NGC 1275进行了光学光谱后随观测，发现H_beta线增强且出现蓝翼等光谱变化特征。
-**观测短评**: 该目标属于活动星系核，虽然课题组拥有的1m光学望远镜在测光和光谱上有一定极限，但鉴于其处于活跃状态且引发了广泛的光谱关注，具备一定的光学跟进价值，不过由于该目标北纬40度下的观测条件及设备限制，建议结合现有空间望远镜数据进行多波段联合分析，暂无紧迫申请其他大型设备观测的必要。
-
----
-
-### [7] | ATel 17958: [MAXI/GSC detection of an X-ray outburst from GK Per](https://www.astronomerstelegram.org/?read=17958)
-- **日期**: 11 Aug 2026 UT | **源**: `GK Per`
-
-**爆发速递**: MAXI/GSC 警报系统于 2026 年 8 月 9 日探测到中间极型激变变星/矮新星 GK Per 发生 X 射线增亮，4-10 keV 通量约为 40 mCrab，同时 AAVSO 显示其光学 V 波段也处于剧烈变亮状态。
-**观测短评**: 作为一颗经典的激变变星且目前处于光学与X射线双重活跃期，非常适合利用我们课题组的 1m 光学望远镜进行光学跟进测光或光谱观测。建议积极联系多波段联合监测。
-
----
-
-[查看本周完整 ATel](./atels/2026-W33.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-12
 
 *Tags: #arXiv #Astrophysics*
 
@@ -166,5 +135,3 @@
   - *本文研究了偏心进动双黑洞旋进中的视界吸收效应及其对引力波数据分析的影响。*
 - **[0]** [Discovering and Characterising Exoplanets and Ultracool Dwarfs with the Square Kilometre Array](https://arxiv.org/abs/2607.11507v3)
   - *本文探讨了平方千米阵列（SKA）在发现和表征系外行星及超冷矮星无线电辐射方面的应用前景。*
-
-[查看历史目录](./posts/index.md)
