@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 17956: [Magnitudes and colors of comet 220P/McNaught during outburst](https://www.astronomerstelegram.org/?read=17956)
-- **日期**: 10 Aug 2026 UT | **源**: `220P/McNaught`
+### [6] | ATel 17959: [OHP/MISTRAL optical spectroscopic followup of NGC1275](https://www.astronomerstelegram.org/?read=17959)
+- **日期**: 12 Aug 2026 UT | **源**: `NGC 1275`
 
-**爆发速递**: 保加利亚罗津国家天文台的50/70厘米施密特望远镜对处于爆发中的彗星220P/McNaught进行了BVRI宽带滤光片测光观测，给出了不同孔径下的星等、颜色及尘埃生产率参数。
-**观测短评**: 该目标为太阳系彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域无关，且不属于适合跟进的激变变星或其他高能暂现源，无光学后随观测价值，无需申请设备观测。
+**爆发速递**: 观测团队利用OHP 1.93米望远镜上的MISTRAL光谱成像仪对处于异常高亮度状态的活动星系核NGC 1275进行了光学光谱后随观测，发现H_beta线增强且出现蓝翼等光谱变化特征。
+**观测短评**: 该目标属于活动星系核，虽然课题组拥有的1m光学望远镜在测光和光谱上有一定极限，但鉴于其处于活跃状态且引发了广泛的光谱关注，具备一定的光学跟进价值，不过由于该目标北纬40度下的观测条件及设备限制，建议结合现有空间望远镜数据进行多波段联合分析，暂无紧迫申请其他大型设备观测的必要。
 
 ---
 
-### [8] | ATel 17955: [NGC 1275 is presently in an exceptionally bright state in the optical as well](https://www.astronomerstelegram.org/?read=17955)
-- **日期**: 10 Aug 2026 UT | **源**: `NGC 1275`
+### [7] | ATel 17958: [MAXI/GSC detection of an X-ray outburst from GK Per](https://www.astronomerstelegram.org/?read=17958)
+- **日期**: 11 Aug 2026 UT | **源**: `GK Per`
 
-**爆发速递**: 德国Hans-Haffner-Sternwarte天文台等机构通过0.5米望远镜监测发现，活动星系核NGC 1275（3C 84）在光学R波段达到近年来罕见的极亮状态（~12.7 mag），并伴随费米伽马射线卫星监测到的高能活动增强。
-**观测短评**: 该目标属于活动星系核（AGN），且当前正处于极高光度状态，具有极高的多波段联合观测与光学后随价值。由于其R波段星等约为12.7等，亮度极高，完全在我们的1米望远镜光谱与测光极限之内，非常适合使用我们的望远镜进行跟进观测，同时建议积极申请Swift或XMM-Newton等空间 X射线望远镜进行联合观测。
+**爆发速递**: MAXI/GSC 警报系统于 2026 年 8 月 9 日探测到中间极型激变变星/矮新星 GK Per 发生 X 射线增亮，4-10 keV 通量约为 40 mCrab，同时 AAVSO 显示其光学 V 波段也处于剧烈变亮状态。
+**观测短评**: 作为一颗经典的激变变星且目前处于光学与X射线双重活跃期，非常适合利用我们课题组的 1m 光学望远镜进行光学跟进测光或光谱观测。建议积极联系多波段联合监测。
 
 ---
 

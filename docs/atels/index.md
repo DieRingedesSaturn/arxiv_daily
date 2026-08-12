@@ -64,6 +64,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [GK_Per](./sources/GK_Per.md) | *最新动态: ATel 17958 (11 Aug 2026)*
 - [TCP_J02191736+2857158](./sources/TCP_J02191736+2857158.md) | *最新动态: ATel 17954 (10 Aug 2026)*
 - [Gaia20ffw](./sources/Gaia20ffw.md) | *最新动态: ATel 17951 (9 Aug 2026)*
 - [EP_J194531.8-612009](./sources/EP_J194531.8-612009.md) | *最新动态: ATel 17948 (7 Aug 2026)*
@@ -83,7 +84,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
-- [NGC_1275](./sources/NGC_1275.md) | *最新动态: ATel 17955 (10 Aug 2026)*
+- [NGC_1275](./sources/NGC_1275.md) | *最新动态: ATel 17959 (12 Aug 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 17949 (7 Aug 2026)*
 - [1ES_1028+511](./sources/1ES_1028+511.md) | *最新动态: ATel 17938 (3 Aug 2026)*
 - [4C_10.45](./sources/4C_10.45.md) | *最新动态: ATel 17935 (1 Aug 2026)*
