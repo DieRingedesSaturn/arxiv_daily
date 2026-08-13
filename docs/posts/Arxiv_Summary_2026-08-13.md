@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [4] | ATel 17962: [Detection of superhumps in the ER UMa-type dwarf nova Gaia24aeg](https://www.astronomerstelegram.org/?read=17962)
-- **日期**: 12 Aug 2026 UT | **源**: `Gaia24aeg`
-
-**爆发速递**: 研究人员利用BHTOM光变曲线系统和0.7米AZT-8望远镜，对ER UMa型矮新星Gaia24aeg进行了光变监测与时间分辨光度观测，成功探测到了周期约为0.077天的超驼峰（superhumps）信号。
-**观测短评**: 该目标属于激变变星（CV），其星等较亮且处于光学爆发阶段，虽然符合课题组1米望远镜的跟进能力范围，但该目标属于典型矮新星，与本组核心关注的黑洞吸积与AGN物理相关性较低，暂无使用大型空间/地面设备跟进的必要。
-
----
-
-### [3] | ATel 17961: [MAXI/GSC detection of a possible intermediate-duration burst from the direction of Terzan 1](https://www.astronomerstelegram.org/?read=17961)
-- **日期**: 12 Aug 2026 UT | **源**: `Terzan 1`
-
-**爆发速递**: MAXI/GSC设备在球状星团Terzan 1方向探测到一个明亮的暂现事件，持续时间约为40秒且随后快速衰减，被认为是一个候选的中等持续时间X射线暴。**观测短评**: 该事件属于球状星团中的中子星X射线双星相关爆发，虽然其高能特征明显，但由于缺乏显著的光学亮星伴随且不属于黑洞或AGN范畴，与本课题组核心黑洞吸积及1米光学望远镜的跟进能力匹配度较低，暂无申请多波段后随观测的必要。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W33.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-13
 
 *Tags: #arXiv #Astrophysics*
 
@@ -142,5 +111,3 @@
   - *本文利用MHD模拟评估了星系中基于同步辐射强度的能量均分假设计算磁场强度的有效性。*
 - **[0]** [Rotation of the polarization plane in axion fields: application to neutron star polar cap regions](https://arxiv.org/abs/2603.28826v2)
   - *本文研究了轴子场中偏振面的旋转效应及其在的中子星极冠区的应用。*
-
-[查看历史目录](./posts/index.md)
