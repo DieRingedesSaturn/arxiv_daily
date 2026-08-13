@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 17959: [OHP/MISTRAL optical spectroscopic followup of NGC1275](https://www.astronomerstelegram.org/?read=17959)
-- **日期**: 12 Aug 2026 UT | **源**: `NGC 1275`
+### [4] | ATel 17962: [Detection of superhumps in the ER UMa-type dwarf nova Gaia24aeg](https://www.astronomerstelegram.org/?read=17962)
+- **日期**: 12 Aug 2026 UT | **源**: `Gaia24aeg`
 
-**爆发速递**: 观测团队利用OHP 1.93米望远镜上的MISTRAL光谱成像仪对处于异常高亮度状态的活动星系核NGC 1275进行了光学光谱后随观测，发现H_beta线增强且出现蓝翼等光谱变化特征。
-**观测短评**: 该目标属于活动星系核，虽然课题组拥有的1m光学望远镜在测光和光谱上有一定极限，但鉴于其处于活跃状态且引发了广泛的光谱关注，具备一定的光学跟进价值，不过由于该目标北纬40度下的观测条件及设备限制，建议结合现有空间望远镜数据进行多波段联合分析，暂无紧迫申请其他大型设备观测的必要。
+**爆发速递**: 研究人员利用BHTOM光变曲线系统和0.7米AZT-8望远镜，对ER UMa型矮新星Gaia24aeg进行了光变监测与时间分辨光度观测，成功探测到了周期约为0.077天的超驼峰（superhumps）信号。
+**观测短评**: 该目标属于激变变星（CV），其星等较亮且处于光学爆发阶段，虽然符合课题组1米望远镜的跟进能力范围，但该目标属于典型矮新星，与本组核心关注的黑洞吸积与AGN物理相关性较低，暂无使用大型空间/地面设备跟进的必要。
+
+---
+
+### [3] | ATel 17961: [MAXI/GSC detection of a possible intermediate-duration burst from the direction of Terzan 1](https://www.astronomerstelegram.org/?read=17961)
+- **日期**: 12 Aug 2026 UT | **源**: `Terzan 1`
+
+**爆发速递**: MAXI/GSC设备在球状星团Terzan 1方向探测到一个明亮的暂现事件，持续时间约为40秒且随后快速衰减，被认为是一个候选的中等持续时间X射线暴。**观测短评**: 该事件属于球状星团中的中子星X射线双星相关爆发，虽然其高能特征明显，但由于缺乏显著的光学亮星伴随且不属于黑洞或AGN范畴，与本课题组核心黑洞吸积及1米光学望远镜的跟进能力匹配度较低，暂无申请多波段后随观测的必要。
 
 ---
 
-### [7] | ATel 17958: [MAXI/GSC detection of an X-ray outburst from GK Per](https://www.astronomerstelegram.org/?read=17958)
-- **日期**: 11 Aug 2026 UT | **源**: `GK Per`
-
-**爆发速递**: MAXI/GSC 警报系统于 2026 年 8 月 9 日探测到中间极型激变变星/矮新星 GK Per 发生 X 射线增亮，4-10 keV 通量约为 40 mCrab，同时 AAVSO 显示其光学 V 波段也处于剧烈变亮状态。
-**观测短评**: 作为一颗经典的激变变星且目前处于光学与X射线双重活跃期，非常适合利用我们课题组的 1m 光学望远镜进行光学跟进测光或光谱观测。建议积极联系多波段联合监测。
-
----
 
 [查看本周完整 ATel](./atels/2026-W33.md)
 
