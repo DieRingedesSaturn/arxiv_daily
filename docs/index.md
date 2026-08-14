@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [4] | ATel 17962: [Detection of superhumps in the ER UMa-type dwarf nova Gaia24aeg](https://www.astronomerstelegram.org/?read=17962)
-- **日期**: 12 Aug 2026 UT | **源**: `Gaia24aeg`
+### [9] | ATel 17964: [Einstein Probe detection of a likely new X-ray transient](https://www.astronomerstelegram.org/?read=17964)
+- **日期**: 13 Aug 2026 UT | **源**: `EP260812c`
 
-**爆发速递**: 研究人员利用BHTOM光变曲线系统和0.7米AZT-8望远镜，对ER UMa型矮新星Gaia24aeg进行了光变监测与时间分辨光度观测，成功探测到了周期约为0.077天的超驼峰（superhumps）信号。
-**观测短评**: 该目标属于激变变星（CV），其星等较亮且处于光学爆发阶段，虽然符合课题组1米望远镜的跟进能力范围，但该目标属于典型矮新星，与本组核心关注的黑洞吸积与AGN物理相关性较低，暂无使用大型空间/地面设备跟进的必要。
-
----
-
-### [3] | ATel 17961: [MAXI/GSC detection of a possible intermediate-duration burst from the direction of Terzan 1](https://www.astronomerstelegram.org/?read=17961)
-- **日期**: 12 Aug 2026 UT | **源**: `Terzan 1`
-
-**爆发速递**: MAXI/GSC设备在球状星团Terzan 1方向探测到一个明亮的暂现事件，持续时间约为40秒且随后快速衰减，被认为是一个候选的中等持续时间X射线暴。**观测短评**: 该事件属于球状星团中的中子星X射线双星相关爆发，虽然其高能特征明显，但由于缺乏显著的光学亮星伴随且不属于黑洞或AGN范畴，与本课题组核心黑洞吸积及1米光学望远镜的跟进能力匹配度较低，暂无申请多波段后随观测的必要。
+**爆发速递**: 爱因斯坦探针卫星(EP)的宽视场X射线望远镜(WXT)发现了一个新的X射线暂现源EP260812c，可能与MAXI新发现的X射线新星MAXI J1750-327为同一源，目前处于持续变亮阶段。
+**观测短评**: 该源极可能是黑洞或中子星X射线双星的新爆发，具有极高的多波段后随观测价值。由于其处于持续变亮阶段且鼓励多波段跟进，我们可尝试申请Swift或XMM-Newton等空间设备联合观测，并推动光学及射电波段的后随研究。
 
 ---
 
+### [9] | ATel 17963: [MAXI/GSC detection of a new X-ray nova MAXI J1750-327](https://www.astronomerstelegram.org/?read=17963)
+- **日期**: 13 Aug 2026 UT | **源**: `MAXI J1750-327`
+
+**爆发速递**: MAXI/GSC监测系统触发了一个新的亮X射线暂现源，命名为MAXI J1750-327，其在4.0-10.0 keV能段的平均X射线流量为117 mCrab。
+**观测短评**: 该源为新发现的X射线暂现源（疑似黑洞或中子星候选体），极具多波段后随观测价值。建议立即申请Swift、XMM-Newton等空间设备及我们的1米光学望远镜进行联合跟进观测。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W33.md)
 
