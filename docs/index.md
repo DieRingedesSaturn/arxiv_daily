@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [9] | ATel 17964: [Einstein Probe detection of a likely new X-ray transient](https://www.astronomerstelegram.org/?read=17964)
-- **日期**: 13 Aug 2026 UT | **源**: `EP260812c`
+### [6] | ATel 17968: [Fermi-LAT detection of enhanced gamma-ray activity from the FSRQ 3C 395](https://www.astronomerstelegram.org/?read=17968)
+- **日期**: 15 Aug 2026 UT | **源**: `3C 395`
 
-**爆发速递**: 爱因斯坦探针卫星(EP)的宽视场X射线望远镜(WXT)发现了一个新的X射线暂现源EP260812c，可能与MAXI新发现的X射线新星MAXI J1750-327为同一源，目前处于持续变亮阶段。
-**观测短评**: 该源极可能是黑洞或中子星X射线双星的新爆发，具有极高的多波段后随观测价值。由于其处于持续变亮阶段且鼓励多波段跟进，我们可尝试申请Swift或XMM-Newton等空间设备联合观测，并推动光学及射电波段的后随研究。
+**爆发速递**: Fermi-LAT空间望远镜于2026年8月13日探测到平谱射电类星体3C 395产生增强的伽马射线活动，日均流量较长期平均值激增超过140倍，达到该源历史最高水平，且能谱明显变硬。**观测短评**: 该源为活动星系核（AGN），触发了多波段观测倡议。鉴于其红移和光学对应体亮度，可评估是否使用我们的1m光学望远镜进行光学波段后随监测，并结合Swift或XMM-Newton等设备开展多波段联合观测。
+
+---
+
+### [8] | ATel 17967: [MAXI/GSC possible detection of the brightest flare from the radio galaxy NGC 1275](https://www.astronomerstelegram.org/?read=17967)
+- **日期**: 15 Aug 2026 UT | **源**: `NGC 1275`
+
+**爆发速递**: MAXI/GSC 触发了来自英仙座星系团方向的 X 射线增强，推测源自核心射电星系 NGC 1275，在 2-4 keV 能段观测到约 13 mCrab 的持续计数过剩。**观测短评**: 该源近期在伽马射线和光学波段均表现出历史最亮耀发，具有极高的多波段联合观测价值。虽然其光学亮度可能超出 1m 望远镜的最佳测光量程，但非常适合申请 Swift、XMM-Newton 及大口径光学/射电设备进行多波段后随观测。
 
 ---
 
-### [9] | ATel 17963: [MAXI/GSC detection of a new X-ray nova MAXI J1750-327](https://www.astronomerstelegram.org/?read=17963)
-- **日期**: 13 Aug 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: MAXI/GSC监测系统触发了一个新的亮X射线暂现源，命名为MAXI J1750-327，其在4.0-10.0 keV能段的平均X射线流量为117 mCrab。
-**观测短评**: 该源为新发现的X射线暂现源（疑似黑洞或中子星候选体），极具多波段后随观测价值。建议立即申请Swift、XMM-Newton等空间设备及我们的1米光学望远镜进行联合跟进观测。
-
----
+### [8] | ATel 17966: [SRG/ART-XC detection of the new X-ray transient near the Galactic Center - SRGA J174800.5-280826](https://www.astronomerstelegram.org/?read=17966)
 
 [查看本周完整 ATel](./atels/2026-W33.md)
 
