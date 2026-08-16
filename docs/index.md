@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 17968: [Fermi-LAT detection of enhanced gamma-ray activity from the FSRQ 3C 395](https://www.astronomerstelegram.org/?read=17968)
-- **日期**: 15 Aug 2026 UT | **源**: `3C 395`
+### [10] | ATel 17974: [A probable black hole X-ray binary MAXI J1750-327 is undergoing a hard-to-soft state transition](https://www.astronomerstelegram.org/?read=17974)
+- **日期**: 16 Aug 2026 UT | **源**: `MAXI J1750-327`
 
-**爆发速递**: Fermi-LAT空间望远镜于2026年8月13日探测到平谱射电类星体3C 395产生增强的伽马射线活动，日均流量较长期平均值激增超过140倍，达到该源历史最高水平，且能谱明显变硬。**观测短评**: 该源为活动星系核（AGN），触发了多波段观测倡议。鉴于其红移和光学对应体亮度，可评估是否使用我们的1m光学望远镜进行光学波段后随监测，并结合Swift或XMM-Newton等设备开展多波段联合观测。
-
----
-
-### [8] | ATel 17967: [MAXI/GSC possible detection of the brightest flare from the radio galaxy NGC 1275](https://www.astronomerstelegram.org/?read=17967)
-- **日期**: 15 Aug 2026 UT | **源**: `NGC 1275`
-
-**爆发速递**: MAXI/GSC 触发了来自英仙座星系团方向的 X 射线增强，推测源自核心射电星系 NGC 1275，在 2-4 keV 能段观测到约 13 mCrab 的持续计数过剩。**观测短评**: 该源近期在伽马射线和光学波段均表现出历史最亮耀发，具有极高的多波段联合观测价值。虽然其光学亮度可能超出 1m 望远镜的最佳测光量程，但非常适合申请 Swift、XMM-Newton 及大口径光学/射电设备进行多波段后随观测。
+**爆发速递**: MAXI和Einstein Probe望远镜发现了新暂现源MAXI J1750-327（亦称EP260812c），多波段监测表明其正在经历从硬态向软态的转变，并伴随低频QPO现象，推测其为一例黑洞X射线双星。
+**观测短评**: 该目标属于典型的黑洞X射线双星爆发，且处于重要的状态转变阶段，具有极高的多波段联合观测和X射线时变/能谱研究价值。建议密切关注其后续演化，并积极争取Swift、XMM-Newton等空间设备及其他多波段观测资源进行跟进。
 
 ---
 
-### [8] | ATel 17966: [SRG/ART-XC detection of the new X-ray transient near the Galactic Center - SRGA J174800.5-280826](https://www.astronomerstelegram.org/?read=17966)
+### [6] | ATel 17973: [Spectroscopic and multicolor photometric observations of the SU UMa-type Dwarf Nova TCP J22571796+4707418, a WZ Sge-type star candidate.](https://www.astronomerstelegram.org/?read=17973)
+- **日期**: 16 Aug 2026 UT | **源**: `TCP J22571796+4707418`
+
+**爆发速递**: NOT望远镜对矮新星候选体TCP J22571796+4707418进行了光谱和多色测光观测，确认其处于冲激状态，并推测其为WZ Sge型矮新星候选体。
+**观测短评**: 该目标属于激变变星，当前亮度约为14.4等，处于我们的1m光学望远镜观测能力范围内（测光极限21等）。鉴于其正处于爆发且具有较高的光学跟进价值，建议利用自有望远镜开展时间分辨光变和光谱监测。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W33.md)
 
