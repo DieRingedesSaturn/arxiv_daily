@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [9] | ATel 17978: [Archival Chandra Upper Limit on the Pre-outburst X-ray Emission of MAXI J1750-327 / EP J175003.0-324244](https://www.astronomerstelegram.org/?read=17978)
-- **日期**: 16 Aug 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: 本文利用Chandra存档数据对黑洞候选体X射线双星MAXI J1750-327在爆发前约26年的X射线辐射进行了证认，未探测到显著辐射并给出了0.5-10 keV通量上限。**观测短评**: 该目标属于黑洞X射线双星，高度契合核心研究兴趣。鉴于其近期处于爆发状态并已证认光学对应体，具备极高的多波段及光学后随观测价值，适合使用组内1米望远镜或申请联合空间设备进行跟进。
-
----
-
-### [10] | ATel 17977: [ATLAS optical counterpart of the black hole X-ray transient MAXI J1750-327 / EP J175003.0-324244](https://www.astronomerstelegram.org/?read=17977)
-- **日期**: 16 Aug 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: 本文报告了利用ATLAS数据库对银河系黑洞X射线双星候选体MAXI J1750-327的光学变率研究。通过强迫光度测算法，ATLAS在2026年8月12日检测到其光学对应体，o波段星等为17.52，暗示光学爆发可能早于X射线爆发。
-**观测短评**: 该目标属于经典的黑洞X射线双星，极契合我们的核心研究兴趣。其光学星等在17.5等左右，在我们的1m光学望远镜（测光极限21等）观测能力之内，具有很高的光学后随观测价值。建议立即申请Swift、XMM-Newton或联合我们的1m望远镜开展多波段跟进。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W33.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-17
 
 *Tags: #arXiv #Astrophysics*
 
@@ -143,5 +112,3 @@
   - *本文利用磁流体动力学模型研究了太阳磁场在日球层尾部的准直作用及其对IMAP高能中性原子观测的影响。*
 - **[0]** [Revisiting $^7$Be Weak and Radiative Transition Rates in Big Bang Nucleosynthesis: Implications for the Primordial Lithium Problem](https://arxiv.org/abs/2601.12438v2)
   - *本文重新计算了原初核合成中7Be的弱相互作用和辐射跃迁率，但无法解决宇宙学锂丰度问题。*
-
-[查看历史目录](./posts/index.md)
