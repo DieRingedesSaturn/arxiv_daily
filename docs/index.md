@@ -7,23 +7,23 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [9] | ATel 17978: [Archival Chandra Upper Limit on the Pre-outburst X-ray Emission of MAXI J1750-327 / EP J175003.0-324244](https://www.astronomerstelegram.org/?read=17978)
-- **日期**: 16 Aug 2026 UT | **源**: `MAXI J1750-327`
+### [10] | ATel 17983: [Insight-HXMT observed the Galactic transient EP260812c/EP J175003.0-324244/MAXI J1750-327 and detected a low-frequency quasi-periodic oscillation signal](https://www.astronomerstelegram.org/?read=17983)
+- **日期**: 18 Aug 2026 UT | **源**: `MAXI J1750-327`
 
-**爆发速递**: 本文利用Chandra存档数据对黑洞候选体X射线双星MAXI J1750-327在爆发前约26年的X射线辐射进行了证认，未探测到显著辐射并给出了0.5-10 keV通量上限。**观测短评**: 该目标属于黑洞X射线双星，高度契合核心研究兴趣。鉴于其近期处于爆发状态并已证认光学对应体，具备极高的多波段及光学后随观测价值，适合使用组内1米望远镜或申请联合空间设备进行跟进。
-
----
-
-### [10] | ATel 17977: [ATLAS optical counterpart of the black hole X-ray transient MAXI J1750-327 / EP J175003.0-324244](https://www.astronomerstelegram.org/?read=17977)
-- **日期**: 16 Aug 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: 本文报告了利用ATLAS数据库对银河系黑洞X射线双星候选体MAXI J1750-327的光学变率研究。通过强迫光度测算法，ATLAS在2026年8月12日检测到其光学对应体，o波段星等为17.52，暗示光学爆发可能早于X射线爆发。
-**观测短评**: 该目标属于经典的黑洞X射线双星，极契合我们的核心研究兴趣。其光学星等在17.5等左右，在我们的1m光学望远镜（测光极限21等）观测能力之内，具有很高的光学后随观测价值。建议立即申请Swift、XMM-Newton或联合我们的1m望远镜开展多波段跟进。
+**爆发速递**: 慧眼(Insight-HXMT)卫星对银河系新X射线暂现源EP260812c/MAXI J1750-327进行了后随观测，在LE、ME和HE三个载荷上均探测到了约0.73 Hz的低频准周期振荡(QPO)信号，特征类似于C型QPO，暗示其为黑洞X射线双星候选体。
+**观测短评**: 该目标属于本组核心研究领域(黑洞X射线双星的能谱与时变分析)，且慧眼卫星数据已被团队重点关注。目前暂无强烈的光学后随需求，但宽能段X射线时变与能谱分析价值极高，建议继续跟进其多波段演化特征。
 
 ---
 
+### [1] | ATel 17982: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=17982)
+- **日期**: 17 Aug 2026 UT | **源**: `Unknown`
 
-[查看本周完整 ATel](./atels/2026-W33.md)
+**爆发速递**: 本文报道了利用Lick Shane望远镜上的Kast光谱仪对ATLAS和ZTF发现的暂现源（如AT2026xbx和AT2026rfd）进行的光谱分类结果，均证认为Ia型超新星。
+**观测短评**: 目标均为超新星，不属于本组重点关注的黑洞X射线双星或活动星系核等吸积系统，且部分处于峰值或较晚相位，暂无使用本组1米光学望远镜或申请大型设备后随观测的必要。
+
+---
+
+[查看本周完整 ATel](./atels/2026-W34.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
