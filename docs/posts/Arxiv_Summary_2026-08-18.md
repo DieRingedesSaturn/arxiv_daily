@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 17983: [Insight-HXMT observed the Galactic transient EP260812c/EP J175003.0-324244/MAXI J1750-327 and detected a low-frequency quasi-periodic oscillation signal](https://www.astronomerstelegram.org/?read=17983)
-- **日期**: 18 Aug 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: 慧眼(Insight-HXMT)卫星对银河系新X射线暂现源EP260812c/MAXI J1750-327进行了后随观测，在LE、ME和HE三个载荷上均探测到了约0.73 Hz的低频准周期振荡(QPO)信号，特征类似于C型QPO，暗示其为黑洞X射线双星候选体。
-**观测短评**: 该目标属于本组核心研究领域(黑洞X射线双星的能谱与时变分析)，且慧眼卫星数据已被团队重点关注。目前暂无强烈的光学后随需求，但宽能段X射线时变与能谱分析价值极高，建议继续跟进其多波段演化特征。
-
----
-
-### [1] | ATel 17982: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=17982)
-- **日期**: 17 Aug 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 本文报道了利用Lick Shane望远镜上的Kast光谱仪对ATLAS和ZTF发现的暂现源（如AT2026xbx和AT2026rfd）进行的光谱分类结果，均证认为Ia型超新星。
-**观测短评**: 目标均为超新星，不属于本组重点关注的黑洞X射线双星或活动星系核等吸积系统，且部分处于峰值或较晚相位，暂无使用本组1米光学望远镜或申请大型设备后随观测的必要。
-
----
-
-[查看本周完整 ATel](./atels/2026-W34.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-18
 
 *Tags: #arXiv #Astrophysics*
 
@@ -253,5 +222,3 @@
   - *本文利用三维流体力学与热化学模拟研究了超热木星WASP-121b的大气动力学与外流特征。*
 - **[0]** [GW240925 and GW250207: Astrophysical Calibration of Gravitational-wave Detectors](https://arxiv.org/abs/2605.11703v2)
   - *利用引力波事件GW240925和GW250207对引力波探测器进行天体物理绝对定标。*
-
-[查看历史目录](./posts/index.md)
