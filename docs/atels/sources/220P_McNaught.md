@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 17984: [Post-outburst morphology and polarization behavior of the short-periodical comet 220P/McNaught](https://www.astronomerstelegram.org/?read=17984)
+- **日期**: 18 Aug 2026 UT
+
+**爆发速递**: 本篇ATel简报报道了短周期彗星220P/McNaught在经历爆发后的形态学与偏振观测结果。观测由研究人员使用便携式牛顿反射镜在德国完成。
+**观测短评**: 该目标为太阳系内彗星，与本课题组关注的黑洞X射线双星、活动星系核等高能天体及暂现源核心研究领域无关，且不适合我们的1m望远镜跟进及高能设备申请，无观测价值。
+
+---
+
 ### ATel 17956: [Magnitudes and colors of comet 220P/McNaught during outburst](https://www.astronomerstelegram.org/?read=17956)
 - **日期**: 10 Aug 2026 UT
 

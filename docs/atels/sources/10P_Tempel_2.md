@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 17985: [Small Apparent Outburst of Comet 10P/Tempel 2](https://www.astronomerstelegram.org/?read=17985)
+- **日期**: 18 Aug 2026 UT
+
+**爆发速递**: Skygems天文台网络和拉斯坎布斯天文台(LCO)报告了彗星10P/Tempel 2的一次小型微爆发事件，视星等在一天内显著增亮并快速恢复。
+**观测短评**: 该目标为太阳系彗星爆发，属于太阳系天体，与本课题组关注的黑洞、AGN、吸积物理等核心研究兴趣无关，无光学后随跟进价值。
+
+---
+
 ### ATel 17862: [Optical polarization of the central and outer coma of the short-periodical comet 10P/Tempel 2](https://www.astronomerstelegram.org/?read=17862)
 - **日期**: 1 Jul 2026 UT
 

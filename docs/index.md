@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [10] | ATel 17983: [Insight-HXMT observed the Galactic transient EP260812c/EP J175003.0-324244/MAXI J1750-327 and detected a low-frequency quasi-periodic oscillation signal](https://www.astronomerstelegram.org/?read=17983)
-- **日期**: 18 Aug 2026 UT | **源**: `MAXI J1750-327`
+### [3] | ATel 17986: [First X-ray polarimetric measurement of Her X-1 in the anomalous low state](https://www.astronomerstelegram.org/?read=17986)
+- **日期**: 19 Aug 2026 UT | **源**: `Her X-1`
 
-**爆发速递**: 慧眼(Insight-HXMT)卫星对银河系新X射线暂现源EP260812c/MAXI J1750-327进行了后随观测，在LE、ME和HE三个载荷上均探测到了约0.73 Hz的低频准周期振荡(QPO)信号，特征类似于C型QPO，暗示其为黑洞X射线双星候选体。
-**观测短评**: 该目标属于本组核心研究领域(黑洞X射线双星的能谱与时变分析)，且慧眼卫星数据已被团队重点关注。目前暂无强烈的光学后随需求，但宽能段X射线时变与能谱分析价值极高，建议继续跟进其多波段演化特征。
+**爆发速递**: IXPE、SRG/ART-XC和NuSTAR联合对处于异常低态（ALS）的吸积X射线脉冲星Her X-1进行了首次X射线偏振测量与宽带光谱时变观测。
+**观测短评**: 该目标为中子星X射线双星，偏振与高能X射线光谱分析超出我们1米光学望远镜的能力范围，且不涉及光学后随或CV等契合设备的目标，无需申请我方设备观测。
 
 ---
 
-### [1] | ATel 17982: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=17982)
-- **日期**: 17 Aug 2026 UT | **源**: `Unknown`
+### [0] | ATel 17985: [Small Apparent Outburst of Comet 10P/Tempel 2](https://www.astronomerstelegram.org/?read=17985)
+- **日期**: 18 Aug 2026 UT | **源**: `Comet 10P/Tempel 2`
 
-**爆发速递**: 本文报道了利用Lick Shane望远镜上的Kast光谱仪对ATLAS和ZTF发现的暂现源（如AT2026xbx和AT2026rfd）进行的光谱分类结果，均证认为Ia型超新星。
-**观测短评**: 目标均为超新星，不属于本组重点关注的黑洞X射线双星或活动星系核等吸积系统，且部分处于峰值或较晚相位，暂无使用本组1米光学望远镜或申请大型设备后随观测的必要。
+**爆发速递**: Skygems天文台网络和拉斯坎布斯天文台(LCO)报告了彗星10P/Tempel 2的一次小型微爆发事件，视星等在一天内显著增亮并快速恢复。
+**观测短评**: 该目标为太阳系彗星爆发，属于太阳系天体，与本课题组关注的黑洞、AGN、吸积物理等核心研究兴趣无关，无光学后随跟进价值。
 
 ---
 
