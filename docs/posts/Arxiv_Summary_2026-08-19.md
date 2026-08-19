@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 17986: [First X-ray polarimetric measurement of Her X-1 in the anomalous low state](https://www.astronomerstelegram.org/?read=17986)
-- **日期**: 19 Aug 2026 UT | **源**: `Her X-1`
-
-**爆发速递**: IXPE、SRG/ART-XC和NuSTAR联合对处于异常低态（ALS）的吸积X射线脉冲星Her X-1进行了首次X射线偏振测量与宽带光谱时变观测。
-**观测短评**: 该目标为中子星X射线双星，偏振与高能X射线光谱分析超出我们1米光学望远镜的能力范围，且不涉及光学后随或CV等契合设备的目标，无需申请我方设备观测。
-
----
-
-### [0] | ATel 17985: [Small Apparent Outburst of Comet 10P/Tempel 2](https://www.astronomerstelegram.org/?read=17985)
-- **日期**: 18 Aug 2026 UT | **源**: `Comet 10P/Tempel 2`
-
-**爆发速递**: Skygems天文台网络和拉斯坎布斯天文台(LCO)报告了彗星10P/Tempel 2的一次小型微爆发事件，视星等在一天内显著增亮并快速恢复。
-**观测短评**: 该目标为太阳系彗星爆发，属于太阳系天体，与本课题组关注的黑洞、AGN、吸积物理等核心研究兴趣无关，无光学后随跟进价值。
-
----
-
-[查看本周完整 ATel](./atels/2026-W34.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-19
 
 *Tags: #arXiv #Astrophysics*
 
@@ -274,5 +243,3 @@
   - *本文研究了银河系内处于行星状星云光度函数截止位置的候选天体属性，与课题组的黑洞吸积、暂现源和高能天体物理研究方向完全无关。*
 - **[0]** [New constraints on axion with gamma-ray observations of the Crab Nebula](https://arxiv.org/abs/2511.19848v2)
   - *本文利用蟹状星云的伽马射线观测对轴子与光子的耦合常数给出了新的限制。*
-
-[查看历史目录](./posts/index.md)
