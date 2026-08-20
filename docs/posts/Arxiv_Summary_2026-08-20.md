@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [1] | ATel 17992: [OAUNI multicolor photometry of SN 2026fov](https://www.astronomerstelegram.org/?read=17992)
-- **日期**: 19 Aug 2026 UT | **源**: `SN 2026fov`
-
-**爆发速递**: OAUNI 51cm望远镜团队报告了对II型超新星 SN 2026fov 的V、R、I多色测光观测结果，观测时间在发现后约123天。**观测短评**: 该目标为超新星，属于SN类型，不符合我们重点关注的黑洞X射线双星或活动星系核等吸积物理研究兴趣，且已由其他设备跟进，无需我们使用1米望远镜进行后随观测或申请额外资源。
-
----
-
-### [1] | ATel 17991: [Spectroscopic Classification of Astrophysical Transients with Keck II + KCWI](https://www.astronomerstelegram.org/?read=17991)
-- **日期**: 19 Aug 2026 UT | **源**: `AT2026tiz`
-
-**爆发速递**: 利用Keck II望远镜上的KCWI对AT2026tiz和AT2026wza进行了光谱观测与分类，确认其分别为超新星Ia型和Ib型。**观测短评**: 本文涉及的目标为超新星，超出课题组核心的吸积物理研究范围，且超新星多波段分类与1米望远镜跟进价值相对有限，暂无申请其他设备观测的必要。
-
----
-
-### [10] | ATel 17990: [GTC spectroscopy of MAXI J1750-327](https://www.astronomerstelegram.org/?read=17990)
-
-[查看本周完整 ATel](./atels/2026-W34.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-20
 
 *Tags: #arXiv #Astrophysics*
 
@@ -178,5 +147,3 @@
   - *该论文提出了一种基于物理约束深度网络的太阳耀斑硬X射线成像重建方法。*
 - **[0]** [Scalar shortcut to beyond-Kerr ringdown tests and their complementarity with black-hole shadow observations](https://arxiv.org/abs/2603.08782v2)
   - *本文探讨了利用标量场准正则模近似计算超越广义相对论黑洞的ringdown修正，并将其与黑洞阴影观测进行比较。*
-
-[查看历史目录](./posts/index.md)
