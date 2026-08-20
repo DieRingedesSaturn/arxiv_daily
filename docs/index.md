@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 17986: [First X-ray polarimetric measurement of Her X-1 in the anomalous low state](https://www.astronomerstelegram.org/?read=17986)
-- **日期**: 19 Aug 2026 UT | **源**: `Her X-1`
+### [1] | ATel 17992: [OAUNI multicolor photometry of SN 2026fov](https://www.astronomerstelegram.org/?read=17992)
+- **日期**: 19 Aug 2026 UT | **源**: `SN 2026fov`
 
-**爆发速递**: IXPE、SRG/ART-XC和NuSTAR联合对处于异常低态（ALS）的吸积X射线脉冲星Her X-1进行了首次X射线偏振测量与宽带光谱时变观测。
-**观测短评**: 该目标为中子星X射线双星，偏振与高能X射线光谱分析超出我们1米光学望远镜的能力范围，且不涉及光学后随或CV等契合设备的目标，无需申请我方设备观测。
+**爆发速递**: OAUNI 51cm望远镜团队报告了对II型超新星 SN 2026fov 的V、R、I多色测光观测结果，观测时间在发现后约123天。**观测短评**: 该目标为超新星，属于SN类型，不符合我们重点关注的黑洞X射线双星或活动星系核等吸积物理研究兴趣，且已由其他设备跟进，无需我们使用1米望远镜进行后随观测或申请额外资源。
+
+---
+
+### [1] | ATel 17991: [Spectroscopic Classification of Astrophysical Transients with Keck II + KCWI](https://www.astronomerstelegram.org/?read=17991)
+- **日期**: 19 Aug 2026 UT | **源**: `AT2026tiz`
+
+**爆发速递**: 利用Keck II望远镜上的KCWI对AT2026tiz和AT2026wza进行了光谱观测与分类，确认其分别为超新星Ia型和Ib型。**观测短评**: 本文涉及的目标为超新星，超出课题组核心的吸积物理研究范围，且超新星多波段分类与1米望远镜跟进价值相对有限，暂无申请其他设备观测的必要。
 
 ---
 
-### [0] | ATel 17985: [Small Apparent Outburst of Comet 10P/Tempel 2](https://www.astronomerstelegram.org/?read=17985)
-- **日期**: 18 Aug 2026 UT | **源**: `Comet 10P/Tempel 2`
-
-**爆发速递**: Skygems天文台网络和拉斯坎布斯天文台(LCO)报告了彗星10P/Tempel 2的一次小型微爆发事件，视星等在一天内显著增亮并快速恢复。
-**观测短评**: 该目标为太阳系彗星爆发，属于太阳系天体，与本课题组关注的黑洞、AGN、吸积物理等核心研究兴趣无关，无光学后随跟进价值。
-
----
+### [10] | ATel 17990: [GTC spectroscopy of MAXI J1750-327](https://www.astronomerstelegram.org/?read=17990)
 
 [查看本周完整 ATel](./atels/2026-W34.md)
 
