@@ -33,7 +33,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
-- [MAXI_J1750-327](./sources/MAXI_J1750-327.md) | *最新动态: ATel 17990 (19 Aug 2026)*
+- [MAXI_J1750-327](./sources/MAXI_J1750-327.md) | *最新动态: ATel 17993 (20 Aug 2026)*
 - [SRGA_J174800.5-280826](./sources/SRGA_J174800.5-280826.md) | *最新动态: ATel 17966 (14 Aug 2026)*
 - [IGR_J17091-3624](./sources/IGR_J17091-3624.md) | *最新动态: ATel 17919 (22 Jul 2026)*
 - [GRS_1915+105](./sources/GRS_1915+105.md) | *最新动态: ATel 17883 (10 Jul 2026)*
@@ -69,7 +69,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
-- [TCP_J18251276-2225293](./sources/TCP_J18251276-2225293.md) | *最新动态: ATel 17989 (19 Aug 2026)*
+- [TCP_J18251276-2225293](./sources/TCP_J18251276-2225293.md) | *最新动态: ATel 17995 (20 Aug 2026)*
 - [GK_Per](./sources/GK_Per.md) | *最新动态: ATel 17980 (17 Aug 2026)*
 - [Gaia22dbc](./sources/Gaia22dbc.md) | *最新动态: ATel 17981 (17 Aug 2026)*
 - [M31N_2026-08b](./sources/M31N_2026-08b.md) | *最新动态: ATel 17976 (16 Aug 2026)*
@@ -154,8 +154,9 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [CD-61_901](./sources/CD-61_901.md) | *最新动态: ATel 17994 (20 Aug 2026)*
+- [220P_McNaught](./sources/220P_McNaught.md) | *最新动态: ATel 17996 (20 Aug 2026)*
 - [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 17985 (18 Aug 2026)*
-- [220P_McNaught](./sources/220P_McNaught.md) | *最新动态: ATel 17984 (18 Aug 2026)*
 - [EP260530a](./sources/EP260530a.md) | *最新动态: ATel 17952 (9 Aug 2026)*
 - [CD-46_4813](./sources/CD-46_4813.md) | *最新动态: ATel 17946 (7 Aug 2026)*
 - [Comet_10P_Tempel](./sources/Comet_10P_Tempel.md) | *最新动态: ATel 17942 (5 Aug 2026)*

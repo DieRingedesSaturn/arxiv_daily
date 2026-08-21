@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 17996: [Erratum to ATel #17984: Post-outburst morphology and polarization behavior of the short-periodical comet 220P/McNaught](https://www.astronomerstelegram.org/?read=17996)
+- **日期**: 20 Aug 2026 UT
+
+**爆发速递**: 本文是对ATel #17984的更正，由于校准软件错误，修正了短周期彗星220P/McNaught在SLOAN r和i波段的线性偏振度数值。
+**观测短评**: 该目标为太阳系彗星，属于非研究兴趣范围内的天体，与本课题组关注的黑洞X射线双星、AGN及高能暂现源无关，无须申请任何后随观测。
+
+---
+
 ### ATel 17984: [Post-outburst morphology and polarization behavior of the short-periodical comet 220P/McNaught](https://www.astronomerstelegram.org/?read=17984)
 - **日期**: 18 Aug 2026 UT
 
