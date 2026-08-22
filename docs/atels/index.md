@@ -45,6 +45,7 @@
 - [AT2019wey](./sources/AT2019wey.md) | *最新动态: ATel 17686 (17 Feb 2026)*
 
 ### NSXRB
+- [4U_1700+24](./sources/4U_1700+24.md) | *最新动态: ATel 17997 (21 Aug 2026)*
 - [Her_X-1](./sources/Her_X-1.md) | *最新动态: ATel 17986 (19 Aug 2026)*
 - [Terzan_1](./sources/Terzan_1.md) | *最新动态: ATel 17961 (12 Aug 2026)*
 - [LS_V_+44_17](./sources/LS_V_+44_17.md) | *最新动态: ATel 17931 (30 Jul 2026)*

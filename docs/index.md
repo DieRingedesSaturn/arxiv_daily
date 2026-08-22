@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [0] | ATel 17998: [Intense solar activity near the limbs: monitoring AR4513](https://www.astronomerstelegram.org/?read=17998)
+- **日期**: 21 Aug 2026 UT | **源**: `Unknown`
+
+**爆发速递**: 本篇ATel简报主要报道了太阳活动区的强烈耀斑活动，特别是活动区AR 4513和AR 4507在2026年8月20日至21日期间产生的多次M级X射线耀斑及相关白光耀斑监测情况。**观测短评**: 该目标属于太阳物理研究范畴，与本组专注的黑洞X射线双星、活动星系核及暂现源吸积物理等核心研究方向无关，本组无需进行光学后随跟进或申请其他设备观测。
+
+---
+
+### [8] | ATel 17997: [SVOM/ECLAIRs detection of the symbiotic low-mass X-ray binary 4U 1700+24](https://www.astronomerstelegram.org/?read=17997)
+- **日期**: 21 Aug 2026 UT | **源**: `4U 1700+24`
+
+**爆发速递**: SVOM卫星搭载的ECLAIRs望远镜及MXT设备于2026年8月联合探测并定位了共生低质量X射线双星4U 1700+24的活动，并给出了初步能谱拟合结果。**观测短评**: 该目标近期处于活跃状态且流量有所上升，相关联合能谱分析契合本课题组的吸积物理研究兴趣。虽然其光学对应体可能较暗，但具备空间多波段联合观测价值，建议关注后续X射线及多波段进展。
+
+---
+
 ### [0] | ATel 17996: [Erratum to ATel #17984: Post-outburst morphology and polarization behavior of the short-periodical comet 220P/McNaught](https://www.astronomerstelegram.org/?read=17996)
-- **日期**: 20 Aug 2026 UT | **源**: `220P/McNaught`
-
-**爆发速递**: 本文是对ATel #17984的更正，由于校准软件错误，修正了短周期彗星220P/McNaught在SLOAN r和i波段的线性偏振度数值。
-**观测短评**: 该目标为太阳系彗星，属于非研究兴趣范围内的天体，与本课题组关注的黑洞X射线双星、AGN及高能暂现源无关，无须申请任何后随观测。
-
----
-
-### [4] | ATel 17995: [Liverpool Telescope spectroscopy identifies TCP J18251276-2225293 as an Fe II-type nova](https://www.astronomerstelegram.org/?read=17995)
-- **日期**: 20 Aug 2026 UT | **源**: `TCP J18251276-2225293`
-
-**爆发速递**: NMW-TexasTech巡天项目使用广角镜头和CMOS相机在人马座发现了一个9.4星等的暂现源TCP J18251276-2225293，利物浦望远镜的光谱观测证实其为一颗Fe II型经典新星。
-**观测短评**: 该目标是一颗新星，处于我们课题组关注的激变变星及类似爆发源范畴内。鉴于其初始亮度较高且处于爆发衰减阶段，具备光学跟进价值。但考虑到该源赤纬偏南（约为-22度）且我们拥有一台北纬40度的1m光学望远镜，地基观测条件受限，通常无需额外申请其他设备观测。
-
----
 
 [查看本周完整 ATel](./atels/2026-W34.md)
 
