@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [5] | ATel 18003: [Detection of renewed radio activity from Cygnus X-3 with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=18003)
-- **日期**: 24 Aug 2026 UT | **源**: `Cygnus X-3`
-
-**爆发速递**: Nansuradio telescope array在1.4GHz观测到X射线双星Cygnus X-3的射电活动再度增强，通量密度在MJD 61274达到4.3 Jy。
-**观测短评**: 目标为著名的银河系黑洞/中子星X射线双星，虽然射电剧烈活动具有极高的多波段联合观测价值，但该目标主要在射电和高能波段活跃，缺乏光学后随跟进的必要性，且不适合我方1m光学望远镜观测。
-
----
-
-### [9] | ATel 18002: [NuSTAR observations of the new X-ray transient SRGA J174800.5-280826](https://www.astronomerstelegram.org/?read=18002)
-- **日期**: 24 Aug 2026 UT | **源**: `SRGA J174800.5-280826`
-
-**爆发速递**: NuSTAR卫星对由SRG ART-XC望远镜新发现的X射线暂现源SRGA J174800.5-280826进行了后随X射线观测，获取了3-35 keV能段的光谱和时变数据。
-**观测短评**: 该源极可能是银河系内的新X射线双星，NuSTAR光谱显示其处于硬态并伴随高吸收柱密度。由于缺乏光学对应体信息及可见光亮度限制，北纬40度的1m望远镜较难直接跟进其光学波段，但该源高度契合课题组的X射线吸积与能谱分析研究方向，建议继续利用Swift或XMM-Newton等空间设备进行多波段联合监测。
-
----
-
-[查看本周完整 ATel](./atels/2026-W35.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-24
 
 *Tags: #arXiv #Astrophysics*
 
@@ -188,5 +157,3 @@
   - *本文利用Planck观测数据约束了银河系大尺度随机磁场的结构、强度及其标高。*
 - **[0]** [ICM-SHOX III. The case of MACS J0018.5+1626, a radio relic that looks like a radio halo?](https://arxiv.org/abs/2602.05050v2)
   - *本文对星系团MACS J0018.5+1626的射电遗迹与星系团合并过程进行了磁流体力学数值模拟研究。*
-
-[查看历史目录](./posts/index.md)
