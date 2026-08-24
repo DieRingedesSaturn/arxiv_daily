@@ -1,8 +1,23 @@
 # Source: Cyg X-3
 
-*Tags: #ATel #Other*
+*Tags: #ATel #BHXRB*
 
-- **类别**: Other
+- **类别**: BHXRB
+
+---
+
+### ATel 18003: [Detection of renewed radio activity from Cygnus X-3 with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=18003)
+- **日期**: 24 Aug 2026 UT
+
+**爆发速递**: Nansuradio telescope array在1.4GHz观测到X射线双星Cygnus X-3的射电活动再度增强，通量密度在MJD 61274达到4.3 Jy。
+**观测短评**: 目标为著名的银河系黑洞/中子星X射线双星，虽然射电剧烈活动具有极高的多波段联合观测价值，但该目标主要在射电和高能波段活跃，缺乏光学后随跟进的必要性，且不适合我方1m光学望远镜观测。
+
+---
+
+### ATel 18001: [Ongoing radio flaring activity of Cyg X-3 at 18.5 GHz with the Medicina Radio Telescope](https://www.astronomerstelegram.org/?read=18001)
+- **日期**: 24 Aug 2026 UT
+
+**爆发速递**: Medican射电望远镜在18.5 GHz频段持续监测微类星体Cyg X-3的剧烈射电耀发活动，记录到8月下旬流量在3.1至5.0 Jy之间快速变化并伴随再次增强，表明其射电耀发仍在持续。**观测短评**: Cyg X-3作为经典的黑洞/中子星X射线双星，其射电与高能活动具有极高的多波段联合观测价值。由于源位于银道面且处于射电高态，非常适合协同射电、X射线等多波段设备进行深入的吸积与喷流物理研究，但其光学消光极重，不适合我们的1m光学望远镜跟进。
 
 ---
 

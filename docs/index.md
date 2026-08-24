@@ -7,23 +7,23 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 17998: [Intense solar activity near the limbs: monitoring AR4513](https://www.astronomerstelegram.org/?read=17998)
-- **日期**: 21 Aug 2026 UT | **源**: `Unknown`
+### [5] | ATel 18003: [Detection of renewed radio activity from Cygnus X-3 with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=18003)
+- **日期**: 24 Aug 2026 UT | **源**: `Cygnus X-3`
 
-**爆发速递**: 本篇ATel简报主要报道了太阳活动区的强烈耀斑活动，特别是活动区AR 4513和AR 4507在2026年8月20日至21日期间产生的多次M级X射线耀斑及相关白光耀斑监测情况。**观测短评**: 该目标属于太阳物理研究范畴，与本组专注的黑洞X射线双星、活动星系核及暂现源吸积物理等核心研究方向无关，本组无需进行光学后随跟进或申请其他设备观测。
-
----
-
-### [8] | ATel 17997: [SVOM/ECLAIRs detection of the symbiotic low-mass X-ray binary 4U 1700+24](https://www.astronomerstelegram.org/?read=17997)
-- **日期**: 21 Aug 2026 UT | **源**: `4U 1700+24`
-
-**爆发速递**: SVOM卫星搭载的ECLAIRs望远镜及MXT设备于2026年8月联合探测并定位了共生低质量X射线双星4U 1700+24的活动，并给出了初步能谱拟合结果。**观测短评**: 该目标近期处于活跃状态且流量有所上升，相关联合能谱分析契合本课题组的吸积物理研究兴趣。虽然其光学对应体可能较暗，但具备空间多波段联合观测价值，建议关注后续X射线及多波段进展。
+**爆发速递**: Nansuradio telescope array在1.4GHz观测到X射线双星Cygnus X-3的射电活动再度增强，通量密度在MJD 61274达到4.3 Jy。
+**观测短评**: 目标为著名的银河系黑洞/中子星X射线双星，虽然射电剧烈活动具有极高的多波段联合观测价值，但该目标主要在射电和高能波段活跃，缺乏光学后随跟进的必要性，且不适合我方1m光学望远镜观测。
 
 ---
 
-### [0] | ATel 17996: [Erratum to ATel #17984: Post-outburst morphology and polarization behavior of the short-periodical comet 220P/McNaught](https://www.astronomerstelegram.org/?read=17996)
+### [9] | ATel 18002: [NuSTAR observations of the new X-ray transient SRGA J174800.5-280826](https://www.astronomerstelegram.org/?read=18002)
+- **日期**: 24 Aug 2026 UT | **源**: `SRGA J174800.5-280826`
 
-[查看本周完整 ATel](./atels/2026-W34.md)
+**爆发速递**: NuSTAR卫星对由SRG ART-XC望远镜新发现的X射线暂现源SRGA J174800.5-280826进行了后随X射线观测，获取了3-35 keV能段的光谱和时变数据。
+**观测短评**: 该源极可能是银河系内的新X射线双星，NuSTAR光谱显示其处于硬态并伴随高吸收柱密度。由于缺乏光学对应体信息及可见光亮度限制，北纬40度的1m望远镜较难直接跟进其光学波段，但该源高度契合课题组的X射线吸积与能谱分析研究方向，建议继续利用Swift或XMM-Newton等空间设备进行多波段联合监测。
+
+---
+
+[查看本周完整 ATel](./atels/2026-W35.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
