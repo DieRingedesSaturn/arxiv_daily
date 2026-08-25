@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [10] | ATel 18004: [NuSTAR observation of the new black hole transient MAXI J1750-327/EP260812c](https://www.astronomerstelegram.org/?read=18004)
+- **日期**: 25 Aug 2026 UT | **源**: `MAXI J1750-327`
+
+**爆发速递**: NuSTAR卫星对新发现的黑洞X射线双星暂现源MAXI J1750-327进行了后随观测，获取了高质量的3-79 keV X射线能谱，证实其处于硬态并探测到了约1.4 Hz的QPO现象。
+**观测短评**: 该目标是一颗典型的黑洞低质量X射线双星，高度契合本课题组对吸积与喷流物理以及多波段联合观测的核心研究兴趣。考虑到其已有光学和近红外对应体被LCO等设备识别，且处于活跃爆发期，极具多波段后随观测价值。建议积极利用现有及可申请的空间与地面大设备开展深入研究。
+
+---
+
 ### [5] | ATel 18003: [Detection of renewed radio activity from Cygnus X-3 with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=18003)
 - **日期**: 24 Aug 2026 UT | **源**: `Cygnus X-3`
 
 **爆发速递**: Nansuradio telescope array在1.4GHz观测到X射线双星Cygnus X-3的射电活动再度增强，通量密度在MJD 61274达到4.3 Jy。
 **观测短评**: 目标为著名的银河系黑洞/中子星X射线双星，虽然射电剧烈活动具有极高的多波段联合观测价值，但该目标主要在射电和高能波段活跃，缺乏光学后随跟进的必要性，且不适合我方1m光学望远镜观测。
-
----
-
-### [9] | ATel 18002: [NuSTAR observations of the new X-ray transient SRGA J174800.5-280826](https://www.astronomerstelegram.org/?read=18002)
-- **日期**: 24 Aug 2026 UT | **源**: `SRGA J174800.5-280826`
-
-**爆发速递**: NuSTAR卫星对由SRG ART-XC望远镜新发现的X射线暂现源SRGA J174800.5-280826进行了后随X射线观测，获取了3-35 keV能段的光谱和时变数据。
-**观测短评**: 该源极可能是银河系内的新X射线双星，NuSTAR光谱显示其处于硬态并伴随高吸收柱密度。由于缺乏光学对应体信息及可见光亮度限制，北纬40度的1m望远镜较难直接跟进其光学波段，但该源高度契合课题组的X射线吸积与能谱分析研究方向，建议继续利用Swift或XMM-Newton等空间设备进行多波段联合监测。
 
 ---
 
