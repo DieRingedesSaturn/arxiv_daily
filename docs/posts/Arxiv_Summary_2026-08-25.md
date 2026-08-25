@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 18004: [NuSTAR observation of the new black hole transient MAXI J1750-327/EP260812c](https://www.astronomerstelegram.org/?read=18004)
-- **日期**: 25 Aug 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: NuSTAR卫星对新发现的黑洞X射线双星暂现源MAXI J1750-327进行了后随观测，获取了高质量的3-79 keV X射线能谱，证实其处于硬态并探测到了约1.4 Hz的QPO现象。
-**观测短评**: 该目标是一颗典型的黑洞低质量X射线双星，高度契合本课题组对吸积与喷流物理以及多波段联合观测的核心研究兴趣。考虑到其已有光学和近红外对应体被LCO等设备识别，且处于活跃爆发期，极具多波段后随观测价值。建议积极利用现有及可申请的空间与地面大设备开展深入研究。
-
----
-
-### [5] | ATel 18003: [Detection of renewed radio activity from Cygnus X-3 with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=18003)
-- **日期**: 24 Aug 2026 UT | **源**: `Cygnus X-3`
-
-**爆发速递**: Nansuradio telescope array在1.4GHz观测到X射线双星Cygnus X-3的射电活动再度增强，通量密度在MJD 61274达到4.3 Jy。
-**观测短评**: 目标为著名的银河系黑洞/中子星X射线双星，虽然射电剧烈活动具有极高的多波段联合观测价值，但该目标主要在射电和高能波段活跃，缺乏光学后随跟进的必要性，且不适合我方1m光学望远镜观测。
-
----
-
-[查看本周完整 ATel](./atels/2026-W35.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-25
 
 *Tags: #arXiv #Astrophysics*
 
@@ -247,5 +216,3 @@
   - *本文利用Kepler、TESS和HARPS-N数据，研究并表征了太阳型脉动变星KIC 9139163周围的海王星沙漠中的非掩星候选行星。*
 - **[0]** [A Calibration Audit of a Gaia XP White-Dwarf Main-Sequence Binary Catalog: How Much the BP-Band Residual Contaminates at Its Bound and Above](https://arxiv.org/abs/2607.08856v2)
   - *本文对Gaia XP白矮星-主序星双星候选体星表的光谱校准残差及其污染率进行了审计分析。*
-
-[查看历史目录](./posts/index.md)
