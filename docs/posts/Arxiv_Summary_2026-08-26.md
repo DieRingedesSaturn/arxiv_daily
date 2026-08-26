@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 18010: [XSPECT observation of the newly discovered black hole transient MAXI J1750-327 / EP260812c: Detection of variable low frequency QPOs](https://www.astronomerstelegram.org/?read=18010)
-- **日期**: 25 Aug 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: XPoSat卫星搭载的XSPECT对新发现的黑洞X射线双星候选体MAXI J1750-327（EP260812c）进行了多天针对性观测，探测到了显著且随时间演化的低频QPO特征以及光变与能谱演化。
-**观测短评**: 该目标为黑洞X射线双星，高度符合本课题组核心研究领域。ATel中提及已证认光学对应体，具备光学后随观测价值，可评估是否利用我方1m望远镜跟进，并结合Insight-HXMT等设备开展多波段联合分析。
-
----
-
-### [3] | ATel 18009: [Discovery and follow up observations of the likely Galactic Nova NMW-TTU-26bp (PNV J19450648+1822422)](https://www.astronomerstelegram.org/?read=18009)
-- **日期**: 25 Aug 2026 UT | **源**: `NMW-TTU-26bp`
-
-**爆发速递**: NMW-TexasTech巡天项目发现了银河系内的新星候选体 NMW-TTU-26bp (PNV J19450648+1822422)，爆发初期星等达到9.0等，后续BVR波段测光及光谱显示其正处于上升期或接近光学极大，并呈现典型的P Cygni轮廓。
-**观测短评**: 该目标是一颗亮新星，属于激变变星范畴，适合光学观测。考虑到其目前亮度较高（约7-8等），超出了我们1m望远镜的测光极限（可能导致饱和），因此不建议使用我方1m望远镜跟进，也无须申请其他大型设备观测。
-
----
-
-[查看本周完整 ATel](./atels/2026-W35.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-26
 
 *Tags: #arXiv #Astrophysics*
 
@@ -270,5 +239,3 @@
   - *本文利用GALAH巡天和Gaia RVS光谱，通过数据驱动方法推导了35万红巨星的丰度并研究了银河系吸积结构。*
 - **[0]** [Probing Memory-Burdened Primordial Black Holes with High-Energy Neutrinos](https://arxiv.org/abs/2608.08144v2)
   - *该论文研究了利用高能中微子望远镜探测考虑记忆负担效应的原初黑洞蒸发信号。*
-
-[查看历史目录](./posts/index.md)
