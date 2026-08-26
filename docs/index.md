@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [10] | ATel 18004: [NuSTAR observation of the new black hole transient MAXI J1750-327/EP260812c](https://www.astronomerstelegram.org/?read=18004)
+### [10] | ATel 18010: [XSPECT observation of the newly discovered black hole transient MAXI J1750-327 / EP260812c: Detection of variable low frequency QPOs](https://www.astronomerstelegram.org/?read=18010)
 - **日期**: 25 Aug 2026 UT | **源**: `MAXI J1750-327`
 
-**爆发速递**: NuSTAR卫星对新发现的黑洞X射线双星暂现源MAXI J1750-327进行了后随观测，获取了高质量的3-79 keV X射线能谱，证实其处于硬态并探测到了约1.4 Hz的QPO现象。
-**观测短评**: 该目标是一颗典型的黑洞低质量X射线双星，高度契合本课题组对吸积与喷流物理以及多波段联合观测的核心研究兴趣。考虑到其已有光学和近红外对应体被LCO等设备识别，且处于活跃爆发期，极具多波段后随观测价值。建议积极利用现有及可申请的空间与地面大设备开展深入研究。
+**爆发速递**: XPoSat卫星搭载的XSPECT对新发现的黑洞X射线双星候选体MAXI J1750-327（EP260812c）进行了多天针对性观测，探测到了显著且随时间演化的低频QPO特征以及光变与能谱演化。
+**观测短评**: 该目标为黑洞X射线双星，高度符合本课题组核心研究领域。ATel中提及已证认光学对应体，具备光学后随观测价值，可评估是否利用我方1m望远镜跟进，并结合Insight-HXMT等设备开展多波段联合分析。
 
 ---
 
-### [5] | ATel 18003: [Detection of renewed radio activity from Cygnus X-3 with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=18003)
-- **日期**: 24 Aug 2026 UT | **源**: `Cygnus X-3`
+### [3] | ATel 18009: [Discovery and follow up observations of the likely Galactic Nova NMW-TTU-26bp (PNV J19450648+1822422)](https://www.astronomerstelegram.org/?read=18009)
+- **日期**: 25 Aug 2026 UT | **源**: `NMW-TTU-26bp`
 
-**爆发速递**: Nansuradio telescope array在1.4GHz观测到X射线双星Cygnus X-3的射电活动再度增强，通量密度在MJD 61274达到4.3 Jy。
-**观测短评**: 目标为著名的银河系黑洞/中子星X射线双星，虽然射电剧烈活动具有极高的多波段联合观测价值，但该目标主要在射电和高能波段活跃，缺乏光学后随跟进的必要性，且不适合我方1m光学望远镜观测。
+**爆发速递**: NMW-TexasTech巡天项目发现了银河系内的新星候选体 NMW-TTU-26bp (PNV J19450648+1822422)，爆发初期星等达到9.0等，后续BVR波段测光及光谱显示其正处于上升期或接近光学极大，并呈现典型的P Cygni轮廓。
+**观测短评**: 该目标是一颗亮新星，属于激变变星范畴，适合光学观测。考虑到其目前亮度较高（约7-8等），超出了我们1m望远镜的测光极限（可能导致饱和），因此不建议使用我方1m望远镜跟进，也无须申请其他大型设备观测。
 
 ---
 
