@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [1] | ATel 18014: [Spectroscopic observations of Nova Sge 2026 (PNV J19450648+1822422)](https://www.astronomerstelegram.org/?read=18014)
-- **日期**: 27 Aug 2026 UT | **源**: `Nova Sge 2026`
-
-**爆发速递**: 研究人员使用业余天文台对新星 Nova Sge 2026 进行了光学光谱观测，发现其具有宽巴耳末发射线和高速 P-Cygni 吸收特征，后续光谱演化显示出明显的 Fe II 辐射及吸收成分的消失，符合 Fe II 型新星快速演化的特征。
-**观测短评**: 该目标为新星爆发（激变变星相关），虽然亮度可能在1m望远镜跟进范围内，但由于其属于常规银河系新星且已有较多业余光谱跟进，不属于本组核心研究的黑洞吸积或AGN方向，暂无使用我们望远镜或申请大型设备后随观测的必要。
-
----
-
-### [6] | ATel 18013: [Fermi-LAT detection of further gamma-ray brightening of the FSRQ 3C 395](https://www.astronomerstelegram.org/?read=18013)
-- **日期**: 26 Aug 2026 UT | **源**: `3C 395`
-
-**爆发速递**: 费米大视场望远镜 (Fermi-LAT) 监测到平谱射电类星体 3C 395 发生进一步的伽马射线剧烈变亮，日平均通量和大于10 GeV的高能光子均创下该源历史新高。
-**观测短评**: 该目标属于活动星系核 (AGN)，虽然不在我们的核心黑洞X射线双星研究范围内，但文章鼓励多波段观测。考虑到其处于高状态，具备光学后随观测价值，可评估是否利用现有设备或申请 Swift 等空间设备进行联合观测。
-
----
-
-[查看本周完整 ATel](./atels/2026-W35.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-27
 
 *Tags: #arXiv #Astrophysics*
 
@@ -247,5 +216,3 @@
   - *利用CMB与射电巡天中的宇宙方差抵消技术探测类轴子粒子。*
 - **[0]** [Ultra-Precise Astrometric Search for Exoplanets with SKA-VLBI](https://arxiv.org/abs/2606.24862v2)
   - *本文探讨了利用SKA-VLBI进行超高精度天体测量以搜寻系外行星的方法与前景。*
-
-[查看历史目录](./posts/index.md)
