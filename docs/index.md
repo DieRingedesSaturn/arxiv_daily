@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [10] | ATel 18010: [XSPECT observation of the newly discovered black hole transient MAXI J1750-327 / EP260812c: Detection of variable low frequency QPOs](https://www.astronomerstelegram.org/?read=18010)
-- **日期**: 25 Aug 2026 UT | **源**: `MAXI J1750-327`
+### [1] | ATel 18014: [Spectroscopic observations of Nova Sge 2026 (PNV J19450648+1822422)](https://www.astronomerstelegram.org/?read=18014)
+- **日期**: 27 Aug 2026 UT | **源**: `Nova Sge 2026`
 
-**爆发速递**: XPoSat卫星搭载的XSPECT对新发现的黑洞X射线双星候选体MAXI J1750-327（EP260812c）进行了多天针对性观测，探测到了显著且随时间演化的低频QPO特征以及光变与能谱演化。
-**观测短评**: 该目标为黑洞X射线双星，高度符合本课题组核心研究领域。ATel中提及已证认光学对应体，具备光学后随观测价值，可评估是否利用我方1m望远镜跟进，并结合Insight-HXMT等设备开展多波段联合分析。
+**爆发速递**: 研究人员使用业余天文台对新星 Nova Sge 2026 进行了光学光谱观测，发现其具有宽巴耳末发射线和高速 P-Cygni 吸收特征，后续光谱演化显示出明显的 Fe II 辐射及吸收成分的消失，符合 Fe II 型新星快速演化的特征。
+**观测短评**: 该目标为新星爆发（激变变星相关），虽然亮度可能在1m望远镜跟进范围内，但由于其属于常规银河系新星且已有较多业余光谱跟进，不属于本组核心研究的黑洞吸积或AGN方向，暂无使用我们望远镜或申请大型设备后随观测的必要。
 
 ---
 
-### [3] | ATel 18009: [Discovery and follow up observations of the likely Galactic Nova NMW-TTU-26bp (PNV J19450648+1822422)](https://www.astronomerstelegram.org/?read=18009)
-- **日期**: 25 Aug 2026 UT | **源**: `NMW-TTU-26bp`
+### [6] | ATel 18013: [Fermi-LAT detection of further gamma-ray brightening of the FSRQ 3C 395](https://www.astronomerstelegram.org/?read=18013)
+- **日期**: 26 Aug 2026 UT | **源**: `3C 395`
 
-**爆发速递**: NMW-TexasTech巡天项目发现了银河系内的新星候选体 NMW-TTU-26bp (PNV J19450648+1822422)，爆发初期星等达到9.0等，后续BVR波段测光及光谱显示其正处于上升期或接近光学极大，并呈现典型的P Cygni轮廓。
-**观测短评**: 该目标是一颗亮新星，属于激变变星范畴，适合光学观测。考虑到其目前亮度较高（约7-8等），超出了我们1m望远镜的测光极限（可能导致饱和），因此不建议使用我方1m望远镜跟进，也无须申请其他大型设备观测。
+**爆发速递**: 费米大视场望远镜 (Fermi-LAT) 监测到平谱射电类星体 3C 395 发生进一步的伽马射线剧烈变亮，日平均通量和大于10 GeV的高能光子均创下该源历史新高。
+**观测短评**: 该目标属于活动星系核 (AGN)，虽然不在我们的核心黑洞X射线双星研究范围内，但文章鼓励多波段观测。考虑到其处于高状态，具备光学后随观测价值，可评估是否利用现有设备或申请 Swift 等空间设备进行联合观测。
 
 ---
 
