@@ -34,7 +34,8 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
-- [MAXI_J1750-327](./sources/MAXI_J1750-327.md) | *最新动态: ATel 18010 (25 Aug 2026)*
+- [MAXI_J1750-327](./sources/MAXI_J1750-327.md) | *最新动态: ATel 18017 (28 Aug 2026)*
+- [GX_339-4](./sources/GX_339-4.md) | *最新动态: ATel 18015 (27 Aug 2026)*
 - [SRGA_J174800.5-280826](./sources/SRGA_J174800.5-280826.md) | *最新动态: ATel 18002 (24 Aug 2026)*
 - [Cyg_X-3](./sources/Cyg_X-3.md) | *最新动态: ATel 18003 (24 Aug 2026)*
 - [IGR_J17091-3624](./sources/IGR_J17091-3624.md) | *最新动态: ATel 17919 (22 Jul 2026)*
@@ -102,12 +103,12 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [1ES_1028+511](./sources/1ES_1028+511.md) | *最新动态: ATel 18019 (28 Aug 2026)*
+- [NGC_1275](./sources/NGC_1275.md) | *最新动态: ATel 18018 (28 Aug 2026)*
 - [3C_395](./sources/3C_395.md) | *最新动态: ATel 18013 (26 Aug 2026)*
 - [PKS_2331-240](./sources/PKS_2331-240.md) | *最新动态: ATel 18000 (23 Aug 2026)*
 - [S5_1044+71](./sources/S5_1044+71.md) | *最新动态: ATel 17999 (23 Aug 2026)*
-- [NGC_1275](./sources/NGC_1275.md) | *最新动态: ATel 17967 (15 Aug 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 17949 (7 Aug 2026)*
-- [1ES_1028+511](./sources/1ES_1028+511.md) | *最新动态: ATel 17938 (3 Aug 2026)*
 - [4C_10.45](./sources/4C_10.45.md) | *最新动态: ATel 17935 (1 Aug 2026)*
 - [4C_+14.60](./sources/4C_+14.60.md) | *最新动态: ATel 17928 (26 Jul 2026)*
 - [B3_0151+474](./sources/B3_0151+474.md) | *最新动态: ATel 17920 (22 Jul 2026)*

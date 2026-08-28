@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [1] | ATel 18014: [Spectroscopic observations of Nova Sge 2026 (PNV J19450648+1822422)](https://www.astronomerstelegram.org/?read=18014)
-- **日期**: 27 Aug 2026 UT | **源**: `Nova Sge 2026`
+### [3] | ATel 18019: [1ES 1028+511: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18019)
+- **日期**: 28 Aug 2026 UT | **源**: `1ES 1028+511`
 
-**爆发速递**: 研究人员使用业余天文台对新星 Nova Sge 2026 进行了光学光谱观测，发现其具有宽巴耳末发射线和高速 P-Cygni 吸收特征，后续光谱演化显示出明显的 Fe II 辐射及吸收成分的消失，符合 Fe II 型新星快速演化的特征。
-**观测短评**: 该目标为新星爆发（激变变星相关），虽然亮度可能在1m望远镜跟进范围内，但由于其属于常规银河系新星且已有较多业余光谱跟进，不属于本组核心研究的黑洞吸积或AGN方向，暂无使用我们望远镜或申请大型设备后随观测的必要。
+**爆发速递**: IceCube合作组针对近期LHAASO发现的极高同步加速峰值BL Lac天体1ES 1028+511的TeV伽马射线耀发，进行了子午方向径迹型缪子中微子事件搜寻，未发现显著中微子信号并给出了流通量上限。
+**观测短评**: 本文属于高能中微子与多波段联合观测范畴，虽然对象为AGN，但主要内容为IceCube的中微子上限限制，缺乏直接的光学后随跟进价值或在我方1米望远镜的观测能力范围内，无需申请额外设备观测。
 
 ---
 
-### [6] | ATel 18013: [Fermi-LAT detection of further gamma-ray brightening of the FSRQ 3C 395](https://www.astronomerstelegram.org/?read=18013)
-- **日期**: 26 Aug 2026 UT | **源**: `3C 395`
+### [3] | ATel 18018: [NGC 1275: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18018)
+- **日期**: 28 Aug 2026 UT | **源**: `NGC 1275`
 
-**爆发速递**: 费米大视场望远镜 (Fermi-LAT) 监测到平谱射电类星体 3C 395 发生进一步的伽马射线剧烈变亮，日平均通量和大于10 GeV的高能光子均创下该源历史新高。
-**观测短评**: 该目标属于活动星系核 (AGN)，虽然不在我们的核心黑洞X射线双星研究范围内，但文章鼓励多波段观测。考虑到其处于高状态，具备光学后随观测价值，可评估是否利用现有设备或申请 Swift 等空间设备进行联合观测。
+**爆发速递**: IceCube合作组利用其中微子探测器，对射电星系NGC 1275在Fermi-LAT和LHAASO监测到硬伽马射线耀发期间的数据进行了分析，未发现显著的 muon 中微子信号，并给出了通量上限。
+**观测短评**: 该目标属于活动星系核(AGN)，但本简报主要关注中微子上限测定，缺乏光学后随跟进的直接急迫性，且该源赤纬及亮度条件不属于我们1m光学望远镜的最优跟进目标，暂无申请其他设备观测的必要。
 
 ---
 
