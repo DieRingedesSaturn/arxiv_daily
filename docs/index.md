@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [3] | ATel 18020: [MAXI/GSC observation of a major X-ray outburst from the Be/X-ray Binary Pulsar 1A 0535-66 (1A 0538-66)](https://www.astronomerstelegram.org/?read=18020)
+- **日期**: 29 Aug 2026 UT | **源**: `1A 0538-66`
+
+**爆发速递**: MAXI/GSC 触发并监测到 Be/X射线双星脉冲星 1A 0538-66 发生了一次强烈的 X 射线爆发，4-10 keV 通量达到 301 mCrab，创下该源 MAXI 观测史上的最高纪录。
+**观测短评**: 该目标属于高能中子星X射线双星，位于大麦哲伦星系（距离约50 kpc），其光学对应体超出了我们1米望远镜的极限星等，且不属于本组核心的黑洞吸积或 AGN 研究范畴，建议无需占用本组望远镜及主要空间设备进行跟进。
+
+---
+
 ### [3] | ATel 18019: [1ES 1028+511: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18019)
 - **日期**: 28 Aug 2026 UT | **源**: `1ES 1028+511`
 
 **爆发速递**: IceCube合作组针对近期LHAASO发现的极高同步加速峰值BL Lac天体1ES 1028+511的TeV伽马射线耀发，进行了子午方向径迹型缪子中微子事件搜寻，未发现显著中微子信号并给出了流通量上限。
 **观测短评**: 本文属于高能中微子与多波段联合观测范畴，虽然对象为AGN，但主要内容为IceCube的中微子上限限制，缺乏直接的光学后随跟进价值或在我方1米望远镜的观测能力范围内，无需申请额外设备观测。
-
----
-
-### [3] | ATel 18018: [NGC 1275: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18018)
-- **日期**: 28 Aug 2026 UT | **源**: `NGC 1275`
-
-**爆发速递**: IceCube合作组利用其中微子探测器，对射电星系NGC 1275在Fermi-LAT和LHAASO监测到硬伽马射线耀发期间的数据进行了分析，未发现显著的 muon 中微子信号，并给出了通量上限。
-**观测短评**: 该目标属于活动星系核(AGN)，但本简报主要关注中微子上限测定，缺乏光学后随跟进的直接急迫性，且该源赤纬及亮度条件不属于我们1m光学望远镜的最优跟进目标，暂无申请其他设备观测的必要。
 
 ---
 
