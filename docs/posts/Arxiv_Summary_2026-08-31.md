@@ -1,28 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 18022: [Follow-up spectroscopic observations of Nova Sge 2026 (V488 Sge) with WHUT](https://www.astronomerstelegram.org/?read=18022)
-- **日期**: 31 Aug 2026 UT | **源**: `Nova Sge 2026`
-
-**爆发速递**: 武汉大学1米光学望远镜 (WHUT) 对新星 Nova Sge 2026 (V488 Sge) 进行了后随光谱观测，记录了其在4100-9000埃波段的多通道光谱及演化特征。
-**观测短评**: 该目标为银河系新星，属于激变变星范畴，符合我方1米光学望远镜的观测能力。但鉴于已有国内高校1米望远镜团队开展了深入的光谱监测，我方无需重复申请跟进。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W36.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-08-31
 
 *Tags: #arXiv #Astrophysics*
 
@@ -235,5 +211,3 @@
   - *本文发展了分层介质中无线电反射的精确球波正演模型，并将其应用于探讨ANITA异常极性事件的成因。*
 - **[0]** [The MegaWave Radio Surveyor](https://arxiv.org/abs/2608.26322v2)
   - *本文介绍了MegaWave无线电测量仪这一空间干涉仪概念，旨在探索低频无线电波段以研究系外行星、恒星空间天气及宇宙暗黑时代。*
-
-[查看历史目录](./posts/index.md)
