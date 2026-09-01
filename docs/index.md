@@ -7,14 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18022: [Follow-up spectroscopic observations of Nova Sge 2026 (V488 Sge) with WHUT](https://www.astronomerstelegram.org/?read=18022)
-- **日期**: 31 Aug 2026 UT | **源**: `Nova Sge 2026`
+### [6] | ATel 18025: [XMM-Newton detection of a high flux state in the HMXRB IGR J13020-6359](https://www.astronomerstelegram.org/?read=18025)
+- **日期**: 1 Sep 2026 UT | **源**: `IGR J13020-6359`
 
-**爆发速递**: 武汉大学1米光学望远镜 (WHUT) 对新星 Nova Sge 2026 (V488 Sge) 进行了后随光谱观测，记录了其在4100-9000埃波段的多通道光谱及演化特征。
-**观测短评**: 该目标为银河系新星，属于激变变星范畴，符合我方1米光学望远镜的观测能力。但鉴于已有国内高校1米望远镜团队开展了深入的光谱监测，我方无需重复申请跟进。
+**爆发速递**: XMM-Newton望远镜在0.2-12.0 keV能段探测到高质量X射线双星(HMXRB) IGR J13020-6359处于高光通量状态，通量约为2x10^-11 erg/s/cm^2，显著高于2021和2023年的观测水平。
+**观测短评**: 该源已被证认为中子星X射线双星，表现出明显的长期X射线变山特征。虽然鼓励进行X射线及多波段后随观测，但其作为高质量X射线双星多处于银河系远端，光学对应体通常较暗，结合我方1m光学望远镜的极限星等能力，光学后随观测价值和可行性相对有限，主要依赖空间X射线设备跟进。
 
 ---
 
+### [10] | ATel 18024: [Insight-HXMT observations of a soft X-ray flare and a possible QPO-type transition in MAXI J1750-327](https://www.astronomerstelegram.org/?read=18024)
+- **日期**: 1 Sep 2026 UT | **源**: `MAXI J1750-327`
+
+**爆发速递**: 慧眼HXMT卫星对黑洞X射线双星候选体MAXI J1750-327进行了持续监测，在其爆发期间探测到一次软X射线耀发，并捕捉到了QPO频率从约4.5 Hz向8-9 Hz演化（可能对应C型向B型转变）及能谱变软的现象。
+**观测短评**: 该目标属于典型的黑洞X射线双星高能暂现源，完美契合课题组的黑洞吸积与时变能谱研究核心兴趣。虽然主打X射线高能观测，但多波段联合分析价值极高，建议积极联系作者开展多波段合作。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W36.md)
 
