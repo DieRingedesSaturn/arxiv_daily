@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [10] | ATel 18026: [Insight-HXMT observations of a soft X-ray flare and a possible QPO-type transition in MAXI J1750-327 / EP260812c (Format Corrected)](https://www.astronomerstelegram.org/?read=18026)
+- **日期**: 1 Sep 2026 UT | **源**: `MAXI J1750-327`
+
+**爆发速递**: 慧眼HXMT卫星对黑洞X射线双星候选体MAXI J1750-327进行了持续监测，在其软X射线耀发期间观测到了显著的能谱变软以及准周期振荡(QPO)从约4.5 Hz向8-9 Hz的演化特征。**观测短评**: 该目标属于典型黑洞X射线双星，高度契合本课题组核心研究领域。虽然慧眼及多波段跟进已在进行，但其剧烈的时间和能谱演化极具多波段联合观测价值，建议积极关注并探讨光学或其他波段的后随协同观测。
+
+---
+
 ### [6] | ATel 18025: [XMM-Newton detection of a high flux state in the HMXRB IGR J13020-6359](https://www.astronomerstelegram.org/?read=18025)
 - **日期**: 1 Sep 2026 UT | **源**: `IGR J13020-6359`
 
@@ -15,13 +22,6 @@
 
 ---
 
-### [10] | ATel 18024: [Insight-HXMT observations of a soft X-ray flare and a possible QPO-type transition in MAXI J1750-327](https://www.astronomerstelegram.org/?read=18024)
-- **日期**: 1 Sep 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: 慧眼HXMT卫星对黑洞X射线双星候选体MAXI J1750-327进行了持续监测，在其爆发期间探测到一次软X射线耀发，并捕捉到了QPO频率从约4.5 Hz向8-9 Hz演化（可能对应C型向B型转变）及能谱变软的现象。
-**观测短评**: 该目标属于典型的黑洞X射线双星高能暂现源，完美契合课题组的黑洞吸积与时变能谱研究核心兴趣。虽然主打X射线高能观测，但多波段联合分析价值极高，建议积极联系作者开展多波段合作。
-
----
 
 [查看本周完整 ATel](./atels/2026-W36.md)
 

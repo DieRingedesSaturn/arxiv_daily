@@ -35,7 +35,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
-- [MAXI_J1750-327](./sources/MAXI_J1750-327.md) | *最新动态: ATel 18024 (1 Sep 2026)*
+- [MAXI_J1750-327](./sources/MAXI_J1750-327.md) | *最新动态: ATel 18026 (1 Sep 2026)*
 - [XTE_J1637-498](./sources/XTE_J1637-498.md) | *最新动态: ATel 18023 (31 Aug 2026)*
 - [GX_339-4](./sources/GX_339-4.md) | *最新动态: ATel 18015 (27 Aug 2026)*
 - [SRGA_J174800.5-280826](./sources/SRGA_J174800.5-280826.md) | *最新动态: ATel 18002 (24 Aug 2026)*
