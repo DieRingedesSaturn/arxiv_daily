@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 18026: [Insight-HXMT observations of a soft X-ray flare and a possible QPO-type transition in MAXI J1750-327 / EP260812c (Format Corrected)](https://www.astronomerstelegram.org/?read=18026)
-- **日期**: 1 Sep 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: 慧眼HXMT卫星对黑洞X射线双星候选体MAXI J1750-327进行了持续监测，在其软X射线耀发期间观测到了显著的能谱变软以及准周期振荡(QPO)从约4.5 Hz向8-9 Hz的演化特征。**观测短评**: 该目标属于典型黑洞X射线双星，高度契合本课题组核心研究领域。虽然慧眼及多波段跟进已在进行，但其剧烈的时间和能谱演化极具多波段联合观测价值，建议积极关注并探讨光学或其他波段的后随协同观测。
-
----
-
-### [6] | ATel 18025: [XMM-Newton detection of a high flux state in the HMXRB IGR J13020-6359](https://www.astronomerstelegram.org/?read=18025)
-- **日期**: 1 Sep 2026 UT | **源**: `IGR J13020-6359`
-
-**爆发速递**: XMM-Newton望远镜在0.2-12.0 keV能段探测到高质量X射线双星(HMXRB) IGR J13020-6359处于高光通量状态，通量约为2x10^-11 erg/s/cm^2，显著高于2021和2023年的观测水平。
-**观测短评**: 该源已被证认为中子星X射线双星，表现出明显的长期X射线变山特征。虽然鼓励进行X射线及多波段后随观测，但其作为高质量X射线双星多处于银河系远端，光学对应体通常较暗，结合我方1m光学望远镜的极限星等能力，光学后随观测价值和可行性相对有限，主要依赖空间X射线设备跟进。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W36.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-02
 
 *Tags: #arXiv #Astrophysics*
 
@@ -286,5 +255,3 @@
   - *本文利用MHD模拟和多波段合成诊断研究了太阳日冕中的微型磁绳爆发与冕雨现象。*
 - **[0]** [Searching for Dark Photon Tridents Through Primordial Black Hole Signatures](https://arxiv.org/abs/2503.04175v2)
   - *本文研究了原初黑洞霍金辐射产生的暗光子衰变及其在未来伽马射线望远镜中的探测特征。*
-
-[查看历史目录](./posts/index.md)
