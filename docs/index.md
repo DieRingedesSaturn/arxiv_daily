@@ -7,18 +7,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [10] | ATel 18030: [SVOM/ECLAIRs detection of a possible new outburst onset from the black hole 4U 1630-472](https://www.astronomerstelegram.org/?read=18030)
+- **日期**: 4 Sep 2026 UT | **源**: `4U 1630-472`
+
+**爆发速递**: SVOM/ECLAIRs望远镜在硬X射线波段探测到黑洞X射线双星4U 1630-472的新爆发，结合MAXI数据表明该源进入新一轮爆发初期。**观测短评**: 该目标属于经典黑洞X射线双星，高度符合我们的核心研究领域。由于其爆发持续时间长且伴随多波段演化，建议利用Swift、XMM-Newton等设备申请多波段联合观测，同时由于其位于南天球，我们的1m望远镜无法观测，需依赖南半球地面设备进行光学后随。
+
+---
+
 ### [3] | ATel 18029: [Spectroscopic classification of AT 2026aabo as a bright nova in M31](https://www.astronomerstelegram.org/?read=18029)
 - **日期**: 3 Sep 2026 UT | **源**: `AT 2026aabo`
 
 **爆发速递**: ZTF合作组和ATLAS发现了M31中的一颗明亮且演化缓慢的新星AT 2026aabo，研究团队通过HCT望远镜的光谱观测确认其为M31宿主并处于FeII新星阶段。
 **观测短评**: 该目标是一颗银河系外的新星，虽然处于光学波段且鼓励后随，但位于仙女座星系(M31)，对于我方1米光学望远镜而言测光和光谱跟进难度较大，且不属于黑洞或AGN核心研究领域，暂无申请跟进的必要。
-
----
-
-### [1] | ATel 18028: [NuSTAR detection of shock-powered X-rays from Nova Sagittae 2026 = V488 Sge](https://www.astronomerstelegram.org/?read=18028)
-- **日期**: 2 Sep 2026 UT | **源**: `Nova Sagittae 2026`
-
-**爆发速递**: NuSTAR卫星对新星Nova Sagittae 2026 (V488 Sge) 进行了X射线观测，在其上升至光学峰值后探测到激波驱动的硬X射线辐射，光谱表现为高温单温度等离子体特征。**观测短评**: 该目标属于经典新星（激变变星相关），虽然其光学星等在1m望远镜的可观测范围内，但由于研究兴趣主要集中在黑洞X射线双星与AGN等吸积物理上，且该文重点在于X射线空间谱学分析，因此缺乏直接的光学后随必要性，暂不建议使用我方望远镜进行跟进。
 
 ---
 
