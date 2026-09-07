@@ -7,18 +7,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [6] | ATel 18032: [Fermi-LAT detection of gamma-ray activity from the Seyfert 1 galaxy source PKS 0521-36](https://www.astronomerstelegram.org/?read=18032)
+- **日期**: 6 Sep 2026 UT | **源**: `PKS 0521-36`
+
+**爆发速递**: Fermi-LAT望远镜观测到塞弗特1型星系PKS 0521-36出现高能伽马射线活动，日平均流量较平均水平显著增强超过10倍，达到历史最高日流量。**观测短评**: 该目标属于活动星系核（AGN），触发了多波段联合观测的呼吁。鉴于其主要在伽马射线和高能段活跃，且位于南天球（Dec = -36度），不适合我方北半球1m光学望远镜进行常规跟进，但具有重要的多波段观测研究价值。
+
+---
+
 ### [6] | ATel 18031: [MAXI/GSC observation of an X-ray outburst from the Be/X-ray binary pulsar GS 0834-430](https://www.astronomerstelegram.org/?read=18031)
 - **日期**: 6 Sep 2026 UT | **源**: `GS 0834-430`
 
 **爆发速递**: MAXI/GSC监测系统触发了Be/X-ray双星脉冲星GS 0834-430的新一次X射线爆发，最新流强已超过2015年爆发水平。
 **观测短评**: 该目标为中子星X射线双星，可能具备多波段后随观测价值。由于属于X射线源且多波段闪烁，光学跟进需要视具体星等与光学对应体情况而定，可结合Swift或空间X射线设备开展联合观测。
-
----
-
-### [10] | ATel 18030: [SVOM/ECLAIRs detection of a possible new outburst onset from the black hole 4U 1630-472](https://www.astronomerstelegram.org/?read=18030)
-- **日期**: 4 Sep 2026 UT | **源**: `4U 1630-472`
-
-**爆发速递**: SVOM/ECLAIRs望远镜在硬X射线波段探测到黑洞X射线双星4U 1630-472的新爆发，结合MAXI数据表明该源进入新一轮爆发初期。**观测短评**: 该目标属于经典黑洞X射线双星，高度符合我们的核心研究领域。由于其爆发持续时间长且伴随多波段演化，建议利用Swift、XMM-Newton等设备申请多波段联合观测，同时由于其位于南天球，我们的1m望远镜无法观测，需依赖南半球地面设备进行光学后随。
 
 ---
 
