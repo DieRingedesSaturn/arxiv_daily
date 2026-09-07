@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 18032: [Fermi-LAT detection of gamma-ray activity from the Seyfert 1 galaxy source PKS 0521-36](https://www.astronomerstelegram.org/?read=18032)
-- **日期**: 6 Sep 2026 UT | **源**: `PKS 0521-36`
-
-**爆发速递**: Fermi-LAT望远镜观测到塞弗特1型星系PKS 0521-36出现高能伽马射线活动，日平均流量较平均水平显著增强超过10倍，达到历史最高日流量。**观测短评**: 该目标属于活动星系核（AGN），触发了多波段联合观测的呼吁。鉴于其主要在伽马射线和高能段活跃，且位于南天球（Dec = -36度），不适合我方北半球1m光学望远镜进行常规跟进，但具有重要的多波段观测研究价值。
-
----
-
-### [6] | ATel 18031: [MAXI/GSC observation of an X-ray outburst from the Be/X-ray binary pulsar GS 0834-430](https://www.astronomerstelegram.org/?read=18031)
-- **日期**: 6 Sep 2026 UT | **源**: `GS 0834-430`
-
-**爆发速递**: MAXI/GSC监测系统触发了Be/X-ray双星脉冲星GS 0834-430的新一次X射线爆发，最新流强已超过2015年爆发水平。
-**观测短评**: 该目标为中子星X射线双星，可能具备多波段后随观测价值。由于属于X射线源且多波段闪烁，光学跟进需要视具体星等与光学对应体情况而定，可结合Swift或空间X射线设备开展联合观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W36.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-07
 
 *Tags: #arXiv #Astrophysics*
 
@@ -166,5 +135,3 @@
   - *本文利用常微分方程方法研究了克尔黑洞引力场中的中微子自旋振荡。*
 - **[0]** [Experimental evidence for coronal mass ejection suppression in strong stellar magnetic fields](https://arxiv.org/abs/2604.16156v2)
   - *该论文研究了强恒星磁场对日冕物质抛射（CME）的抑制作用，与黑洞吸积、喷流或课题组的观测设备无直接关联。*
-
-[查看历史目录](./posts/index.md)
