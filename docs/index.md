@@ -7,23 +7,23 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 18032: [Fermi-LAT detection of gamma-ray activity from the Seyfert 1 galaxy source PKS 0521-36](https://www.astronomerstelegram.org/?read=18032)
-- **日期**: 6 Sep 2026 UT | **源**: `PKS 0521-36`
+### [10] | ATel 18034: [NuSTAR follow-up of 4U 1630-47 in the hard intermediate state](https://www.astronomerstelegram.org/?read=18034)
+- **日期**: 7 Sep 2026 UT | **源**: `4U 1630-47`
 
-**爆发速递**: Fermi-LAT望远镜观测到塞弗特1型星系PKS 0521-36出现高能伽马射线活动，日平均流量较平均水平显著增强超过10倍，达到历史最高日流量。**观测短评**: 该目标属于活动星系核（AGN），触发了多波段联合观测的呼吁。鉴于其主要在伽马射线和高能段活跃，且位于南天球（Dec = -36度），不适合我方北半球1m光学望远镜进行常规跟进，但具有重要的多波段观测研究价值。
-
----
-
-### [6] | ATel 18031: [MAXI/GSC observation of an X-ray outburst from the Be/X-ray binary pulsar GS 0834-430](https://www.astronomerstelegram.org/?read=18031)
-- **日期**: 6 Sep 2026 UT | **源**: `GS 0834-430`
-
-**爆发速递**: MAXI/GSC监测系统触发了Be/X-ray双星脉冲星GS 0834-430的新一次X射线爆发，最新流强已超过2015年爆发水平。
-**观测短评**: 该目标为中子星X射线双星，可能具备多波段后随观测价值。由于属于X射线源且多波段闪烁，光学跟进需要视具体星等与光学对应体情况而定，可结合Swift或空间X射线设备开展联合观测。
+**爆发速递**: 课题组重点关注的黑洞X射线双星暂现源4U 1630-47在被SVOM发现后，近期利用NuSTAR进行了16ks的X射线后随观测。光谱显示其处于硬中间态，伴有显著的铁荧光线和约3.5Hz的C型QPO，预计未来几天将向陡幂律/极高态过渡。
+**观测短评**: 该目标属于经典的黑洞双星，高度符合本课题组的核心研究方向（吸积与喷流物理）。由于其处于南天球且光学辐射通常较弱或受高度星际消光影响，不适合我们的1m光学望远镜跟进，但非常适合联合Insight-HXMT、Swift及XMM-NuSTAR大项目开展多波段时变与能谱联合分析，建议密切关注并积极参与多波段观测申请。
 
 ---
 
+### [3] | ATel 18033: [Follow-up Imaging & Spectroscopy of Nova Sagittae 2026 (V488 Sge)](https://www.astronomerstelegram.org/?read=18033)
+- **日期**: 7 Sep 2026 UT | **源**: `Nova Sagittae 2026`
 
-[查看本周完整 ATel](./atels/2026-W36.md)
+**爆发速递**: 耶拿大学天文台使用1m级设备对新星 Nova Sagittae 2026 (V488 Sge) 进行了多波段成像与高分辨率光谱观测，测得其视星等变化及巴耳末线、铁离子等显著的多普勒致宽发射线。**观测短评**: 该目标属于新星/激变变星范畴，虽然亮度较高且适合光学跟进，但超出了本课题组黑洞X射线双星与AGN等核心研究领域，且该新星目前亮度约为8-10等，超出了我方1m望远镜的光谱极限(16等)及常规测光饱和限制，暂无申请跟进观测的必要。
+
+---
+
+
+[查看本周完整 ATel](./atels/2026-W37.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 

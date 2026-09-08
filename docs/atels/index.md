@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W37](2026-W37.md)
 - [2026-W36](2026-W36.md)
 - [2026-W35](2026-W35.md)
 - [2026-W34](2026-W34.md)
@@ -35,7 +36,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
-- [4U_1630-472](./sources/4U_1630-472.md) | *最新动态: ATel 18030 (4 Sep 2026)*
+- [4U_1630-472](./sources/4U_1630-472.md) | *最新动态: ATel 18034 (7 Sep 2026)*
 - [MAXI_J1750-327](./sources/MAXI_J1750-327.md) | *最新动态: ATel 18026 (1 Sep 2026)*
 - [XTE_J1637-498](./sources/XTE_J1637-498.md) | *最新动态: ATel 18023 (31 Aug 2026)*
 - [GX_339-4](./sources/GX_339-4.md) | *最新动态: ATel 18015 (27 Aug 2026)*
@@ -80,6 +81,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18033 (7 Sep 2026)*
 - [AT_2026aabo](./sources/AT_2026aabo.md) | *最新动态: ATel 18029 (3 Sep 2026)*
 - [PNV_J19450648+1822422](./sources/PNV_J19450648+1822422.md) | *最新动态: ATel 18028 (2 Sep 2026)*
 - [V0488_Sge](./sources/V0488_Sge.md) | *最新动态: ATel 18022 (31 Aug 2026)*
