@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [10] | ATel 18034: [NuSTAR follow-up of 4U 1630-47 in the hard intermediate state](https://www.astronomerstelegram.org/?read=18034)
-- **日期**: 7 Sep 2026 UT | **源**: `4U 1630-47`
-
-**爆发速递**: 课题组重点关注的黑洞X射线双星暂现源4U 1630-47在被SVOM发现后，近期利用NuSTAR进行了16ks的X射线后随观测。光谱显示其处于硬中间态，伴有显著的铁荧光线和约3.5Hz的C型QPO，预计未来几天将向陡幂律/极高态过渡。
-**观测短评**: 该目标属于经典的黑洞双星，高度符合本课题组的核心研究方向（吸积与喷流物理）。由于其处于南天球且光学辐射通常较弱或受高度星际消光影响，不适合我们的1m光学望远镜跟进，但非常适合联合Insight-HXMT、Swift及XMM-NuSTAR大项目开展多波段时变与能谱联合分析，建议密切关注并积极参与多波段观测申请。
-
----
-
-### [3] | ATel 18033: [Follow-up Imaging & Spectroscopy of Nova Sagittae 2026 (V488 Sge)](https://www.astronomerstelegram.org/?read=18033)
-- **日期**: 7 Sep 2026 UT | **源**: `Nova Sagittae 2026`
-
-**爆发速递**: 耶拿大学天文台使用1m级设备对新星 Nova Sagittae 2026 (V488 Sge) 进行了多波段成像与高分辨率光谱观测，测得其视星等变化及巴耳末线、铁离子等显著的多普勒致宽发射线。**观测短评**: 该目标属于新星/激变变星范畴，虽然亮度较高且适合光学跟进，但超出了本课题组黑洞X射线双星与AGN等核心研究领域，且该新星目前亮度约为8-10等，超出了我方1m望远镜的光谱极限(16等)及常规测光饱和限制，暂无申请跟进观测的必要。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W37.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-10
 
 *Tags: #arXiv #Astrophysics*
 
@@ -242,5 +211,3 @@
   - *本文通过数值相对论研究了无视界类 ergoregion 时空中玻色星的非线性不稳定性及其最终坍缩为黑洞的过程。*
 - **[0]** [Star cluster formation from turbulent clumps. V. Stellar clustering around massive stars](https://arxiv.org/abs/2604.27382v2)
   - *本文利用N体模拟研究了湍流团块核心吸积范式下大质量恒星周围的恒星成团性与多星系统演化。*
-
-[查看历史目录](./posts/index.md)
