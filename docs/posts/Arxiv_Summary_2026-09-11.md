@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 18035: [Fermi-LAT detection of enhanced gamma-ray activity form the FSRQ PKS 0140-322](https://www.astronomerstelegram.org/?read=18035)
-- **日期**: 10 Sep 2026 UT | **源**: `PKS 0140-322`
-
-**爆发速递**: Fermi-LAT望远镜观测到平谱射电类星体PKS 0140-322处于增强的伽马射线活动状态，其日平均通量较4FGL星表平均值激增40倍，达到该源历史最高记录，且能谱明显变硬。
-**观测短评**: 鉴于其为AGN且处于高能耀发状态，具有重要的多波段联合观测价值。由于其属于高能伽马射线源且主要在射电和高能波段活动，光学后随及我们自身1m望远镜的跟进观测意义有限，但建议关注其他多波段联合观测进展。
-
----
-
-### [10] | ATel 18034: [NuSTAR follow-up of 4U 1630-47 in the hard intermediate state](https://www.astronomerstelegram.org/?read=18034)
-- **日期**: 7 Sep 2026 UT | **源**: `4U 1630-47`
-
-**爆发速递**: 课题组重点关注的黑洞X射线双星暂现源4U 1630-47在被SVOM发现后，近期利用NuSTAR进行了16ks的X射线后随观测。光谱显示其处于硬中间态，伴有显著的铁荧光线和约3.5Hz的C型QPO，预计未来几天将向陡幂律/极高态过渡。
-**观测短评**: 该目标属于经典的黑洞双星，高度符合本课题组的核心研究方向（吸积与喷流物理）。由于其处于南天球且光学辐射通常较弱或受高度星际消光影响，不适合我们的1m光学望远镜跟进，但非常适合联合Insight-HXMT、Swift及XMM-NuSTAR大项目开展多波段时变与能谱联合分析，建议密切关注并积极参与多波段观测申请。
-
----
-
-[查看本周完整 ATel](./atels/2026-W37.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-11
 
 *Tags: #arXiv #Astrophysics*
 
@@ -185,5 +154,3 @@
   - *本文总结了关于利用疏散星团研究低温恒星演化的学术会议成果。*
 - **[0]** [Interstellar Complex Organic Molecules and Molecular Outflows in NGC 1333 IRAS 4B and 4B' Observed Using NOEMA](https://arxiv.org/abs/2609.06295v2)
   - *利用NOEMA观测研究了年轻恒星体NGC 1333 IRAS 4B和4B'中的星际复杂有机分子与分子外流。*
-
-[查看历史目录](./posts/index.md)
