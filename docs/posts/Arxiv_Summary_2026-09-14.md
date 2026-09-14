@@ -1,27 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 18040: [The magnetar XTE J1810-197 remains in radio quiescence](https://www.astronomerstelegram.org/?read=18040)
-- **日期**: 14 Sep 2026 UT | **源**: `XTE J1810-197`
-
-**爆发速递**: Parkes 64米射电望远镜对磁星 XTE J1810-197 进行了射电后随观测，未探测到脉冲无线电辐射。**观测短评**: 该目标为磁星，属于中子星暂现源，与课题组核心的黑洞双星及活动星系核研究兴趣无关，且不适合1米光学望远镜跟进，无观测必要。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W38.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-14
 
 *Tags: #arXiv #Astrophysics*
 
@@ -184,5 +161,3 @@
   - *利用JWST数据对星团AS1063建立透镜模型，并发现了高红移的黄超巨星候选体Hedorah。*
 - **[0]** [Gas distributions inside and around haloes in the alternative dark matter simulations AIDA-TNG](https://arxiv.org/abs/2601.18578v2)
   - *该论文利用AIDA-TNG宇宙学模拟研究了不同暗物质模型对晕内及周围气体和中性氢分布的影响。*
-
-[查看历史目录](./posts/index.md)
