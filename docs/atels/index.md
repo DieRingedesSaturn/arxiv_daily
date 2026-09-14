@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W38](2026-W38.md)
 - [2026-W37](2026-W37.md)
 - [2026-W36](2026-W36.md)
 - [2026-W35](2026-W35.md)
@@ -36,7 +37,8 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
-- [4U_1630-472](./sources/4U_1630-472.md) | *最新动态: ATel 18034 (7 Sep 2026)*
+- [4U_1630-472](./sources/4U_1630-472.md) | *最新动态: ATel 18038 (12 Sep 2026)*
+- [XRISM_J1631-4843](./sources/XRISM_J1631-4843.md) | *最新动态: ATel 18037 (12 Sep 2026)*
 - [MAXI_J1750-327](./sources/MAXI_J1750-327.md) | *最新动态: ATel 18026 (1 Sep 2026)*
 - [XTE_J1637-498](./sources/XTE_J1637-498.md) | *最新动态: ATel 18023 (31 Aug 2026)*
 - [GX_339-4](./sources/GX_339-4.md) | *最新动态: ATel 18015 (27 Aug 2026)*
@@ -174,6 +176,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [XTE_J1810-189](./sources/XTE_J1810-189.md) | *最新动态: ATel 18040 (14 Sep 2026)*
 - [220P_McNaught](./sources/220P_McNaught.md) | *最新动态: ATel 17996 (20 Aug 2026)*
 - [CD-61_901](./sources/CD-61_901.md) | *最新动态: ATel 17994 (20 Aug 2026)*
 - [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 17985 (18 Aug 2026)*

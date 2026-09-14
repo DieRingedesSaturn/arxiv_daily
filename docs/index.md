@@ -7,23 +7,15 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18036: [PKS 0521-36: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18036)
-- **日期**: 11 Sep 2026 UT | **源**: `PKS 0521-36`
+### [0] | ATel 18040: [The magnetar XTE J1810-197 remains in radio quiescence](https://www.astronomerstelegram.org/?read=18040)
+- **日期**: 14 Sep 2026 UT | **源**: `XTE J1810-197`
 
-**爆发速递**: IceCube合作组利用中微子探测器对活动星系核PKS 0521-36在Fermi-LAT观测到的高能伽马射线增强期（2026年8月至9月）进行了轨道缪子中微子搜寻，未发现显著的中微子信号，并给出了通量上限。
-**观测短评**: 该目标属于活动星系核，虽然涉及多波段联合观测背景，但本次通告主要为中微子搜寻结果，缺乏直接的光学后随跟进价值，对我们现有1米光学望远镜或空间X射线设备无迫切的观测申请需求。
-
----
-
-### [6] | ATel 18035: [Fermi-LAT detection of enhanced gamma-ray activity form the FSRQ PKS 0140-322](https://www.astronomerstelegram.org/?read=18035)
-- **日期**: 10 Sep 2026 UT | **源**: `PKS 0140-322`
-
-**爆发速递**: Fermi-LAT望远镜观测到平谱射电类星体PKS 0140-322处于增强的伽马射线活动状态，其日平均通量较4FGL星表平均值激增40倍，达到该源历史最高记录，且能谱明显变硬。
-**观测短评**: 鉴于其为AGN且处于高能耀发状态，具有重要的多波段联合观测价值。由于其属于高能伽马射线源且主要在射电和高能波段活动，光学后随及我们自身1m望远镜的跟进观测意义有限，但建议关注其他多波段联合观测进展。
+**爆发速递**: Parkes 64米射电望远镜对磁星 XTE J1810-197 进行了射电后随观测，未探测到脉冲无线电辐射。**观测短评**: 该目标为磁星，属于中子星暂现源，与课题组核心的黑洞双星及活动星系核研究兴趣无关，且不适合1米光学望远镜跟进，无观测必要。
 
 ---
 
-[查看本周完整 ATel](./atels/2026-W37.md)
+
+[查看本周完整 ATel](./atels/2026-W38.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
