@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 18043: [Further classifications at OHP of Gaia Alerted QSO candidates](https://www.astronomerstelegram.org/?read=18043)
-- **日期**: 15 Sep 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 本ATel简报报道了利用上普罗旺斯天文台(OHP)1.93米望远镜对多颗Gaia警报的类星体及活动星系核候选体进行的后续光谱分类观测，给出了其红移及主要发射线特征。
-**观测短评**: 虽然本研究属于活动星系核(AGN)范畴，但文章主要关注证认和低分辨率光谱分类，且目标多较暗或已过最佳跟进期，结合我方1m望远镜的能力与核心时变能谱研究兴趣，暂无须申请或进行光学后随观测。
-
----
-
-### [6] | ATel 18042: [Radio Non-detection of Hercules X-1 during the ALS with MeerKAT/X-KAT](https://www.astronomerstelegram.org/?read=18042)
-- **日期**: 14 Sep 2026 UT | **源**: `Hercules X-1`
-
-**爆发速递**: MeerKAT望远镜利用X-KAT计划对处于异常低态(ALS)的中子星X-射线双星Hercules X-1进行了射电波段观测，在L波段未探测到射电辐射，给出3σ上限为81μJy/beam。
-**观测短评**: 该目标为中子星X射线双星，符合课题组核心研究领域。由于属于射电未探测且处于X射线异常低态，暂无直接的光学后随需求或我方1米望远镜跟进价值，但对其多波段吸积状态的研究具有参考意义。
-
----
-
-[查看本周完整 ATel](./atels/2026-W38.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-15
 
 *Tags: #arXiv #Astrophysics*
 
@@ -356,5 +325,3 @@
   - *该论文提出了一种利用多波段时域巡天测光诊断年轻恒星磁层吸积几何和内盘截断半径的新方法。*
 - **[0]** [Circumstellar Medium of Supernovae as New Probes for Feebly Interacting Particles](https://arxiv.org/abs/2603.09615v2)
   - *本文提出利用超新星的星周介质探测微弱相互作用粒子（FIPs），并结合超新星2023ixf的观测数据对暗光子参数空间进行限制。*
-
-[查看历史目录](./posts/index.md)
