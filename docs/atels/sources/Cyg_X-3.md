@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18049: [Spectral hardening of Cygnus X-3 observed with SVOM/ECLAIRs](https://www.astronomerstelegram.org/?read=18049)
+- **日期**: 16 Sep 2026 UT
+
+**爆发速递**: SVOM卫星搭载的ECLAIRs望远镜于2026年9月13日观测到微类星体Cygnus X-3发生光谱变硬现象，硬度比显著上升，并给出了4-100 keV能段的光谱拟合与铁发射线参数。
+**观测短评**: 该目标为经典黑洞/中子星X射线双星，符合我们的核心研究领域。由于该源处于演化阶段且伴随射电活动，具有极高的多波段联合观测价值。但鉴于其为高能X射线/射电暂现源且光学消光极大，我们的1m光学望远镜难以有效跟进，建议通过SVOM、Swift等设备继续申请X射线及多波段后随观测。
+
+---
+
 ### ATel 18003: [Detection of renewed radio activity from Cygnus X-3 with the Nasu radio telescope array at 1.4 GHz](https://www.astronomerstelegram.org/?read=18003)
 - **日期**: 24 Aug 2026 UT
 

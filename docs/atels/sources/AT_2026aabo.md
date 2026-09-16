@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18048: [MDM/MIRAGE discovery of a pronounced infrared brightening in the luminous nova AT2026aabo in M31](https://www.astronomerstelegram.org/?read=18048)
+- **日期**: 16 Sep 2026 UT
+
+**爆发速递**: MDM天文台的1.3米望远镜利用MIRAGE相机对M31中的亮新星AT2026aabo进行了近红外监测，发现在J波段和Hs波段持续变亮，同时伴随明显的红化现象，表明新星爆发后两周内迅速形成尘埃。
+**观测短评**: 该目标是一颗M31中的新星，属于常规光学/红外暂现源。虽然其近红外星等在1m望远镜能力范围内（Hs约16-17等），但由于其位于仙女座星系且主要特征为尘埃形成的红外增亮，与我们课题组核心关注的黑洞吸积物理相关性较低，且我台缺少红外测光设备，暂无申请跟进的必要。
+
+---
+
 ### ATel 18029: [Spectroscopic classification of AT 2026aabo as a bright nova in M31](https://www.astronomerstelegram.org/?read=18029)
 - **日期**: 3 Sep 2026 UT
 

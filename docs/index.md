@@ -7,19 +7,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18043: [Further classifications at OHP of Gaia Alerted QSO candidates](https://www.astronomerstelegram.org/?read=18043)
-- **日期**: 15 Sep 2026 UT | **源**: `Unknown`
+### [9] | ATel 18049: [Spectral hardening of Cygnus X-3 observed with SVOM/ECLAIRs](https://www.astronomerstelegram.org/?read=18049)
+- **日期**: 16 Sep 2026 UT | **源**: `Cygnus X-3`
 
-**爆发速递**: 本ATel简报报道了利用上普罗旺斯天文台(OHP)1.93米望远镜对多颗Gaia警报的类星体及活动星系核候选体进行的后续光谱分类观测，给出了其红移及主要发射线特征。
-**观测短评**: 虽然本研究属于活动星系核(AGN)范畴，但文章主要关注证认和低分辨率光谱分类，且目标多较暗或已过最佳跟进期，结合我方1m望远镜的能力与核心时变能谱研究兴趣，暂无须申请或进行光学后随观测。
+**爆发速递**: SVOM卫星搭载的ECLAIRs望远镜于2026年9月13日观测到微类星体Cygnus X-3发生光谱变硬现象，硬度比显著上升，并给出了4-100 keV能段的光谱拟合与铁发射线参数。
+**观测短评**: 该目标为经典黑洞/中子星X射线双星，符合我们的核心研究领域。由于该源处于演化阶段且伴随射电活动，具有极高的多波段联合观测价值。但鉴于其为高能X射线/射电暂现源且光学消光极大，我们的1m光学望远镜难以有效跟进，建议通过SVOM、Swift等设备继续申请X射线及多波段后随观测。
 
 ---
 
-### [6] | ATel 18042: [Radio Non-detection of Hercules X-1 during the ALS with MeerKAT/X-KAT](https://www.astronomerstelegram.org/?read=18042)
-- **日期**: 14 Sep 2026 UT | **源**: `Hercules X-1`
+### [3] | ATel 18048: [MDM/MIRAGE discovery of a pronounced infrared brightening in the luminous nova AT2026aabo in M31](https://www.astronomerstelegram.org/?read=18048)
+- **日期**: 16 Sep 2026 UT | **源**: `AT2026aabo`
 
-**爆发速递**: MeerKAT望远镜利用X-KAT计划对处于异常低态(ALS)的中子星X-射线双星Hercules X-1进行了射电波段观测，在L波段未探测到射电辐射，给出3σ上限为81μJy/beam。
-**观测短评**: 该目标为中子星X射线双星，符合课题组核心研究领域。由于属于射电未探测且处于X射线异常低态，暂无直接的光学后随需求或我方1米望远镜跟进价值，但对其多波段吸积状态的研究具有参考意义。
+**爆发速递**: MDM天文台的1.3米望远镜利用MIRAGE相机对M31中的亮新星AT2026aabo进行了近红外监测，发现在J波段和Hs波段持续变亮，同时伴随明显的红化现象，表明新星爆发后两周内迅速形成尘埃。
+**观测短评**: 该目标是一颗M31中的新星，属于常规光学/红外暂现源。虽然其近红外星等在1m望远镜能力范围内（Hs约16-17等），但由于其位于仙女座星系且主要特征为尘埃形成的红外增亮，与我们课题组核心关注的黑洞吸积物理相关性较低，且我台缺少红外测光设备，暂无申请跟进的必要。
 
 ---
 
