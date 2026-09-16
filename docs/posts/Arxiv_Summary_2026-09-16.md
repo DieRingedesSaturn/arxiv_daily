@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [9] | ATel 18049: [Spectral hardening of Cygnus X-3 observed with SVOM/ECLAIRs](https://www.astronomerstelegram.org/?read=18049)
-- **日期**: 16 Sep 2026 UT | **源**: `Cygnus X-3`
-
-**爆发速递**: SVOM卫星搭载的ECLAIRs望远镜于2026年9月13日观测到微类星体Cygnus X-3发生光谱变硬现象，硬度比显著上升，并给出了4-100 keV能段的光谱拟合与铁发射线参数。
-**观测短评**: 该目标为经典黑洞/中子星X射线双星，符合我们的核心研究领域。由于该源处于演化阶段且伴随射电活动，具有极高的多波段联合观测价值。但鉴于其为高能X射线/射电暂现源且光学消光极大，我们的1m光学望远镜难以有效跟进，建议通过SVOM、Swift等设备继续申请X射线及多波段后随观测。
-
----
-
-### [3] | ATel 18048: [MDM/MIRAGE discovery of a pronounced infrared brightening in the luminous nova AT2026aabo in M31](https://www.astronomerstelegram.org/?read=18048)
-- **日期**: 16 Sep 2026 UT | **源**: `AT2026aabo`
-
-**爆发速递**: MDM天文台的1.3米望远镜利用MIRAGE相机对M31中的亮新星AT2026aabo进行了近红外监测，发现在J波段和Hs波段持续变亮，同时伴随明显的红化现象，表明新星爆发后两周内迅速形成尘埃。
-**观测短评**: 该目标是一颗M31中的新星，属于常规光学/红外暂现源。虽然其近红外星等在1m望远镜能力范围内（Hs约16-17等），但由于其位于仙女座星系且主要特征为尘埃形成的红外增亮，与我们课题组核心关注的黑洞吸积物理相关性较低，且我台缺少红外测光设备，暂无申请跟进的必要。
-
----
-
-[查看本周完整 ATel](./atels/2026-W38.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-16
 
 *Tags: #arXiv #Astrophysics*
 
@@ -203,5 +172,3 @@
   - *本文研究了天体物理环境中中微子的多体螺旋度振荡与自旋翻转概率。*
 - **[0]** [A distance-independent constraint on the axion-electron coupling from RGB stars](https://arxiv.org/abs/2609.08504v2)
   - *本文利用红星尖端与红巨星分支隆起的距离无关光度差，对轴子-电子耦合常数进行了约束。*
-
-[查看历史目录](./posts/index.md)
