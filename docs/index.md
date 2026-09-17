@@ -7,6 +7,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [9] | ATel 18050: [Swift/XRT and optical follow-up of the new X-ray transient SRGA J174800.5-280826](https://www.astronomerstelegram.org/?read=18050)
+- **日期**: 16 Sep 2026 UT | **源**: `SRGA J174800.5-280826`
+
+**爆发速递**: 本文报道了对新X射线暂现源SRGA J174800.5-280826的Swift/XRT和光学后随观测。该源此前由SRG/ART-XC发现并通过NuSTAR观测，Swift观测显示其光度可能有所上升，且处于高吸收的银道面附近。**观测短评**: 尽管北欧光学望远镜（NOT）在V、R、I波段未在XRT误差范围内探测到光学对应体（极限星等约21等），但由于其潜在的X射线双星属性且高度契合团队的X射线与多波段研究兴趣，具有较高的X射线及多波段跟进价值。鉴于其位于银道面消光严重，本团队的1m光学望远镜可能受限于极限星等和消光影响，较难直接探测其光学对应体，但可联合Swift等空间设备开展进一步的多波段吸积物理研究。
+
+---
+
 ### [9] | ATel 18049: [Spectral hardening of Cygnus X-3 observed with SVOM/ECLAIRs](https://www.astronomerstelegram.org/?read=18049)
 - **日期**: 16 Sep 2026 UT | **源**: `Cygnus X-3`
 
@@ -15,13 +22,6 @@
 
 ---
 
-### [3] | ATel 18048: [MDM/MIRAGE discovery of a pronounced infrared brightening in the luminous nova AT2026aabo in M31](https://www.astronomerstelegram.org/?read=18048)
-- **日期**: 16 Sep 2026 UT | **源**: `AT2026aabo`
-
-**爆发速递**: MDM天文台的1.3米望远镜利用MIRAGE相机对M31中的亮新星AT2026aabo进行了近红外监测，发现在J波段和Hs波段持续变亮，同时伴随明显的红化现象，表明新星爆发后两周内迅速形成尘埃。
-**观测短评**: 该目标是一颗M31中的新星，属于常规光学/红外暂现源。虽然其近红外星等在1m望远镜能力范围内（Hs约16-17等），但由于其位于仙女座星系且主要特征为尘埃形成的红外增亮，与我们课题组核心关注的黑洞吸积物理相关性较低，且我台缺少红外测光设备，暂无申请跟进的必要。
-
----
 
 [查看本周完整 ATel](./atels/2026-W38.md)
 
