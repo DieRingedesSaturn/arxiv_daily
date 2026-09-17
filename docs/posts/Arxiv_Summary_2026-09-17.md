@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [9] | ATel 18050: [Swift/XRT and optical follow-up of the new X-ray transient SRGA J174800.5-280826](https://www.astronomerstelegram.org/?read=18050)
-- **日期**: 16 Sep 2026 UT | **源**: `SRGA J174800.5-280826`
-
-**爆发速递**: 本文报道了对新X射线暂现源SRGA J174800.5-280826的Swift/XRT和光学后随观测。该源此前由SRG/ART-XC发现并通过NuSTAR观测，Swift观测显示其光度可能有所上升，且处于高吸收的银道面附近。**观测短评**: 尽管北欧光学望远镜（NOT）在V、R、I波段未在XRT误差范围内探测到光学对应体（极限星等约21等），但由于其潜在的X射线双星属性且高度契合团队的X射线与多波段研究兴趣，具有较高的X射线及多波段跟进价值。鉴于其位于银道面消光严重，本团队的1m光学望远镜可能受限于极限星等和消光影响，较难直接探测其光学对应体，但可联合Swift等空间设备开展进一步的多波段吸积物理研究。
-
----
-
-### [9] | ATel 18049: [Spectral hardening of Cygnus X-3 observed with SVOM/ECLAIRs](https://www.astronomerstelegram.org/?read=18049)
-- **日期**: 16 Sep 2026 UT | **源**: `Cygnus X-3`
-
-**爆发速递**: SVOM卫星搭载的ECLAIRs望远镜于2026年9月13日观测到微类星体Cygnus X-3发生光谱变硬现象，硬度比显著上升，并给出了4-100 keV能段的光谱拟合与铁发射线参数。
-**观测短评**: 该目标为经典黑洞/中子星X射线双星，符合我们的核心研究领域。由于该源处于演化阶段且伴随射电活动，具有极高的多波段联合观测价值。但鉴于其为高能X射线/射电暂现源且光学消光极大，我们的1m光学望远镜难以有效跟进，建议通过SVOM、Swift等设备继续申请X射线及多波段后随观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W38.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-17
 
 *Tags: #arXiv #Astrophysics*
 
@@ -259,5 +228,3 @@
   - *利用超新星冷却效应对中微子亲和暗物质与中微子相互作用施加了新的约束限制。*
 - **[0]** [Energy deposition in planetary and exoplanetary atmospheres induced by cosmic rays](https://arxiv.org/abs/2609.10688v2)
   - *本文研究了宇宙射线在行星及系外行星大气中的能量沉积及磁场对其通量的影响。*
-
-[查看历史目录](./posts/index.md)
