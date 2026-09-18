@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 18053: [Continuing optical spectroscopic monitoring of  V488 Sge (Nova Sge 2026) by the ARAS group](https://www.astronomerstelegram.org/?read=18053)
-- **日期**: 17 Sep 2026 UT | **源**: `V488 Sge`
-
-**爆发速递**: ARAS协作组利用中低分辨率光学光谱设备，持续对新星V488 Sge (Nova Sge 2026)进行光谱监测，记录了其从P Cygni轮廓向禁线出现、喷射物逐渐透明等演化特征。
-**观测短评**: 该目标为新星，属于激变变星相关范畴，在我们的1米光学望远镜测光与光谱极限之内，但考虑到课题组核心兴趣在于吸积物理与致密天体，且已有专业光谱团组在深度跟进，暂无必要申请专门设备进行后随观测。
-
----
-
-### [3] | ATel 18052: [The blazar S5 1044+71: maximum brightness over 2026](https://www.astronomerstelegram.org/?read=18052)
-- **日期**: 17 Sep 2026 UT | **源**: `S5 1044+71`
-
-**爆发速递**: SAO RAS团队利用0.5米光学望远镜对平谱射电类星体S5 1044+71进行了持续光学监测，发现其在2026年经历了多次剧烈光学耀发，其中9月中旬R波段亮度达到了过去一年的绝对极大值15.63星等。**观测短评**: 该目标属于活动星系核（耀变体），虽然其光学亮度处于我们1米望远镜的观测极限内（R波段约15.6-16.5等），但鉴于其为高能天体多波段监测目标且已有详尽的地面光学跟进网络，暂无需紧急申请我方设备进行独立观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W38.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-18
 
 *Tags: #arXiv #Astrophysics*
 
@@ -153,5 +122,3 @@
   - *本文介绍了3.5米分块镜机器人空间望远镜的系外行星日冕仪科学任务白皮书。*
 - **[0]** [Enabling Metallicity Measurements of M-dwarf Microlensing Lenses out to the Galactic Bulge](https://arxiv.org/abs/2609.05265v2)
   - *该论文提出了一种利用多波段光度测量与角爱因斯坦半径结合来测量银河系核球中M矮星微引力透镜金属度的方法。*
-
-[查看历史目录](./posts/index.md)
