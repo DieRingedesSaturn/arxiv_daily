@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18053: [Continuing optical spectroscopic monitoring of  V488 Sge (Nova Sge 2026) by the ARAS group](https://www.astronomerstelegram.org/?read=18053)
+- **日期**: 17 Sep 2026 UT
+
+**爆发速递**: ARAS协作组利用中低分辨率光学光谱设备，持续对新星V488 Sge (Nova Sge 2026)进行光谱监测，记录了其从P Cygni轮廓向禁线出现、喷射物逐渐透明等演化特征。
+**观测短评**: 该目标为新星，属于激变变星相关范畴，在我们的1米光学望远镜测光与光谱极限之内，但考虑到课题组核心兴趣在于吸积物理与致密天体，且已有专业光谱团组在深度跟进，暂无必要申请专门设备进行后随观测。
+
+---
+
 ### ATel 18033: [Follow-up Imaging & Spectroscopy of Nova Sagittae 2026 (V488 Sge)](https://www.astronomerstelegram.org/?read=18033)
 - **日期**: 7 Sep 2026 UT
 
