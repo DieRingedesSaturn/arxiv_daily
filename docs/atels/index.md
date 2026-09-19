@@ -54,9 +54,9 @@
 - [AT2019wey](./sources/AT2019wey.md) | *最新动态: ATel 17686 (17 Feb 2026)*
 
 ### NSXRB
+- [GS_0834-430](./sources/GS_0834-430.md) | *最新动态: ATel 18054 (18 Sep 2026)*
 - [1A_0538-66](./sources/1A_0538-66.md) | *最新动态: ATel 18051 (17 Sep 2026)*
 - [Her_X-1](./sources/Her_X-1.md) | *最新动态: ATel 18042 (14 Sep 2026)*
-- [GS_0834-430](./sources/GS_0834-430.md) | *最新动态: ATel 18031 (6 Sep 2026)*
 - [IGR_J13020-6359](./sources/IGR_J13020-6359.md) | *最新动态: ATel 18025 (1 Sep 2026)*
 - [SAX_J1748.9-2021](./sources/SAX_J1748.9-2021.md) | *最新动态: ATel 18011 (26 Aug 2026)*
 - [4U_1850-086](./sources/4U_1850-086.md) | *最新动态: ATel 18006 (25 Aug 2026)*
@@ -83,6 +83,9 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [Gaia20cnt](./sources/Gaia20cnt.md) | *最新动态: ATel 18059 (19 Sep 2026)*
+- [AT_2026abyx](./sources/AT_2026abyx.md) | *最新动态: ATel 18055 (18 Sep 2026)*
+- [MGAB-V233](./sources/MGAB-V233.md) | *最新动态: ATel 18056 (18 Sep 2026)*
 - [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18053 (17 Sep 2026)*
 - [AT_2026aabo](./sources/AT_2026aabo.md) | *最新动态: ATel 18048 (16 Sep 2026)*
 - [Gaia16ahk](./sources/Gaia16ahk.md) | *最新动态: ATel 18045 (15 Sep 2026)*
@@ -160,6 +163,7 @@
 - [EP_J223759.5+531421](./sources/EP_J223759.5+531421.md) | *最新动态: ATel 17936 (2 Aug 2026)*
 
 ### SN
+- [SN_2026pel](./sources/SN_2026pel.md) | *最新动态: ATel 18057 (18 Sep 2026)*
 - [AT2026tiz](./sources/AT2026tiz.md) | *最新动态: ATel 17991 (19 Aug 2026)*
 - [SN_2026fov](./sources/SN_2026fov.md) | *最新动态: ATel 17992 (19 Aug 2026)*
 - [SN_2026sqf](./sources/SN_2026sqf.md) | *最新动态: ATel 17896 (15 Jul 2026)*

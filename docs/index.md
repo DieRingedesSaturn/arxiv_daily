@@ -7,18 +7,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18053: [Continuing optical spectroscopic monitoring of  V488 Sge (Nova Sge 2026) by the ARAS group](https://www.astronomerstelegram.org/?read=18053)
-- **日期**: 17 Sep 2026 UT | **源**: `V488 Sge`
+### [4] | ATel 18059: [Gaia20cnt: photometric observations of a new outburst](https://www.astronomerstelegram.org/?read=18059)
+- **日期**: 19 Sep 2026 UT | **源**: `Gaia20cnt`
 
-**爆发速递**: ARAS协作组利用中低分辨率光学光谱设备，持续对新星V488 Sge (Nova Sge 2026)进行光谱监测，记录了其从P Cygni轮廓向禁线出现、喷射物逐渐透明等演化特征。
-**观测短评**: 该目标为新星，属于激变变星相关范畴，在我们的1米光学望远镜测光与光谱极限之内，但考虑到课题组核心兴趣在于吸积物理与致密天体，且已有专业光谱团组在深度跟进，暂无必要申请专门设备进行后随观测。
+**爆发速递**: 研究人员使用Unistellar eVscope和0.7米AZT-8望远镜监测并探测到了激变变星候选体Gaia20cnt的新一轮爆发，光变曲线显示出明显的亮度变化。
+**观测短评**: 该目标是一颗UGSS型矮新星，属于激变变星。虽然其亮度变化和爆发特征适合用我们北纬40度的1米光学望远镜进行跟进观测，但鉴于其属于常规矮新星且已有较多公开监测数据，暂无必要优先申请其他大型设备观测。
 
 ---
 
-### [3] | ATel 18052: [The blazar S5 1044+71: maximum brightness over 2026](https://www.astronomerstelegram.org/?read=18052)
-- **日期**: 17 Sep 2026 UT | **源**: `S5 1044+71`
+### [1] | ATel 18058: [Spectroscopic Classification of Astrophysical Transients with KCWI on the Keck II Telescope](https://www.astronomerstelegram.org/?read=18058)
+- **日期**: 19 Sep 2026 UT | **源**: `Unknown`
 
-**爆发速递**: SAO RAS团队利用0.5米光学望远镜对平谱射电类星体S5 1044+71进行了持续光学监测，发现其在2026年经历了多次剧烈光学耀发，其中9月中旬R波段亮度达到了过去一年的绝对极大值15.63星等。**观测短评**: 该目标属于活动星系核（耀变体），虽然其光学亮度处于我们1米望远镜的观测极限内（R波段约15.6-16.5等），但鉴于其为高能天体多波段监测目标且已有详尽的地面光学跟进网络，暂无需紧急申请我方设备进行独立观测。
+**爆发速递**: 本文报道了使用凯克二号望远镜上的KCWI对多个由GOTO、YSE和ZTF发现的天体暂现源进行的光谱分类结果，包括几颗超新星（如II型、Ib型和超亮超新星）。**观测短评**: 本文涉及的目标主要为遥远的超新星，且多处于演化后期或不适合本组1米光学望远镜的跟进能力，暂无使用我们设备进行后随观测的必要。
 
 ---
 
