@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [4] | ATel 18059: [Gaia20cnt: photometric observations of a new outburst](https://www.astronomerstelegram.org/?read=18059)
-- **日期**: 19 Sep 2026 UT | **源**: `Gaia20cnt`
+### [6] | ATel 18061: [Optical brightening of the blazar IVS B0125+487 (GB6 J0128+4901)](https://www.astronomerstelegram.org/?read=18061)
+- **日期**: 19 Sep 2026 UT | **源**: `IVS B0125+487`
 
-**爆发速递**: 研究人员使用Unistellar eVscope和0.7米AZT-8望远镜监测并探测到了激变变星候选体Gaia20cnt的新一轮爆发，光变曲线显示出明显的亮度变化。
-**观测短评**: 该目标是一颗UGSS型矮新星，属于激变变星。虽然其亮度变化和爆发特征适合用我们北纬40度的1米光学望远镜进行跟进观测，但鉴于其属于常规矮新星且已有较多公开监测数据，暂无必要优先申请其他大型设备观测。
-
----
-
-### [1] | ATel 18058: [Spectroscopic Classification of Astrophysical Transients with KCWI on the Keck II Telescope](https://www.astronomerstelegram.org/?read=18058)
-- **日期**: 19 Sep 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 本文报道了使用凯克二号望远镜上的KCWI对多个由GOTO、YSE和ZTF发现的天体暂现源进行的光谱分类结果，包括几颗超新星（如II型、Ib型和超亮超新星）。**观测短评**: 本文涉及的目标主要为遥远的超新星，且多处于演化后期或不适合本组1米光学望远镜的跟进能力，暂无使用我们设备进行后随观测的必要。
+**爆发速递**: NMW-TexasTech巡天项目发现耀变体IVS B0125+487发生罕见的快速光学增亮，星等从CV=15.62升至峰值CV=14.26，显著高于2014年以来的历史监测记录。
+**观测短评**: 目标作为活动星系核符合团队研究兴趣。其当前光学亮度在1m望远镜观测极限内（测光极限21等），具备光学后随观测价值，建议跟进多波段监测以研究其耀发机制。
 
 ---
 
+### [6] | ATel 18060: [Detection of an exceptionally bright VHE gamma-ray flare from the radiogalaxy NGC 1275 with MAGIC and LST-1](https://www.astronomerstelegram.org/?read=18060)
+- **日期**: 19 Sep 2026 UT | **源**: `NGC 1275`
+
+**爆发速递**: MAGIC和LST-1合作组使用甚高能伽马射线望远镜阵列，于近期探测到射电星系NGC 1275爆发异常明亮的甚高能伽马射线耀发，流量较平均水平增强超40倍，活动仍在持续。
+**观测短评**: 该目标为活动星系核，虽然论文鼓励多波段后随观测，但其光学亮度及变源特征超出了本组1米望远镜的测光极限，且不属于常规CV或BHXRB/AGN核心吸积物理研究重点，本组暂无合适设备进行地面光学跟进。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W38.md)
 
