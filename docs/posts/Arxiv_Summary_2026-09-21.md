@@ -1,27 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 18064: [MACE detection of a strong VHE gamma-ray flare from NGC 1275](https://www.astronomerstelegram.org/?read=18064)
-- **日期**: 21 Sep 2026 UT | **源**: `NGC 1275`
-
-**爆发速递**: MACE望远镜于2026年9月19日观测到射电星系NGC 1275发生了一次强烈的甚高能伽马射线耀发(E > 80 GeV)，显著性约为13个标准差，流量达1蟹状星云单位。此前MAGIC、LST以及光学波段也报告了高活性。 **观测短评**: 该源属于活动星系核(AGN)，符合多波段联合观测的兴趣。鉴于其处于高状态且光学表现活跃，具备一定的光学后随价值，虽然其主要高能波段需空间或大型切伦科夫望远镜观测，但鼓励开展多波段联合跟进。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W39.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-21
 
 *Tags: #arXiv #Astrophysics*
 
@@ -210,5 +187,3 @@
   - *本文介绍了使用Subaru主焦点光谱仪（PFS）开展的银河系考古战略计划，旨在通过大规模恒星光谱观测研究本星系群的结构与演化。*
 - **[0]** [Gravitational-wave constraints on $H_0$ are robust to putative redshift evolution in the binary black hole mass spectrum at current sensitivity](https://arxiv.org/abs/2605.20112v2)
   - *本文利用引力波观测量和双黑洞质量谱的红移演化模型约束哈勃常数，评估了当前灵敏度下的系统误差。*
-
-[查看历史目录](./posts/index.md)
