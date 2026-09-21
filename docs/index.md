@@ -7,23 +7,15 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 18061: [Optical brightening of the blazar IVS B0125+487 (GB6 J0128+4901)](https://www.astronomerstelegram.org/?read=18061)
-- **日期**: 19 Sep 2026 UT | **源**: `IVS B0125+487`
+### [6] | ATel 18064: [MACE detection of a strong VHE gamma-ray flare from NGC 1275](https://www.astronomerstelegram.org/?read=18064)
+- **日期**: 21 Sep 2026 UT | **源**: `NGC 1275`
 
-**爆发速递**: NMW-TexasTech巡天项目发现耀变体IVS B0125+487发生罕见的快速光学增亮，星等从CV=15.62升至峰值CV=14.26，显著高于2014年以来的历史监测记录。
-**观测短评**: 目标作为活动星系核符合团队研究兴趣。其当前光学亮度在1m望远镜观测极限内（测光极限21等），具备光学后随观测价值，建议跟进多波段监测以研究其耀发机制。
-
----
-
-### [6] | ATel 18060: [Detection of an exceptionally bright VHE gamma-ray flare from the radiogalaxy NGC 1275 with MAGIC and LST-1](https://www.astronomerstelegram.org/?read=18060)
-- **日期**: 19 Sep 2026 UT | **源**: `NGC 1275`
-
-**爆发速递**: MAGIC和LST-1合作组使用甚高能伽马射线望远镜阵列，于近期探测到射电星系NGC 1275爆发异常明亮的甚高能伽马射线耀发，流量较平均水平增强超40倍，活动仍在持续。
-**观测短评**: 该目标为活动星系核，虽然论文鼓励多波段后随观测，但其光学亮度及变源特征超出了本组1米望远镜的测光极限，且不属于常规CV或BHXRB/AGN核心吸积物理研究重点，本组暂无合适设备进行地面光学跟进。
+**爆发速递**: MACE望远镜于2026年9月19日观测到射电星系NGC 1275发生了一次强烈的甚高能伽马射线耀发(E > 80 GeV)，显著性约为13个标准差，流量达1蟹状星云单位。此前MAGIC、LST以及光学波段也报告了高活性。 **观测短评**: 该源属于活动星系核(AGN)，符合多波段联合观测的兴趣。鉴于其处于高状态且光学表现活跃，具备一定的光学后随价值，虽然其主要高能波段需空间或大型切伦科夫望远镜观测，但鼓励开展多波段联合跟进。
 
 ---
 
-[查看本周完整 ATel](./atels/2026-W38.md)
+
+[查看本周完整 ATel](./atels/2026-W39.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
