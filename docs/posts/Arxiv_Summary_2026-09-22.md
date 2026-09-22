@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 18069: [Identification of a candidate quiescent optical counterpart to MAXI J1750-327 / EP260812c](https://www.astronomerstelegram.org/?read=18069)
-- **日期**: 22 Sep 2026 UT | **源**: `MAXI J1750-327`
-
-**爆发速递**: 研究人员利用DECam和Vera C. Rubin天文台的数据，证认了新X射线暂现源MAXI J1750-327（亦即EP260812c）的候选宁歇期光学对应体，并估算其轨道周期约为18小时。
-**观测短评**: 该目标为低质量X射线双星，其光学对应体星等处于20-21等左右，接近我们1m望远镜的测光极限，但由于目标处于宁歇期且亮度较暗，目前暂无直接使用自有1m望远镜跟进的迫切需求，建议持续关注其后续活动及多波段演化。
-
----
-
-### [6] | ATel 18068: [A new superoutburst of the period-gap SU UMa-type dwarf nova Gaia22cax](https://www.astronomerstelegram.org/?read=18068)
-- **日期**: 21 Sep 2026 UT | **源**: `Gaia22cax`
-
-**爆发速递**: 研究人员利用LCO全球网等多个光学望远镜设备，成功监测并证认了周期间隙内SU UMa型矮新星Gaia22cax的一次新超级爆发，并观测到了明显的超级驼峰调制现象。**观测短评**: 该目标属于激变变星，且具有明确的光学后随价值和周期演化研究意义。考虑到本课题组拥有1m光学望远镜，具备开展此类光学暂现源跟进监测的能力，值得关注并评估是否加入后随观测。之
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W39.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-22
 
 *Tags: #arXiv #Astrophysics*
 
@@ -369,5 +338,3 @@
   - *利用XRISM卫星观测弱冷却核心星系团A3571的气体运动学，研究其冷却率与加热率的平衡机制。*
 - **[0]** [Complex frequency evolution of direct waves from binary black hole mergers](https://arxiv.org/abs/2608.23209v2)
   - *该论文研究了双黑洞合并中直接波的复杂频率演化及其与剩余视界性质的关系。*
-
-[查看历史目录](./posts/index.md)
