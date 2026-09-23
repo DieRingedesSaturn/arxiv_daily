@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 18074: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=18074)
-- **日期**: 23 Sep 2026 UT | **源**: `Unknown`
-
-**爆发速递**: Lick 3米望远镜上的 Kast 光谱仪对多个由 YSE 和 ZTF 提供的主流暂现源进行了光谱分类，其中包括两颗 II 型超新星和一颗 Ia 型超新星。
-**观测短评**: 本篇 ATel 报道的是超新星的光谱分类结果，与本课题组专注的黑洞 X 射线双星、活动星系核及吸积物理等核心研究领域无关，不具备光学后随观测价值，亦无申请其他空间或地面设备跟进的必要。
-
----
-
-### [1] | ATel 18073: [Swift Observations of V1452 Tau - Emission from Beryllium (7Be II) Revealed ?](https://www.astronomerstelegram.org/?read=18073)
-- **日期**: 22 Sep 2026 UT | **源**: `V1452 Tau`
-
-**爆发速递**: Swift望远镜对银河系新星V1452 Tau进行了紫外/光学光栅观测，在光谱中探测到了Mg II及可能的7Be II发射线，但未探测到X射线辐射。
-**观测短评**: 该目标为新星，与本组核心关注的黑洞及活动星系核吸积物理关联较弱。虽然其处于本台1m望远镜的可测光星等范围内，但缺乏直接申请空间多波段跟进的必要性。
-
----
-
-[查看本周完整 ATel](./atels/2026-W39.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-23
 
 *Tags: #arXiv #Astrophysics*
 
@@ -245,5 +214,3 @@
   - *该论文探讨了太阳发电机模型与行星潮汐及引力作用之间的微弱同步机制。*
 - **[0]** [A Common Antimatter Response in AMS-02 Positrons and Antiprotons](https://arxiv.org/abs/2606.04043v2)
   - *该论文提出了一个统一的有限历史图像来解释宇宙线正电子和反质子的能谱特征，与本课题组研究的吸积物理、喷流及暂现源方向无关。*
-
-[查看历史目录](./posts/index.md)
