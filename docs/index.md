@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [8] | ATel 18069: [Identification of a candidate quiescent optical counterpart to MAXI J1750-327 / EP260812c](https://www.astronomerstelegram.org/?read=18069)
-- **日期**: 22 Sep 2026 UT | **源**: `MAXI J1750-327`
+### [0] | ATel 18074: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=18074)
+- **日期**: 23 Sep 2026 UT | **源**: `Unknown`
 
-**爆发速递**: 研究人员利用DECam和Vera C. Rubin天文台的数据，证认了新X射线暂现源MAXI J1750-327（亦即EP260812c）的候选宁歇期光学对应体，并估算其轨道周期约为18小时。
-**观测短评**: 该目标为低质量X射线双星，其光学对应体星等处于20-21等左右，接近我们1m望远镜的测光极限，但由于目标处于宁歇期且亮度较暗，目前暂无直接使用自有1m望远镜跟进的迫切需求，建议持续关注其后续活动及多波段演化。
-
----
-
-### [6] | ATel 18068: [A new superoutburst of the period-gap SU UMa-type dwarf nova Gaia22cax](https://www.astronomerstelegram.org/?read=18068)
-- **日期**: 21 Sep 2026 UT | **源**: `Gaia22cax`
-
-**爆发速递**: 研究人员利用LCO全球网等多个光学望远镜设备，成功监测并证认了周期间隙内SU UMa型矮新星Gaia22cax的一次新超级爆发，并观测到了明显的超级驼峰调制现象。**观测短评**: 该目标属于激变变星，且具有明确的光学后随价值和周期演化研究意义。考虑到本课题组拥有1m光学望远镜，具备开展此类光学暂现源跟进监测的能力，值得关注并评估是否加入后随观测。之
+**爆发速递**: Lick 3米望远镜上的 Kast 光谱仪对多个由 YSE 和 ZTF 提供的主流暂现源进行了光谱分类，其中包括两颗 II 型超新星和一颗 Ia 型超新星。
+**观测短评**: 本篇 ATel 报道的是超新星的光谱分类结果，与本课题组专注的黑洞 X 射线双星、活动星系核及吸积物理等核心研究领域无关，不具备光学后随观测价值，亦无申请其他空间或地面设备跟进的必要。
 
 ---
 
+### [1] | ATel 18073: [Swift Observations of V1452 Tau - Emission from Beryllium (7Be II) Revealed ?](https://www.astronomerstelegram.org/?read=18073)
+- **日期**: 22 Sep 2026 UT | **源**: `V1452 Tau`
+
+**爆发速递**: Swift望远镜对银河系新星V1452 Tau进行了紫外/光学光栅观测，在光谱中探测到了Mg II及可能的7Be II发射线，但未探测到X射线辐射。
+**观测短评**: 该目标为新星，与本组核心关注的黑洞及活动星系核吸积物理关联较弱。虽然其处于本台1m望远镜的可测光星等范围内，但缺乏直接申请空间多波段跟进的必要性。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W39.md)
 
