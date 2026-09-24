@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18074: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=18074)
-- **日期**: 23 Sep 2026 UT | **源**: `Unknown`
+### [3] | ATel 18079: [NGC 1275: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18079)
+- **日期**: 23 Sep 2026 UT | **源**: `NGC 1275`
 
-**爆发速递**: Lick 3米望远镜上的 Kast 光谱仪对多个由 YSE 和 ZTF 提供的主流暂现源进行了光谱分类，其中包括两颗 II 型超新星和一颗 Ia 型超新星。
-**观测短评**: 本篇 ATel 报道的是超新星的光谱分类结果，与本课题组专注的黑洞 X 射线双星、活动星系核及吸积物理等核心研究领域无关，不具备光学后随观测价值，亦无申请其他空间或地面设备跟进的必要。
+**爆发速递**: IceCube合作组利用其中微子望远镜，对射电星系NGC 1275在极高能伽马射线耀发期间的方向进行了径迹型μ子中微子搜索，未探测到显著信号并给出了中微子通量上限。
+**观测短评**: 该目标属于活动星系核(AGN)，但本次ATel仅报道了中微子搜寻结果，缺乏直接的光学测光或光谱监测需求，对我们的1米光学望远镜无直接跟进价值，暂无申请其他设备观测的必要。
+
+---
+
+### [3] | ATel 18078: [Fermi-LAT Gamma-ray Observations of IceCube-260916A](https://www.astronomerstelegram.org/?read=18078)
+- **日期**: 23 Sep 2026 UT | **源**: `Fermi J1026+0359`
+
+**爆发速递**: Fermi-LAT对高能中微子事件IceCube-260916A方向进行了观测，在误差范围内发现了一个新的显著性伽马射线过剩源Fermi J1026+0359，其最可能的对应体是耀变体3HSP J102523.0+040229。**观测短评**: 该目标属于活动星系核（AGN），与我们的多波段和高能天体物理研究方向相关。由于其属于高能伽马射线耀变体且处于高能空间望远镜监测下，本地1米光学望远镜跟进价值相对有限，暂无直接申请地面光学观测的必要。
 
 ---
 
-### [1] | ATel 18073: [Swift Observations of V1452 Tau - Emission from Beryllium (7Be II) Revealed ?](https://www.astronomerstelegram.org/?read=18073)
-- **日期**: 22 Sep 2026 UT | **源**: `V1452 Tau`
-
-**爆发速递**: Swift望远镜对银河系新星V1452 Tau进行了紫外/光学光栅观测，在光谱中探测到了Mg II及可能的7Be II发射线，但未探测到X射线辐射。
-**观测短评**: 该目标为新星，与本组核心关注的黑洞及活动星系核吸积物理关联较弱。虽然其处于本台1m望远镜的可测光星等范围内，但缺乏直接申请空间多波段跟进的必要性。
-
----
 
 [查看本周完整 ATel](./atels/2026-W39.md)
 
