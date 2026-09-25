@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 18081: [Fermi-LAT detection of enhanced gamma-ray activity from the FSRQ PKS 1743+173](https://www.astronomerstelegram.org/?read=18081)
-- **日期**: 24 Sep 2026 UT | **源**: `PKS 1743+173`
-
-**爆发速递**: Fermi-LAT望远镜近期利用FAVA方法探测到平谱射电类星体(FSRQ) PKS 1743+173的增强伽马射线活动，其流量较历史平均水平显著上升，光谱变硬。
-**观测短评**: 该目标为活动星系核(AGN)，契合多波段联合观测的研究兴趣。但由于其主要在高能伽马射线波段增强且红移较高(z=1.702)，光学亮度预计较低，通常超出我方1m光学望远镜的常规跟进能力，建议关注其多波段空间天文台后随进展。
-
----
-
-### [0] | ATel 18080: [Erratum for Atel #18076](https://www.astronomerstelegram.org/?read=18080)
-- **日期**: 24 Sep 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 本文是关于脉冲星ATel #18076的勘误报告，利用FAST 19波束接收器快照观测给出了脉冲星的位置、自转周期、色散量及轨道参数等信息。
-**观测短评**: 该目标为射电脉冲星，不属于黑洞吸积、AGN、TDE或CV等课题组研究兴趣，且无法用1m光学望远镜进行有效跟进，无需申请相关观测。
-
----
-
-[查看本周完整 ATel](./atels/2026-W39.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-25
 
 *Tags: #arXiv #Astrophysics*
 
@@ -239,5 +208,3 @@
   - *该文从理论和量子效应角度探讨了黑洞热力学第三定律以及标量场的质量电荷比。*
 - **[0]** [Wind-confined jet collimation revealed by the acceleration-phase photosphere of GRB 220426A](https://arxiv.org/abs/2608.10841v2)
   - *本文分析了伽马暴GRB 220426A的瞬时辐射，揭示了辐射为主的加速阶段及风约束的喷流准直机制。*
-
-[查看历史目录](./posts/index.md)
