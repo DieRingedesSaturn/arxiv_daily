@@ -119,6 +119,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [PKS_1743+173](./sources/PKS_1743+173.md) | *最新动态: ATel 18081 (24 Sep 2026)*
 - [1ES_1959+650](./sources/1ES_1959+650.md) | *最新动态: ATel 18077 (23 Sep 2026)*
 - [Fermi_J1026+0359](./sources/Fermi_J1026+0359.md) | *最新动态: ATel 18078 (23 Sep 2026)*
 - [NGC_1275](./sources/NGC_1275.md) | *最新动态: ATel 18079 (23 Sep 2026)*

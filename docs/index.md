@@ -7,21 +7,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18079: [NGC 1275: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18079)
-- **日期**: 23 Sep 2026 UT | **源**: `NGC 1275`
+### [6] | ATel 18081: [Fermi-LAT detection of enhanced gamma-ray activity from the FSRQ PKS 1743+173](https://www.astronomerstelegram.org/?read=18081)
+- **日期**: 24 Sep 2026 UT | **源**: `PKS 1743+173`
 
-**爆发速递**: IceCube合作组利用其中微子望远镜，对射电星系NGC 1275在极高能伽马射线耀发期间的方向进行了径迹型μ子中微子搜索，未探测到显著信号并给出了中微子通量上限。
-**观测短评**: 该目标属于活动星系核(AGN)，但本次ATel仅报道了中微子搜寻结果，缺乏直接的光学测光或光谱监测需求，对我们的1米光学望远镜无直接跟进价值，暂无申请其他设备观测的必要。
-
----
-
-### [3] | ATel 18078: [Fermi-LAT Gamma-ray Observations of IceCube-260916A](https://www.astronomerstelegram.org/?read=18078)
-- **日期**: 23 Sep 2026 UT | **源**: `Fermi J1026+0359`
-
-**爆发速递**: Fermi-LAT对高能中微子事件IceCube-260916A方向进行了观测，在误差范围内发现了一个新的显著性伽马射线过剩源Fermi J1026+0359，其最可能的对应体是耀变体3HSP J102523.0+040229。**观测短评**: 该目标属于活动星系核（AGN），与我们的多波段和高能天体物理研究方向相关。由于其属于高能伽马射线耀变体且处于高能空间望远镜监测下，本地1米光学望远镜跟进价值相对有限，暂无直接申请地面光学观测的必要。
+**爆发速递**: Fermi-LAT望远镜近期利用FAVA方法探测到平谱射电类星体(FSRQ) PKS 1743+173的增强伽马射线活动，其流量较历史平均水平显著上升，光谱变硬。
+**观测短评**: 该目标为活动星系核(AGN)，契合多波段联合观测的研究兴趣。但由于其主要在高能伽马射线波段增强且红移较高(z=1.702)，光学亮度预计较低，通常超出我方1m光学望远镜的常规跟进能力，建议关注其多波段空间天文台后随进展。
 
 ---
 
+### [0] | ATel 18080: [Erratum for Atel #18076](https://www.astronomerstelegram.org/?read=18080)
+- **日期**: 24 Sep 2026 UT | **源**: `Unknown`
+
+**爆发速递**: 本文是关于脉冲星ATel #18076的勘误报告，利用FAST 19波束接收器快照观测给出了脉冲星的位置、自转周期、色散量及轨道参数等信息。
+**观测短评**: 该目标为射电脉冲星，不属于黑洞吸积、AGN、TDE或CV等课题组研究兴趣，且无法用1m光学望远镜进行有效跟进，无需申请相关观测。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W39.md)
 
