@@ -42,6 +42,7 @@ nav:
   - 首页: index.md
   - arxiv 日报: posts/
   - ATel 简报: atels/
+  - RSS 订阅: https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_created.xml
 
 extra:
   social:

@@ -235,6 +235,8 @@ def update_indexes(arxiv_files_updated: bool = True):
         f.write(
             f"# ArXiv Daily Tracker\n\n"
             f"> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。\n\n"
+            f"> [RSS 订阅](https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_created.xml)"
+            f" — 每日更新自动推送\n\n"
             f"## 监控配置\n"
             f"- **arXiv 分类**: `{', '.join(ARXIV_CATEGORIES)}`\n"
             f"- **ATel 范围**: 17680 之后\n"

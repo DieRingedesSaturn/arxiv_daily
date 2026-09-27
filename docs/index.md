@@ -2,6 +2,8 @@
 
 > 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
 
+> [RSS 订阅](https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_created.xml) — 每日更新自动推送
+
 ## 监控配置
 - **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
 - **ATel 范围**: 17680 之后
