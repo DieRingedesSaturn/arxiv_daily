@@ -1,5 +1,6 @@
 site_name: ArXiv Daily Tracker
 site_url: https://DieRingedesSaturn.github.io/arxiv_daily/
+site_description: 每日 arXiv 高能天体物理论文筛选与 ATel 简报
 edit_uri: ""
 
 theme:
@@ -42,5 +43,17 @@ nav:
   - arxiv 日报: posts/
   - ATel 简报: atels/
 
+extra:
+  social:
+    - icon: material/rss
+      link: https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_created.xml
+      name: RSS 订阅
+
 plugins:
   - search
+  - rss:
+      match_path: '(posts/Arxiv_Summary_|atels/\d{4}-W)'
+      length: 20
+      abstract_chars_count: -1
+      pretty_print: true
+      image: https://DieRingedesSaturn.github.io/arxiv_daily/assets/images/favicon.png
