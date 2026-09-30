@@ -1,28 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [8] | ATel 18082: [SRG/ART-XC detection of the possible new outburst of AX J1820.5-1434](https://www.astronomerstelegram.org/?read=18082)
-- **日期**: 29 Sep 2026 UT | **源**: `AX J1820.5-1434`
-
-**爆发速递**: SRG卫星搭载的ART-XC望远镜在银道面观测中发现了一个明亮的X射线暂现源，其位置与高质量X射线双星候选体AX J1820.5-1434高度吻合，亮度较以往全天巡天提升超一个量级，推测为该源的新一轮爆发。
-**观测短评**: 该源是一颗重度吸收的高质量X射线双星，作者鼓励开展X射线及近红外-红外后随观测。虽然其光学消光可能较大且超出了1米望远镜的极限，但多波段联合观测需求契合本组方向，具备跟进价值。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W40.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-09-30
 
 *Tags: #arXiv #Astrophysics*
 
@@ -232,5 +208,3 @@
   - *本文介绍了针对ASO-S硬 X 射线成像仪（HXI）的物理约束深度学习成像算法HXI-DLA2。*
 - **[0]** [A Comparative Study of the Streaming Instability: Unstratified Models with Marginally Coupled Grains](https://arxiv.org/abs/2603.04558v3)
   - *本文利用七种流体力学程序对原行星盘中的流体力学不稳定性进行了系统性数值模拟比较。*
-
-[查看历史目录](./posts/index.md)
