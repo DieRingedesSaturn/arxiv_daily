@@ -7,23 +7,16 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 18081: [Fermi-LAT detection of enhanced gamma-ray activity from the FSRQ PKS 1743+173](https://www.astronomerstelegram.org/?read=18081)
-- **日期**: 24 Sep 2026 UT | **源**: `PKS 1743+173`
+### [8] | ATel 18082: [SRG/ART-XC detection of the possible new outburst of AX J1820.5-1434](https://www.astronomerstelegram.org/?read=18082)
+- **日期**: 29 Sep 2026 UT | **源**: `AX J1820.5-1434`
 
-**爆发速递**: Fermi-LAT望远镜近期利用FAVA方法探测到平谱射电类星体(FSRQ) PKS 1743+173的增强伽马射线活动，其流量较历史平均水平显著上升，光谱变硬。
-**观测短评**: 该目标为活动星系核(AGN)，契合多波段联合观测的研究兴趣。但由于其主要在高能伽马射线波段增强且红移较高(z=1.702)，光学亮度预计较低，通常超出我方1m光学望远镜的常规跟进能力，建议关注其多波段空间天文台后随进展。
-
----
-
-### [0] | ATel 18080: [Erratum for Atel #18076](https://www.astronomerstelegram.org/?read=18080)
-- **日期**: 24 Sep 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 本文是关于脉冲星ATel #18076的勘误报告，利用FAST 19波束接收器快照观测给出了脉冲星的位置、自转周期、色散量及轨道参数等信息。
-**观测短评**: 该目标为射电脉冲星，不属于黑洞吸积、AGN、TDE或CV等课题组研究兴趣，且无法用1m光学望远镜进行有效跟进，无需申请相关观测。
+**爆发速递**: SRG卫星搭载的ART-XC望远镜在银道面观测中发现了一个明亮的X射线暂现源，其位置与高质量X射线双星候选体AX J1820.5-1434高度吻合，亮度较以往全天巡天提升超一个量级，推测为该源的新一轮爆发。
+**观测短评**: 该源是一颗重度吸收的高质量X射线双星，作者鼓励开展X射线及近红外-红外后随观测。虽然其光学消光可能较大且超出了1米望远镜的极限，但多波段联合观测需求契合本组方向，具备跟进价值。
 
 ---
 
-[查看本周完整 ATel](./atels/2026-W39.md)
+
+[查看本周完整 ATel](./atels/2026-W40.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
