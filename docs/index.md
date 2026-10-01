@@ -7,6 +7,14 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [3] | ATel 18083: [SU Lyn, the prototype of LowAcc symbiotic stars, is undergoing a major surge in accretion](https://www.astronomerstelegram.org/?read=18083)
+- **日期**: 1 Oct 2026 UT | **源**: `SU Lyn`
+
+**爆发速递**: 低吸积共生星原型 SU Lyn 被监测到正在经历一次主要的吸积激增，其光学和紫外辐射显著增强，并出现了强烈的发射线。
+**观测短评**: 该目标属于共生星系统，虽然不属于我们的核心研究领域，但其处于光学亮态且具有光学监测价值。鉴于其V波段约8.5等，在我们1米望远镜的观测能力范围内，可考虑进行常规光学跟进，暂无急需申请空间高能设备的必要。
+
+---
+
 ### [8] | ATel 18082: [SRG/ART-XC detection of the possible new outburst of AX J1820.5-1434](https://www.astronomerstelegram.org/?read=18082)
 - **日期**: 29 Sep 2026 UT | **源**: `AX J1820.5-1434`
 
@@ -14,7 +22,6 @@
 **观测短评**: 该源是一颗重度吸收的高质量X射线双星，作者鼓励开展X射线及近红外-红外后随观测。虽然其光学消光可能较大且超出了1米望远镜的极限，但多波段联合观测需求契合本组方向，具备跟进价值。
 
 ---
-
 
 [查看本周完整 ATel](./atels/2026-W40.md)
 
