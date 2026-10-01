@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 18083: [SU Lyn, the prototype of LowAcc symbiotic stars, is undergoing a major surge in accretion](https://www.astronomerstelegram.org/?read=18083)
-- **日期**: 1 Oct 2026 UT | **源**: `SU Lyn`
-
-**爆发速递**: 低吸积共生星原型 SU Lyn 被监测到正在经历一次主要的吸积激增，其光学和紫外辐射显著增强，并出现了强烈的发射线。
-**观测短评**: 该目标属于共生星系统，虽然不属于我们的核心研究领域，但其处于光学亮态且具有光学监测价值。鉴于其V波段约8.5等，在我们1米望远镜的观测能力范围内，可考虑进行常规光学跟进，暂无急需申请空间高能设备的必要。
-
----
-
-### [8] | ATel 18082: [SRG/ART-XC detection of the possible new outburst of AX J1820.5-1434](https://www.astronomerstelegram.org/?read=18082)
-- **日期**: 29 Sep 2026 UT | **源**: `AX J1820.5-1434`
-
-**爆发速递**: SRG卫星搭载的ART-XC望远镜在银道面观测中发现了一个明亮的X射线暂现源，其位置与高质量X射线双星候选体AX J1820.5-1434高度吻合，亮度较以往全天巡天提升超一个量级，推测为该源的新一轮爆发。
-**观测短评**: 该源是一颗重度吸收的高质量X射线双星，作者鼓励开展X射线及近红外-红外后随观测。虽然其光学消光可能较大且超出了1米望远镜的极限，但多波段联合观测需求契合本组方向，具备跟进价值。
-
----
-
-[查看本周完整 ATel](./atels/2026-W40.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-10-01
 
 *Tags: #arXiv #Astrophysics*
 
@@ -182,5 +151,3 @@
   - *本文介绍了用于太阳耀斑预报的15年多模态数据集JW-FD，与课题组黑洞吸积和暂现源研究无关。*
 - **[0]** [Bounds on massive graviton-like particles from searches for axion-like particles coupling to photons](https://arxiv.org/abs/2605.00549v2)
   - *本文利用轴子样粒子的光子耦合约束重新解释了有质量引力子样粒子的限制，属于基础物理与暗物质研究范畴。*
-
-[查看历史目录](./posts/index.md)
