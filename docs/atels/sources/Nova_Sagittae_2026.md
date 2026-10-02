@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18084: [V488 Sge has become a super-soft X-ray source](https://www.astronomerstelegram.org/?read=18084)
+- **日期**: 1 Oct 2026 UT
+
+**爆发速递**: Swift卫星对新星V488 Sge进行X射线监测，在其近期观测中发现软X射线计数显著增加，标志着该系统正式进入超软源(SSS)阶段并展现出快速光变。
+**观测短评**: 该目标属于经典新星，虽然其演化出超软X射线源阶段具有物理研究价值，但由于其主要在X射线和高能段活动，且属于新星范畴，与本组核心黑洞吸积及AGN研究契合度一般，且光学亮度对于1米望远镜的跟进可能并非最优选择，暂无必要申请专门设备观测。
+
+---
+
 ### ATel 18053: [Continuing optical spectroscopic monitoring of  V488 Sge (Nova Sge 2026) by the ARAS group](https://www.astronomerstelegram.org/?read=18053)
 - **日期**: 17 Sep 2026 UT
 
