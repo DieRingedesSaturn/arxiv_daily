@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 18085: [Swift Observations of NGC 1275 Find Historically High UV and X-ray Fluxes](https://www.astronomerstelegram.org/?read=18085)
-- **日期**: 1 Oct 2026 UT | **源**: `NGC 1275`
-
-**爆发速递**: 本文使用Swift卫星对英仙座星系团中心活动星系核NGC 1275进行了多波段监测，发现其紫外(M2波段，m_M2约为15.53等)及X射线(0.3-10 keV)通量均达到了20年监测历史以来的最高水平。**观测短评**: 该目标属于AGN，具有极高的多波段活动性与联合观测价值。由于其光学测光星等在我们的1m望远镜极限(21等)以内且亮于光谱极限(16等)，具备光学监测或后随价值，但受限于其耀变体性质，是否申请跟进需结合具体多波段多信使联测需求决定。
-
----
-
-### [4] | ATel 18084: [V488 Sge has become a super-soft X-ray source](https://www.astronomerstelegram.org/?read=18084)
-- **日期**: 1 Oct 2026 UT | **源**: `V488 Sge`
-
-**爆发速递**: Swift卫星对新星V488 Sge进行X射线监测，在其近期观测中发现软X射线计数显著增加，标志着该系统正式进入超软源(SSS)阶段并展现出快速光变。
-**观测短评**: 该目标属于经典新星，虽然其演化出超软X射线源阶段具有物理研究价值，但由于其主要在X射线和高能段活动，且属于新星范畴，与本组核心黑洞吸积及AGN研究契合度一般，且光学亮度对于1米望远镜的跟进可能并非最优选择，暂无必要申请专门设备观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W40.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-10-02
 
 *Tags: #arXiv #Astrophysics*
 
@@ -247,5 +216,3 @@
   - *本文研究了通过未来中微子天文台探测弥漫超新星中微子背景（DSNB）来约束非标准中微子自相互作用的方法。*
 - **[0]** [Early Planet Formation in Embedded Disks (eDisk). XXV. Inclination-Induced Minor-Axis Brightness Asymmetries Reveal Limited Dust Settling in Embedded Protostellar Disks](https://arxiv.org/abs/2609.39501v2)
   - *本文利用辐射转移模型研究了原恒星盘中尘埃沉降的几何诊断方法，发现嵌入盘在Class 0/I阶段缺乏明显的尘埃沉降。*
-
-[查看历史目录](./posts/index.md)
