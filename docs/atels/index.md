@@ -86,6 +86,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [SU_Lyn](./sources/SU_Lyn.md) | *最新动态: ATel 18086 (2 Oct 2026)*
 - [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18084 (1 Oct 2026)*
 - [Gaia22cax](./sources/Gaia22cax.md) | *最新动态: ATel 18068 (21 Sep 2026)*
 - [Gaia20cnt](./sources/Gaia20cnt.md) | *最新动态: ATel 18059 (19 Sep 2026)*
@@ -190,7 +191,6 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
-- [SU_Lyn](./sources/SU_Lyn.md) | *最新动态: ATel 18083 (1 Oct 2026)*
 - [PSR_J1901+0649](./sources/PSR_J1901+0649.md) | *最新动态: ATel 18076 (23 Sep 2026)*
 - [TCP_J05210763+2338194](./sources/TCP_J05210763+2338194.md) | *最新动态: ATel 18073 (22 Sep 2026)*
 - [XTE_J1810-189](./sources/XTE_J1810-189.md) | *最新动态: ATel 18040 (14 Sep 2026)*

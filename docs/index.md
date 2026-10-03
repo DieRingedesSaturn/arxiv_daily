@@ -7,18 +7,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [6] | ATel 18086: [Swift X-ray and ultraviolet followup observations of the new enhanced activity phase of SU Lyn](https://www.astronomerstelegram.org/?read=18086)
+- **日期**: 2 Oct 2026 UT | **源**: `SU Lyn`
+
+**爆发速递**: Swift卫星对共生星SU Lyn的高光学活动期进行了X射线和紫外后随观测，紫外波段成功探测并显示出强烈的紫外辐射，但未探测到X射线。
+**观测短评**: 该目标属于共生星/激变变星系统，且处于高活动期，其亮度在1m望远镜的测光极限范围内，具备光学后随观测价值，可评估使用我们的望远镜进行跟进。无需紧急申请其他大型空间X射线设备观测。
+
+---
+
 ### [6] | ATel 18085: [Swift Observations of NGC 1275 Find Historically High UV and X-ray Fluxes](https://www.astronomerstelegram.org/?read=18085)
 - **日期**: 1 Oct 2026 UT | **源**: `NGC 1275`
 
 **爆发速递**: 本文使用Swift卫星对英仙座星系团中心活动星系核NGC 1275进行了多波段监测，发现其紫外(M2波段，m_M2约为15.53等)及X射线(0.3-10 keV)通量均达到了20年监测历史以来的最高水平。**观测短评**: 该目标属于AGN，具有极高的多波段活动性与联合观测价值。由于其光学测光星等在我们的1m望远镜极限(21等)以内且亮于光谱极限(16等)，具备光学监测或后随价值，但受限于其耀变体性质，是否申请跟进需结合具体多波段多信使联测需求决定。
-
----
-
-### [4] | ATel 18084: [V488 Sge has become a super-soft X-ray source](https://www.astronomerstelegram.org/?read=18084)
-- **日期**: 1 Oct 2026 UT | **源**: `V488 Sge`
-
-**爆发速递**: Swift卫星对新星V488 Sge进行X射线监测，在其近期观测中发现软X射线计数显著增加，标志着该系统正式进入超软源(SSS)阶段并展现出快速光变。
-**观测短评**: 该目标属于经典新星，虽然其演化出超软X射线源阶段具有物理研究价值，但由于其主要在X射线和高能段活动，且属于新星范畴，与本组核心黑洞吸积及AGN研究契合度一般，且光学亮度对于1米望远镜的跟进可能并非最优选择，暂无必要申请专门设备观测。
 
 ---
 
