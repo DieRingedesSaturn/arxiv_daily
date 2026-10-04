@@ -1,8 +1,16 @@
 # Source: ASASSN-26dt
 
-*Tags: #ATel #Other*
+*Tags: #ATel #CV*
 
-- **类别**: Other
+- **类别**: CV
+
+---
+
+### ATel 18087: [S-CUBED Detects Supersoft X-ray Counterpart to the SMC Nova ASASSN-26dt](https://www.astronomerstelegram.org/?read=18087)
+- **日期**: 3 Oct 2026 UT
+
+**爆发速递**: Swift望远镜的S-CUBED巡天项目首次在小麦哲伦星云的新星ASASSN-26dt中探测到了超软X射线对应体，展现出高温黑体谱特征并进入超软X射线源阶段。
+**观测短评**: 该目标是一颗新星，偏向激变变星范畴，但由于其位于小麦哲伦星云且光学星等偏暗（B=16.34等，V=16.53等），超出了我们1米望远镜的测光与光谱极限，暂无直接光学后随观测价值，也无需申请额外设备跟进。
 
 ---
 

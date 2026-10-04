@@ -1,8 +1,15 @@
 # Source: Nova Sagittae 2026
 
-*Tags: #ATel #CV*
+*Tags: #ATel #Other*
 
-- **类别**: CV
+- **类别**: Other
+
+---
+
+### ATel 18088: [VLA radio detection of Nova Sagittae 2026 (V488 Sge)](https://www.astronomerstelegram.org/?read=18088)
+- **日期**: 3 Oct 2026 UT
+
+**爆发速递**: 本文报道了使用VLA对经典新星V488 Sge进行的2.6-35 GHz射电观测。该新星在光学峰值后约14天首次在高频被探测到，在31天时在所有频段被清晰探测，展现出自由-自由吸收特征的倒转射电谱。**观测短评**: 该目标为一颗明亮的经典新星，虽然其光学阶段适合地面小望远镜跟进，但本项目主要关注射电辐射特征，与本课题组核心的黑洞和活动星系核吸积喷流物理关联较弱，暂无使用自有1米望远镜或申请其他设备的紧迫需求。
 
 ---
 
