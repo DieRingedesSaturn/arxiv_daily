@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 18089: [Detection of 205.7 s X-ray pulsations from the Be/X-ray binary pulsar LS V +44 17 during its September 2026 outburst](https://www.astronomerstelegram.org/?read=18089)
-- **日期**: 4 Oct 2026 UT | **源**: `LS V +44 17`
-
-**爆发速递**: 本文报道了Be/X射线双星脉冲星LS V +44 17在2026年9月爆发期间，利用XPoSat卫星的XSPECT载荷进行的X射线时变与能谱分析结果，探测到了约205.7秒的强X射线脉动。
-**观测短评**: 该目标属于中子星X射线双星，虽然伴星具有光学对应体，但核心研究偏向X射线能谱与时变分析，且属于高能暂现源，与本课题组侧重的黑洞吸积及1米望远镜常规跟进方向契合度较低，暂无必要申请其他设备后随观测。
-
----
-
-### [3] | ATel 18088: [VLA radio detection of Nova Sagittae 2026 (V488 Sge)](https://www.astronomerstelegram.org/?read=18088)
-- **日期**: 3 Oct 2026 UT | **源**: `V488 Sge`
-
-**爆发速递**: 本文报道了使用VLA对经典新星V488 Sge进行的2.6-35 GHz射电观测。该新星在光学峰值后约14天首次在高频被探测到，在31天时在所有频段被清晰探测，展现出自由-自由吸收特征的倒转射电谱。**观测短评**: 该目标为一颗明亮的经典新星，虽然其光学阶段适合地面小望远镜跟进，但本项目主要关注射电辐射特征，与本课题组核心的黑洞和活动星系核吸积喷流物理关联较弱，暂无使用自有1米望远镜或申请其他设备的紧迫需求。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W40.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-10-05
 
 *Tags: #arXiv #Astrophysics*
 
@@ -143,5 +112,3 @@
   - *该论文研究了第一代恒星和星系形成过程中的引力坍缩加速小尺度发电机效应及磁场放大机制。*
 - **[0]** [Robust Bayesian non-linear pulsar timing and noise analysis using a sequential data-tempered ensemble sampler](https://arxiv.org/abs/2610.02737v1)
   - *本文开发了一种用于脉冲星计时和噪声分析的贝叶斯非线性顺序MCMC采样方案。*
-
-[查看历史目录](./posts/index.md)
