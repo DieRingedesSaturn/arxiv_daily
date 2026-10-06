@@ -1,8 +1,16 @@
 # Source: Nova Sagittae 2026
 
-*Tags: #ATel #Other*
+*Tags: #ATel #CV*
 
-- **类别**: Other
+- **类别**: CV
+
+---
+
+### ATel 18090: [V488 Sge transitions to the nebular phase: the significant [O III] emission](https://www.astronomerstelegram.org/?read=18090)
+- **日期**: 5 Oct 2026 UT
+
+**爆发速递**: 本文报道了经典新星V488 Sge演化至星云相的光谱观测结果。研究团队使用MATCH 1米望远镜及ARAS项目对其进行了多天光谱监测，发现其[O III]禁线显著增强，标志着新星由稠密光球相向星云相的转变。
+**观测短评**: 该目标为新星，属于课题组1米望远镜跟进的备选范畴，但鉴于已有专业地面望远镜（如MATCH 1米等）开展了高频光谱监测且该源不属于核心黑洞吸积研究范畴，我方无需额外申请设备进行跟进。
 
 ---
 

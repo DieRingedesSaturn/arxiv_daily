@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W41](2026-W41.md)
 - [2026-W40](2026-W40.md)
 - [2026-W39](2026-W39.md)
 - [2026-W38](2026-W38.md)
@@ -39,6 +40,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
+- [XRISM_J1729-1410](./sources/XRISM_J1729-1410.md) | *最新动态: ATel 18092 (6 Oct 2026)*
 - [4U_1630-472](./sources/4U_1630-472.md) | *最新动态: ATel 18070 (22 Sep 2026)*
 - [SRGA_J174800.5-280826](./sources/SRGA_J174800.5-280826.md) | *最新动态: ATel 18050 (16 Sep 2026)*
 - [Cyg_X-3](./sources/Cyg_X-3.md) | *最新动态: ATel 18049 (16 Sep 2026)*
@@ -86,6 +88,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18090 (5 Oct 2026)*
 - [ASASSN-26dt](./sources/ASASSN-26dt.md) | *最新动态: ATel 18087 (3 Oct 2026)*
 - [SU_Lyn](./sources/SU_Lyn.md) | *最新动态: ATel 18086 (2 Oct 2026)*
 - [Gaia22cax](./sources/Gaia22cax.md) | *最新动态: ATel 18068 (21 Sep 2026)*
@@ -191,7 +194,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
-- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18088 (3 Oct 2026)*
+- [AT_2026adgl](./sources/AT_2026adgl.md) | *最新动态: ATel 18091 (5 Oct 2026)*
 - [PSR_J1901+0649](./sources/PSR_J1901+0649.md) | *最新动态: ATel 18076 (23 Sep 2026)*
 - [TCP_J05210763+2338194](./sources/TCP_J05210763+2338194.md) | *最新动态: ATel 18073 (22 Sep 2026)*
 - [XTE_J1810-189](./sources/XTE_J1810-189.md) | *最新动态: ATel 18040 (14 Sep 2026)*
