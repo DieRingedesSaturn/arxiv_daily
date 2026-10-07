@@ -1,35 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [6] | ATel 18092: [XRISM/Xtend Transient Search (XTS) detected an X-ray brightening from XRISM J1729-1410](https://www.astronomerstelegram.org/?read=18092)
-- **日期**: 6 Oct 2026 UT | **源**: `XRISM J1729-1410`
-
-**爆发速递**: XRISM/Xtend Transient Search (XTS) 团队利用 XRISM 卫星探测到一个新的 X 射线暂现源 XRISM J1729-1410 的亮度增强。其能谱可用吸收幂律模型拟合，光子指数约为 1.6。
-**观测短评**: 该目标表现出 X 射线增亮及硬能谱特征，可能与黑洞或中子星 X 射线双星有关。考虑到其通量水平较低且暂未提供光学对应体星等信息，需进一步结合多波段观测以确认其物理本质，暂时可作为X射线关注目标。
-
----
-
-### [1] | ATel 18091: [Independent Discovery and Time-Resolved Photometry of AT 2026adgl](https://www.astronomerstelegram.org/?read=18091)
-- **日期**: 5 Oct 2026 UT | **源**: `AT 2026adgl`
-
-**爆发速递**: Ondrejov望远镜团队通过M31中心巡天独立发现了暂现源AT 2026adgl，经时变光度测量与H-alpha观测证实，该目标实为银河系内M型主序星的耀发，而非M31星系内的经典新星。
-**观测短评**: 该目标本质是一颗恒星耀发，且处于我们1m望远镜的测光极限附近（R约16至19等），但由于其不属于黑洞、AGN或CV等重点研究范畴，且缺乏空间多波段跟进价值，因此无需使用我们的望远镜进行观测或申请其他设备后随。
-
----
-
-[查看本周完整 ATel](./atels/2026-W41.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-10-07
 
 *Tags: #arXiv #Astrophysics*
 
@@ -253,5 +222,3 @@
   - *本文利用三维流体动力学模拟研究了核心坍缩超新星的抖动喷流爆炸机制，探讨其如何形成超新星遗迹中的环状形貌。*
 - **[0]** [Rotation of the polarization plane in axion fields: application to neutron star polar cap regions](https://arxiv.org/abs/2603.28826v3)
   - *本文研究了轴子场中电磁波偏振面的旋转效应及其在中子星极冠区的应用。*
-
-[查看历史目录](./posts/index.md)
