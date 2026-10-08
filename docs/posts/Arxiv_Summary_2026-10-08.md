@@ -1,37 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-> [RSS 订阅](https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_created.xml) — 每日更新自动推送
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [3] | ATel 18095: [A recent NIR flare of the Blazar CGRaBSJ1751+0939](https://www.astronomerstelegram.org/?read=18095)
-- **日期**: 8 Oct 2026 UT | **源**: `CGRaBS J1751+0939`
-
-**爆发速递**: 有研究团队使用墨西哥2.1米望远镜上的CANICA近红外相机，于2026年9月19日观测到中红移耀变体CGRaBS J1751+0939发生近红外耀发，JHK波段通量相比先前几乎增加了两倍。**观测短评**: 该目标属于活动星系核(AGN)范畴，虽然多波段后随观测有一定科学价值，但由于其处于近红外波段且亮度较高，结合我们的1m光学望远镜能力与核心研究偏好，不属于最优跟进目标，暂无必要申请其他设备进行观测。
-
----
-
-### [0] | ATel 18094: [Slow ASAS-SN optical brightening of the massive LMC double Wolf-Rayet star binary R144=HD38282](https://www.astronomerstelegram.org/?read=18094)
-- **日期**: 8 Oct 2026 UT | **源**: `R144`
-
-**爆发速递**: ASAS-SN和TESS监测发现大麦哲伦星系中的巨大双沃尔夫-拉叶星系统R144=HD38282自2023年中期以来出现持续的光学g波段缓慢变亮现象。
-**观测短评**: 该目标属于大质量WR双星系统演化研究，不属于本课题组重点关注的致密星吸积物理或暂现源范畴。且该星位于大麦哲伦星系，g波段星等约11等，超出本组1米望远镜跟进的核心科研方向，无需申请观测。
-
----
-
-
-[查看本周完整 ATel](./atels/2026-W41.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-10-08
 
 *Tags: #arXiv #Astrophysics*
 
@@ -234,5 +201,3 @@
   - *该论文研究了FGK恒星Ca II红外三重线色球活动指数中的系统性偏差及其物理成因。*
 - **[0]** [Massive scalar fields in eccentric regime: Detectability and constraints from LISA observations of extreme mass-ratio inspirals](https://arxiv.org/abs/2606.27429v2)
   - *本文研究了极端质量比旋近中大质量标量场对引力波形的影响及其LISA观测约束。*
-
-[查看历史目录](./posts/index.md)
