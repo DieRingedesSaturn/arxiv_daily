@@ -9,21 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 18092: [XRISM/Xtend Transient Search (XTS) detected an X-ray brightening from XRISM J1729-1410](https://www.astronomerstelegram.org/?read=18092)
-- **日期**: 6 Oct 2026 UT | **源**: `XRISM J1729-1410`
+### [3] | ATel 18095: [A recent NIR flare of the Blazar CGRaBSJ1751+0939](https://www.astronomerstelegram.org/?read=18095)
+- **日期**: 8 Oct 2026 UT | **源**: `CGRaBS J1751+0939`
 
-**爆发速递**: XRISM/Xtend Transient Search (XTS) 团队利用 XRISM 卫星探测到一个新的 X 射线暂现源 XRISM J1729-1410 的亮度增强。其能谱可用吸收幂律模型拟合，光子指数约为 1.6。
-**观测短评**: 该目标表现出 X 射线增亮及硬能谱特征，可能与黑洞或中子星 X 射线双星有关。考虑到其通量水平较低且暂未提供光学对应体星等信息，需进一步结合多波段观测以确认其物理本质，暂时可作为X射线关注目标。
+**爆发速递**: 有研究团队使用墨西哥2.1米望远镜上的CANICA近红外相机，于2026年9月19日观测到中红移耀变体CGRaBS J1751+0939发生近红外耀发，JHK波段通量相比先前几乎增加了两倍。**观测短评**: 该目标属于活动星系核(AGN)范畴，虽然多波段后随观测有一定科学价值，但由于其处于近红外波段且亮度较高，结合我们的1m光学望远镜能力与核心研究偏好，不属于最优跟进目标，暂无必要申请其他设备进行观测。
+
+---
+
+### [0] | ATel 18094: [Slow ASAS-SN optical brightening of the massive LMC double Wolf-Rayet star binary R144=HD38282](https://www.astronomerstelegram.org/?read=18094)
+- **日期**: 8 Oct 2026 UT | **源**: `R144`
+
+**爆发速递**: ASAS-SN和TESS监测发现大麦哲伦星系中的巨大双沃尔夫-拉叶星系统R144=HD38282自2023年中期以来出现持续的光学g波段缓慢变亮现象。
+**观测短评**: 该目标属于大质量WR双星系统演化研究，不属于本课题组重点关注的致密星吸积物理或暂现源范畴。且该星位于大麦哲伦星系，g波段星等约11等，超出本组1米望远镜跟进的核心科研方向，无需申请观测。
 
 ---
 
-### [1] | ATel 18091: [Independent Discovery and Time-Resolved Photometry of AT 2026adgl](https://www.astronomerstelegram.org/?read=18091)
-- **日期**: 5 Oct 2026 UT | **源**: `AT 2026adgl`
-
-**爆发速递**: Ondrejov望远镜团队通过M31中心巡天独立发现了暂现源AT 2026adgl，经时变光度测量与H-alpha观测证实，该目标实为银河系内M型主序星的耀发，而非M31星系内的经典新星。
-**观测短评**: 该目标本质是一颗恒星耀发，且处于我们1m望远镜的测光极限附近（R约16至19等），但由于其不属于黑洞、AGN或CV等重点研究范畴，且缺乏空间多波段跟进价值，因此无需使用我们的望远镜进行观测或申请其他设备后随。
-
----
 
 [查看本周完整 ATel](./atels/2026-W41.md)
 
