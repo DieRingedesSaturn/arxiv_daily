@@ -1,37 +1,4 @@
-# ArXiv Daily Tracker
-
-> 专注于高能天体物理与暂现源追踪，涵盖吸积物理、双星演化等。
-
-> [RSS 订阅](https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_created.xml) — 每日更新自动推送
-
-## 监控配置
-- **arXiv 分类**: `astro-ph.HE, astro-ph.SR`
-- **ATel 范围**: 17680 之后
-## 最新天文简报 (ATel)
-
-### [0] | ATel 18098: [2026 May Keck/LRIS imaging of interstellar comet 3I/ATLAS](https://www.astronomerstelegram.org/?read=18098)
-- **日期**: 9 Oct 2026 UT | **源**: `3I/ATLAS`
-
-**爆发速递**: 本简报报道了使用凯克望远镜LRIS对星际彗星3I/ATLAS进行的g、R、i波段成像与光度观测，测定了其视星等与颜色，并分析了尘埃散射物理性质。
-**观测短评**: 本文研究对象为太阳系外星际彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域完全无关，我们的光学望远镜亦无跟进观测价值。
-
----
-
-### [1] | ATel 18097: [Extreme Velocity Gradients in the Atmosphere of Betelgeuse: Is Another Dimming Event Imminent?](https://www.astronomerstelegram.org/?read=18097)
-- **日期**: 8 Oct 2026 UT | **源**: `Betelgeuse`
-
-**爆发速递**: STELLA望远镜的高分辨率光学光谱监测显示，红超巨星参宿四的大气层出现了极端速度梯度，预示着其可能即将迎来另一次类似2019/2020年的“大变暗”事件。
-**观测短评**: 目标为亮星演化现象，不属于课题组重点关注的致密星吸积或高能暂现源范畴。虽然其变暗和光学演化适合光学望远镜跟进，但对我们的核心研究无实质帮助，暂无申请其他设备观测的必要。
-
----
-
-[查看本周完整 ATel](./atels/2026-W41.md)
-
-[查看所有 ATel 索引](./atels/index.md)
-
----
-
-## 最新论文 (arXiv)
+# arXiv Daily: 2026-10-09
 
 *Tags: #arXiv #Astrophysics*
 
@@ -283,5 +250,3 @@
   - *利用中子星冷却效应限制了缪子第五力的耦合常数，属于粒子物理与致密星内部物理研究。*
 - **[0]** [Characterizing the hierarchical structure of filaments I. On the origin of the length-mass (L-M) scaling relation](https://arxiv.org/abs/2609.19369v2)
   - *本文研究了分子云中细丝状结构的层级结构与长度-质量（L-M）标度关系的起源。*
-
-[查看历史目录](./posts/index.md)
