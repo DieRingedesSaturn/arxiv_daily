@@ -88,6 +88,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [AT_2026aabo](./sources/AT_2026aabo.md) | *最新动态: ATel 18096 (8 Oct 2026)*
 - [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18090 (5 Oct 2026)*
 - [ASASSN-26dt](./sources/ASASSN-26dt.md) | *最新动态: ATel 18087 (3 Oct 2026)*
 - [SU_Lyn](./sources/SU_Lyn.md) | *最新动态: ATel 18086 (2 Oct 2026)*
@@ -95,7 +96,6 @@
 - [Gaia20cnt](./sources/Gaia20cnt.md) | *最新动态: ATel 18059 (19 Sep 2026)*
 - [AT_2026abyx](./sources/AT_2026abyx.md) | *最新动态: ATel 18055 (18 Sep 2026)*
 - [MGAB-V233](./sources/MGAB-V233.md) | *最新动态: ATel 18056 (18 Sep 2026)*
-- [AT_2026aabo](./sources/AT_2026aabo.md) | *最新动态: ATel 18048 (16 Sep 2026)*
 - [Gaia16ahk](./sources/Gaia16ahk.md) | *最新动态: ATel 18045 (15 Sep 2026)*
 - [PNV_J19450648+1822422](./sources/PNV_J19450648+1822422.md) | *最新动态: ATel 18028 (2 Sep 2026)*
 - [V0488_Sge](./sources/V0488_Sge.md) | *最新动态: ATel 18022 (31 Aug 2026)*
@@ -195,7 +195,9 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 18098 (9 Oct 2026)*
 - [R144](./sources/R144.md) | *最新动态: ATel 18094 (8 Oct 2026)*
+- [Betelgeuse](./sources/Betelgeuse.md) | *最新动态: ATel 18097 (8 Oct 2026)*
 - [AT_2026adgl](./sources/AT_2026adgl.md) | *最新动态: ATel 18091 (5 Oct 2026)*
 - [PSR_J1901+0649](./sources/PSR_J1901+0649.md) | *最新动态: ATel 18076 (23 Sep 2026)*
 - [TCP_J05210763+2338194](./sources/TCP_J05210763+2338194.md) | *最新动态: ATel 18073 (22 Sep 2026)*
@@ -221,7 +223,6 @@
 - [AR_4473](./sources/AR_4473.md) | *最新动态: ATel 17852 (21 Jun 2026)*
 - [EP260617a](./sources/EP260617a.md) | *最新动态: ATel 17850 (19 Jun 2026)*
 - [M81N_2026-06a](./sources/M81N_2026-06a.md) | *最新动态: ATel 17846 (15 Jun 2026)*
-- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 17841 (12 Jun 2026)*
 - [10P_Tempel](./sources/10P_Tempel.md) | *最新动态: ATel 17832 (4 Jun 2026)*
 - [M31N_2026-06a](./sources/M31N_2026-06a.md) | *最新动态: ATel 17826 (2 Jun 2026)*
 - [IRAS_21204+4913](./sources/IRAS_21204+4913.md) | *最新动态: ATel 17823 (30 May 2026)*

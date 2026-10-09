@@ -9,21 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18095: [A recent NIR flare of the Blazar CGRaBSJ1751+0939](https://www.astronomerstelegram.org/?read=18095)
-- **日期**: 8 Oct 2026 UT | **源**: `CGRaBS J1751+0939`
+### [0] | ATel 18098: [2026 May Keck/LRIS imaging of interstellar comet 3I/ATLAS](https://www.astronomerstelegram.org/?read=18098)
+- **日期**: 9 Oct 2026 UT | **源**: `3I/ATLAS`
 
-**爆发速递**: 有研究团队使用墨西哥2.1米望远镜上的CANICA近红外相机，于2026年9月19日观测到中红移耀变体CGRaBS J1751+0939发生近红外耀发，JHK波段通量相比先前几乎增加了两倍。**观测短评**: 该目标属于活动星系核(AGN)范畴，虽然多波段后随观测有一定科学价值，但由于其处于近红外波段且亮度较高，结合我们的1m光学望远镜能力与核心研究偏好，不属于最优跟进目标，暂无必要申请其他设备进行观测。
-
----
-
-### [0] | ATel 18094: [Slow ASAS-SN optical brightening of the massive LMC double Wolf-Rayet star binary R144=HD38282](https://www.astronomerstelegram.org/?read=18094)
-- **日期**: 8 Oct 2026 UT | **源**: `R144`
-
-**爆发速递**: ASAS-SN和TESS监测发现大麦哲伦星系中的巨大双沃尔夫-拉叶星系统R144=HD38282自2023年中期以来出现持续的光学g波段缓慢变亮现象。
-**观测短评**: 该目标属于大质量WR双星系统演化研究，不属于本课题组重点关注的致密星吸积物理或暂现源范畴。且该星位于大麦哲伦星系，g波段星等约11等，超出本组1米望远镜跟进的核心科研方向，无需申请观测。
+**爆发速递**: 本简报报道了使用凯克望远镜LRIS对星际彗星3I/ATLAS进行的g、R、i波段成像与光度观测，测定了其视星等与颜色，并分析了尘埃散射物理性质。
+**观测短评**: 本文研究对象为太阳系外星际彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域完全无关，我们的光学望远镜亦无跟进观测价值。
 
 ---
 
+### [1] | ATel 18097: [Extreme Velocity Gradients in the Atmosphere of Betelgeuse: Is Another Dimming Event Imminent?](https://www.astronomerstelegram.org/?read=18097)
+- **日期**: 8 Oct 2026 UT | **源**: `Betelgeuse`
+
+**爆发速递**: STELLA望远镜的高分辨率光学光谱监测显示，红超巨星参宿四的大气层出现了极端速度梯度，预示着其可能即将迎来另一次类似2019/2020年的“大变暗”事件。
+**观测短评**: 目标为亮星演化现象，不属于课题组重点关注的致密星吸积或高能暂现源范畴。虽然其变暗和光学演化适合光学望远镜跟进，但对我们的核心研究无实质帮助，暂无申请其他设备观测的必要。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W41.md)
 

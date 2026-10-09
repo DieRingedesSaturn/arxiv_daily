@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18098: [2026 May Keck/LRIS imaging of interstellar comet 3I/ATLAS](https://www.astronomerstelegram.org/?read=18098)
+- **日期**: 9 Oct 2026 UT
+
+**爆发速递**: 本简报报道了使用凯克望远镜LRIS对星际彗星3I/ATLAS进行的g、R、i波段成像与光度观测，测定了其视星等与颜色，并分析了尘埃散射物理性质。
+**观测短评**: 本文研究对象为太阳系外星际彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域完全无关，我们的光学望远镜亦无跟进观测价值。
+
+---
+
 ### ATel 17841: [2026 January Gemini imaging and spectroscopic monitoring of 3I/ATLAS](https://www.astronomerstelegram.org/?read=17841)
 - **日期**: 12 Jun 2026 UT
 

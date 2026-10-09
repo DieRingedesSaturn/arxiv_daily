@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 18096: [Dust formation in the M31 nova AT2026aabo](https://www.astronomerstelegram.org/?read=18096)
+- **日期**: 8 Oct 2026 UT
+
+**爆发速递**: 8m Gemini North望远镜搭载GNIRS对M31中的新星AT2026aabo进行了近红外光谱观测，证实喷出物中存在约1160K的黑体连续谱，表明该新星处于早期尘埃形成阶段。 **观测短评**: 该目标为M31新星且处于近红外尘埃形成期，虽然属于适合光学/红外跟进的激变变星相关目标，但由于位于仙女座星系(M31)且偏向近红外波段，超出了我方1m光学望远镜的测光与光谱极限，暂无直接使用该望远镜跟进或申请其他大型设备观测的必要。
+
+---
+
 ### ATel 18048: [MDM/MIRAGE discovery of a pronounced infrared brightening in the luminous nova AT2026aabo in M31](https://www.astronomerstelegram.org/?read=18048)
 - **日期**: 16 Sep 2026 UT
 
