@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 09 Oct 2026 13:26:31 -0000</pubDate>
-    <lastBuildDate>Fri, 09 Oct 2026 13:26:31 -0000</lastBuildDate>
+    <pubDate>Sat, 10 Oct 2026 12:34:45 -0000</pubDate>
+    <lastBuildDate>Sat, 10 Oct 2026 12:34:45 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,91 @@
     
 
     
+    
+    <item>
+      <title>ATel Weekly: 2026-W41</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w41&#34;&gt;ATel Weekly: 2026-W41&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18099-the-swift-follow-up-of-ep260531a-refines-its-sky-position&#34;&gt;[3] | ATel 18099: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18099&#34;&gt;The Swift follow-up of EP260531a refines its sky position&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 9 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;EP260531a&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Swift望远镜对X射线暂现源EP260531a进行了ToO观测，成功将其位置精度提升至2.6角秒，排除了先前的近红外候选体，并测得了高吸收、陡能谱的X射线特征。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标位置偏南（赤纬约-31度），且目前处于X射线辐射且伴随复杂吸积特征，但由于未明确指出其为CV或BHXRB等课题组核心研究的特定类型，且光学对应体存在不确定性，我台1m望远镜跟进价值一般，暂无必要优先申请其他大型设备观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18098-2026-may-kecklris-imaging-of-interstellar-comet-3iatlas&#34;&gt;[0] | ATel 18098: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18098&#34;&gt;2026 May Keck/LRIS imaging of interstellar comet 3I/ATLAS&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 9 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本简报报道了使用凯克望远镜LRIS对星际彗星3I/ATLAS进行的g、R、i波段成像与光度观测，测定了其视星等与颜色，并分析了尘埃散射物理性质。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 本文研究对象为太阳系外星际彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域完全无关，我们的光学望远镜亦无跟进观测价值。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;1-atel-18097-extreme-velocity-gradients-in-the-atmosphere-of-betelgeuse-is-another-dimming-event-imminent&#34;&gt;[1] | ATel 18097: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18097&#34;&gt;Extreme Velocity Gradients in the Atmosphere of Betelgeuse: Is Another Dimming Event Imminent?&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 8 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Betelgeuse&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: STELLA望远镜的高分辨率光学光谱监测显示，红超巨星参宿四的大气层出现了极端速度梯度，预示着其可能即将迎来另一次类似2019/2020年的“大变暗”事件。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 目标为亮星演化现象，不属于课题组重点关注的致密星吸积或高能暂现源范畴。虽然其变暗和光学演化适合光学望远镜跟进，但对我们的核心研究无实质帮助，暂无申请其他设备观测的必要。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18096-dust-formation-in-the-m31-nova-at2026aabo&#34;&gt;[3] | ATel 18096: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18096&#34;&gt;Dust formation in the M31 nova AT2026aabo&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 8 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AT2026aabo&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 8m Gemini North望远镜搭载GNIRS对M31中的新星AT2026aabo进行了近红外光谱观测，证实喷出物中存在约1160K的黑体连续谱，表明该新星处于早期尘埃形成阶段。 &lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为M31新星且处于近红外尘埃形成期，虽然属于适合光学/红外跟进的激变变星相关目标，但由于位于仙女座星系(M31)且偏向近红外波段，超出了我方1m光学望远镜的测光与光谱极限，暂无直接使用该望远镜跟进或申请其他大型设备观测的必要。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18095-a-recent-nir-flare-of-the-blazar-cgrabsj17510939&#34;&gt;[3] | ATel 18095: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18095&#34;&gt;A recent NIR flare of the Blazar CGRaBSJ1751+0939&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 8 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;CGRaBS J1751+0939&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 有研究团队使用墨西哥2.1米望远镜上的CANICA近红外相机，于2026年9月19日观测到中红移耀变体CGRaBS J1751+0939发生近红外耀发，JHK波段通量相比先前几乎增加了两倍。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核(AGN)范畴，虽然多波段后随观测有一定科学价值，但由于其处于近红外波段且亮度较高，结合我们的1m光学望远镜能力与核心研究偏好，不属于最优跟进目标，暂无必要申请其他设备进行观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18094-slow-asas-sn-optical-brightening-of-the-massive-lmc-double-wolf-rayet-star-binary-r144hd38282&#34;&gt;[0] | ATel 18094: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18094&#34;&gt;Slow ASAS-SN optical brightening of the massive LMC double Wolf-Rayet star binary R144=HD38282&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 8 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;R144&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: ASAS-SN和TESS监测发现大麦哲伦星系中的巨大双沃尔夫-拉叶星系统R144=HD38282自2023年中期以来出现持续的光学g波段缓慢变亮现象。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于大质量WR双星系统演化研究，不属于本课题组重点关注的致密星吸积物理或暂现源范畴。且该星位于大麦哲伦星系，g波段星等约11等，超出本组1米望远镜跟进的核心科研方向，无需申请观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18093-the-css-3c-138-brightness-is-at-the-year-maxima-again&#34;&gt;[3] | ATel 18093: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18093&#34;&gt;The CSS 3C 138: brightness is at the year maxima again&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 7 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3C 138&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 紧凑陡谱类星体3C 138近期光学活动频繁，SAO RAS的1米和0.5米光学望远镜观测显示其亮度再次达到年度极大值（R约为15.20星等），随后可能转入变暗阶段。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核（AGN），虽然其光学亮度在1m望远镜的测光极限内，且作者使用了1m望远镜进行观测，但由于其超出我们核心研究领域（BHXRB/AGN的吸积与喷流物理），且属于已知长期监测源，我们暂无必要申请其他设备进行跟进观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-atel-18092-xrismxtend-transient-search-xts-detected-an-x-ray-brightening-from-xrism-j1729-1410&#34;&gt;[6] | ATel 18092: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18092&#34;&gt;XRISM/Xtend Transient Search (XTS) detected an X-ray brightening from XRISM J1729-1410&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 6 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XRISM J1729-1410&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XRISM/Xtend Transient Search (XTS) 团队利用 XRISM 卫星探测到一个新的 X 射线暂现源 XRISM J1729-1410 的亮度增强。其能谱可用吸收幂律模型拟合，光子指数约为 1.6。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标表现出 X 射线增亮及硬能谱特征，可能与黑洞或中子星 X 射线双星有关。考虑到其通量水平较低且暂未提供光学对应体星等信息，需进一步结合多波段观测以确认其物理本质，暂时可作为X射线关注目标。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;1-atel-18091-independent-discovery-and-time-resolved-photometry-of-at-2026adgl&#34;&gt;[1] | ATel 18091: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18091&#34;&gt;Independent Discovery and Time-Resolved Photometry of AT 2026adgl&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 5 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AT 2026adgl&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Ondrejov望远镜团队通过M31中心巡天独立发现了暂现源AT 2026adgl，经时变光度测量与H-alpha观测证实，该目标实为银河系内M型主序星的耀发，而非M31星系内的经典新星。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标本质是一颗恒星耀发，且处于我们1m望远镜的测光极限附近（R约16至19等），但由于其不属于黑洞、AGN或CV等重点研究范畴，且缺乏空间多波段跟进价值，因此无需使用我们的望远镜进行观测或申请其他设备后随。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18090-v488-sge-transitions-to-the-nebular-phase-the-significant-o-iii-emission&#34;&gt;[3] | ATel 18090: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18090&#34;&gt;V488 Sge transitions to the nebular phase: the significant [O III] emission&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 5 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V488 Sge&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报道了经典新星V488 Sge演化至星云相的光谱观测结果。研究团队使用MATCH 1米望远镜及ARAS项目对其进行了多天光谱监测，发现其[O III]禁线显著增强，标志着新星由稠密光球相向星云相的转变。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为新星，属于课题组1米望远镜跟进的备选范畴，但鉴于已有专业地面望远镜（如MATCH 1米等）开展了高频光谱监测且该源不属于核心黑洞吸积研究范畴，我方无需额外申请设备进行跟进。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W41/</link>
+      <pubDate>Sat, 10 Oct 2026 12:34:41 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W41/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-10-09</title>
@@ -244,84 +329,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-09/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W41</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w41&#34;&gt;ATel Weekly: 2026-W41&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18098-2026-may-kecklris-imaging-of-interstellar-comet-3iatlas&#34;&gt;[0] | ATel 18098: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18098&#34;&gt;2026 May Keck/LRIS imaging of interstellar comet 3I/ATLAS&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 9 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本简报报道了使用凯克望远镜LRIS对星际彗星3I/ATLAS进行的g、R、i波段成像与光度观测，测定了其视星等与颜色，并分析了尘埃散射物理性质。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 本文研究对象为太阳系外星际彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域完全无关，我们的光学望远镜亦无跟进观测价值。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;1-atel-18097-extreme-velocity-gradients-in-the-atmosphere-of-betelgeuse-is-another-dimming-event-imminent&#34;&gt;[1] | ATel 18097: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18097&#34;&gt;Extreme Velocity Gradients in the Atmosphere of Betelgeuse: Is Another Dimming Event Imminent?&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 8 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Betelgeuse&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: STELLA望远镜的高分辨率光学光谱监测显示，红超巨星参宿四的大气层出现了极端速度梯度，预示着其可能即将迎来另一次类似2019/2020年的“大变暗”事件。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 目标为亮星演化现象，不属于课题组重点关注的致密星吸积或高能暂现源范畴。虽然其变暗和光学演化适合光学望远镜跟进，但对我们的核心研究无实质帮助，暂无申请其他设备观测的必要。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18096-dust-formation-in-the-m31-nova-at2026aabo&#34;&gt;[3] | ATel 18096: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18096&#34;&gt;Dust formation in the M31 nova AT2026aabo&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 8 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AT2026aabo&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 8m Gemini North望远镜搭载GNIRS对M31中的新星AT2026aabo进行了近红外光谱观测，证实喷出物中存在约1160K的黑体连续谱，表明该新星处于早期尘埃形成阶段。 &lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为M31新星且处于近红外尘埃形成期，虽然属于适合光学/红外跟进的激变变星相关目标，但由于位于仙女座星系(M31)且偏向近红外波段，超出了我方1m光学望远镜的测光与光谱极限，暂无直接使用该望远镜跟进或申请其他大型设备观测的必要。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18095-a-recent-nir-flare-of-the-blazar-cgrabsj17510939&#34;&gt;[3] | ATel 18095: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18095&#34;&gt;A recent NIR flare of the Blazar CGRaBSJ1751+0939&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 8 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;CGRaBS J1751+0939&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 有研究团队使用墨西哥2.1米望远镜上的CANICA近红外相机，于2026年9月19日观测到中红移耀变体CGRaBS J1751+0939发生近红外耀发，JHK波段通量相比先前几乎增加了两倍。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核(AGN)范畴，虽然多波段后随观测有一定科学价值，但由于其处于近红外波段且亮度较高，结合我们的1m光学望远镜能力与核心研究偏好，不属于最优跟进目标，暂无必要申请其他设备进行观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18094-slow-asas-sn-optical-brightening-of-the-massive-lmc-double-wolf-rayet-star-binary-r144hd38282&#34;&gt;[0] | ATel 18094: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18094&#34;&gt;Slow ASAS-SN optical brightening of the massive LMC double Wolf-Rayet star binary R144=HD38282&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 8 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;R144&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: ASAS-SN和TESS监测发现大麦哲伦星系中的巨大双沃尔夫-拉叶星系统R144=HD38282自2023年中期以来出现持续的光学g波段缓慢变亮现象。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于大质量WR双星系统演化研究，不属于本课题组重点关注的致密星吸积物理或暂现源范畴。且该星位于大麦哲伦星系，g波段星等约11等，超出本组1米望远镜跟进的核心科研方向，无需申请观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18093-the-css-3c-138-brightness-is-at-the-year-maxima-again&#34;&gt;[3] | ATel 18093: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18093&#34;&gt;The CSS 3C 138: brightness is at the year maxima again&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 7 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3C 138&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 紧凑陡谱类星体3C 138近期光学活动频繁，SAO RAS的1米和0.5米光学望远镜观测显示其亮度再次达到年度极大值（R约为15.20星等），随后可能转入变暗阶段。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核（AGN），虽然其光学亮度在1m望远镜的测光极限内，且作者使用了1m望远镜进行观测，但由于其超出我们核心研究领域（BHXRB/AGN的吸积与喷流物理），且属于已知长期监测源，我们暂无必要申请其他设备进行跟进观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-atel-18092-xrismxtend-transient-search-xts-detected-an-x-ray-brightening-from-xrism-j1729-1410&#34;&gt;[6] | ATel 18092: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18092&#34;&gt;XRISM/Xtend Transient Search (XTS) detected an X-ray brightening from XRISM J1729-1410&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 6 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XRISM J1729-1410&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XRISM/Xtend Transient Search (XTS) 团队利用 XRISM 卫星探测到一个新的 X 射线暂现源 XRISM J1729-1410 的亮度增强。其能谱可用吸收幂律模型拟合，光子指数约为 1.6。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标表现出 X 射线增亮及硬能谱特征，可能与黑洞或中子星 X 射线双星有关。考虑到其通量水平较低且暂未提供光学对应体星等信息，需进一步结合多波段观测以确认其物理本质，暂时可作为X射线关注目标。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;1-atel-18091-independent-discovery-and-time-resolved-photometry-of-at-2026adgl&#34;&gt;[1] | ATel 18091: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18091&#34;&gt;Independent Discovery and Time-Resolved Photometry of AT 2026adgl&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 5 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AT 2026adgl&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Ondrejov望远镜团队通过M31中心巡天独立发现了暂现源AT 2026adgl，经时变光度测量与H-alpha观测证实，该目标实为银河系内M型主序星的耀发，而非M31星系内的经典新星。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标本质是一颗恒星耀发，且处于我们1m望远镜的测光极限附近（R约16至19等），但由于其不属于黑洞、AGN或CV等重点研究范畴，且缺乏空间多波段跟进价值，因此无需使用我们的望远镜进行观测或申请其他设备后随。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18090-v488-sge-transitions-to-the-nebular-phase-the-significant-o-iii-emission&#34;&gt;[3] | ATel 18090: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18090&#34;&gt;V488 Sge transitions to the nebular phase: the significant [O III] emission&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 5 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V488 Sge&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报道了经典新星V488 Sge演化至星云相的光谱观测结果。研究团队使用MATCH 1米望远镜及ARAS项目对其进行了多天光谱监测，发现其[O III]禁线显著增强，标志着新星由稠密光球相向星云相的转变。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为新星，属于课题组1米望远镜跟进的备选范畴，但鉴于已有专业地面望远镜（如MATCH 1米等）开展了高频光谱监测且该源不属于核心黑洞吸积研究范畴，我方无需额外申请设备进行跟进。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W41/</link>
-      <pubDate>Fri, 09 Oct 2026 13:20:24 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W41/</guid>
       
     </item>
     
