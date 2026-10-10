@@ -9,19 +9,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [3] | ATel 18099: [The Swift follow-up of EP260531a refines its sky position](https://www.astronomerstelegram.org/?read=18099)
+- **日期**: 9 Oct 2026 UT | **源**: `EP260531a`
+
+**爆发速递**: Swift望远镜对X射线暂现源EP260531a进行了ToO观测，成功将其位置精度提升至2.6角秒，排除了先前的近红外候选体，并测得了高吸收、陡能谱的X射线特征。
+**观测短评**: 该目标位置偏南（赤纬约-31度），且目前处于X射线辐射且伴随复杂吸积特征，但由于未明确指出其为CV或BHXRB等课题组核心研究的特定类型，且光学对应体存在不确定性，我台1m望远镜跟进价值一般，暂无必要优先申请其他大型设备观测。
+
+---
+
 ### [0] | ATel 18098: [2026 May Keck/LRIS imaging of interstellar comet 3I/ATLAS](https://www.astronomerstelegram.org/?read=18098)
 - **日期**: 9 Oct 2026 UT | **源**: `3I/ATLAS`
 
 **爆发速递**: 本简报报道了使用凯克望远镜LRIS对星际彗星3I/ATLAS进行的g、R、i波段成像与光度观测，测定了其视星等与颜色，并分析了尘埃散射物理性质。
 **观测短评**: 本文研究对象为太阳系外星际彗星，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等核心研究领域完全无关，我们的光学望远镜亦无跟进观测价值。
-
----
-
-### [1] | ATel 18097: [Extreme Velocity Gradients in the Atmosphere of Betelgeuse: Is Another Dimming Event Imminent?](https://www.astronomerstelegram.org/?read=18097)
-- **日期**: 8 Oct 2026 UT | **源**: `Betelgeuse`
-
-**爆发速递**: STELLA望远镜的高分辨率光学光谱监测显示，红超巨星参宿四的大气层出现了极端速度梯度，预示着其可能即将迎来另一次类似2019/2020年的“大变暗”事件。
-**观测短评**: 目标为亮星演化现象，不属于课题组重点关注的致密星吸积或高能暂现源范畴。虽然其变暗和光学演化适合光学望远镜跟进，但对我们的核心研究无实质帮助，暂无申请其他设备观测的必要。
 
 ---
 

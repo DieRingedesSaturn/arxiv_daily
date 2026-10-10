@@ -49,7 +49,6 @@
 - [GX_339-4](./sources/GX_339-4.md) | *最新动态: ATel 18015 (27 Aug 2026)*
 - [IGR_J17091-3624](./sources/IGR_J17091-3624.md) | *最新动态: ATel 17919 (22 Jul 2026)*
 - [GRS_1915+105](./sources/GRS_1915+105.md) | *最新动态: ATel 17883 (10 Jul 2026)*
-- [EP260531a](./sources/EP260531a.md) | *最新动态: ATel 17844 (15 Jun 2026)*
 - [GS_1354-64](./sources/GS_1354-64.md) | *最新动态: ATel 17771 (1 May 2026)*
 - [IGR_J17331-2406](./sources/IGR_J17331-2406.md) | *最新动态: ATel 17751 (12 Apr 2026)*
 - [MAXI_J1816-195](./sources/MAXI_J1816-195.md) | *最新动态: ATel 17734 (1 Apr 2026)*
@@ -196,6 +195,7 @@
 
 ### Other
 - [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 18098 (9 Oct 2026)*
+- [EP260531a](./sources/EP260531a.md) | *最新动态: ATel 18099 (9 Oct 2026)*
 - [R144](./sources/R144.md) | *最新动态: ATel 18094 (8 Oct 2026)*
 - [Betelgeuse](./sources/Betelgeuse.md) | *最新动态: ATel 18097 (8 Oct 2026)*
 - [AT_2026adgl](./sources/AT_2026adgl.md) | *最新动态: ATel 18091 (5 Oct 2026)*
