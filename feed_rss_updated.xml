@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 10 Oct 2026 12:34:45 -0000</pubDate>
-    <lastBuildDate>Sat, 10 Oct 2026 12:34:45 -0000</lastBuildDate>
+    <pubDate>Sun, 11 Oct 2026 12:53:06 -0000</pubDate>
+    <lastBuildDate>Sun, 11 Oct 2026 12:53:06 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,6 +39,13 @@
       
       <description>&lt;h1 id=&#34;atel-weekly-2026-w41&#34;&gt;ATel Weekly: 2026-W41&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18100-ls-v-44-17-upper-limits-from-a-neutrino-search-with-icecube&#34;&gt;[3] | ATel 18100: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18100&#34;&gt;LS V +44 17: Upper limits from a neutrino search with IceCube&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 10 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;LS V +44 17&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: IceCube合作组利用中微子探测器对近期发生X射线变亮和爆发的Be/X射线双星脉冲星LS V +44 17进行了方向性缪子中微子搜寻，未发现显著的中微子信号，并给出了通量上限。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为高能暂现源的中微子跟进研究，但本简报仅涉及中微子数据分析与上限给出，未包含光学后随观测内容，且不属于我方1米光学望远镜的主要跟进范畴，暂无申请其他设备观测的必要。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&#34;3-atel-18099-the-swift-follow-up-of-ep260531a-refines-its-sky-position&#34;&gt;[3] | ATel 18099: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18099&#34;&gt;The Swift follow-up of EP260531a refines its sky position&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -109,7 +116,7 @@
 &lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为新星，属于课题组1米望远镜跟进的备选范畴，但鉴于已有专业地面望远镜（如MATCH 1米等）开展了高频光谱监测且该源不属于核心黑洞吸积研究范畴，我方无需额外申请设备进行跟进。&lt;/p&gt;
 &lt;hr /&gt;</description>
       <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W41/</link>
-      <pubDate>Sat, 10 Oct 2026 12:34:41 +0000</pubDate>
+      <pubDate>Sun, 11 Oct 2026 12:53:02 +0000</pubDate>
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W41/</guid>
