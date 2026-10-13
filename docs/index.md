@@ -9,10 +9,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [9] | ATel 18101: [MAXI/GSC detection of XTE J1810-189 in outburst](https://www.astronomerstelegram.org/?read=18101)
-- **日期**: 12 Oct 2026 UT | **源**: `XTE J1810-189`
+### [0] | ATel 18103: [Sloan g'r'i' Photometry of the Type Ic-BL SN 2026acxa](https://www.astronomerstelegram.org/?read=18103)
+- **日期**: 13 Oct 2026 UT | **源**: `SN 2026acxa`
 
-**爆发速递**: MAXI望远镜通过X射线监测发现中子星X射线双星XTE J1810-189再次进入爆发状态，X射线流量自7月底起逐渐上升并在9月下旬趋于稳定。**观测短评**: 该目标属于中子星X射线双星，符合课题组研究兴趣。由于源处于爆发期且光变数据完整，具备较高的多波段后随观测价值。建议结合Swift或空间X射线卫星联合观测，但鉴于其目前流量较弱，需评估光学望远镜的实际跟进星等限制。
+**爆发速递**: Ckoirama天文台的0.6米望远镜对Ic-BL型超新星SN 2026acxa进行了Sloan g'r'i'波段的光学光度观测。
+**观测短评**: 该目标属于超新星（SN），与本组核心研究的黑洞/中子星X射线双星、活动星系核等吸积物理领域无关，且不属于适合本组1米光学望远镜重点跟进的激变变星或其他暂现源，无光学后随价值，无需申请观测。
+
+---
+
+### [6] | ATel 18102: [Gaia20dsz: superhumps detected during a new superoutburst](https://www.astronomerstelegram.org/?read=18102)
+- **日期**: 12 Oct 2026 UT | **源**: `Gaia20dsz`
+
+**爆发速递**: 多台中小光学望远镜对激变变星Gaia20dsz进行了时序光变观测，成功在其新一次超级爆发中探测到了周期约为0.0636天的超驼峰调制现象。**观测短评**: 该目标属于SU UMa型矮新星，具备明显的光学光变特征。考虑到其亮度与演化状态，适合利用我们课题组的1m光学望远镜进行后续跟进监测，但缺乏高能多波段联合观测的迫切性。
 
 ---
 
