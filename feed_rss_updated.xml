@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 12 Oct 2026 15:31:35 -0000</pubDate>
-    <lastBuildDate>Mon, 12 Oct 2026 15:31:35 -0000</lastBuildDate>
+    <pubDate>Tue, 13 Oct 2026 14:16:38 -0000</pubDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:16:38 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,42 @@
     
 
     
+    
+    <item>
+      <title>ATel Weekly: 2026-W42</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w42&#34;&gt;ATel Weekly: 2026-W42&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18103-sloan-gri-photometry-of-the-type-ic-bl-sn-2026acxa&#34;&gt;[0] | ATel 18103: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18103&#34;&gt;Sloan g&#39;r&#39;i&#39; Photometry of the Type Ic-BL SN 2026acxa&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026acxa&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Ckoirama天文台的0.6米望远镜对Ic-BL型超新星SN 2026acxa进行了Sloan g&#39;r&#39;i&#39;波段的光学光度观测。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于超新星（SN），与本组核心研究的黑洞/中子星X射线双星、活动星系核等吸积物理领域无关，且不属于适合本组1米光学望远镜重点跟进的激变变星或其他暂现源，无光学后随价值，无需申请观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-atel-18102-gaia20dsz-superhumps-detected-during-a-new-superoutburst&#34;&gt;[6] | ATel 18102: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18102&#34;&gt;Gaia20dsz: superhumps detected during a new superoutburst&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 12 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Gaia20dsz&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 多台中小光学望远镜对激变变星Gaia20dsz进行了时序光变观测，成功在其新一次超级爆发中探测到了周期约为0.0636天的超驼峰调制现象。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于SU UMa型矮新星，具备明显的光学光变特征。考虑到其亮度与演化状态，适合利用我们课题组的1m光学望远镜进行后续跟进监测，但缺乏高能多波段联合观测的迫切性。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;9-atel-18101-maxigsc-detection-of-xte-j1810-189-in-outburst&#34;&gt;[9] | ATel 18101: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18101&#34;&gt;MAXI/GSC detection of XTE J1810-189 in outburst&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 12 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XTE J1810-189&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI望远镜通过X射线监测发现中子星X射线双星XTE J1810-189再次进入爆发状态，X射线流量自7月底起逐渐上升并在9月下旬趋于稳定。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于中子星X射线双星，符合课题组研究兴趣。由于源处于爆发期且光变数据完整，具备较高的多波段后随观测价值。建议结合Swift或空间X射线卫星联合观测，但鉴于其目前流量较弱，需评估光学望远镜的实际跟进星等限制。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</link>
+      <pubDate>Tue, 13 Oct 2026 14:16:34 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-10-12</title>
@@ -133,29 +169,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-12/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W42</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w42&#34;&gt;ATel Weekly: 2026-W42&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;9-atel-18101-maxigsc-detection-of-xte-j1810-189-in-outburst&#34;&gt;[9] | ATel 18101: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18101&#34;&gt;MAXI/GSC detection of XTE J1810-189 in outburst&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 12 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XTE J1810-189&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI望远镜通过X射线监测发现中子星X射线双星XTE J1810-189再次进入爆发状态，X射线流量自7月底起逐渐上升并在9月下旬趋于稳定。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于中子星X射线双星，符合课题组研究兴趣。由于源处于爆发期且光变数据完整，具备较高的多波段后随观测价值。建议结合Swift或空间X射线卫星联合观测，但鉴于其目前流量较弱，需评估光学望远镜的实际跟进星等限制。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</link>
-      <pubDate>Mon, 12 Oct 2026 15:28:59 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</guid>
       
     </item>
     
