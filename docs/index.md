@@ -9,6 +9,14 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [7] | ATel 18104: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ CTA 102](https://www.astronomerstelegram.org/?read=18104)
+- **日期**: 13 Oct 2026 UT | **源**: `CTA 102`
+
+**爆发速递**: 费米大面积望远镜(Fermi-LAT)于2026年10月12日观测到平谱射电类星体(FSRQ) CTA 102的伽马射线活动显著增强，日均通量较4FGL平均水平上升了10倍，并伴随能谱变硬及高能光子探测。
+**观测短评**: 该目标属于活动星系核(AGN)，符合我们的核心研究领域。鉴于其处于高能活跃期且作者呼吁多波段观测，具备很高的光学后随观测价值。虽然其红移较大且可能较暗，但值得争取光学或空间多波段联合观测以研究其耀发机制。
+
+---
+
 ### [0] | ATel 18103: [Sloan g'r'i' Photometry of the Type Ic-BL SN 2026acxa](https://www.astronomerstelegram.org/?read=18103)
 - **日期**: 13 Oct 2026 UT | **源**: `SN 2026acxa`
 
@@ -16,14 +24,6 @@
 **观测短评**: 该目标属于超新星（SN），与本组核心研究的黑洞/中子星X射线双星、活动星系核等吸积物理领域无关，且不属于适合本组1米光学望远镜重点跟进的激变变星或其他暂现源，无光学后随价值，无需申请观测。
 
 ---
-
-### [6] | ATel 18102: [Gaia20dsz: superhumps detected during a new superoutburst](https://www.astronomerstelegram.org/?read=18102)
-- **日期**: 12 Oct 2026 UT | **源**: `Gaia20dsz`
-
-**爆发速递**: 多台中小光学望远镜对激变变星Gaia20dsz进行了时序光变观测，成功在其新一次超级爆发中探测到了周期约为0.0636天的超驼峰调制现象。**观测短评**: 该目标属于SU UMa型矮新星，具备明显的光学光变特征。考虑到其亮度与演化状态，适合利用我们课题组的1m光学望远镜进行后续跟进监测，但缺乏高能多波段联合观测的迫切性。
-
----
-
 
 [查看本周完整 ATel](./atels/2026-W42.md)
 
