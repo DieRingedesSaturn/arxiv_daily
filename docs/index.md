@@ -9,19 +9,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [7] | ATel 18104: [Fermi-LAT detection of renewed gamma-ray activity from the FSRQ CTA 102](https://www.astronomerstelegram.org/?read=18104)
-- **日期**: 13 Oct 2026 UT | **源**: `CTA 102`
+### [6] | ATel 18106: [Superhumps in Gaia19bnd: a newly identified SU UMa-type dwarf nova](https://www.astronomerstelegram.org/?read=18106)
+- **日期**: 16 Oct 2026 UT | **源**: `Gaia19bnd`
 
-**爆发速递**: 费米大面积望远镜(Fermi-LAT)于2026年10月12日观测到平谱射电类星体(FSRQ) CTA 102的伽马射线活动显著增强，日均通量较4FGL平均水平上升了10倍，并伴随能谱变硬及高能光子探测。
-**观测短评**: 该目标属于活动星系核(AGN)，符合我们的核心研究领域。鉴于其处于高能活跃期且作者呼吁多波段观测，具备很高的光学后随观测价值。虽然其红移较大且可能较暗，但值得争取光学或空间多波段联合观测以研究其耀发机制。
+**爆发速递**: 研究人员通过多台地面小型光学望远镜对激变变星候选体 Gaia19bnd 进行时变光变观测，在其超爆发期间探测到了明显的超驼峰 (superhumps) 调制，主周期约为 0.084 天，从而将其证认为一颗 SU UMa 型矮新星。
+**观测短评**: 该目标是一颗典型的激变变星，具有明确的光学光变特征。虽然其光学星等在我们的 1m 望远镜跟进能力之内，但属于常规 CV 研究范畴，与我们核心的黑洞 X 射线双星和 AGN 吸积喷流物理关联较弱，非首要跟进目标。
 
 ---
 
-### [0] | ATel 18103: [Sloan g'r'i' Photometry of the Type Ic-BL SN 2026acxa](https://www.astronomerstelegram.org/?read=18103)
-- **日期**: 13 Oct 2026 UT | **源**: `SN 2026acxa`
+### [3] | ATel 18105: [Fermi-LAT detection of enhanced gamma-ray activity from the BL Lac source MG2 J130304+2434](https://www.astronomerstelegram.org/?read=18105)
+- **日期**: 15 Oct 2026 UT | **源**: `MG2 J130304+2434`
 
-**爆发速递**: Ckoirama天文台的0.6米望远镜对Ic-BL型超新星SN 2026acxa进行了Sloan g'r'i'波段的光学光度观测。
-**观测短评**: 该目标属于超新星（SN），与本组核心研究的黑洞/中子星X射线双星、活动星系核等吸积物理领域无关，且不属于适合本组1米光学望远镜重点跟进的激变变星或其他暂现源，无光学后随价值，无需申请观测。
+**爆发速递**: Fermi-LAT使用大面积望远镜观测到BL Lac型活动星系核MG2 J130304+2434出现增强的伽马射线活动，日平均通量较平均水平显著增加。
+**观测短评**: 该目标属于活动星系核（AGN），虽然多波段联合观测对于研究其高能辐射机制有一定价值，但由于其光学星等较暗（红移z=0.993），超出我方1m光学望远镜的常规观测能力，且不属于重点方向，暂无跟进必要。
 
 ---
 
