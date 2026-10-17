@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 16 Oct 2026 11:38:24 -0000</pubDate>
-    <lastBuildDate>Fri, 16 Oct 2026 11:38:24 -0000</lastBuildDate>
+    <pubDate>Sat, 17 Oct 2026 10:46:45 -0000</pubDate>
+    <lastBuildDate>Sat, 17 Oct 2026 10:46:45 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,70 @@
     
 
     
+    
+    <item>
+      <title>ATel Weekly: 2026-W42</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w42&#34;&gt;ATel Weekly: 2026-W42&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18107-independent-discovery-of-a-probable-nova-in-m81-m81n-2026-10a&#34;&gt;[3] | ATel 18107: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18107&#34;&gt;Independent Discovery of a Probable Nova in M81, M81N 2026-10a&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 16 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;M81N 2026-10a&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 有研究团队利用0.65米望远镜在M81星系中独立发现了一颗可能的新星，命名为M81N 2026-10a，并给出了其亮度和位置信息。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于河外新星（激变变星相关），虽然位于我方1m望远镜的可观测范围内，但其星等较暗（约19.2等），接近我们1m望远镜的测光极限，且此类暂现源不属于课题组的核心研究兴趣，暂无必要申请专门设备进行后随观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-atel-18106-superhumps-in-gaia19bnd-a-newly-identified-su-uma-type-dwarf-nova&#34;&gt;[6] | ATel 18106: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18106&#34;&gt;Superhumps in Gaia19bnd: a newly identified SU UMa-type dwarf nova&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 16 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Gaia19bnd&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 研究人员通过多台地面小型光学望远镜对激变变星候选体 Gaia19bnd 进行时变光变观测，在其超爆发期间探测到了明显的超驼峰 (superhumps) 调制，主周期约为 0.084 天，从而将其证认为一颗 SU UMa 型矮新星。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标是一颗典型的激变变星，具有明确的光学光变特征。虽然其光学星等在我们的 1m 望远镜跟进能力之内，但属于常规 CV 研究范畴，与我们核心的黑洞 X 射线双星和 AGN 吸积喷流物理关联较弱，非首要跟进目标。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18105-fermi-lat-detection-of-enhanced-gamma-ray-activity-from-the-bl-lac-source-mg2-j1303042434&#34;&gt;[3] | ATel 18105: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18105&#34;&gt;Fermi-LAT detection of enhanced gamma-ray activity from the BL Lac source MG2 J130304+2434&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 15 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;MG2 J130304+2434&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Fermi-LAT使用大面积望远镜观测到BL Lac型活动星系核MG2 J130304+2434出现增强的伽马射线活动，日平均通量较平均水平显著增加。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核（AGN），虽然多波段联合观测对于研究其高能辐射机制有一定价值，但由于其光学星等较暗（红移z=0.993），超出我方1m光学望远镜的常规观测能力，且不属于重点方向，暂无跟进必要。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;7-atel-18104-fermi-lat-detection-of-renewed-gamma-ray-activity-from-the-fsrq-cta-102&#34;&gt;[7] | ATel 18104: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18104&#34;&gt;Fermi-LAT detection of renewed gamma-ray activity from the FSRQ CTA 102&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;CTA 102&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 费米大面积望远镜(Fermi-LAT)于2026年10月12日观测到平谱射电类星体(FSRQ) CTA 102的伽马射线活动显著增强，日均通量较4FGL平均水平上升了10倍，并伴随能谱变硬及高能光子探测。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核(AGN)，符合我们的核心研究领域。鉴于其处于高能活跃期且作者呼吁多波段观测，具备很高的光学后随观测价值。虽然其红移较大且可能较暗，但值得争取光学或空间多波段联合观测以研究其耀发机制。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18103-sloan-gri-photometry-of-the-type-ic-bl-sn-2026acxa&#34;&gt;[0] | ATel 18103: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18103&#34;&gt;Sloan g&#39;r&#39;i&#39; Photometry of the Type Ic-BL SN 2026acxa&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026acxa&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Ckoirama天文台的0.6米望远镜对Ic-BL型超新星SN 2026acxa进行了Sloan g&#39;r&#39;i&#39;波段的光学光度观测。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于超新星（SN），与本组核心研究的黑洞/中子星X射线双星、活动星系核等吸积物理领域无关，且不属于适合本组1米光学望远镜重点跟进的激变变星或其他暂现源，无光学后随价值，无需申请观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-atel-18102-gaia20dsz-superhumps-detected-during-a-new-superoutburst&#34;&gt;[6] | ATel 18102: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18102&#34;&gt;Gaia20dsz: superhumps detected during a new superoutburst&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 12 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Gaia20dsz&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 多台中小光学望远镜对激变变星Gaia20dsz进行了时序光变观测，成功在其新一次超级爆发中探测到了周期约为0.0636天的超驼峰调制现象。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于SU UMa型矮新星，具备明显的光学光变特征。考虑到其亮度与演化状态，适合利用我们课题组的1m光学望远镜进行后续跟进监测，但缺乏高能多波段联合观测的迫切性。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;9-atel-18101-maxigsc-detection-of-xte-j1810-189-in-outburst&#34;&gt;[9] | ATel 18101: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18101&#34;&gt;MAXI/GSC detection of XTE J1810-189 in outburst&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 12 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XTE J1810-189&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI望远镜通过X射线监测发现中子星X射线双星XTE J1810-189再次进入爆发状态，X射线流量自7月底起逐渐上升并在9月下旬趋于稳定。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于中子星X射线双星，符合课题组研究兴趣。由于源处于爆发期且光变数据完整，具备较高的多波段后随观测价值。建议结合Swift或空间X射线卫星联合观测，但鉴于其目前流量较弱，需评估光学望远镜的实际跟进星等限制。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</link>
+      <pubDate>Sat, 17 Oct 2026 10:46:42 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-10-16</title>
@@ -200,63 +264,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-16/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W42</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w42&#34;&gt;ATel Weekly: 2026-W42&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-atel-18106-superhumps-in-gaia19bnd-a-newly-identified-su-uma-type-dwarf-nova&#34;&gt;[6] | ATel 18106: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18106&#34;&gt;Superhumps in Gaia19bnd: a newly identified SU UMa-type dwarf nova&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 16 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Gaia19bnd&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 研究人员通过多台地面小型光学望远镜对激变变星候选体 Gaia19bnd 进行时变光变观测，在其超爆发期间探测到了明显的超驼峰 (superhumps) 调制，主周期约为 0.084 天，从而将其证认为一颗 SU UMa 型矮新星。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标是一颗典型的激变变星，具有明确的光学光变特征。虽然其光学星等在我们的 1m 望远镜跟进能力之内，但属于常规 CV 研究范畴，与我们核心的黑洞 X 射线双星和 AGN 吸积喷流物理关联较弱，非首要跟进目标。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18105-fermi-lat-detection-of-enhanced-gamma-ray-activity-from-the-bl-lac-source-mg2-j1303042434&#34;&gt;[3] | ATel 18105: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18105&#34;&gt;Fermi-LAT detection of enhanced gamma-ray activity from the BL Lac source MG2 J130304+2434&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 15 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;MG2 J130304+2434&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Fermi-LAT使用大面积望远镜观测到BL Lac型活动星系核MG2 J130304+2434出现增强的伽马射线活动，日平均通量较平均水平显著增加。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核（AGN），虽然多波段联合观测对于研究其高能辐射机制有一定价值，但由于其光学星等较暗（红移z=0.993），超出我方1m光学望远镜的常规观测能力，且不属于重点方向，暂无跟进必要。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;7-atel-18104-fermi-lat-detection-of-renewed-gamma-ray-activity-from-the-fsrq-cta-102&#34;&gt;[7] | ATel 18104: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18104&#34;&gt;Fermi-LAT detection of renewed gamma-ray activity from the FSRQ CTA 102&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;CTA 102&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 费米大面积望远镜(Fermi-LAT)于2026年10月12日观测到平谱射电类星体(FSRQ) CTA 102的伽马射线活动显著增强，日均通量较4FGL平均水平上升了10倍，并伴随能谱变硬及高能光子探测。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核(AGN)，符合我们的核心研究领域。鉴于其处于高能活跃期且作者呼吁多波段观测，具备很高的光学后随观测价值。虽然其红移较大且可能较暗，但值得争取光学或空间多波段联合观测以研究其耀发机制。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18103-sloan-gri-photometry-of-the-type-ic-bl-sn-2026acxa&#34;&gt;[0] | ATel 18103: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18103&#34;&gt;Sloan g&#39;r&#39;i&#39; Photometry of the Type Ic-BL SN 2026acxa&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026acxa&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Ckoirama天文台的0.6米望远镜对Ic-BL型超新星SN 2026acxa进行了Sloan g&#39;r&#39;i&#39;波段的光学光度观测。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于超新星（SN），与本组核心研究的黑洞/中子星X射线双星、活动星系核等吸积物理领域无关，且不属于适合本组1米光学望远镜重点跟进的激变变星或其他暂现源，无光学后随价值，无需申请观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-atel-18102-gaia20dsz-superhumps-detected-during-a-new-superoutburst&#34;&gt;[6] | ATel 18102: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18102&#34;&gt;Gaia20dsz: superhumps detected during a new superoutburst&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 12 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Gaia20dsz&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 多台中小光学望远镜对激变变星Gaia20dsz进行了时序光变观测，成功在其新一次超级爆发中探测到了周期约为0.0636天的超驼峰调制现象。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于SU UMa型矮新星，具备明显的光学光变特征。考虑到其亮度与演化状态，适合利用我们课题组的1m光学望远镜进行后续跟进监测，但缺乏高能多波段联合观测的迫切性。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;9-atel-18101-maxigsc-detection-of-xte-j1810-189-in-outburst&#34;&gt;[9] | ATel 18101: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18101&#34;&gt;MAXI/GSC detection of XTE J1810-189 in outburst&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 12 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XTE J1810-189&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI望远镜通过X射线监测发现中子星X射线双星XTE J1810-189再次进入爆发状态，X射线流量自7月底起逐渐上升并在9月下旬趋于稳定。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于中子星X射线双星，符合课题组研究兴趣。由于源处于爆发期且光变数据完整，具备较高的多波段后随观测价值。建议结合Swift或空间X射线卫星联合观测，但鉴于其目前流量较弱，需评估光学望远镜的实际跟进星等限制。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</link>
-      <pubDate>Fri, 16 Oct 2026 11:27:38 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</guid>
       
     </item>
     
