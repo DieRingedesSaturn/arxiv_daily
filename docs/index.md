@@ -9,19 +9,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [3] | ATel 18107: [Independent Discovery of a Probable Nova in M81, M81N 2026-10a](https://www.astronomerstelegram.org/?read=18107)
+- **日期**: 16 Oct 2026 UT | **源**: `M81N 2026-10a`
+
+**爆发速递**: 有研究团队利用0.65米望远镜在M81星系中独立发现了一颗可能的新星，命名为M81N 2026-10a，并给出了其亮度和位置信息。
+**观测短评**: 该目标属于河外新星（激变变星相关），虽然位于我方1m望远镜的可观测范围内，但其星等较暗（约19.2等），接近我们1m望远镜的测光极限，且此类暂现源不属于课题组的核心研究兴趣，暂无必要申请专门设备进行后随观测。
+
+---
+
 ### [6] | ATel 18106: [Superhumps in Gaia19bnd: a newly identified SU UMa-type dwarf nova](https://www.astronomerstelegram.org/?read=18106)
 - **日期**: 16 Oct 2026 UT | **源**: `Gaia19bnd`
 
 **爆发速递**: 研究人员通过多台地面小型光学望远镜对激变变星候选体 Gaia19bnd 进行时变光变观测，在其超爆发期间探测到了明显的超驼峰 (superhumps) 调制，主周期约为 0.084 天，从而将其证认为一颗 SU UMa 型矮新星。
 **观测短评**: 该目标是一颗典型的激变变星，具有明确的光学光变特征。虽然其光学星等在我们的 1m 望远镜跟进能力之内，但属于常规 CV 研究范畴，与我们核心的黑洞 X 射线双星和 AGN 吸积喷流物理关联较弱，非首要跟进目标。
-
----
-
-### [3] | ATel 18105: [Fermi-LAT detection of enhanced gamma-ray activity from the BL Lac source MG2 J130304+2434](https://www.astronomerstelegram.org/?read=18105)
-- **日期**: 15 Oct 2026 UT | **源**: `MG2 J130304+2434`
-
-**爆发速递**: Fermi-LAT使用大面积望远镜观测到BL Lac型活动星系核MG2 J130304+2434出现增强的伽马射线活动，日平均通量较平均水平显著增加。
-**观测短评**: 该目标属于活动星系核（AGN），虽然多波段联合观测对于研究其高能辐射机制有一定价值，但由于其光学星等较暗（红移z=0.993），超出我方1m光学望远镜的常规观测能力，且不属于重点方向，暂无跟进必要。
 
 ---
 

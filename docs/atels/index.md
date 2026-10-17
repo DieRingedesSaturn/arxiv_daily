@@ -89,6 +89,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [M81N_2026-10a](./sources/M81N_2026-10a.md) | *最新动态: ATel 18107 (16 Oct 2026)*
 - [Gaia19bnd](./sources/Gaia19bnd.md) | *最新动态: ATel 18106 (16 Oct 2026)*
 - [Gaia20dsz](./sources/Gaia20dsz.md) | *最新动态: ATel 18102 (12 Oct 2026)*
 - [AT_2026aabo](./sources/AT_2026aabo.md) | *最新动态: ATel 18096 (8 Oct 2026)*
