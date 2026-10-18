@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 17 Oct 2026 10:46:45 -0000</pubDate>
-    <lastBuildDate>Sat, 17 Oct 2026 10:46:45 -0000</lastBuildDate>
+    <pubDate>Sun, 18 Oct 2026 11:08:46 -0000</pubDate>
+    <lastBuildDate>Sun, 18 Oct 2026 11:08:46 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,6 +39,13 @@
       
       <description>&lt;h1 id=&#34;atel-weekly-2026-w42&#34;&gt;ATel Weekly: 2026-W42&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-atel-18108-the-css-quasar-3c-138-is-still-in-a-very-bright-optical-state&#34;&gt;[6] | ATel 18108: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18108&#34;&gt;The CSS quasar 3C 138 is still in a very bright optical state&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 17 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3C 138&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 锡耶纳大学等机构的观测者利用小型光学望远镜发现致密陡谱类星体3C 138仍处于极亮的光学状态，R波段星等达到约15.16到15.39，此前该源已被Fermi-LAT探测到高能伽马射线辐射增强。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核(AGN)，且处于极亮光学状态并伴随多波段活动，作者强烈呼吁多波段后随观测。由于其R波段星等在15等左右，超出了我们1m望远镜16等的光学光谱极限，但处于测光能力范围内，具备一定的光学跟进价值。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&#34;3-atel-18107-independent-discovery-of-a-probable-nova-in-m81-m81n-2026-10a&#34;&gt;[3] | ATel 18107: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18107&#34;&gt;Independent Discovery of a Probable Nova in M81, M81N 2026-10a&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -88,7 +95,7 @@
 &lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI望远镜通过X射线监测发现中子星X射线双星XTE J1810-189再次进入爆发状态，X射线流量自7月底起逐渐上升并在9月下旬趋于稳定。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于中子星X射线双星，符合课题组研究兴趣。由于源处于爆发期且光变数据完整，具备较高的多波段后随观测价值。建议结合Swift或空间X射线卫星联合观测，但鉴于其目前流量较弱，需评估光学望远镜的实际跟进星等限制。&lt;/p&gt;
 &lt;hr /&gt;</description>
       <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</link>
-      <pubDate>Sat, 17 Oct 2026 10:46:42 +0000</pubDate>
+      <pubDate>Sun, 18 Oct 2026 11:08:42 +0000</pubDate>
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W42/</guid>
