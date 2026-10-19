@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W43](2026-W43.md)
 - [2026-W42](2026-W42.md)
 - [2026-W41](2026-W41.md)
 - [2026-W40](2026-W40.md)
@@ -41,8 +42,8 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
+- [4U_1630-472](./sources/4U_1630-472.md) | *最新动态: ATel 18109 (18 Oct 2026)*
 - [XRISM_J1729-1410](./sources/XRISM_J1729-1410.md) | *最新动态: ATel 18092 (6 Oct 2026)*
-- [4U_1630-472](./sources/4U_1630-472.md) | *最新动态: ATel 18070 (22 Sep 2026)*
 - [SRGA_J174800.5-280826](./sources/SRGA_J174800.5-280826.md) | *最新动态: ATel 18050 (16 Sep 2026)*
 - [Cyg_X-3](./sources/Cyg_X-3.md) | *最新动态: ATel 18049 (16 Sep 2026)*
 - [XRISM_J1631-4843](./sources/XRISM_J1631-4843.md) | *最新动态: ATel 18037 (12 Sep 2026)*
@@ -89,6 +90,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [UX_Ari](./sources/UX_Ari.md) | *最新动态: ATel 18111 (19 Oct 2026)*
 - [M81N_2026-10a](./sources/M81N_2026-10a.md) | *最新动态: ATel 18107 (16 Oct 2026)*
 - [Gaia19bnd](./sources/Gaia19bnd.md) | *最新动态: ATel 18106 (16 Oct 2026)*
 - [Gaia20dsz](./sources/Gaia20dsz.md) | *最新动态: ATel 18102 (12 Oct 2026)*
@@ -202,6 +204,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [1eRASS_J053652.4+211435](./sources/1eRASS_J053652.4+211435.md) | *最新动态: ATel 18112 (19 Oct 2026)*
 - [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 18098 (9 Oct 2026)*
 - [EP260531a](./sources/EP260531a.md) | *最新动态: ATel 18099 (9 Oct 2026)*
 - [R144](./sources/R144.md) | *最新动态: ATel 18094 (8 Oct 2026)*
@@ -223,7 +226,6 @@
 - [M31N_2026-07a](./sources/M31N_2026-07a.md) | *最新动态: ATel 17914 (20 Jul 2026)*
 - [AT2026stb](./sources/AT2026stb.md) | *最新动态: ATel 17886 (12 Jul 2026)*
 - [AR_4479](./sources/AR_4479.md) | *最新动态: ATel 17879 (6 Jul 2026)*
-- [UX_Ari](./sources/UX_Ari.md) | *最新动态: ATel 17866 (2 Jul 2026)*
 - [W31(1)](./sources/W31(1).md) | *最新动态: ATel 17860 (30 Jun 2026)*
 - [M31N_2026-06c](./sources/M31N_2026-06c.md) | *最新动态: ATel 17857 (28 Jun 2026)*
 - [2024_XE22](./sources/2024_XE22.md) | *最新动态: ATel 17855 (25 Jun 2026)*

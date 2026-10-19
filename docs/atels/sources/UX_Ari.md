@@ -1,8 +1,16 @@
 # Source: UX Ari
 
-*Tags: #ATel #Other*
+*Tags: #ATel #CV*
 
-- **类别**: Other
+- **类别**: CV
+
+---
+
+### ATel 18111: [MAXI/GSC detection of an X-ray flares from UX Ari on 2026-10-17 UT](https://www.astronomerstelegram.org/?read=18111)
+- **日期**: 19 Oct 2026 UT
+
+**爆发速递**: MAXI/GSC 探测到 RS CVn 型星 UX Ari 的 X 射线耀发，光变曲线显示双峰结构，峰值通量在 2-10 keV 波段达到约 4-5 × 10^-9 erg s^-1 cm^-2。
+**观测短评**: 该目标为活动色球双星系统，虽不属于我组核心研究的 BHXRB 或 AGN，但由于其属于变星且可能伴随光学辐射，具备一定光学后随观测价值，可使用 1m 光学望远镜进行跟进验证。
 
 ---
 

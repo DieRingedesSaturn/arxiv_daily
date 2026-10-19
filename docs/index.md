@@ -9,23 +9,23 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [6] | ATel 18108: [The CSS quasar 3C 138 is still in a very bright optical state](https://www.astronomerstelegram.org/?read=18108)
-- **日期**: 17 Oct 2026 UT | **源**: `3C 138`
+### [3] | ATel 18112: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare possibly from 1eRASS J053652.4+211435](https://www.astronomerstelegram.org/?read=18112)
+- **日期**: 19 Oct 2026 UT | **源**: `1eRASS J053652.4+211435`
 
-**爆发速递**: 锡耶纳大学等机构的观测者利用小型光学望远镜发现致密陡谱类星体3C 138仍处于极亮的光学状态，R波段星等达到约15.16到15.39，此前该源已被Fermi-LAT探测到高能伽马射线辐射增强。
-**观测短评**: 该目标属于活动星系核(AGN)，且处于极亮光学状态并伴随多波段活动，作者强烈呼吁多波段后随观测。由于其R波段星等在15等左右，超出了我们1m望远镜16等的光学光谱极限，但处于测光能力范围内，具备一定的光学跟进价值。
-
----
-
-### [3] | ATel 18107: [Independent Discovery of a Probable Nova in M81, M81N 2026-10a](https://www.astronomerstelegram.org/?read=18107)
-- **日期**: 16 Oct 2026 UT | **源**: `M81N 2026-10a`
-
-**爆发速递**: 有研究团队利用0.65米望远镜在M81星系中独立发现了一颗可能的新星，命名为M81N 2026-10a，并给出了其亮度和位置信息。
-**观测短评**: 该目标属于河外新星（激变变星相关），虽然位于我方1m望远镜的可观测范围内，但其星等较暗（约19.2等），接近我们1m望远镜的测光极限，且此类暂现源不属于课题组的核心研究兴趣，暂无必要申请专门设备进行后随观测。
+**爆发速递**: XRISM/Xtend Transient Search (XTS) 使用 XRISM 卫星在 2026 年 10 月 8 日探测到来自 X 射线源 XRISM J0537+2115 的一次 X 射线耀发，可能对应于 1eRASS J053652.4+211435。该耀发呈现指数衰减特征，能谱可用热模型或幂律模型拟合。
+**观测短评**: 该目标是一颗距离较近的 X 射线耀发源，主要涉及 X 射线空间望远镜的监测与能谱分析。由于其光学对应体性质尚不明确且测光/光谱需求可能超出我方 1m 望远镜的极限或不属于核心 BHXRB/AGN 研究范畴，目前暂无直接的光学后随必要与申请其他大型设备观测的紧迫性。
 
 ---
 
-[查看本周完整 ATel](./atels/2026-W42.md)
+### [1] | ATel 18111: [MAXI/GSC detection of an X-ray flares from UX Ari on 2026-10-17 UT](https://www.astronomerstelegram.org/?read=18111)
+- **日期**: 19 Oct 2026 UT | **源**: `UX Ari`
+
+**爆发速递**: MAXI/GSC 探测到 RS CVn 型星 UX Ari 的 X 射线耀发，光变曲线显示双峰结构，峰值通量在 2-10 keV 波段达到约 4-5 × 10^-9 erg s^-1 cm^-2。
+**观测短评**: 该目标为活动色球双星系统，虽不属于我组核心研究的 BHXRB 或 AGN，但由于其属于变星且可能伴随光学辐射，具备一定光学后随观测价值，可使用 1m 光学望远镜进行跟进验证。
+
+---
+
+[查看本周完整 ATel](./atels/2026-W43.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
