@@ -9,19 +9,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [0] | ATel 18114: [Betelgeuse 2026 dimming is stopping at magnitude 1.0 at mid October](https://www.astronomerstelegram.org/?read=18114)
+- **日期**: 21 Oct 2026 UT | **源**: `Betelgeuse`
+
+**爆发速递**: 本 ATel 报道了红超巨星参宿四（Betelgeuse）在 2026 年 10 月中旬其变暗趋势在 1.0 等左右停止的测光与光谱观测结果。
+**观测短评**: 该目标为红超巨星，属于恒星演化范畴，与本课题组关注的黑洞X射线双星、吸积物理及高能暂现源等核心研究兴趣无关，不适合使用我们的 1m 光学望远镜进行后随跟进，也无须申请其他高能或多波段设备观测。
+
+---
+
 ### [1] | ATel 18113: [Spectroscopic Classification of AT 2026abza with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=18113)
 - **日期**: 19 Oct 2026 UT | **源**: `AT 2026abza`
 
 **爆发速递**: 利用Lick Shane望远镜的Kast光谱仪，对ZTF发现的瞬变源AT 2026abza进行了光谱观测与分类，确认其红移为0.062，光谱呈现无特征的蓝连续谱及窄Hα发射线。
 **观测短评**: 该目标属于非典型高能暂现源且未显示出与本项目黑洞吸积或双星核心兴趣直接相关的特征，暂无使用我们1米光学望远镜跟进或申请其他大型设备观测的必要性。
-
----
-
-### [3] | ATel 18112: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare possibly from 1eRASS J053652.4+211435](https://www.astronomerstelegram.org/?read=18112)
-- **日期**: 19 Oct 2026 UT | **源**: `1eRASS J053652.4+211435`
-
-**爆发速递**: XRISM/Xtend Transient Search (XTS) 使用 XRISM 卫星在 2026 年 10 月 8 日探测到来自 X 射线源 XRISM J0537+2115 的一次 X 射线耀发，可能对应于 1eRASS J053652.4+211435。该耀发呈现指数衰减特征，能谱可用热模型或幂律模型拟合。
-**观测短评**: 该目标是一颗距离较近的 X 射线耀发源，主要涉及 X 射线空间望远镜的监测与能谱分析。由于其光学对应体性质尚不明确且测光/光谱需求可能超出我方 1m 望远镜的极限或不属于核心 BHXRB/AGN 研究范畴，目前暂无直接的光学后随必要与申请其他大型设备观测的紧迫性。
 
 ---
 

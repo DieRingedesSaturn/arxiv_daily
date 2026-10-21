@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18114: [Betelgeuse 2026 dimming is stopping at magnitude 1.0 at mid October](https://www.astronomerstelegram.org/?read=18114)
+- **日期**: 21 Oct 2026 UT
+
+**爆发速递**: 本 ATel 报道了红超巨星参宿四（Betelgeuse）在 2026 年 10 月中旬其变暗趋势在 1.0 等左右停止的测光与光谱观测结果。
+**观测短评**: 该目标为红超巨星，属于恒星演化范畴，与本课题组关注的黑洞X射线双星、吸积物理及高能暂现源等核心研究兴趣无关，不适合使用我们的 1m 光学望远镜进行后随跟进，也无须申请其他高能或多波段设备观测。
+
+---
+
 ### ATel 18097: [Extreme Velocity Gradients in the Atmosphere of Betelgeuse: Is Another Dimming Event Imminent?](https://www.astronomerstelegram.org/?read=18097)
 - **日期**: 8 Oct 2026 UT
 
