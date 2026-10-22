@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18116: [TRAPPIST production rates of comets 161P/Hartley-IRAS, 10P/Tempel 2 and 220P/McNaught](https://www.astronomerstelegram.org/?read=18116)
+- **日期**: 22 Oct 2026 UT
+
+**爆发速递**: 作者使用摩洛哥的 TRAPPIST-North 望远镜对 161P、10P 和 220P 三颗彗星进行了窄带光度观测，并计算了气体产率与尘埃产率等初步物理参数。
+**观测短评**: 该 ATel 报道的是太阳系彗星观测，与本课题组研究的黑洞X射线双星、活动星系核及高能暂现源等核心兴趣完全无关，无光学后随价值，无需使用本组望远镜进行观测。
+
+---
+
 ### ATel 17985: [Small Apparent Outburst of Comet 10P/Tempel 2](https://www.astronomerstelegram.org/?read=17985)
 - **日期**: 18 Aug 2026 UT
 

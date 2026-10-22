@@ -9,21 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18114: [Betelgeuse 2026 dimming is stopping at magnitude 1.0 at mid October](https://www.astronomerstelegram.org/?read=18114)
-- **日期**: 21 Oct 2026 UT | **源**: `Betelgeuse`
+### [0] | ATel 18116: [TRAPPIST production rates of comets 161P/Hartley-IRAS, 10P/Tempel 2 and 220P/McNaught](https://www.astronomerstelegram.org/?read=18116)
+- **日期**: 22 Oct 2026 UT | **源**: `161P/Hartley-IRAS`
 
-**爆发速递**: 本 ATel 报道了红超巨星参宿四（Betelgeuse）在 2026 年 10 月中旬其变暗趋势在 1.0 等左右停止的测光与光谱观测结果。
-**观测短评**: 该目标为红超巨星，属于恒星演化范畴，与本课题组关注的黑洞X射线双星、吸积物理及高能暂现源等核心研究兴趣无关，不适合使用我们的 1m 光学望远镜进行后随跟进，也无须申请其他高能或多波段设备观测。
+**爆发速递**: 作者使用摩洛哥的 TRAPPIST-North 望远镜对 161P、10P 和 220P 三颗彗星进行了窄带光度观测，并计算了气体产率与尘埃产率等初步物理参数。
+**观测短评**: 该 ATel 报道的是太阳系彗星观测，与本课题组研究的黑洞X射线双星、活动星系核及高能暂现源等核心兴趣完全无关，无光学后随价值，无需使用本组望远镜进行观测。
+
+---
+
+### [3] | ATel 18115: [Detection of a thermonuclear X-ray burst from XTE J1810-189 with NuSTAR during its October 2026 outburst](https://www.astronomerstelegram.org/?read=18115)
+- **日期**: 21 Oct 2026 UT | **源**: `XTE J1810-189`
+
+**爆发速递**: 本文报告了中子星低质量X射线双星XTE J1810-189在2026年10月爆发期间，利用NuSTAR和Swift卫星进行的联合X射线观测结果，并探测到了一次热核（I型）X射线暴。**观测短评**: 该目标为中子星X射线双星，虽然开展了X射线时变、宽带能谱以及射电多波段跟进，但属于高能暂现源，缺乏光学后随观测价值，不在我们的1米光学望远镜观测范围内，且团队暂无NSXRB的核心研究规划，无需申请相关观测。
 
 ---
 
-### [1] | ATel 18113: [Spectroscopic Classification of AT 2026abza with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=18113)
-- **日期**: 19 Oct 2026 UT | **源**: `AT 2026abza`
-
-**爆发速递**: 利用Lick Shane望远镜的Kast光谱仪，对ZTF发现的瞬变源AT 2026abza进行了光谱观测与分类，确认其红移为0.062，光谱呈现无特征的蓝连续谱及窄Hα发射线。
-**观测短评**: 该目标属于非典型高能暂现源且未显示出与本项目黑洞吸积或双星核心兴趣直接相关的特征，暂无使用我们1米光学望远镜跟进或申请其他大型设备观测的必要性。
-
----
 
 [查看本周完整 ATel](./atels/2026-W43.md)
 
