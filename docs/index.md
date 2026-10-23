@@ -35,202 +35,193 @@
 
 *Tags: #arXiv #Astrophysics*
 
-## 重点关注 (9篇)
+## 重点关注 (8篇)
 
-### [10] | [Probing the QPO and spectro-temporal evolution of MAXI J1750-327 with XPoSat during its first detected outburst : Constraints on black-hole mass and spin](https://arxiv.org/abs/2610.28817v1)
-**Authors**: Meghamani Haldar, Biki Ram, Shubhrangshu Ghosh et al. | **Targets**: MAXI J1750-327
+### [10] | [EP J062132.0+623837: A Multi-wavelength Study of a Changing-look Active Galactic Nucleus Discovered by Einstein Probe](https://arxiv.org/abs/2610.30959v1)
+**Authors**: Lin-Na Xu, Ning Jiang, Tinggui Wang et al. | **Targets**: EP J062132.0+623837, 2MASX J06213207+6238390
 
-> *利用XPoSat对黑洞X射线双星MAXI J1750-327爆发进行能谱与时变分析，并约束了其黑洞质量与自转参数。*
+> *利用爱因斯坦探针卫星及多波段数据研究了新发现的变脸活动星系核EP J062132.0+623837。*
 
-**研究背景**: 针对新发现的黑洞低质量X射线双星候选体MAXI J1750-327在2026年8月的首次爆发，揭示其吸积几何结构演化及致密星参数。
+**研究背景**: 变脸活动星系核（changing-look AGN）的光变与光谱剧变研究对于理解超大质量黑洞吸积物理具有重要意义。通过宽视场X射线巡天发现并研究这类天体，是当前时域天体物理学的前沿方向。
 
-**数据方法**: 依托XPoSat卫星搭载的XSPECT仪器进行的11次连续观测，对其开展全面的定时与宽带光谱联合研究，并基于贝叶斯框架及Lense-Thirring进动模型约束黑洞质量与自旋。
+**数据方法**: 本文综合分析了爱因斯坦探针卫星（Einstein Probe, EP）宽视场X射线望远镜（WXT）的巡天数据和后随X射线望远镜（FXT）及Swift/XRT的观测数据，并结合了多波段光学与中红外光变曲线以及宿主星系的光谱数据。
 
-**核心结论**: 观测到了C型向B型准周期振荡（QPO）的转变及随后的消失，证实了吸积盘向最内稳定圆轨道（ISCO）的动态内迁。测得黑洞质量为$M_{\rm BH}=7.92 M_{\odot}$，无量纲自旋参数为$a_*=0.163$，为LT进动模型提供了物理支持。
-
----
-
-### [10] | [X-ray Comptonization in an Accreting Kerr Black Hole System with a Tilted Disc and Thermal Corona: A General-Relativistic Monte Carlo Simulation. II. Polarization Signatures](https://arxiv.org/abs/2610.28938v1)
-**Authors**: Mainak Chatterjee, Dipankar Bhattacharya et al. | **Targets**: Swift J1727.8-1613, IGR J17091-3624
-
-> *利用广义相对论蒙特卡洛模拟研究倾斜吸积盘与热电晕系统中黑洞X射线双星的X射线偏振特征。*
-
-**研究背景**: 相对论进动模型虽常用于解释低频准周期振荡（QPO），但IXPE对黑洞候选体Swift J1727.8-1613和IGR J17091-3624的X射线偏振观测却挑战了传统康普顿化模型，亟需更复杂的几何与辐射理论来解释异常的偏振度与调制现象。
-
-**数据方法**: 本文依托系列研究的第二部分，采用了通用相对论蒙特卡洛（GRMC）模拟。模型考虑了克尔黑洞周围倾斜且扭曲的两区吸积盘与热日冕系统，通过沃克-彭罗斯平行输运以及偏振康普顿和盘面散射，计算了能量解析的偏振度与偏振角及其随进动相位的调制情况。
-
-**核心结论**: 研究发现引力光弯曲会提高平均偏振度并增强调制，而日冕散射和倾斜外盘反射则会降低偏振度和抑制调制。两者的竞争可完美解释Swift J1727.8-1613的弱调制与IGR J17091-3624的高偏振度，为利用IXPE等卫星约束黑洞参数提供了理论框架。
+**核心结论**: 研究确认新X射线源 EP J062132.0+623837 是一个位于 $z=0.084$ 处的变脸活动星系核。其光学光谱显示宽巴耳末发射线显著增强，实现了从1.8型到1.5型的转变。该发现彰显了宽视场X射线时域巡天在系统性发现变脸AGN方面的巨大潜力。
 
 ---
 
-### [10] | [Modeling X-ray reflection spectra from disk returning radiation: Application to 4U 1630-47](https://arxiv.org/abs/2601.14860v2)
-**Authors**: Kostas Kourmpetis, Shafqat Riaz, Honghui Liu et al. | **Targets**: 4U 1630-47
+### [9] | [Nuclear Millimeter Continuum Emission in Radio-Quiet Active Galactic Nuclei: an ALMA Spectral and Variability Study](https://arxiv.org/abs/2610.30286v1)
+**Authors**: Sophie M. Venselaar, Claudio Ricci, Yoshiyuki Inoue et al.
 
-> *本文开发了考虑盘回传辐射的新X射线反射光谱模型，并成功应用于黑洞X射线双星4U 1630-47的能谱分析。*
+> *本文利用ALMA对9个射电宁静活动星系核进行了毫米波谱与时变分析，探讨了其毫米波连续谱的起源并发现与X射线辐射存在相关性。*
 
-**研究背景**: 返回辐射（盘自身光子受强引力弯曲后再度轰击吸积盘）被认为对黑洞X射线双星高软态下的吸积盘辐照至关重要，但以往的XSPEC反射模型尚未将其完全纳入。
+**研究背景**: 射电宁静活动星系核中心未解析的毫米波段辐射物理起源长期存有争议。尽管致密X射线日冕的自吸收同步辐射是主流假说，但此前缺乏大型样本的准同步宽带观测支持。
 
-**数据方法**: 本研究开发了一个包含热分量返回辐射自洽效应的新反射表格模型。在标准吸积盘-热冕构型下去除热冕，使反射光谱仅由吸积盘自辐照产生，并将其应用于NICER和NuSTAR对黑洞X射线双星4U 1630-47高软态的三次同步观测数据拟合。
+**数据方法**: 本研究利用阿塔卡马大型毫米/亚毫米阵列（ALMA），对9个近邻射电宁静活动星系核进行了100、145和233 GHz的准同步观测，并通过幂律拟合光谱能量分布及多历元光变分析来约束其性质。
 
-**核心结论**: 模型成功拟合了观测数据，表明返回辐射可解释该源的反射特征。结果推断该黑洞自转极快（$a_* \sim 0.99$）、盘倾角约 $43^\circ-54^\circ$、引力质量吸积率为 $\sim 0.13-0.25\,\dot{M}_{\rm Edd}$、距离为 $7.3-11.3\,\rm{kpc}$，与前人研究高度吻合。
-
----
-
-### [9] | [Modeling MAD Sgr A* flares and their dependence on spin](https://arxiv.org/abs/2610.30095v1)
-**Authors**: Eleni Antonopoulou, Antonios Nathanail, Yosuke Mizuno et al. | **Targets**: Sgr A*
-
-> *本文通过对Sgr A*耀发活动的磁流体动力学模拟与自旋依赖性分析，评估了该超大质量黑洞的自旋和吸积盘性质。*
-
-**研究背景**: 本研究旨在利用近期银心黑洞 Sgr A* 的耀斑观测数据约束其自旋，探讨黑洞自旋与银心天体测量观测之间的关联，破解致密天体动力学机制。
-
-**数据方法**: 本研究拓展了 Antonopoulou 等人（2025）的工作，通过磁阿卡雷逊盘（MAD）数值模拟涵盖了不同黑洞自旋参数，追踪赤道面上活跃区的演化，并构建了沿磁通管以相对论速度弹射球形热斑的耀斑运动学模型。
-
-**核心结论**: 结果表明耀斑轨迹与黑洞自旋强相关，最大自旋的克尔黑洞最能复现观测轨迹（符合率超90%）。若假设吸积盘逆时针旋转，需 $a\ge1/2$ 的顺时针黑洞；若吸积盘顺时针旋转，则支持高自旋的顺、逆行克尔黑洞。
+**核心结论**: 观测发现部分源在数天内存在显著光变，且毫米波与X射线通量呈现清晰关联。短时标光变和高亮度温度表明毫米辐射源自尺寸小于1000至10000倍引力半径的致密区域，支持日冕或致密喷流等非热辐射机制。
 
 ---
 
-### [9] | [NGC 3227 Blinks: An Extreme Changing-Look Event in a Seyfert Galaxy](https://arxiv.org/abs/2610.29137v1)
-**Authors**: Kaiwen Zhang, Michael S. Brotherton, Pu Du et al. | **Targets**: NGC 3227
+### [9] | [Multigroup Radiation Diffusion with Compton Scattering on a Moving Mesh: Implementation in RICH and Application to Tidal Disruption Events](https://arxiv.org/abs/2610.31324v1)
+**Authors**: Itamar Giron, Menahem Krief, Elad Steinberg et al.
 
-> *研究了赛弗特星系NGC 3227中极端的变脸活动，揭示了宽线区内部致密高柱密度吸收体的存在。*
+> *本文开发了在移动网格代码RICH中包含康普顿散射的多群辐射扩散算法，并成功应用於超大质量黑洞潮汐撕裂事件的三维辐射流体模拟。*
 
-**研究背景**: 塞弗特星系光学“变脸”（Changing-Look）事件的物理机制尚存争议，特别是极短时间尺度内的剧烈光变究竟源于吸积盘本身的随机涨落，还是视线方向的遮挡。
+**研究背景**: 康普顿散射在潮汐瓦解事件（TDEs）等高能天体系统中对辐射与热气体间的能量交换及光谱演化至关重要。由于其耦合了所有光子能量且时标极短，以往的辐射流体力学（RHD）模拟常将其忽略或作灰体近似处理。
 
-**数据方法**: 本工作基于对塞弗特星系 NGC 3227 的快速光学监测与 Swift 卫星的同步 X 射线观测，结合阻尼随机游走模拟、混响映射技术以及光电离计算模型进行综合分析。
+**数据方法**: 本研究将包含精确热康普顿核的多群辐射扩散模块扩展至移动网格RHD代码RICH中。该半隐式方案在热辐射输运方程中引入了广义Fleck因子，确保群康普顿算符守恒光子数并满足细致平衡，且在时间步长未解析康普顿平衡时仍保持稳定。
 
-**核心结论**: 观测发现该星系在几周内发生剧烈变暗及宽发射线消失并在两个月内恢复的极端事件。X射线硬化与混响滞后表明，这是由位于宽发射线区内部、致密且康普顿厚（$N_H \sim 1.5 \times 10^{24} \text{ cm}^{-2}$）的吸光物质遮挡导致的，证明了小尺度遮挡物可诱发周级极端的变脸行为。
-
----
-
-### [8] | [The (missing) gamma-ray counterparts to EP events](https://arxiv.org/abs/2610.28734v1)
-**Authors**: Maria Edvige Ravasio, Ansh Chopra, Peter G. Jonker et al. | **Targets**: Einstein Probe, Fermi/GBM, Fermi/LAT, SVOM/GRM, SVOM/ECLAIRs, Swift/BAT, Konus-Wind
-
-> *利用多波段空间望远镜系统搜寻爱因斯坦探针（EP）暂现源的伽马射线对应体并分析其物理性质。*
-
-**研究背景**: 爱因斯坦探针卫星（EP）发现的快速X射线暂现源（FXTs）与伽马射线暴（GRBs）的关联日益紧密，但多数事件缺乏伽马射线对应体，导致其与GRB的本质关系尚不明确。
-
-**数据方法**: 本研究对EP运行首年探测到的72个暂现源开展系统性搜寻，联合利用Fermi/GBM、Fermi/LAT、SVOM/GRM、SVOM/ECLAIRs、Swift/BAT和Konus-Wind等多波段数据，并对无对应体的事件给出严格的通量上限。
-
-**核心结论**: 32%的事件存在伽马射线对应体且多处于X射线最亮阶段；68%无对应体事件的上限表明其具有较低的峰值能量（$E_{\rm peak} \lesssim 30$-100 keV）和各向同性光度，暗示其整体洛伦兹因子较低。该群体可能将经典GRB向低能量和低洛伦兹因子方向拓展。
+**核心结论**: 首次将其应用于$0.5\,M_\odot$恒星被$10^6\,M_\odot$黑洞瓦解的三维模拟中。结果表明，在X射线闪耀期间，喷嘴激波附近的逆康普顿散射主导了气动与辐射耦合，显著加速能量注入并影响动力学，且其X射线产生率可与逃逸光度相比拟，对TDE的X射线辐射贡献巨大。
 
 ---
 
-### [8] | [Jet Power Estimates of FSRQs PKS 1441+25 and Ton 599 from Broadband SED Modeling](https://arxiv.org/abs/2603.25331v3)
-**Authors**: Hritwik Bora, Ranjeev Misra, Rukaiya Khatoon et al. | **Targets**: PKS 1441+25, Ton 599
+### [9] | [Prompt Jet Launching and Delayed Thermal Disk in Tidal Disruption Event for Prolonged Activity GRB 220706A](https://arxiv.org/abs/2610.31484v1)
+**Authors**: Yuri Sato, Rin Oikawa et al. | **Targets**: GRB 220706A
 
-> *利用宽波段SED建模研究了两个FSRQ的喷流功率，发现其对粒子能量分布模型相对不敏感。*
+> *论文探讨了潮汐撕裂事件（TDE）模型来解释长持续时间伽马射线暴GRB 220706A的早期相对论喷流与延迟热成份，完美契合课题组对TDE吸积与喷流物理的研究兴趣。*
 
-**研究背景**: 平谱射电类星体（FSRQs）是宇宙中最强大的活动星系核之一。厘清其喷流功率对理解黑洞吸积与能量喷射机制至关重要，但不同电子能量分布模型对喷流功率估算的影响尚不明确。
+**研究背景**: 伽马射线暴 GRB 220706A 表现出长达约51天的 X 射线耀发活动及迟来的光学热辐射成分。尽管其持续活动暗示可能源于扩展恒星包层的坍缩星，但相对论喷流难以穿透包层，且传统坍缩星模型难以同时解释早期喷流与晚期光学热辐射。
 
-**数据方法**: 本文利用 Swift、NuSTAR、Fermi-LAT 以及 VERITAS 望远镜在 2015 年和 2021 年的多波段观测数据，对 FSRQs 天体 PKS 1441+25 和 Ton 599 的宽带光谱能量分布（SED）进行建模，并测试了四种不同的粒子分布模型。
+**数据方法**: 本文研究了一个潮汐瓦解事件（TDE）模型，探讨恒星碎片流之间的激波驱动部分碎片流入并携带化石磁通量流向黑洞，通过布兰德福德-扎纳杰克机制驱动早期相对论喷流；同时剩余碎片形成晚期热辐射吸积盘。
 
-**核心结论**: 研究发现，不同模型推导出的喷流功率处于同一量级，这与高同步峰值型耀变体（HBLs）中模型差异显著的结果截然不同。该差异归因于 FSRQs 较低的电子拐折能量，表明其喷流功率估算对粒子分布假设不敏感，主要由外康普顿过程主导。
-
----
-
-### [6] | [SpinOctopus: A Versatile, User-Friendly, and Extensible Public Code for General-Relativistic Ray-Tracing in axisymmetric spacetime](https://arxiv.org/abs/2610.29800v1)
-**Authors**: Shiyang Hu, Dan Li, Chen Deng et al.
-
-> *本文开发并发布了一款适用于任意轴对称时空的通用相对论光线追踪开源代码SpinOctopus。*
-
-**研究背景**: 相对论光线追踪算法是研究引力理论和高能天体物理学不可或缺的数值工具。为了更高效地探索轴对称时空中的强引力场效应与高能辐射，开发通用且用户友好的开源追踪代码具有重要需求。
-
-**数据方法**: 本研究开发并开源了名为SpinOctopus的多功能相对论光线追踪代码。该代码采用Fortran/Python混合架构和OpenMP多线程加速，结合定制的自适应步长测地线积分策略。用户仅需在配置文件中指定目标时空的协变度规张量及参数即可运行。
-
-**核心结论**: SpinOctopus能够高效模拟类时轨道、光变曲线、零测地线及多种辐射源（如薄/厚吸积盘、喷流等）照亮的黑洞图像。在Intel i7-14700平台上，其厚吸积盘成像模拟效率达每线程每秒约800条光线，展现出卓越的计算性能与扩展性。
+**核心结论**: 研究表明，该事件观测特征与质量约 $50 M_{\odot}$、半径约 $20 R_{\odot}$ 的蓝超巨星被约 $10^5 M_{\odot}$ 的黑洞瓦解相符。持续的物质回落可维持中心发动机活动，未来的 X 射线监测将进一步检验该理论。
 
 ---
 
-### [6] | [Black hole populations and hierarchical growth across the AGN parameter space](https://arxiv.org/abs/2606.10823v3)
-**Authors**: Maria Paola Vaccaro, Michela Mapelli, Alessandro Alberto Trani et al. | **Targets**: GW190521, GW231123
+### [7] | [The deepest X-ray view of a kiloparsec scale jet at z=6.1](https://arxiv.org/abs/2610.30259v1)
+**Authors**: Fabio A. Meanti, Luca Ighina, Alberto Moretti et al. | **Targets**: PSO J030947.49+271757.31
 
-> *本文利用半解析模型研究了活动星系核（AGN）盘中恒星级黑洞的捕获与分级合并，探讨了其黑洞双星布居及自旋特性。*
+> *利用Chandra深度X射线观测对红移z=6.1的活动星系核大尺度喷流进行了空间分辨光谱分析。*
 
-**研究背景**: 活动星系核（AGN）盘被认为是恒星级黑洞双星（BBH）形成与演化的重要场所。厘清其参数空间对解释引力波事件具有关键意义。
+**研究背景**: 宇宙学演化中千秒差距尺度喷流的高能辐射机制尚不明确。高红移活动星系核 PSO J030947.49+271757.31（$z=6.1$）拥有当前已知并解析出X射线的最高红移大尺度喷流，为其极端环境下的高能辐射研究提供了绝佳窗口。
 
-**数据方法**: 本研究建立了一个更新的半解析框架，系统追踪黑洞在AGN盘中的俘获、迁移、配对、气体硬化及合并，并探讨了超大质量黑洞质量等参数的影响。
+**数据方法**: 本研究结合最新观测与档案数据，利用钱德拉X射线天文台（Chandra）开展了总曝光时间达 360 ks 的深度观测，通过空间分辨光谱分析和图像模拟，深入剖析了该喷流的形态与能谱特征。
 
-**核心结论**: AGN盘能通过层级合并产生跨越不稳定性间隙的高质量黑洞。低粘度盘更利于层级生长，且该通道可解释GW190521等重大引力波事件。
+**核心结论**: 观测成功将该千秒差距喷流解析为两个离散成分。其扩展X射线辐射的光子指数为 $\Gamma = 2.25$，比核心区更陡，光度比达 18%。作为当前已知最遥远且X射线极亮的大尺度喷流，该研究证实未来具备角秒级分辨率的X任务将有望揭示更多高红移暗弱喷流群体。
 
 ---
 
-## 其他相关 (38篇)
+### [6] | [Search for high-energy neutrinos from Einstein Probe detected Fast X-ray Transients using 14 years of IceCube muon track data](https://arxiv.org/abs/2610.30722v1)
+**Authors**: Sri Devaki Meduri, Shantanu Desai et al. | **Targets**: EP240801a, EP241021a
 
-- **[3]** [A Unified Model for the Gravitational Wave Background and Quasar Luminosity Functions](https://arxiv.org/abs/2610.28680v1)
-  - *利用纳米赫兹引力波背景约束超大质量黑洞质量函数，并结合类星体光度函数研究爱丁顿比率分布。*
-- **[3]** [Exploring the origin of slow-rotating pulsars: Emission from STARS simulated white dwarfs](https://arxiv.org/abs/2610.28728v1)
-  - *该论文探讨了利用恒星演化代码模拟磁化白矮星来解释慢自转脉冲星及长周期暂现源起源的可能性。*
-- **[3]** [Prior volume effect inflates the gravitational-wave background in pulsar timing arrays](https://arxiv.org/abs/2610.28739v1)
-  - *本文指出脉冲星计时阵列中纳赫兹引力波背景振幅偏高是由红噪声先验体积效应导致的，修正先验后可与超大质量黑洞双星预测相符。*
-- **[3]** [Exploring PSR J0901-4046 as an ultra-slowly rotating neutron star versus a white dwarf](https://arxiv.org/abs/2610.28741v1)
-  - *探讨了极端慢转天体PSR J0901-4046作为磁化白矮星而非中子星的可能性。*
-- **[3]** [Can we constrain the binary neutron star merger time from kilonova light curves?](https://arxiv.org/abs/2610.28775v1)
-  - *本文研究了如何利用千新星光变曲线约束双中子星并合时间，主要针对薇拉·鲁宾天文台的观测条件。*
-- **[3]** [Enhanced Mass Transfer from Extended Shock-Supported Stellar Chromospheres](https://arxiv.org/abs/2610.29323v1)
-  - *本文研究了由激波支撑的恒星色球层导致的双星系统增强型质量传输机制及其对演化的影响。*
-- **[3]** [Lasting mEMRIs: Signatures of Multiple Black Hole Extreme Mass Ratio Inspirals from AGN discs](https://arxiv.org/abs/2610.29376v1)
-  - *本文研究了活动星系核盘中多重极端质量比吸入（mEMRI）的引力波特征及其在LISA频段的可探测性。*
-- **[3]** [Searches for coincident Gravitational Waves and High-Energy Neutrinos from the KM3NeT and ANTARES telescopes during O3](https://arxiv.org/abs/2610.29436v1)
-  - *利用KM3NeT、ANTARES与LIGO/Virgo数据联合搜索引力波与高能中微子的巧合事件，未发现显著对应信号。*
-- **[3]** [Data-driven characterisation of variable source light curves with multimodal representation learning](https://arxiv.org/abs/2610.29412v1)
-  - *提出了一种基于多模态自监督学习的无监督变源光变曲线表征框架。*
-- **[3]** [The Deep Newtonian Regime in Late-Time Blast Waves: Inevitable Transition and Distinct Flux Signatures](https://arxiv.org/abs/2604.23567v4)
-  - *本文研究了晚期暂现源激波中的深牛顿区同步辐射发射，提出了统一的解析框架并应用于伽马射线暴余辉、千新星遗迹及超新星。*
-- **[3]** [A systematic study of quiescent and outburst properties of X-ray-bright young stellar objects using XMM-Newton](https://arxiv.org/abs/2607.25384v2)
-  - *利用XMM-Newton对年轻恒星对象（YSO）的X射线静止期与爆发期特性进行系统性时变与光谱分析。*
-- **[3]** [Signatures of Lorentz violation in the bright ring for Sgr A* images from radiatively inefficient accretion flows](https://arxiv.org/abs/2608.01413v2)
-  - *利用EHT观测数据研究了低能洛伦兹破坏引力框架下吸积流对Sgr A*黑洞亮环图像的影响。*
-- **[3]** [The role of major mergers in triggering super-Eddington accretion](https://arxiv.org/abs/2606.04081v2)
-  - *利用宇宙学放大模拟研究高红移星系重大合并对超爱丁顿吸积及黑洞反馈的影响。*
-- **[2]** [Neutron Star-Main-Sequence Star Collision: Formation and Long-Term Evolution of Thorne-\.Zytkow Objects](https://arxiv.org/abs/2610.29833v1)
-  - *该论文通过三维模拟和演化计算研究了中子星与主序星碰撞形成索恩-齐特科夫天体（TZO）的过程及长期演化。*
-- **[2]** [Ellis-Bronnikov Wormhole Shadows with Spherically Symmetric Accretion Flow](https://arxiv.org/abs/2606.01699v2)
-  - *通过广义相对论辐射转移模拟研究了Ellis-Bronnikov虫洞的阴影及球对称吸积流特征。*
-- **[1]** [Interpreting the $\gamma$-ray emission from Westerlund 1: hadronic or leptonic?](https://arxiv.org/abs/2610.28951v1)
-  - *本文研究了Westerlund 1星团的高能伽马射线辐射起源，探讨了强子模型和轻子模型的可行性。*
-- **[1]** [Domain models of turbulent magnetic fields and the spectral shape of ensemble averaged axion-photon conversion](https://arxiv.org/abs/2610.29541v1)
-  - *本文研究了轴子-光子在星系团湍流磁场中转换的谱形特征及解析模型。*
-- **[1]** [Extended vs. thin screen approximation in astrophysical settings](https://arxiv.org/abs/2610.30093v1)
-  - *该论文研究了天体物理中无线电波传播的薄屏近似与扩展介质近似的适用性，与本课题组的吸积与喷流研究无关。*
-- **[1]** [White dwarf pollution in wide binaries I: the effects of stellar evolution](https://arxiv.org/abs/2610.28896v1)
-  - *本文通过N体模拟研究了宽距双星中恒星演化和双星摄动对白矮星吸积行星物质的影响。*
-- **[1]** [How general relativity stacks up: Testing gravity by coherently combining gravitational-wave observations](https://arxiv.org/abs/2610.29247v1)
-  - *提出了一种相干结合引力波观测数据的新框架，用于在黑洞双星合并中检验广义相对论。*
-- **[1]** [Radio and high-energy variable emission from a multi-wavelength follow-up of the infant planet-hosting star V1298 Tau](https://arxiv.org/abs/2610.29459v1)
-  - *本文对年轻行星宿主星V1298 Tau进行了射电、X射线和NUV多波段监测，研究其恒星磁活动引起的辐射变率。*
-- **[1]** [Local tests of Schwarzschild-Bertotti-Robinson spacetime](https://arxiv.org/abs/2610.29990v1)
-  - *本文研究了嵌入外部磁场中的史瓦西-伯托蒂-罗宾逊时空的弱场局域检验，包括近日点进动、光线偏折和雷达回波时间延迟。*
-- **[1]** [Spectroscopic Binary Detection as Agent-Callable Tools: Detecting 40,000+ Main-Sequence Binary Candidates from SDSS DR19 APOGEE Spectra](https://arxiv.org/abs/2608.10866v2)
-  - *本文利用智能体可调用工具从SDSS APOGEE光谱中检测出4万多颗主序双星候选体。*
-- **[1]** [Chana: A GPU-Accelerated Adaptive-Mesh Code for General Relativistic Magnetohydrodynamics with Multigroup M1 Neutrino Transport](https://arxiv.org/abs/2610.07267v2)
-  - *本文介绍了Chana代码，这是一个用于广义相对论磁流体力学和中微子输运的GPU加速自适应网格程序。*
-- **[0]** [A Hybrid Neural Network Emulator for M1 Neutrino Reaction Rates in Binary Neutron Star Merger Simulations](https://arxiv.org/abs/2610.28740v1)
-  - *本文提出了一种用于双星中子星合并模拟中中微子反应速率的混合神经网络模拟器。*
-- **[0]** [Direct Injection of Chemically-Enhanced Plasma into a Solar Flare Arcade](https://arxiv.org/abs/2610.28961v1)
-  - *本文通过建模研究了太阳耀斑中磁重联直接注入富集等离子体到耀斑环顶的过程。*
-- **[0]** [Rotation in the Lagoon Nebula with K2](https://arxiv.org/abs/2610.29006v1)
-  - *利用K2数据测量了泻湖星云中年轻恒星的自转速率并探讨了其与星周盘的关系。*
-- **[0]** [General Relativistic Simulations of the Nonlinear Evolution of r-modes in Rapidly Rotating Neutron Stars](https://arxiv.org/abs/2610.29259v1)
-  - *该论文利用广义相对论模拟研究了快速旋转中子星中r模式的非线性演化与引力波辐射。*
-- **[0]** [simesh: A Python Framework for Quantitative Analysis of Native AMR Data from MPI-AMRVAC](https://arxiv.org/abs/2610.29333v1)
-  - *本文介绍了simesh这一用于MPI-AMRVAC原生AMR网格数据定量分析的Python框架。*
-- **[0]** [PSR J0653+0443: An Eclipsing Millisecond Pulsar in an Extremely Eccentric Double Neutron Star System](https://arxiv.org/abs/2610.29838v1)
-  - *本文报告了一颗处于极高偏心率双中子星系统中的脉冲星PSR J0653+0443的发现及其轨道动力学性质。*
-- **[0]** [Dyonic black holes supporting nearly-black self-gravitating thin shells](https://arxiv.org/abs/2605.14410v2)
-  - *本文理论探讨了非线性电动力学框架下带电黑洞时空中自引力薄壳的静态平衡性质。*
-- **[0]** [A Catalog of Dispersive Ionospheric and Plasmaspheric Arcs from Cislunar and Lunar-surface GNSS Radio Occultations](https://arxiv.org/abs/2610.28695v1)
-  - *本文发布了基于月球表面GNSS无线电掩星观测得到的电离层和等离子体层色散弧目录。*
-- **[0]** [A combined HST and JWST analysis of the stellar population in Draco II](https://arxiv.org/abs/2610.28738v1)
-  - *本文利用HST和JWST联合观测分析了超暗矮星系Draco II的恒星布居与双星比例。*
-- **[0]** [Cosmic Ray Observations using Coincident Scintillator and Radio Signals with the Beamforming Elevated Array for COsmic Neutrinos (BEACON)](https://arxiv.org/abs/2610.29923v1)
-  - *本文介绍了BEACON原型阵列利用射星闪烁体和射电信号符合测量宇宙线的方法。*
-- **[0]** [An Implicit Conservative Finite Volume Scheme with Poisson Brackets for the Steady-State Transport of Galactic Cosmic Rays](https://arxiv.org/abs/2610.30091v1)
-  - *本文提出了一种用于银河系宇宙射线稳态输运的隐式保守有限体积格式，显著提高了计算效率。*
-- **[0]** [JOYS: Launch and destruction of dust in protostellar jets. The case of BHR71-IRS1 with JWST MIRI](https://arxiv.org/abs/2604.11904v3)
-  - *本文利用JWST MIRI对原恒星BHR71-IRS1的外流进行了中红外光谱成像观测，研究了原恒星喷流中尘埃的抛射与破坏过程。*
-- **[0]** [SN Helios: A Multiply Imaged Type II Supernova Opening Time-Delay Cosmography beyond redshift of 3](https://arxiv.org/abs/2609.30440v2)
-  - *本文报道了一颗高红移受引力透镜效应影响的II型超新星SN Helios的发现及其宇宙学应用。*
-- **[0]** [A Solar Optical Clock](https://arxiv.org/abs/2610.28485v2)
-  - *该论文提出了一种结合量子传感与光学钟技术的新方法，用于实现太阳光谱线的高精度多普勒视向速度测量。*
+> *利用IceCube 14年数据对爱因斯坦探针（EP）发现的27个快速X射线暂现源进行高能中微子搜寻，未发现显著超额并给出上限。*
+
+**研究背景**: 快速X射线暂现源（FXTs）作为新型高能天体物理现象，其潜在的高能中微子辐射机制尚不明确，寻找其与高能中微子的关联对于揭示其极端物理环境具有重要意义。
+
+**数据方法**: 本工作利用冰立方（IceCube）中微子天文台长达14年的公开缪子径迹数据，针对“爱因斯坦探针”（EP）卫星探测到的27个FXTs开展了时间积分的点源搜寻，并采用了标准的非分箱最大似然估计法。
+
+**核心结论**: 数据分析未发现任何具有统计显著性的中微子超额信号。最大测试统计量对应EP240801a（局域p值为0.04），无显著性意义。研究据此给出了针对$E^{-2}$能谱假设下缪子中微子微分通量的90%置信度上限，其中EP241021a给出了最严格的上限约束。
+
+---
+
+### [6] | [Weak Radio and Bright Early Optical Emission in EP260321a: A Comparative Study with XRO 080109 Reveals the Role of Circumstellar Material Mass](https://arxiv.org/abs/2610.30973v1)
+**Authors**: Cui-Yuan Dai, Xiang-Yu Wang, Jian-He Zheng et al. | **Targets**: EP260321a, XRO 080109, SN 2008D, SN 2026gzf
+
+> *本文分析了爱因斯坦探针（EP）发现的暂现源EP260321a的X射线、光学和射电多波段特征，并探讨了星周物质质量对激波突破的影响。*
+
+**研究背景**: 核心坍缩超新星激波突破（SBO）事件对于理解大质量恒星死亡机制至关重要。爱因斯坦探针卫星新发现的EP260321a（关联SN 2026gzf）提供了又一个SBO候选体，但其光谱、能量及早期光学和射电辐射与经典的XRO 080109/SN 2008D存在显著差异，亟需对比研究其物理成因。
+
+**数据方法**: 本文结合了EP260321a的X射线暴发观测、早期光学辐射数据及射电后随观测的非探测结果，通过理论模型对比分析了EP260321a与XRO 080109的激波速度、X-射线光谱特征及致密星周介质（CSM）的物理参数。
+
+**核心结论**: 研究表明，EP260321a的激波速度较低（$\lesssim0.1c$），且在半径$\sim2\times10^{13}\ {\rm cm}$处突破CSM；其首日明亮的光学辐射源于激波加热的密集CSM壳层冷却，对应约$0.06M_\odot$的大质量CSM。这表明更大质量的CSM会显著减缓激波速度，统一了这两类SBO事件的物理图像。
+
+---
+
+### [6] | [Photometric classification and out-of-taxonomy detection of ZTF transients with FLARE](https://arxiv.org/abs/2610.30656v1)
+**Authors**: Argyro Sasli, Felipe Fontinele Nunes, Xuanrui Zhang et al.
+
+> *本文介绍了用于ZTF暂现源光变分类和异常检测的FLARE模块，能够有效发现潮汐撕裂事件等未知类别的暂现源。*
+
+**研究背景**: 现代时域巡天每夜产生百万级警报，但光谱观测资源极其有限，亟需高效的光度分类器来筛选目标，并在庞大噪点中敏锐捕捉训练集之外的未知暂现源异常。
+
+**数据方法**: 本文介绍了AppleCiDEr系统的光度分类与异常检测模块FLARE，基于来自Zwicky瞬变设施（ZTF）的10497个光谱证认的六类暂现源及53个跨分类家族天体进行评估。
+
+**核心结论**: 结合星表上下文显著提升了分类宏F1分数；引入模拟人工审核循环可在检查15%流数据时恢复83%的局外天体。该模块已在ZTF的Fritz平台投入生产运行，极大推进了时域天文的自动化发现能力。
+
+---
+
+## 其他相关 (40篇)
+
+- **[4]** [The black hole-galaxy correlations of the 12 micron local AGN sample: a NuSTAR perspective](https://arxiv.org/abs/2610.30285v1)
+  - *利用NuSTAR数据研究本地12微米活动星系核样本的黑洞质量与宿主星系关联。*
+- **[4]** [Lomb-Scargle Recovery of Periodic Binary Signals across Black Hole Mass and Cadence](https://arxiv.org/abs/2610.30772v1)
+  - *利用Lomb-Scargle周期图评估了类星体光变曲线中超大质量黑洞双星周期信号的恢复效率。*
+- **[4]** [Ongoing and Post-Mass-Transfer Binaries: A Living Catalog and Unified Review of Binary Mass Transfer Products](https://arxiv.org/abs/2605.31290v2)
+  - *本文对经历过单次质量转移的双星系统进行了统一综述并发布了包含5452个系统的星表。*
+- **[3]** [Confirming candidate self-lensing binary detections with radial velocity measurements](https://arxiv.org/abs/2610.30203v1)
+  - *通过模拟和联合拟合光变曲线与视向速度测量，研究了利用视向速度确认自引力透镜双星候选体并分类致密天体的方法。*
+- **[3]** [General-purpose equations of state for hadron-quark matter: first application to accretion-induced phase transitions in neutron stars](https://arxiv.org/abs/2610.30233v1)
+  - *本文研究了中子星吸积诱导的强一级强子-夸克相变及其实际可观测的多信使信号。*
+- **[3]** [Charting the Galactic Underworld II: Strategies for Identifying BHs and NSs with LISA](https://arxiv.org/abs/2610.30262v1)
+  - *利用LISA探测并识别银河系内包含黑洞和中子星的双星系统的方法与策略研究。*
+- **[3]** [In Search of the Gravitational Wave of Fast X-Ray Transient in the Second Part of the LIGO-Virgo-KAGRA Fourth Observing Run](https://arxiv.org/abs/2610.31227v1)
+  - *利用LIGO-Virgo-KAGRA第四次观测运行的数据搜寻快X射线暂现源的引力波信号并计算上限。*
+- **[3]** [Breaking the symmetry: X-ray polarization from a spreading layer on a tilted weakly magnetized neutron star](https://arxiv.org/abs/2610.31300v1)
+  - *本文提出了一种倾斜弱磁化中子星上扩展层X射线偏振的解析模型，用于解释IXPE等偏振观测数据。*
+- **[3]** [Charged fluid tori with an approximate magnetic self-field around magnetized Schwarzschild black holes: A semi-analytic approach](https://arxiv.org/abs/2610.31577v1)
+  - *通过半解析方法研究了磁化史瓦西黑洞周围带电流体环面的结构与自磁场效应。*
+- **[3]** [A 13 Year Black Hole Microlensing Survey in Omega Centauri](https://arxiv.org/abs/2610.30673v1)
+  - *利用哈勃空间望远镜对半人马座ω进行长达13年的微引力透镜巡天，未发现确凿的恒星级黑洞候选体。*
+- **[3]** [Identifying galactic binary systems of neutron stars and black holes with LISA](https://arxiv.org/abs/2507.11442v3)
+  - *本文探讨了利用LISA空间引力波探测器识别银河系内黑洞与中子星致密双星系统及其质量测量精度的可行性。*
+- **[2]** [Early panchromatic spectra reveal helium in the thermonuclear supernova 2024kce](https://arxiv.org/abs/2610.30674v1)
+  - *该论文报道了热核超新星SN 2024kce早期多波段光谱中的氦元素探测，支持了双爆轰模型。*
+- **[2]** [Synthetic 2D magnetic turbulence with controlled island structuring](https://arxiv.org/abs/2610.31367v1)
+  - *本文提出了一种高效生成具有受控磁岛结构的二维合成磁湍流的新方法。*
+- **[1]** [AGB-star Mass Transfer Products in Stellar Streams as Tracers of Density in Dissolved Star Clusters](https://arxiv.org/abs/2610.30264v1)
+  - *论文探讨了球状星团和恒星流中渐近巨支星质量转移产物及其对密度的指示作用。*
+- **[1]** [Gone Without a Bang: A Search for Failed Core-Collapse Supernovae in ZTF and Predictions for Rubin and Roman](https://arxiv.org/abs/2610.30276v1)
+  - *本文利用ZTF巡天数据搜寻失败的核心坍缩超新星，并对银河系内的发生率上限进行了统计约束。*
+- **[1]** [Chandra and Multiwavelength Study of Pevatron Candiate HESS J1702-420A](https://arxiv.org/abs/2610.30378v1)
+  - *利用Chandra等多波段观测研究了PeVatron候选源HESS J1702-420A及其X射线对应体，倾向于将其解释为脉冲星风云系统。*
+- **[1]** [Simulations of a Conducting Sphere Moving through Magnetized Plasma II: Effect of Internal Magnetic Fields and Enhancement of Alfv\'enic Drag](https://arxiv.org/abs/2610.30506v1)
+  - *本文通过数值模拟研究了磁化导体球在磁化等离子体中运动时的磁场相互作用与阿尔芬阻尼效应。*
+- **[1]** [Slow Massive-Star Formation and the O-Star ZAMS Deficit](https://arxiv.org/abs/2610.31482v1)
+  - *该论文研究了大质量恒星的缓慢形成与O型零龄主序星缺失问题，认为其反映了延长的吸积过程。*
+- **[1]** [Gravitational Wave Diffractive Images Reveal the Structure of Astrophysical Objects](https://arxiv.org/abs/2610.31441v1)
+  - *利用引力波衍射图像和干涉效应来探测致密天体周围的延展暗物质和超辐射云结构。*
+- **[1]** [A Generalized Framework for Rapid Polarization Response Generation in Wide Field-of-View Compton Polarimeters](https://arxiv.org/abs/2610.31559v1)
+  - *本文提出了一种用于广角康普顿偏振仪快速生成偏振响应的广义框架，主要应用于伽马射线暴研究。*
+- **[1]** [Hankel low-rank matrix approximation for gravitational-wave data analysis](https://arxiv.org/abs/2603.15740v2)
+  - *该论文研究了基于汉克尔低秩矩阵近似的引力波数据降噪与信号提取方法。*
+- **[1]** [Exploring the connection between Fast Radio Bursts and binary neutron star mergers](https://arxiv.org/abs/2609.05209v2)
+  - *本文通过模拟研究了快速射电暴与双星中子星并合及其产生的磁星之间的关联。*
+- **[1]** [simesh: A Python Framework for Quantitative Analysis of Native AMR Data from MPI-AMRVAC](https://arxiv.org/abs/2610.29333v2)
+  - *本文介绍了用于MPI-AMRVAC原生AMR数据定量分析的Python框架simesh。*
+- **[1]** [Crowdsourcing Gravitational Waves from Superradiant Axions](https://arxiv.org/abs/2603.15734v2)
+  - *该论文研究了利用引力波探测超轻轴子及黑洞超辐射布居效应的方法。*
+- **[1]** [Linear causality and stability constraints on relativistic second-order magnetohydrodynamics](https://arxiv.org/abs/2606.00649v4)
+  - *本文研究了相对论性二阶磁流体力学的线性因果性与稳定性约束。*
+- **[0]** [Solar Photospheric Flows and the Origin of Active Regions](https://arxiv.org/abs/2610.30333v1)
+  - *本文研究了太阳光球层流动与活动区及黑洞形成的起源关系，属于日球物理学范畴。*
+- **[0]** [Search for Ultra-Relativistic Magnetic Monopoles with LHAASO-KM2A](https://arxiv.org/abs/2610.30968v1)
+  - *本文利用LHAASO-KM2A数据搜寻超相对论磁单极子，给出了各向同性磁单极子通量的上限。*
+- **[0]** [Analysis of a coronal hole jet in the chromosphere and the transition region with IRIS data and SDO observations](https://arxiv.org/abs/2610.31285v1)
+  - *本文利用IRIS和SDO数据研究了太阳大气中的日冕洞喷流及其色球和过渡区动力学特征。*
+- **[0]** [FRB 20210601A: Extreme Temporal Clustering in a Repeating Fast Radio Burst Source as Evidence for a Hidden Class of Episodic Repeaters](https://arxiv.org/abs/2610.31365v1)
+  - *本文报道了重复快速射电暴源FRB 20210601A极端的时间成团暴发特性及相关群体统计。*
+- **[0]** [Unexpected Local Enhancement of Chromospheric Moreton Waves on the Sun](https://arxiv.org/abs/2610.31457v1)
+  - *本文利用中国首颗太阳探测卫星研究了太阳色球莫顿波的意外局地增强现象及其磁零点附近的模式转换机制。*
+- **[0]** [Granulation-driven spectral irradiance variability of Sun-like stars](https://arxiv.org/abs/2610.31561v1)
+  - *本文研究了类太阳恒星表面对流引起的肉眼可见的微小光变与光谱辐照度变化。*
+- **[0]** [Magnetic Activity as a Driver of Low-gravity-like Spectral Morphology in Late-M Dwarfs](https://arxiv.org/abs/2610.31647v1)
+  - *该论文研究了晚M型矮星的磁活动与其低表面重力样近红外光谱形态之间的关系。*
+- **[0]** [$\gamma$hosts from the past: reheating neutron stars with supernova-sourced ALPs](https://arxiv.org/abs/2610.30255v1)
+  - *本文研究了超新星产生的类轴子粒子通过衰变重新加热中子星的机制，并利用中子星光度观测限制了类轴子粒子的参数空间。*
+- **[0]** [Evolution of Jeans instability in nonthermal magnetized complex plasmas](https://arxiv.org/abs/2610.30332v1)
+  - *本文通过流体模拟研究了磁化复杂等离子体中Jeans不稳定性与恒星形成的非线性演化。*
+- **[0]** [Same Events, Weaker Bound: Model Dependence in Magellanic Microlensing Limits on Primordial Black Holes](https://arxiv.org/abs/2610.30510v1)
+  - *该论文研究了麦哲伦云微引力透镜对原初黑洞暗物质限制的模型依赖性。*
+- **[0]** [The Milky Way's Early Disk Was Built in Bursts. II. The Multi-component Age-Metallicity Structure of the High-$\alpha$ Disk](https://arxiv.org/abs/2610.30659v1)
+  - *本文利用Gaia DR3数据研究了银河系高α盘的年龄-金属丰度分布，发现其恒星形成历史呈现间歇性爆发特征。*
+- **[0]** [Searching for substellar companion candidates with Gaia. V. M dwarfs within 15 pc studied with absolute astrometry, radial velocities, and direct imaging](https://arxiv.org/abs/2610.31006v1)
+  - *本文利用Gaia绝对天体测量、径向速度和直接成像数据，在15秒差距内的M型矮星周围搜寻并发现了亚恒星伴星及候选体。*
+- **[0]** [Velocity-space turbulent cascade in the near-Sun solar wind: first insights from the Parker Solar Probe mission](https://arxiv.org/abs/2512.01492v2)
+  - *本文利用帕克太阳探测器研究了近太阳风中离子速度分布函数的湍流级联现象。*
+- **[0]** [No Strong Evidence for Plasma Lensing in FRB 20240114A](https://arxiv.org/abs/2607.02939v2)
+  - *本文利用FAST和Parkes数据分析了重复快速射电暴FRB 20240114A，发现没有强有力证据支持等离子体透镜模型。*
+- **[0]** [A sub-Earth-sized TESS planet candidate in the nearby M-dwarf binary GJ 774, most likely orbiting GJ 774 A (TIC 351339274)](https://arxiv.org/abs/2610.28575v2)
+  - *本文报告了邻近M矮星双星系统GJ 774中一颗亚地球大小的TESS系外行星候选体。*
 
 [查看历史目录](./posts/index.md)
