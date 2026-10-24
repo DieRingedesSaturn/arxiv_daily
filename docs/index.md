@@ -9,21 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18116: [TRAPPIST production rates of comets 161P/Hartley-IRAS, 10P/Tempel 2 and 220P/McNaught](https://www.astronomerstelegram.org/?read=18116)
-- **日期**: 22 Oct 2026 UT | **源**: `161P/Hartley-IRAS`
+### [6] | ATel 18118: [Fermi-LAT detection of historical maximum gamma-ray activity from the low redshift source PKS 0521-36](https://www.astronomerstelegram.org/?read=18118)
+- **日期**: 23 Oct 2026 UT | **源**: `PKS 0521-36`
 
-**爆发速递**: 作者使用摩洛哥的 TRAPPIST-North 望远镜对 161P、10P 和 220P 三颗彗星进行了窄带光度观测，并计算了气体产率与尘埃产率等初步物理参数。
-**观测短评**: 该 ATel 报道的是太阳系彗星观测，与本课题组研究的黑洞X射线双星、活动星系核及高能暂现源等核心兴趣完全无关，无光学后随价值，无需使用本组望远镜进行观测。
-
----
-
-### [3] | ATel 18115: [Detection of a thermonuclear X-ray burst from XTE J1810-189 with NuSTAR during its October 2026 outburst](https://www.astronomerstelegram.org/?read=18115)
-- **日期**: 21 Oct 2026 UT | **源**: `XTE J1810-189`
-
-**爆发速递**: 本文报告了中子星低质量X射线双星XTE J1810-189在2026年10月爆发期间，利用NuSTAR和Swift卫星进行的联合X射线观测结果，并探测到了一次热核（I型）X射线暴。**观测短评**: 该目标为中子星X射线双星，虽然开展了X射线时变、宽带能谱以及射电多波段跟进，但属于高能暂现源，缺乏光学后随观测价值，不在我们的1米光学望远镜观测范围内，且团队暂无NSXRB的核心研究规划，无需申请相关观测。
+**爆发速递**: Fermi-LAT望远镜观测到低红移活动星系核PKS 0521-36发生历史最高水平的伽马射线爆发，日均流量较平均水平暴增30倍，3小时峰值更是达到60倍，并伴随显著的能谱变硬现象。
+**观测短评**: 该目标属于AGN，且作者呼吁多波段后随观测。由于其赤纬为负(-36度)且光学亮度未知，本课题组的1m光学望远镜难以有效跟进，但非常适合联合Swift、XMM-Newton等空间设备开展多波段吸积与喷流物理研究，具有一定的申请观测价值。
 
 ---
 
+### [9] | ATel 18117: [Radio detection of XTE J1810-189 during its ongoing outburst with the Very Large Array](https://www.astronomerstelegram.org/?read=18117)
+- **日期**: 23 Oct 2026 UT | **源**: `XTE J1810-189`
+
+**爆发速递**: 本文报道了中子星低质量X射线双星XTE J1810-189在持续爆发期间的VLA射电观测结果。研究团队于2026年10月21日使用VLA在X波段（8-12 GHz）进行了观测，以显著的信噪比探测到了该目标，测得10 GHz处的射电通量密度为87.3微央斯堡，并结合MAXI数据分析了其在射电-X射线基本平面上的位置。
+**观测短评**: 该目标为中子星X射线双星，与本组核心研究领域黑洞及中子星X射线双星的吸积与喷流物理高度契合。鉴于其处于射电和X射线的多波段演化阶段，非常具有持续跟进价值。由于其主要涉及射电与X射线波段，且光学亮度有限，本组1米光学望远镜跟进意义不大，但建议积极关注其多波段联合进展并争取申请其他大射电或空间X射线设备观测。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W43.md)
 

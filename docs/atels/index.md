@@ -58,7 +58,7 @@
 - [AT2019wey](./sources/AT2019wey.md) | *最新动态: ATel 17686 (17 Feb 2026)*
 
 ### NSXRB
-- [XTE_J1810-189](./sources/XTE_J1810-189.md) | *最新动态: ATel 18115 (21 Oct 2026)*
+- [XTE_J1810-189](./sources/XTE_J1810-189.md) | *最新动态: ATel 18117 (23 Oct 2026)*
 - [LS_V_+44_17](./sources/LS_V_+44_17.md) | *最新动态: ATel 18100 (10 Oct 2026)*
 - [AX_J1820.5-1434](./sources/AX_J1820.5-1434.md) | *最新动态: ATel 18082 (29 Sep 2026)*
 - [GS_0834-430](./sources/GS_0834-430.md) | *最新动态: ATel 18075 (23 Sep 2026)*
@@ -131,6 +131,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [PKS_0521-36](./sources/PKS_0521-36.md) | *最新动态: ATel 18118 (23 Oct 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 18108 (17 Oct 2026)*
 - [MG2_J130304+2434](./sources/MG2_J130304+2434.md) | *最新动态: ATel 18105 (15 Oct 2026)*
 - [CTA_102](./sources/CTA_102.md) | *最新动态: ATel 18104 (13 Oct 2026)*
@@ -144,7 +145,6 @@
 - [Mkn_335](./sources/Mkn_335.md) | *最新动态: ATel 18044 (15 Sep 2026)*
 - [PKS_0332-403](./sources/PKS_0332-403.md) | *最新动态: ATel 18046 (15 Sep 2026)*
 - [3C_395](./sources/3C_395.md) | *最新动态: ATel 18041 (14 Sep 2026)*
-- [PKS_0521-36](./sources/PKS_0521-36.md) | *最新动态: ATel 18036 (11 Sep 2026)*
 - [PKS_0140-322](./sources/PKS_0140-322.md) | *最新动态: ATel 18035 (10 Sep 2026)*
 - [1ES_1028+511](./sources/1ES_1028+511.md) | *最新动态: ATel 18019 (28 Aug 2026)*
 - [PKS_2331-240](./sources/PKS_2331-240.md) | *最新动态: ATel 18000 (23 Aug 2026)*
