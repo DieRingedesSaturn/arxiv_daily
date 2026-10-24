@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 23 Oct 2026 11:47:34 -0000</pubDate>
-    <lastBuildDate>Fri, 23 Oct 2026 11:47:34 -0000</lastBuildDate>
+    <pubDate>Sat, 24 Oct 2026 11:04:32 -0000</pubDate>
+    <lastBuildDate>Sat, 24 Oct 2026 11:04:32 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,85 @@
     
 
     
+    
+    <item>
+      <title>ATel Weekly: 2026-W43</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w43&#34;&gt;ATel Weekly: 2026-W43&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-atel-18118-fermi-lat-detection-of-historical-maximum-gamma-ray-activity-from-the-low-redshift-source-pks-0521-36&#34;&gt;[6] | ATel 18118: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18118&#34;&gt;Fermi-LAT detection of historical maximum gamma-ray activity from the low redshift source PKS 0521-36&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 23 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;PKS 0521-36&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Fermi-LAT望远镜观测到低红移活动星系核PKS 0521-36发生历史最高水平的伽马射线爆发，日均流量较平均水平暴增30倍，3小时峰值更是达到60倍，并伴随显著的能谱变硬现象。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于AGN，且作者呼吁多波段后随观测。由于其赤纬为负(-36度)且光学亮度未知，本课题组的1m光学望远镜难以有效跟进，但非常适合联合Swift、XMM-Newton等空间设备开展多波段吸积与喷流物理研究，具有一定的申请观测价值。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;9-atel-18117-radio-detection-of-xte-j1810-189-during-its-ongoing-outburst-with-the-very-large-array&#34;&gt;[9] | ATel 18117: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18117&#34;&gt;Radio detection of XTE J1810-189 during its ongoing outburst with the Very Large Array&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 23 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XTE J1810-189&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报道了中子星低质量X射线双星XTE J1810-189在持续爆发期间的VLA射电观测结果。研究团队于2026年10月21日使用VLA在X波段（8-12 GHz）进行了观测，以显著的信噪比探测到了该目标，测得10 GHz处的射电通量密度为87.3微央斯堡，并结合MAXI数据分析了其在射电-X射线基本平面上的位置。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为中子星X射线双星，与本组核心研究领域黑洞及中子星X射线双星的吸积与喷流物理高度契合。鉴于其处于射电和X射线的多波段演化阶段，非常具有持续跟进价值。由于其主要涉及射电与X射线波段，且光学亮度有限，本组1米光学望远镜跟进意义不大，但建议积极关注其多波段联合进展并争取申请其他大射电或空间X射线设备观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18116-trappist-production-rates-of-comets-161phartley-iras-10ptempel-2-and-220pmcnaught&#34;&gt;[0] | ATel 18116: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18116&#34;&gt;TRAPPIST production rates of comets 161P/Hartley-IRAS, 10P/Tempel 2 and 220P/McNaught&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 22 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;161P/Hartley-IRAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 作者使用摩洛哥的 TRAPPIST-North 望远镜对 161P、10P 和 220P 三颗彗星进行了窄带光度观测，并计算了气体产率与尘埃产率等初步物理参数。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该 ATel 报道的是太阳系彗星观测，与本课题组研究的黑洞X射线双星、活动星系核及高能暂现源等核心兴趣完全无关，无光学后随价值，无需使用本组望远镜进行观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18115-detection-of-a-thermonuclear-x-ray-burst-from-xte-j1810-189-with-nustar-during-its-october-2026-outburst&#34;&gt;[3] | ATel 18115: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18115&#34;&gt;Detection of a thermonuclear X-ray burst from XTE J1810-189 with NuSTAR during its October 2026 outburst&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 21 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XTE J1810-189&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报告了中子星低质量X射线双星XTE J1810-189在2026年10月爆发期间，利用NuSTAR和Swift卫星进行的联合X射线观测结果，并探测到了一次热核（I型）X射线暴。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为中子星X射线双星，虽然开展了X射线时变、宽带能谱以及射电多波段跟进，但属于高能暂现源，缺乏光学后随观测价值，不在我们的1米光学望远镜观测范围内，且团队暂无NSXRB的核心研究规划，无需申请相关观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18114-betelgeuse-2026-dimming-is-stopping-at-magnitude-10-at-mid-october&#34;&gt;[0] | ATel 18114: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18114&#34;&gt;Betelgeuse 2026 dimming is stopping at magnitude 1.0 at mid October&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 21 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Betelgeuse&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本 ATel 报道了红超巨星参宿四（Betelgeuse）在 2026 年 10 月中旬其变暗趋势在 1.0 等左右停止的测光与光谱观测结果。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为红超巨星，属于恒星演化范畴，与本课题组关注的黑洞X射线双星、吸积物理及高能暂现源等核心研究兴趣无关，不适合使用我们的 1m 光学望远镜进行后随跟进，也无须申请其他高能或多波段设备观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;1-atel-18113-spectroscopic-classification-of-at-2026abza-with-the-lick-shane-telescope&#34;&gt;[1] | ATel 18113: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18113&#34;&gt;Spectroscopic Classification of AT 2026abza with the Lick Shane Telescope&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 19 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AT 2026abza&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 利用Lick Shane望远镜的Kast光谱仪，对ZTF发现的瞬变源AT 2026abza进行了光谱观测与分类，确认其红移为0.062，光谱呈现无特征的蓝连续谱及窄Hα发射线。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于非典型高能暂现源且未显示出与本项目黑洞吸积或双星核心兴趣直接相关的特征，暂无使用我们1米光学望远镜跟进或申请其他大型设备观测的必要性。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18112-xrismxtend-transient-search-xts-detected-an-x-ray-flare-possibly-from-1erass-j0536524211435&#34;&gt;[3] | ATel 18112: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18112&#34;&gt;XRISM/Xtend Transient Search (XTS) detected an X-ray flare possibly from 1eRASS J053652.4+211435&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 19 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;1eRASS J053652.4+211435&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XRISM/Xtend Transient Search (XTS) 使用 XRISM 卫星在 2026 年 10 月 8 日探测到来自 X 射线源 XRISM J0537+2115 的一次 X 射线耀发，可能对应于 1eRASS J053652.4+211435。该耀发呈现指数衰减特征，能谱可用热模型或幂律模型拟合。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标是一颗距离较近的 X 射线耀发源，主要涉及 X 射线空间望远镜的监测与能谱分析。由于其光学对应体性质尚不明确且测光/光谱需求可能超出我方 1m 望远镜的极限或不属于核心 BHXRB/AGN 研究范畴，目前暂无直接的光学后随必要与申请其他大型设备观测的紧迫性。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;1-atel-18111-maxigsc-detection-of-an-x-ray-flares-from-ux-ari-on-2026-10-17-ut&#34;&gt;[1] | ATel 18111: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18111&#34;&gt;MAXI/GSC detection of an X-ray flares from UX Ari on 2026-10-17 UT&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 19 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;UX Ari&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI/GSC 探测到 RS CVn 型星 UX Ari 的 X 射线耀发，光变曲线显示双峰结构，峰值通量在 2-10 keV 波段达到约 4-5 × 10^-9 erg s^-1 cm^-2。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为活动色球双星系统，虽不属于我组核心研究的 BHXRB 或 AGN，但由于其属于变星且可能伴随光学辐射，具备一定光学后随观测价值，可使用 1m 光学望远镜进行跟进验证。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18110-spectroscopic-classification-of-astrophysical-transients-with-kcwi-on-the-keck-ii-telescope&#34;&gt;[0] | ATel 18110: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18110&#34;&gt;Spectroscopic Classification of Astrophysical Transients with KCWI on the Keck II Telescope&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 19 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Unknown&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Keck望远镜利用KCWI对多个来自YSE、ZTF等巡天的暂现源进行了光谱观测，并给出了多颗超新星（如SN Ia、SN Ic、SN Ib等）的光谱分类结果。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 本篇ATel涉及的目标均为常规超新星，与本课题组关注的黑洞X射线双星、活动星系核等吸积物理核心领域无关，且不适合1米光学望远镜的特色跟进，无须申请相关设备观测。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W43/</link>
+      <pubDate>Sat, 24 Oct 2026 11:04:28 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W43/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-10-23</title>
@@ -377,71 +456,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-22/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W43</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w43&#34;&gt;ATel Weekly: 2026-W43&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18116-trappist-production-rates-of-comets-161phartley-iras-10ptempel-2-and-220pmcnaught&#34;&gt;[0] | ATel 18116: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18116&#34;&gt;TRAPPIST production rates of comets 161P/Hartley-IRAS, 10P/Tempel 2 and 220P/McNaught&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 22 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;161P/Hartley-IRAS&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 作者使用摩洛哥的 TRAPPIST-North 望远镜对 161P、10P 和 220P 三颗彗星进行了窄带光度观测，并计算了气体产率与尘埃产率等初步物理参数。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该 ATel 报道的是太阳系彗星观测，与本课题组研究的黑洞X射线双星、活动星系核及高能暂现源等核心兴趣完全无关，无光学后随价值，无需使用本组望远镜进行观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18115-detection-of-a-thermonuclear-x-ray-burst-from-xte-j1810-189-with-nustar-during-its-october-2026-outburst&#34;&gt;[3] | ATel 18115: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18115&#34;&gt;Detection of a thermonuclear X-ray burst from XTE J1810-189 with NuSTAR during its October 2026 outburst&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 21 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;XTE J1810-189&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报告了中子星低质量X射线双星XTE J1810-189在2026年10月爆发期间，利用NuSTAR和Swift卫星进行的联合X射线观测结果，并探测到了一次热核（I型）X射线暴。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为中子星X射线双星，虽然开展了X射线时变、宽带能谱以及射电多波段跟进，但属于高能暂现源，缺乏光学后随观测价值，不在我们的1米光学望远镜观测范围内，且团队暂无NSXRB的核心研究规划，无需申请相关观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18114-betelgeuse-2026-dimming-is-stopping-at-magnitude-10-at-mid-october&#34;&gt;[0] | ATel 18114: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18114&#34;&gt;Betelgeuse 2026 dimming is stopping at magnitude 1.0 at mid October&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 21 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Betelgeuse&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本 ATel 报道了红超巨星参宿四（Betelgeuse）在 2026 年 10 月中旬其变暗趋势在 1.0 等左右停止的测光与光谱观测结果。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为红超巨星，属于恒星演化范畴，与本课题组关注的黑洞X射线双星、吸积物理及高能暂现源等核心研究兴趣无关，不适合使用我们的 1m 光学望远镜进行后随跟进，也无须申请其他高能或多波段设备观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;1-atel-18113-spectroscopic-classification-of-at-2026abza-with-the-lick-shane-telescope&#34;&gt;[1] | ATel 18113: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18113&#34;&gt;Spectroscopic Classification of AT 2026abza with the Lick Shane Telescope&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 19 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AT 2026abza&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 利用Lick Shane望远镜的Kast光谱仪，对ZTF发现的瞬变源AT 2026abza进行了光谱观测与分类，确认其红移为0.062，光谱呈现无特征的蓝连续谱及窄Hα发射线。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于非典型高能暂现源且未显示出与本项目黑洞吸积或双星核心兴趣直接相关的特征，暂无使用我们1米光学望远镜跟进或申请其他大型设备观测的必要性。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18112-xrismxtend-transient-search-xts-detected-an-x-ray-flare-possibly-from-1erass-j0536524211435&#34;&gt;[3] | ATel 18112: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18112&#34;&gt;XRISM/Xtend Transient Search (XTS) detected an X-ray flare possibly from 1eRASS J053652.4+211435&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 19 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;1eRASS J053652.4+211435&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XRISM/Xtend Transient Search (XTS) 使用 XRISM 卫星在 2026 年 10 月 8 日探测到来自 X 射线源 XRISM J0537+2115 的一次 X 射线耀发，可能对应于 1eRASS J053652.4+211435。该耀发呈现指数衰减特征，能谱可用热模型或幂律模型拟合。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标是一颗距离较近的 X 射线耀发源，主要涉及 X 射线空间望远镜的监测与能谱分析。由于其光学对应体性质尚不明确且测光/光谱需求可能超出我方 1m 望远镜的极限或不属于核心 BHXRB/AGN 研究范畴，目前暂无直接的光学后随必要与申请其他大型设备观测的紧迫性。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;1-atel-18111-maxigsc-detection-of-an-x-ray-flares-from-ux-ari-on-2026-10-17-ut&#34;&gt;[1] | ATel 18111: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18111&#34;&gt;MAXI/GSC detection of an X-ray flares from UX Ari on 2026-10-17 UT&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 19 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;UX Ari&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI/GSC 探测到 RS CVn 型星 UX Ari 的 X 射线耀发，光变曲线显示双峰结构，峰值通量在 2-10 keV 波段达到约 4-5 × 10^-9 erg s^-1 cm^-2。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为活动色球双星系统，虽不属于我组核心研究的 BHXRB 或 AGN，但由于其属于变星且可能伴随光学辐射，具备一定光学后随观测价值，可使用 1m 光学望远镜进行跟进验证。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18110-spectroscopic-classification-of-astrophysical-transients-with-kcwi-on-the-keck-ii-telescope&#34;&gt;[0] | ATel 18110: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18110&#34;&gt;Spectroscopic Classification of Astrophysical Transients with KCWI on the Keck II Telescope&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 19 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Unknown&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Keck望远镜利用KCWI对多个来自YSE、ZTF等巡天的暂现源进行了光谱观测，并给出了多颗超新星（如SN Ia、SN Ic、SN Ib等）的光谱分类结果。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 本篇ATel涉及的目标均为常规超新星，与本课题组关注的黑洞X射线双星、活动星系核等吸积物理核心领域无关，且不适合1米光学望远镜的特色跟进，无须申请相关设备观测。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W43/</link>
-      <pubDate>Thu, 22 Oct 2026 11:55:47 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W43/</guid>
       
     </item>
     
