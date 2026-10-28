@@ -9,23 +9,16 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [8] | ATel 18119: [Radio observation of XTE J1810-189 with MeerKAT during its October 2026 outburst](https://www.astronomerstelegram.org/?read=18119)
-- **日期**: 25 Oct 2026 UT | **源**: `XTE J1810-189`
+### [3] | ATel 18120: [Nova Tau 2026 (V1452 Tau) is likely undergoing dust formation](https://www.astronomerstelegram.org/?read=18120)
+- **日期**: 27 Oct 2026 UT | **源**: `V1452 Tau`
 
-**爆发速递**: MeerKAT望远镜在L波段对中子星低质量X射线双星XTE J1810-189的2026年新一轮爆发进行了射电观测，在1280 MHz处探测到了约123 μJy的射电辐射，位置与Chandra和VLA的定位相符。
-**观测短评**: 该目标为中子星X射线双星，涉及多波段联合观测与射电喷流研究，符合课题组的核心研究兴趣。但鉴于其目前处于射电与X射线活跃期，主要依赖射电和空间X射线望远镜观测，缺乏光学跟进的强相关性，暂无需使用自有1米望远镜跟进。
-
----
-
-### [6] | ATel 18118: [Fermi-LAT detection of historical maximum gamma-ray activity from the low redshift source PKS 0521-36](https://www.astronomerstelegram.org/?read=18118)
-- **日期**: 23 Oct 2026 UT | **源**: `PKS 0521-36`
-
-**爆发速递**: Fermi-LAT望远镜观测到低红移活动星系核PKS 0521-36发生历史最高水平的伽马射线爆发，日均流量较平均水平暴增30倍，3小时峰值更是达到60倍，并伴随显著的能谱变硬现象。
-**观测短评**: 该目标属于AGN，且作者呼吁多波段后随观测。由于其赤纬为负(-36度)且光学亮度未知，本课题组的1m光学望远镜难以有效跟进，但非常适合联合Swift、XMM-Newton等空间设备开展多波段吸积与喷流物理研究，具有一定的申请观测价值。
+**爆发速递**: NMW-TexasTech巡天发现暂现源TCP J05210763+2338194，后被证认为新星Nova Tau 2026（V1452 Tau）。近期多地望远镜监测显示其在经历约70天平台期后亮度急剧下降，光谱证实这是由于喷出物中发生尘埃凝结。
+**观测短评**: 该目标属于新星（CV相关），虽然具备光学后随监测价值，但其目前亮度及演化阶段已有大量专业中小望远镜跟进，且不符合本组核心的黑洞及AGN研究方向，暂无必要申请我方1m望远镜或大型设备机时。
 
 ---
 
-[查看本周完整 ATel](./atels/2026-W43.md)
+
+[查看本周完整 ATel](./atels/2026-W44.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
