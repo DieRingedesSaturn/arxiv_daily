@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Tue, 27 Oct 2026 12:25:50 -0000</pubDate>
-    <lastBuildDate>Tue, 27 Oct 2026 12:25:50 -0000</lastBuildDate>
+    <pubDate>Wed, 28 Oct 2026 13:12:22 -0000</pubDate>
+    <lastBuildDate>Wed, 28 Oct 2026 13:12:22 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,240 @@
     
 
     
+    
+    <item>
+      <title>arXiv Daily: 2026-10-28</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;arxiv-daily-2026-10-28&#34;&gt;arXiv Daily: 2026-10-28&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #arXiv #Astrophysics&lt;/em&gt;&lt;/p&gt;
+&lt;h2 id=&#34;12&#34;&gt;重点关注 (12篇)&lt;/h2&gt;
+&lt;h3 id=&#34;10-accretion-flow-properties-of-maxi-j1834-021-during-its-multi-peaked-outburst-in-2023&#34;&gt;[10] | &lt;a href=&#34;https://arxiv.org/abs/2504.16398v3&#34;&gt;Accretion Flow Properties of MAXI J1834-021 during Its Multi-peaked Outburst in 2023&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Dipak Debnath, Hsiang-Kuang Chang et al. | &lt;strong&gt;Targets&lt;/strong&gt;: MAXI J1834-021&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;利用NICER数据研究了银河系黑洞候选体MAXI J1834-021在2023年多次爆发中的时变与能谱特性。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 银河系暂现黑洞候选体 MAXI J1834-021 在2023年经历了长达约10个月的“微弱”爆发活动。研究其时变与光谱演化，旨在揭示该多峰爆发事件中的吸积流动力学性质。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本工作利用 NICER 望远镜在2023年3月至10月期间的观测数据，系统分析了硬/软能段光子计数率、硬度比及准周期振荡（QPO）频率，并分别采用了唯象模型（diskbb+powerlaw）和物理模型（两成分平流吸积流，TCAF）进行了光谱拟合。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 观测表明该源在全过程中持续处于硬光谱态，无软态出现，属于一次“失败”的爆发。低频 QPO 在主爆发阶段呈现频率单调降低的演化。TCAF 模型拟合估计其黑洞质量为 &lt;span class=&#34;arithmatex&#34;&gt;\(12.4\pm1.7~M_\odot\)&lt;/span&gt;，证实了热康普顿云非热辐射的主导地位。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;10-on-the-physical-origins-of-the-millimeter-fundamental-plane-in-active-galactic-nuclei&#34;&gt;[10] | &lt;a href=&#34;https://arxiv.org/abs/2601.10612v2&#34;&gt;On the Physical Origins of the Millimeter Fundamental Plane in Active Galactic Nuclei&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Kratika Mazde, Angelo Ricarte, George N. Wong et al.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;利用广义相对论磁流体动力学模拟研究活动星系核毫米波基本平面的物理起源与吸积物理。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 活动星系核观测揭示了毫米波光度、X射线光度与黑洞质量之间存在基本平面关系统计规律，暗示这三个波段的辐射源自共同的物理机制，该研究旨在探究这一相关性的潜在物理起源。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 研究基于一组包含动力学重要磁场的广义相对论磁流体动力学（GRMHD）模拟，通过射线追踪计算生成了涵盖同步辐射、韧致辐射及康普顿散射的全光谱模型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 模拟自然重现了观测关系且无需调参。研究发现逆康普顿散射在X射线产生中占主导地位，且黑洞自旋影响较小，证实致密热吸积流可自然解释低光度活动星系核的多波段特性。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;9-feadme-fast-elliptical-accretion-disk-modeling-engine&#34;&gt;[9] | &lt;a href=&#34;https://arxiv.org/abs/2512.10228v3&#34;&gt;FEADME: Fast Elliptical Accretion Disk Modeling Engine&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Nicholas Earl, K. Decker French, Jason T. Hinkle et al.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;该论文开发了基于GPU加速的椭圆吸积盘模型框架，并将其成功应用于活动星系核与潮汐撕裂事件的光谱拟合。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 宽巴耳末线发射是研究致密天体周围吸积盘结构的关键探针。如何高效且自洽地分析大样本双峰发射线星系及潮汐瓦解事件（TDE）中的吸积盘几何与运动学特征，一直是观测研究的难点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本文开发了基于 GPU 加速的 Python 框架 FEADME，利用 JAX 和 NumPyro 实现可微分正演建模与贝叶斯推断。研究对 237 个双峰发射线活动星系核（AGN）和 5 个 TDE 的 &lt;span class=&#34;arithmatex&#34;&gt;\(\alpha\)&lt;/span&gt; 发射线进行了系统拟合。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 结果显示，AGN 呈现多样化的吸积盘几何形态，而 TDE 倾向于更低的偏心率。研究发现椭圆盘模型给出的物理参数极大地依赖于对轮廓不对称性的处理，且多数源支持吸积盘与各向同性风共存的物理图像，彰显了 FEADME 在大样本星系演化研究中的重要价值。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;9-the-study-of-the-circumnuclear-environment-of-accreting-supermassive-black-holes-with-realistic-x-ray-spectral-models&#34;&gt;[9] | &lt;a href=&#34;https://arxiv.org/abs/2605.06794v2&#34;&gt;The study of the circumnuclear environment of accreting supermassive black holes with realistic X-ray spectral models&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Georgios Dimopoulos, Claudio Ricci, St\&#39;ephane Paltani et al. | &lt;strong&gt;Targets&lt;/strong&gt;: NGC 424&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;本文利用真实的几何构型开发了新型X射线光谱模型，用于研究活动星系核（AGN）超大质量黑洞周围的环核物质环境。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: X射线光谱建模是研究活动星系核（AGN）超大质量黑洞周围环境的关键工具。然而，过去常用的模型多采用平板或圆环等简化几何构型，缺乏真实性，限制了对复杂核周物质物理性质的深入理解。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 研究团队利用光线追踪代码 RefleX 生成了宽能段的全新X环境光谱模型，并推出了两个公开的表格模型：包含尘埃环与极性空心锥的 RXToPo 模型，以及进一步增设吸积盘与宽线区的 RXagn1 模型，并将其应用于 NGC 424 的X射线光谱分析中。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 该研究通过采用更符合实际天体物理环境的几何构型，成功模拟了X射线发射以再处理辐射为主的源。这验证了新模型在解析复杂 AGN 核周物质结构方面的巨大潜力，推动了对超大质量黑洞吸积环境的认知。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;8-constraint-on-magnetized-black-bounce-spacetime-from-hfqpos-data-and-the-selection-of-resonance-models-via-information-criterion&#34;&gt;[8] | &lt;a href=&#34;https://arxiv.org/abs/2512.12557v2&#34;&gt;Constraint on magnetized black bounce spacetime from HFQPOs data and the selection of resonance models via information criterion&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Shining Yang, Jianbo Lu, Mou Xu et al. | &lt;strong&gt;Targets&lt;/strong&gt;: GRS 1915+105, XTE 1550-564, GRO 1655-40&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;利用微类星体的高频QPO数据对磁化黑弹跳时空及共振模型进行限制与评估。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 辛普森-维瑟（Simpson-Visser, SV）黑弹时空统一描述了史瓦西黑洞、常规黑洞与虫洞。本研究旨在探讨磁化SV时空中带电粒子的动力学，并利用高频准周期振荡（HFQPOs）数据对其正则化参数及周围磁场进行严格约束。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 研究结合了微类星体 GRS 1915+105、XTE 1550-564 和 GRO 1655-40 的 HFQPO 观测数据进行 &lt;span class=&#34;arithmatex&#34;&gt;\(\chi^2\)&lt;/span&gt; 分析。同时，采用赤池信息准则（AIC）、贝叶斯信息准则（BIC）及贝叶斯因子对多种 epicyclic 共振模型及其变体进行了评估与筛选。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 磁场显著影响最内稳定圆轨道及频闪运动频率。AIC表明 &lt;span class=&#34;arithmatex&#34;&gt;\(ER_8\)&lt;/span&gt; 模型最优，&lt;span class=&#34;arithmatex&#34;&gt;\(ER_3\)&lt;/span&gt; 次之。在受支持的模型中，正则化参数约束为 &lt;span class=&#34;arithmatex&#34;&gt;\(0\leq a/M&amp;lt;0.736\)&lt;/span&gt;，表明HFQPO数据支持该时空作为常规黑洞，并暗示了量子效应的存在。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;7-accreting-neutron-stars-in-low-mass-x-ray-binaries&#34;&gt;[7] | &lt;a href=&#34;https://arxiv.org/abs/2610.10691v2&#34;&gt;Accreting Neutron Stars in Low-Mass X-ray Binaries&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: M. C. Baglio, S. E. Motta, A. P. Nitindala et al.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;该综述总结了中子星低质量X射线双星的吸积盘、时变、热核爆发、喷流及X射线偏振观测研究。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 中子星低质量X射线双星由于拥有实体表面与磁场，是研究高能天体物理与致密物质物理的独特实验室。本文旨在系统梳理该领域从外盘到恒星表面的物质吸积物理机制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本文基于数十年的多波段观测发现，综合评述了环礁源、Z源、超紧凑X射线双星、吸积毫秒脉冲星及过渡型毫秒脉冲星等主要系统，并纳入了成像X射线偏振探测器（IXPE）的最新X射线偏振结果与光红外偏振观测。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 研究揭示了光谱态、时变及多波段行为中编码的内吸积流物理，阐明了I型X射线暴、边界层、相对论性喷流与电离盘风的作用。IXPE的偏振数据首次为传统光谱无法解析的吸积盘、电晕、扩展层和喷流发射区几何提供了新约束。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-the-evolutionary-history-of-ultra-compact-accreting-binaries-ii-hst-spectroscopy-of-two-eclipsing-am-cvn-stars&#34;&gt;[6] | &lt;a href=&#34;https://arxiv.org/abs/2610.36066v1&#34;&gt;The evolutionary history of ultra-compact accreting binaries. II. HST spectroscopy of two eclipsing AM CVn stars&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: W. Yu, A. F. Pala, T. Kupfer et al. | &lt;strong&gt;Targets&lt;/strong&gt;: YZ LMi, ZTF J0407-00&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;利用哈勃望远镜对两个食AM CVn星系进行紫外光谱分析，测量其白矮星大气丰度并约束其演化通道。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: AM CVn星是一类超致密致吸积双星，作为mHz引力波源和Ia型超新星候选前身星备受关注。然而其存在白矮星、氦星和激变变星三种演化通道，长期存在争议。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本文利用哈勃太空望远镜（HST）获取的紫外光谱，对两颗食双星YZ LMi和ZTF J0407-00的吸积白矮星大气进行了详细建模，通过测量氮碳丰度比来追踪供体星的核燃烧历史。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 研究测定了两颗白矮星的有效温度、表面重力及质量。由于两系统均未检测到碳，推导出了极高的氮碳质量比（N/C &amp;gt; 117和 &amp;gt; 185），这排除了氦星演化通道，更支持白矮星通道。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-21-harmonics-in-the-radio-light-curves-of-supermassive-black-hole-binary-candidates&#34;&gt;[6] | &lt;a href=&#34;https://arxiv.org/abs/2610.36732v1&#34;&gt;2:1 Harmonics in the Radio Light Curves of Supermassive Black Hole Binary Candidates&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: A. C. S. Readhead, M. F. Aller, R. D. Blandford et al. | &lt;strong&gt;Targets&lt;/strong&gt;: PKS J0805-0111, PKS 2131-021, J1309+1154&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;本文分析了超大质量黑洞双星候选体射电光变曲线中的2:1谐波周期性，探讨了其物理模型及在耀变体搜寻中的意义。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 寻找超大质量黑洞双星（SMBHB）对于理解星系演化至关重要。然而，耀变体光变曲线常伴随相关随机噪声，且观测周期普遍超两年且可能长时间消失，如何确证周期真实性是当前领域的关键难点。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本研究利用欧文斯谷射电天文台（OVRO）与密歇根大学射电天文台（UMRAO）的长期监测数据，对耀变体候选体进行了细致的周期分解与光变分析，并提出了四种可解释2:1谐波公度性的物理模型。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 研究在PKS J0805-0111和PKS 2131-021中发现了2:1谐波周期性证据（继J1309+1154之后）。这表明2:1谐波可能是确认SMBHB候选体及揭示其中心引擎差异的关键特征，对推动耀变体周期性研究具有重要意义。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-self-lensing-in-bh-ns-binaries-as-progenitors-for-periodically-repeating-fast-radio-bursts&#34;&gt;[6] | &lt;a href=&#34;https://arxiv.org/abs/2610.37052v1&#34;&gt;Self lensing in BH-NS binaries as progenitors for periodically repeating Fast Radio Bursts&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: L. E. Rodr\&#39;iguez, M. Cruces, G. Voisin et al. | &lt;strong&gt;Targets&lt;/strong&gt;: SGR 1935+2154&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;探讨了黑洞-中子星双星中的自引力透镜效应对产生周期性重复快速射电暴的影响。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 快速射电暴（FRB）起源成谜，部分具有周期性活动窗口。中子星虽是热门候选者且银河系磁星SGR 1935+2154曾发出类FRB爆发，但其脉冲能量仍远低于观测到的FRB，本研究旨在探讨黑洞-中子星（BH-NS）双星系统的自引力透镜效应对弥补这一能量差距的潜力。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 研究构建了包含轨道及朗斯-蒂林（Lense-Thirring）进动的简单BH-NS双星理论模型，采用圆轨道计算了脉冲沿轨道的引力透镜放大效应，并分析了脉冲分裂、时间延迟、能量分布及活动窗口。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 引入进动的后开普勒轨道可产生数天至数十天的活动窗口；透镜效应将中子星对数正态能量分布转化为幂律尾巴；由毫秒级延迟推断的黑洞质量在中等质量黑洞（&lt;span class=&#34;arithmatex&#34;&gt;\(10^3-10^4 M_\odot\)&lt;/span&gt;）范围内。然而，该透镜放大仍不足以填补中子星与FRB间的能量鸿沟，加之系统丰度低，该通道可能较为罕见。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-an-srgerosita-study-of-be-x-ray-binaries-in-quiescence&#34;&gt;[6] | &lt;a href=&#34;https://arxiv.org/abs/2610.37277v1&#34;&gt;An SRG/eROSITA Study of Be X-ray binaries in Quiescence&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Ajith Balu, Kinjal Roy, Biswajit Paul et al.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;利用eROSITA巡天数据对宁静态Be/X射线双星进行X射线能谱分析，探讨低吸积率下的辐射与吸积机制。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 贝塔射线双星（BeXRBs）通常包含中子星与Be星，绝大多数时间处于宁静态。研究其宁静态有助于深入探讨低质量吸积率下的X射线辐射机制。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本研究利用“光谱-伦琴-伽马”（SRG）卫星搭载的eROSITA望远镜首次全天巡天（eRASS1）数据，对BeXRBs的宁静态进行了综合分析，采用幂律模型和黑体模型对其光谱进行拟合，并计算了未探测到源的光度上限。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 探测到的宁静态BeXRBs在多数情况下的X射线光度约为 &lt;span class=&#34;arithmatex&#34;&gt;\(10^{33-36}\)&lt;/span&gt; erg s&lt;span class=&#34;arithmatex&#34;&gt;\(^{-1}\)&lt;/span&gt;，黑体模型表明辐射源自中子星表面的一部分。该结果可用于区分抛桨区吸积或冷吸积盘等低质量吸积模型，并与以往多台X射线天文台的数据进行了对比。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-gamma-ray-variability-of-changing-look-blazars-fsrq-like-jet-behaviour&#34;&gt;[6] | &lt;a href=&#34;https://arxiv.org/abs/2610.37303v1&#34;&gt;&lt;span class=&#34;arithmatex&#34;&gt;\(\gamma\)&lt;/span&gt;-ray variability of changing-look blazars: FSRQ-like jet behaviour&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Zahoor Malik, B. van Soelen, Sikandar Akbar et al.&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;利用Fermi-LAT长达17.9年的光变数据研究变脸耀变体的伽马射线变率，探讨其喷流与吸积物理机制。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 变脸耀变体（CLBs）在平谱射电类星体与BL Lac天体之间转变。其物理机制存在争议：是吸积盘状态发生改变，还是增强的喷流连续谱淹没了宽发射线？长期平均数据无法区分，需要通过伽马射线观测探究喷流性质以厘清本质。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本研究利用了长达17.9年的费米大天区空间望远镜（Fermi-LAT）在3、7和30天时间分辨率下的伽马射线光变曲线，并将CLBs与精心筛选和分析的BL Lac及FSRQ对照样本进行了对比。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: CLBs的相对光变幅度和爱丁顿比标度盘光度均与FSRQ无法区分，且显著高于BL Lac。CLBs的伽马射线喷流行为倾向于支持“可变喷流连续谱”假说，而非吸积盘机制的转变。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-eclipse-properties-and-superhump-evolution-in-the-su-uma-type-dwarf-nova-z-cha&#34;&gt;[6] | &lt;a href=&#34;https://arxiv.org/abs/2609.10966v2&#34;&gt;Eclipse Properties and Superhump Evolution in the SU UMa-Type Dwarf Nova Z Cha&lt;/a&gt;&lt;/h3&gt;
+&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Qi-Bin Sun, Sheng-Bang Qian, Li-Ying Zhu et al. | &lt;strong&gt;Targets&lt;/strong&gt;: Z Cha&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;&lt;em&gt;利用TESS高频测光数据研究激变变星Z Cha的掩食特性与超驼峰演化。&lt;/em&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 大视场时域巡天为理解激变变星的吸积盘演化带来了机遇与挑战。本研究旨在利用日食这一天然探针，深入剖析SU UMa型矮新星Z Cha的吸积盘结构与超驼峰演化规律。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本研究基于TESS卫星的高时间分辨率测光数据，系统分析了Z Cha在超爆发及宁静态下的日食深度变化、掩食极小的O-C（观测减计算）残差以及正超驼峰（PSH）振幅的演化特征。&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 研究发现超爆发期间三者具共同的~2天准周期调制，证实了偏心进动盘的存在。在宁静态下观测到PSH振幅与周期的线性减小，并首次在同期间探测到可能源自内盘逆向进动的负超驼峰（NSH）候选信号，若得证实将对经典倾斜盘模型提出新挑战。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h2 id=&#34;41&#34;&gt;其他相关 (41篇)&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;[4]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37114v1&#34;&gt;X-ray Emission Study of TeV Blazars&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用Swift和NuSTAR对85个TeV耀变体进行了X射线能谱与时变分析。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36050v1&#34;&gt;An intermediate-mass stripped star with a dark companion in the Small Magellanic Cloud&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;在小麦哲伦星系发现了一个带有暗伴星的中等质量剥离星，伴星极可能是中子星。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36103v1&#34;&gt;Dynamical constraints on the companion mass from pulsar timing and cyclotron line confirmation in the SFXT IGR J16418-4532&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;利用NuSTAR和RXTE数据分析超巨星快X射线暂现源IGR J16418-4532的时变与能谱，测定其脉冲星自转周期、轨道参数及回旋吸收线。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36867v1&#34;&gt;A microscopic analysis of shear acceleration in the relativistic regime&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文从微观角度探讨了相对论性喷流中剪切加速的粒子动力学过程。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37262v1&#34;&gt;Revealing the companion of NGC 1850-BH1&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;通过多历元光谱分析，揭示了NGC 1850-BH1系统并非黑洞双星，而是一个由膨胀供体星和快速旋转伴星组成的系统。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37394v1&#34;&gt;Probing the inner disk edge of rotating neutron stars with dipole excitations in finite nuclei&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文探讨了利用原子核电偶极极化率约束中子星状态方程及内吸积盘轨道性质的方法。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37507v1&#34;&gt;Faint and Fast Transients from Double Detonations of Low Mass White Dwarfs&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文利用数值模拟预测了低质量白矮星双爆轰产生的暗弱且快速的暂现源，探讨其作为新型超新星的可能性。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37574v1&#34;&gt;Effects of Dust in Electron-Capture Supernovae: Difficulty in Explaining Intermediate Luminosity Red Transients&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;通过半解析模型研究电子俘获超新星的尘埃效应，探讨其作为中等光度红暂现源（ILRTs）前身星的可行性。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.30203v2&#34;&gt;Confirming candidate self-lensing binary detections with radial velocity measurements&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文研究了通过径向速度测量结合光变曲线来确认和表征自透镜双星候选体的方法。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[2]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2606.05322v2&#34;&gt;How Common Are Common Envelopes? Quantifying Their Role in Forming Gravitational-Wave Sources&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文通过人口合成模拟研究了共同包层演化在引力波源形成中的作用，指出合并率测量本身无法唯一约束演化路径。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36209v1&#34;&gt;DUETS II - Red giant asteroseismic binaries. Binary confirmation and prospects for double-seismic model inference&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文研究了红巨星日震双星的证实与双星地震学模型推断，与课题组的吸积盘、喷流或高能暂现源等核心研究领域不匹配。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36304v1&#34;&gt;Dynamical plausibility of triple-assisted interaction in Be-star multiple systems&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;研究利用动力学模拟探讨Be星多星系统中的三体辅助相互作用，分析Kozai-Lidov效应在内双星演化中的作用。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36336v1&#34;&gt;Periodic radio emission from a rapidly rotating T8 ultracool dwarf&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文报道了对超冷矮星WISE J1517+05的周期性射电爆发探测及其磁层物理机制研究。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37214v1&#34;&gt;Coherent Radio Emission from Flux Rope Mergers in 3D Relativistic Reconnection&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用三维相对论重联的粒子模拟研究了磁通量绳合并产生的相干无线电辐射。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37404v1&#34;&gt;The dearth of dustless HdC stars in the Magellanic Clouds: A metallicity-driven white dwarf merger mass effect&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文发现了麦哲伦星云中的前两颗无尘氢增丰碳星，并探讨其由白矮星并合形成的金属丰度依赖机制。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37617v1&#34;&gt;A Quiet Night in the Millihertz Sky? LISA Forecasts from LIGO/Virgo/KAGRA Populations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;利用LIGO/Virgo/KAGRA的观测数据对LISA探测空间引力波黑洞双星事件进行了预测。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36037v1&#34;&gt;Semi-agnostic inspiral modeling: the massless scalar case at leading post-Newtonian order&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文提出了超越广义相对论的黑洞双星旋进半不可知建模框架，重点研究无质量标量场与度规的耦合。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36141v1&#34;&gt;A Model to Map Brown Dwarf Companions to White Dwarfs in Partial Secondary Eclipse&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文提出了一种利用凌星掩食和本征映射方法研究白矮星-褐矮星双星系统的大气结构的模型。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36573v1&#34;&gt;A Collimated Protostellar Outflow Likely Driven by Jet and Reshaped by Environment in the Sagittarius C Cloud of the Central Molecular Zone&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;利用ALMA和JWST联合观测分析了银心中央分子带Sgr C中一个准直原恒星外流的物理性质。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37198v1&#34;&gt;Searches for new particle physics by methods of classical and neutrino astronomy&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文综述了利用天体物理方法和中微子天文手段来探寻新粒子物理的进展。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2606.05286v2&#34;&gt;Nonthermal Particle Acceleration by Magnetic Pumping in Pulsating Plasmas&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;利用动理学模拟研究了脉动等离子体中磁泵浦机制对非热粒子的加速作用。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2609.18523v2&#34;&gt;WFST Follow-up of S251112cm: Searching for an Optical Counterpart to a Subsolar-mass Compact-binary Merger Candidate&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用WFST对引力波事件S251112cm开展了光学对应体搜寻，排除了类千新星起源并约束了抛射物质量。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2607.02654v2&#34;&gt;The youth of the intracluster medium. I. A non-parametric characterisation of the gas and electron number density profiles of &lt;span class=&#34;arithmatex&#34;&gt;\(z \simeq 2\)&lt;/span&gt; protoclusters&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用数值模拟研究了z=2处原星系团中星系团际介质的气体质量与电子数密度分布。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.30049v2&#34;&gt;Exceptional points and hysteresis in Kerr-Newman quasi-normal modes&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文研究了Kerr-Newman黑洞准正则模谱中的奇点与本征态迟滞现象。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36074v1&#34;&gt;CROMA: a GPU-accelerated Fokker--Planck solver for modeling non-thermal emission in post-processing cosmological simulations&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文介绍了一种用于宇宙学模拟中非热辐射建模的GPU加速Fokker-Planck求解器CROMA。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36223v1&#34;&gt;Testing Pre-main-sequence Evolutionary Models with Gaia and SPHEREx Observations of Canis Major North&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;利用Gaia和SPHEREx观测检验主前恒星演化模型。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36315v1&#34;&gt;Calculation of distant retrograde orbits and their use in space weather forecasting&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文研究了日地远距离逆行轨道（DRO）及其在空间天气预报中的应用。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36362v1&#34;&gt;Heating of Solar Coronal Loops by Converging Unipolar Magnetic Flux: Evidence from SDO Observations and a Radiative MHD Simulation&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用SDO观测和磁流体动力学模拟研究了太阳日冕环的加热机制，与课题组黑洞、AGN及暂现源等研究领域无关。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36932v1&#34;&gt;Three-dimensional Magnetohydrodynamic Shocks and Associated Plasma Heating in the Solar Atmosphere&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用三维磁流体力学模拟研究了太阳大气中MHD激波的形成演化及等离子体加热机制。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37385v1&#34;&gt;The Clouds in the &#34;Middle Ages&#34; I. Star formation history and chemical abundances in the LMC&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用Gaia、OGLE和APOGEE数据研究大麦哲伦星系（LMC）中渐近巨支星（AGB）的恒星形成历史与化学丰度。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37495v1&#34;&gt;Absence of Magnetic Suppression in Massive Star Variability&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文研究了大质量恒星中随机低频变源的磁场抑制效应，挑战了内重力波作为其普遍起因的假说。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36101v1&#34;&gt;Phase-Twist Instability in a Coprecessing Neutrino Plasma&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文研究了密集电子俘获超新星中微子等离子体中亚稳态共进动解位相扭曲不稳定性。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36162v1&#34;&gt;On the Interpretation of Tests of the Horizon Area Law&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文探讨了引力波视界面积定律检验的模型依赖性，并指出奇异致密星体可以模拟黑洞并通过该检验。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36316v1&#34;&gt;Quark Saturation in Magnetized Pure Neutron Matter&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文研究了磁场对纯中子物质中夸克饱和现象的影响及其密度依赖性。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36664v1&#34;&gt;Revisiting the Photometric Modulation Amplitudes of Kepler Planet Hosts: A Confounder-Adjusted Test of Stellar Spin-Orbit Alignment&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;该论文重新评估了Kepler行星宿主星的光度调制振幅与恒星自转-轨道对齐的关系，消除了视星等和半径等混淆变量的影响。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.36953v1&#34;&gt;Quasiparticle Modeling of Strange Quark Stars with In-Medium QCD Effects at Finite Temperature and Strong Magnetic Fields&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用介质中QCD效应和准粒子模型研究了奇异夸克星的性质及状态方程。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37034v1&#34;&gt;FLITS: an interactive, reproducible workbench for fast radio burst analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文介绍了用于快速射电暴（FRB）分析的开源Python软件包FLITS。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37501v1&#34;&gt;Quasinormal Ringing of a Schwarzschild Black Hole Surrounded by a King Dark Matter Halo: Higher-Order WKB Analysis&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文利用WKB方法研究了包围在King暗物质晕中的史瓦西黑洞的准正则振铃与微扰性质。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.37638v1&#34;&gt;Weighing dark matter particles with gravitational waves&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;利用LISA空间引力波探测器观测极端质量比旋进（EMRI），通过波依赖的吸积和动力学摩擦效应测量超轻暗物质粒子的质量。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2602.00203v2&#34;&gt;An autoencoder-based surrogate waveform model for quasi-circular binary-black-hole mergers&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文提出了一种基于自动编码器的双黑洞合并引力波快速波形替代模型AESur3dq8。&lt;/em&gt;&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2607.22816v2&#34;&gt;Relativistic Chiral MHD with application to the early Universe&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;&lt;em&gt;本文推导了早期宇宙中相对论手征磁流体力学的方程，并探讨了其在辐射主导时期的磁场演化与手征发电机效应。&lt;/em&gt;&lt;/li&gt;
+&lt;/ul&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-28/</link>
+      <pubDate>Wed, 28 Oct 2026 13:12:20 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-28/</guid>
+      
+    </item>
+    
+    <item>
+      <title>ATel Weekly: 2026-W44</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w44&#34;&gt;ATel Weekly: 2026-W44&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18120-nova-tau-2026-v1452-tau-is-likely-undergoing-dust-formation&#34;&gt;[3] | ATel 18120: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18120&#34;&gt;Nova Tau 2026 (V1452 Tau) is likely undergoing dust formation&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 27 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V1452 Tau&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: NMW-TexasTech巡天发现暂现源TCP J05210763+2338194，后被证认为新星Nova Tau 2026（V1452 Tau）。近期多地望远镜监测显示其在经历约70天平台期后亮度急剧下降，光谱证实这是由于喷出物中发生尘埃凝结。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于新星（CV相关），虽然具备光学后随监测价值，但其目前亮度及演化阶段已有大量专业中小望远镜跟进，且不符合本组核心的黑洞及AGN研究方向，暂无必要申请我方1m望远镜或大型设备机时。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W44/</link>
+      <pubDate>Wed, 28 Oct 2026 12:58:00 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W44/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-10-27</title>
@@ -3309,179 +3543,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-06/</guid>
-      
-    </item>
-    
-    <item>
-      <title>arXiv Daily: 2026-10-05</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;arxiv-daily-2026-10-05&#34;&gt;arXiv Daily: 2026-10-05&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #arXiv #Astrophysics&lt;/em&gt;&lt;/p&gt;
-&lt;h2 id=&#34;6&#34;&gt;重点关注 (6篇)&lt;/h2&gt;
-&lt;h3 id=&#34;10-candidate-x-ray-counterparts-of-ultra-high-energy-emission-of-the-galactic-microquasar-v4641-sgr-revealed-by-einstein-probe&#34;&gt;[10] | &lt;a href=&#34;https://arxiv.org/abs/2610.02962v1&#34;&gt;Candidate X-ray Counterparts of Ultra-High-Energy Emission of the Galactic Microquasar V4641 Sgr Revealed by Einstein Probe&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Yi-Heng Chi, Shao-Qiang Xi, Ping Zhou et al. | &lt;strong&gt;Targets&lt;/strong&gt;: V4641 Sgr&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;利用爱因斯坦探针卫星（EP）发现了银河系微类星体V4641 Sgr的超高能伽马射线发射区对应的弥散X射线结构。&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 微类星体被视为潜在的PeVatron天体，能够将粒子加速至PeV能段。近期观测在其延伸结构中发现了超高能伽马射线，但多波段观测证据仍极度匮乏，制约了对宇宙线加速与辐射机制的理解。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本研究利用“爱因斯坦探针”（Einstein Probe）卫星搭载的后随X射线望远镜（FXT）对银河系微类星体V4641 Sgr进行观测，搜寻与其TeV伽马射线发射区空间重合的弥散X射线结构。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 首次在V4641 Sgr南北两侧距中心20至40秒差距处发现了延伸数角分的弥散X射线结构。单区轻子模型表明其磁场约为1至2微高斯，证实了数十秒差距尺度上相对论电子的存在，为揭示超高能伽马射线起源提供了关键X射线证据。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;10-xmm-newton-resolves-parsec-scale-x-ray-jets-in-the-pevatron-microquasar-v4641-sgr&#34;&gt;[10] | &lt;a href=&#34;https://arxiv.org/abs/2610.02966v1&#34;&gt;XMM-Newton Resolves Parsec-scale X-ray Jets in the PeVatron Microquasar V4641 Sgr&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Naomi Tsuji, Caterina Tresoldi, Kaya Mori et al. | &lt;strong&gt;Targets&lt;/strong&gt;: V4641 Sgr, SS 433/W50&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;利用XMM-Newton首次发现银河系PeV微类星体V4641 Sgr具有秒差距尺度的X射线喷流。&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 微类星体V4641 Sgr近期被证实为银河系内最强的PeV宇宙射线加速器（PeVatrons）之一。本研究旨在通过X射线波段观测其伽马射线发射区域，寻找长期被忽视的喷流扩展结构及粒子加速位点。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本研究利用XMM-Newton卫星对V4641 Sgr在宁静期进行了X射线巡天观测，结合X射线到伽马射线的宽波段辐射建模，分析了延伸结构的光子指数、能量通量及磁场强度。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 首次在V4641 Sgr的南北两侧发现延伸数十秒差距、与射电喷流轴对齐的X射线喷流结构（n1和s1结）。其非热同步辐射特征及与伽马射线的形态吻合支持轻子模型，揭示了扩展X射线喷流是PeVatron微类星体的重要特征。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;8-suppression-of-spiral-density-waves-in-collisionless-accretion-flows&#34;&gt;[8] | &lt;a href=&#34;https://arxiv.org/abs/2610.02475v1&#34;&gt;Suppression of spiral density waves in collisionless accretion flows&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Stephen Majeski, Matthew W. Kunz, Jason Dexter et al.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;利用动理学与流体模型研究了无碰撞吸积流中螺旋密度波的抑制机制及其对黑洞图像和时变特性的影响。&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 差分旋转流中的螺旋密度波广泛存在于黑洞吸积流中，并影响辐射区的形态与时变特征。以往研究均假设吸积流等离子体处于局域热力学平衡（LTE），但高温低光度黑洞吸积流实际处于无碰撞状态，偏离LTE。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 该研究结合了动理学与流体模型，在无碰撞剪切片中描述螺旋密度波的传播、阻尼与激发，用以更准确地模拟低光度吸积流的真实等离子体物理条件。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 研究发现，微观物理等离子体不稳定性产生的微弱粒子散射会导致明显的粘性阻尼，从而抑制螺旋密度波。这降低了辐射区时变性与模式速度，有助于改善事件视界望远镜（EHT）观测与理论模型的符合度。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;7-the-structure-in-the-structure-function-of-black-hole-light-curves&#34;&gt;[7] | &lt;a href=&#34;https://arxiv.org/abs/2610.02729v1&#34;&gt;The Structure in the Structure Function of Black Hole Light Curves&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Daniel C. M. Palumbo, Alejandro C\&#39;ardenas-Avenda\~no, Lena Murchikova et al. | &lt;strong&gt;Targets&lt;/strong&gt;: M87&lt;em&gt;, Sgr A&lt;/em&gt;&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;通过结构函数分析Sgr A&lt;/em&gt;的12年230 GHz光变数据，并结合GRMHD模拟探讨了黑洞吸积流的时变特征与磁囚禁盘模型。*&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 银心黑洞Sgr A*表现出亚小时级的快速光变，是研究时空结构与周围等离子体动力学的重要天然实验室。由于观测采样率不均，结构函数常被用作量化其光变特性的核心工具。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本文整合了约12年来230 GHz波段下Sgr A*的异构光变数据。研究在三个框架下展开：解析Matén协方差平稳随机过程、分析合成吸积流的引力透镜电影，以及检验72组广义相对论磁流体力学（GRMHD）模拟库。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 磁滞吸积盘（MAD）模型比标准正常演化（SANE）模型产生更平滑且斜率更陡的结构函数。在5至15分钟的时间尺度上，Sgr A*的观测结构函数斜率与MAD模型趋势更为吻合，但模拟结果在所有亚小时尺度上的光变水准总体上均高于实际观测数据。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-the-2015-2017-large-evpa-rotation-in-oj-287-dominant-propagating-component-in-a-helical-magnetic-field-with-time-dependent-viewing-geometry&#34;&gt;[6] | &lt;a href=&#34;https://arxiv.org/abs/2610.03044v1&#34;&gt;The 2015-2017 Large EVPA Rotation in OJ 287: Dominant Propagating Component in a Helical Magnetic Field with Time-Dependent Viewing Geometry&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Wanchaloem Khwammai, Minchul Kam, Motoki Kino et al. | &lt;strong&gt;Targets&lt;/strong&gt;: OJ 287&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;本文利用多波段监测数据研究了耀变体OJ 287在2015-2017年的大视场偏振角旋转及射电耀发，探讨了其螺旋磁场与喷流几何结构。&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 著名耀变体OJ 287在2015-2017年间表现出异常巨大且平滑的电矢量偏振角(EVPA)旋转，持续约1.5年且旋转超300度，探究其物理机制是理解相对论性喷流磁场结构的关键。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本研究利用KVN、ALMA和Metsähovi等望远镜在2012-2023年间的高频、多频监测数据（22-343 GHz），结合已发表的光学偏振数据，并通过对ALMA 91.5 GHz光变曲线的建模来约束变率多普勒因子。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 研究发现该事件与一系列毫米波耀斑峰值对应，但多普勒因子保持恒定（8-11），表明相对论性注视增强并非耀斑主因。这证实该现象源于单一新喷射扰动在螺旋磁场及适度变化的视线几何下主导了偏振辐射。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-separating-the-optical-to-near-infrared-light-of-agn-and-their-host-galaxies&#34;&gt;[6] | &lt;a href=&#34;https://arxiv.org/abs/2610.02465v1&#34;&gt;Separating the Optical to Near-Infrared Light of AGN and Their Host Galaxies&lt;/a&gt;&lt;/h3&gt;
-&lt;p&gt;&lt;strong&gt;Authors&lt;/strong&gt;: Callum Dewsnap, Pauline Barmby, Sarah C. Gallagher et al.&lt;/p&gt;
-&lt;blockquote&gt;
-&lt;p&gt;&lt;em&gt;利用JWST和HST多波段成像对96个X射线选取的AGN及其宿主星系进行光分解，研究星系形态与黑洞演化。&lt;/em&gt;&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;p&gt;&lt;strong&gt;研究背景&lt;/strong&gt;: 理解活动星系核（AGN）与宿主星系的共同演化是天体物理学的重要前沿。通过分解AGN光芒与宿主星系表面亮度轮廓，研究人员能够获取宿主星系形态及物理性质，进而揭示超大质量黑洞与星系的演化关联。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;数据方法&lt;/strong&gt;: 本研究利用詹姆斯·韦布空间望远镜（JWST）和哈勃空间望远镜（HST）长达13个波段的成像数据，基于AstroPhot软件对扩展格罗思条带（EGS）中的96个X射线选取AGN样本进行了Sersic加点源拟合，并结合CIGALE模型对光谱能量分布进行拟合。&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;核心结论&lt;/strong&gt;: 结果表明，AGN宿主星系在恒星质量-恒星形成率平面上与对照组大质量非AGN星系一致；其辐射 bolometric 与X射线光度比值符合5-20:1的预期。该工作同时评估了Sersic模型的局限性，并为多波段图像分解提供了最佳实践建议。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h2 id=&#34;14&#34;&gt;其他相关 (14篇)&lt;/h2&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;[4]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2609.14508v2&#34;&gt;First Light of Neutron Star Mergers: Off-axis Cocoon Cooling X-ray Emission from Short Gamma-Ray Burst Jets&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;该论文研究了中子星合并中短伽马暴喷流茧的冷却X射线辐射，探讨了爱因斯坦探针（EP）等设备的探测能力。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02250v1&#34;&gt;Generation of UL-Axions by a Kerr Black Hole. Part III: The fate of its Axion Wind&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;本文探讨了克尔黑洞产生的轴子风与周围重子物质及暗物质的相互作用及其观测效应。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[3]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.03427v1&#34;&gt;Guide field effects on particle acceleration in three-dimensional relativistic magnetic reconnection&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;本文利用三维粒子模拟研究了相对论性磁重联中引导场对粒子加速的影响。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[2]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02317v1&#34;&gt;Chaotic signatures in extreme-mass-ratio systems surrounded by bosonic environments&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;该文研究了极端质量比旋近系统中玻色环境对黑洞时空可积性的破坏及混沌动力学特征。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[2]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2512.18795v5&#34;&gt;Physical properties of compact star-like systems harboring traversable wormholes: Effects of chaotic magnetic fields and anisotropic matter&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;该论文研究了包含可穿越虫洞的奇特致密星系统的物理性质及其引力波回波时间，侧重于理论建模与引力场性质分析。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02367v1&#34;&gt;Full orbital solution and dynamical masses for a new shell-Be + sdOB binary AN Col&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;本文报道了新型Be+sdOB双星AN Col的全三维轨道解与动力学质量。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02889v1&#34;&gt;Study of the Ultra-Long GRB 220627A: Exploring a Possible Blue Supergiant Collapsar Origin&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;本文对超长伽马射线暴GRB 220627A进行了时间分辨光谱研究，探讨了其蓝超巨星坍缩星起源。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02988v1&#34;&gt;Comparing the size evolution of GRB 221009A with afterglow models&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;本文利用全球VLBI网对伽马射线暴GRB 221009A的余辉进行多期5 GHz观测，研究其尺寸演化并检验标准激波模型。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[1]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.03459v1&#34;&gt;Forward Bayesian Inference for the Binary Black Hole Populations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;该论文提出了一个基于引力波探测的正向贝叶斯推断框架，用于研究双黑洞星族性质。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02746v1&#34;&gt;Formation and Eruption of a Vortex-driven Magnetic Flux Rope in the Simulated Quiet Sun&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;本文利用磁流体动力学模拟研究了宁静太阳中磁通量绳的形成与爆发过程。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02956v1&#34;&gt;Plato benchmark stars I. The initial benchmark sample&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;本文介绍了ESA PLATO任务的初始基准恒星样本，提供了1090颗FGKM型主序星和亚巨星的精确物理和大气参数。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2609.34336v1&#34;&gt;Toward Resolution Convergence for Star Formation and Galactic Winds in Galaxy Simulations&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;该论文研究了星系模拟中恒星形成和星系风的分辨率收敛性问题，与黑洞吸积、暂现源及高能天体物理课题组的核心方向无关。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02389v1&#34;&gt;Collapse-accelerated small-scale dynamos in the first stars and galaxies&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;该论文研究了第一代恒星和星系形成过程中的引力坍缩加速小尺度发电机效应及磁场放大机制。&lt;/em&gt;&lt;/li&gt;
-&lt;li&gt;&lt;strong&gt;[0]&lt;/strong&gt; &lt;a href=&#34;https://arxiv.org/abs/2610.02737v1&#34;&gt;Robust Bayesian non-linear pulsar timing and noise analysis using a sequential data-tempered ensemble sampler&lt;/a&gt;&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;本文开发了一种用于脉冲星计时和噪声分析的贝叶斯非线性顺序MCMC采样方案。&lt;/em&gt;&lt;/li&gt;
-&lt;/ul&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-05/</link>
-      <pubDate>Mon, 05 Oct 2026 14:45:46 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-05/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W40</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w40&#34;&gt;ATel Weekly: 2026-W40&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18089-detection-of-2057-s-x-ray-pulsations-from-the-bex-ray-binary-pulsar-ls-v-44-17-during-its-september-2026-outburst&#34;&gt;[3] | ATel 18089: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18089&#34;&gt;Detection of 205.7 s X-ray pulsations from the Be/X-ray binary pulsar LS V +44 17 during its September 2026 outburst&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 4 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;LS V +44 17&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报道了Be/X射线双星脉冲星LS V +44 17在2026年9月爆发期间，利用XPoSat卫星的XSPECT载荷进行的X射线时变与能谱分析结果，探测到了约205.7秒的强X射线脉动。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于中子星X射线双星，虽然伴星具有光学对应体，但核心研究偏向X射线能谱与时变分析，且属于高能暂现源，与本课题组侧重的黑洞吸积及1米望远镜常规跟进方向契合度较低，暂无必要申请其他设备后随观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18088-vla-radio-detection-of-nova-sagittae-2026-v488-sge&#34;&gt;[3] | ATel 18088: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18088&#34;&gt;VLA radio detection of Nova Sagittae 2026 (V488 Sge)&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 3 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V488 Sge&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报道了使用VLA对经典新星V488 Sge进行的2.6-35 GHz射电观测。该新星在光学峰值后约14天首次在高频被探测到，在31天时在所有频段被清晰探测，展现出自由-自由吸收特征的倒转射电谱。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为一颗明亮的经典新星，虽然其光学阶段适合地面小望远镜跟进，但本项目主要关注射电辐射特征，与本课题组核心的黑洞和活动星系核吸积喷流物理关联较弱，暂无使用自有1米望远镜或申请其他设备的紧迫需求。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18087-s-cubed-detects-supersoft-x-ray-counterpart-to-the-smc-nova-asassn-26dt&#34;&gt;[3] | ATel 18087: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18087&#34;&gt;S-CUBED Detects Supersoft X-ray Counterpart to the SMC Nova ASASSN-26dt&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 3 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;ASASSN-26dt&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Swift望远镜的S-CUBED巡天项目首次在小麦哲伦星云的新星ASASSN-26dt中探测到了超软X射线对应体，展现出高温黑体谱特征并进入超软X射线源阶段。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标是一颗新星，偏向激变变星范畴，但由于其位于小麦哲伦星云且光学星等偏暗（B=16.34等，V=16.53等），超出了我们1米望远镜的测光与光谱极限，暂无直接光学后随观测价值，也无需申请额外设备跟进。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-atel-18086-swift-x-ray-and-ultraviolet-followup-observations-of-the-new-enhanced-activity-phase-of-su-lyn&#34;&gt;[6] | ATel 18086: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18086&#34;&gt;Swift X-ray and ultraviolet followup observations of the new enhanced activity phase of SU Lyn&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 2 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SU Lyn&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Swift卫星对共生星SU Lyn的高光学活动期进行了X射线和紫外后随观测，紫外波段成功探测并显示出强烈的紫外辐射，但未探测到X射线。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于共生星/激变变星系统，且处于高活动期，其亮度在1m望远镜的测光极限范围内，具备光学后随观测价值，可评估使用我们的望远镜进行跟进。无需紧急申请其他大型空间X射线设备观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-atel-18085-swift-observations-of-ngc-1275-find-historically-high-uv-and-x-ray-fluxes&#34;&gt;[6] | ATel 18085: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18085&#34;&gt;Swift Observations of NGC 1275 Find Historically High UV and X-ray Fluxes&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 1 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;NGC 1275&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文使用Swift卫星对英仙座星系团中心活动星系核NGC 1275进行了多波段监测，发现其紫外(M2波段，m_M2约为15.53等)及X射线(0.3-10 keV)通量均达到了20年监测历史以来的最高水平。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于AGN，具有极高的多波段活动性与联合观测价值。由于其光学测光星等在我们的1m望远镜极限(21等)以内且亮于光谱极限(16等)，具备光学监测或后随价值，但受限于其耀变体性质，是否申请跟进需结合具体多波段多信使联测需求决定。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;4-atel-18084-v488-sge-has-become-a-super-soft-x-ray-source&#34;&gt;[4] | ATel 18084: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18084&#34;&gt;V488 Sge has become a super-soft X-ray source&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 1 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V488 Sge&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Swift卫星对新星V488 Sge进行X射线监测，在其近期观测中发现软X射线计数显著增加，标志着该系统正式进入超软源(SSS)阶段并展现出快速光变。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于经典新星，虽然其演化出超软X射线源阶段具有物理研究价值，但由于其主要在X射线和高能段活动，且属于新星范畴，与本组核心黑洞吸积及AGN研究契合度一般，且光学亮度对于1米望远镜的跟进可能并非最优选择，暂无必要申请专门设备观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18083-su-lyn-the-prototype-of-lowacc-symbiotic-stars-is-undergoing-a-major-surge-in-accretion&#34;&gt;[3] | ATel 18083: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18083&#34;&gt;SU Lyn, the prototype of LowAcc symbiotic stars, is undergoing a major surge in accretion&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 1 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SU Lyn&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 低吸积共生星原型 SU Lyn 被监测到正在经历一次主要的吸积激增，其光学和紫外辐射显著增强，并出现了强烈的发射线。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于共生星系统，虽然不属于我们的核心研究领域，但其处于光学亮态且具有光学监测价值。鉴于其V波段约8.5等，在我们1米望远镜的观测能力范围内，可考虑进行常规光学跟进，暂无急需申请空间高能设备的必要。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;8-atel-18082-srgart-xc-detection-of-the-possible-new-outburst-of-ax-j18205-1434&#34;&gt;[8] | ATel 18082: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18082&#34;&gt;SRG/ART-XC detection of the possible new outburst of AX J1820.5-1434&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Sep 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AX J1820.5-1434&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: SRG卫星搭载的ART-XC望远镜在银道面观测中发现了一个明亮的X射线暂现源，其位置与高质量X射线双星候选体AX J1820.5-1434高度吻合，亮度较以往全天巡天提升超一个量级，推测为该源的新一轮爆发。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该源是一颗重度吸收的高质量X射线双星，作者鼓励开展X射线及近红外-红外后随观测。虽然其光学消光可能较大且超出了1米望远镜的极限，但多波段联合观测需求契合本组方向，具备跟进价值。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W40/</link>
-      <pubDate>Sun, 04 Oct 2026 12:24:49 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W40/</guid>
       
     </item>
     
