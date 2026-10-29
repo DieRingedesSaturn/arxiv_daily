@@ -6,6 +6,21 @@
 
 ---
 
+### ATel 18126: [Four-band near-infrared imaging of 3I/ATLAS: Keck/MOSFIRE observations on 2025 July 11](https://www.astronomerstelegram.org/?read=18126)
+- **日期**: 29 Oct 2026 UT
+
+**爆发速递**: 研究团队使用Keck望远镜的MOSFIRE设备对星际彗星3I/ATLAS进行了四波段近红外成像观测，获取了Y、J、H和Ks波段的星等与颜色信息，证实了彗发的存在。
+**观测短评**: 该目标为太阳系外的星际彗星，属于太阳系小天体研究范畴，与本课题组关注的黑洞X射线双星、活动星系核等高能天体及暂现源物理无关，无光学跟进价值，无需使用本组望远镜进行观测。
+
+---
+
+### ATel 18124: [CN and Ni I emission in the 2025 August 31 Keck/LRIS spectra of 3I/ATLAS](https://www.astronomerstelegram.org/?read=18124)
+- **日期**: 29 Oct 2026 UT
+
+**爆发速递**: 本篇ATel简报由Keck/LRIS望远镜对星际彗星3I/ATLAS在2025年8月31日的光谱观测结果，探测到了CN和Ni I发射线。**观测短评**: 该目标为太阳系外星际彗星，属于行星科学范畴，与本课题组关注的黑洞、活动星系核等高能天体及暂现源核心研究领域完全无关，无光学后随观测价值，无需申请跟进。
+
+---
+
 ### ATel 18098: [2026 May Keck/LRIS imaging of interstellar comet 3I/ATLAS](https://www.astronomerstelegram.org/?read=18098)
 - **日期**: 9 Oct 2026 UT
 

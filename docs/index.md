@@ -9,11 +9,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18120: [Nova Tau 2026 (V1452 Tau) is likely undergoing dust formation](https://www.astronomerstelegram.org/?read=18120)
-- **日期**: 27 Oct 2026 UT | **源**: `V1452 Tau`
+### [0] | ATel 18126: [Four-band near-infrared imaging of 3I/ATLAS: Keck/MOSFIRE observations on 2025 July 11](https://www.astronomerstelegram.org/?read=18126)
+- **日期**: 29 Oct 2026 UT | **源**: `3I/ATLAS`
 
-**爆发速递**: NMW-TexasTech巡天发现暂现源TCP J05210763+2338194，后被证认为新星Nova Tau 2026（V1452 Tau）。近期多地望远镜监测显示其在经历约70天平台期后亮度急剧下降，光谱证实这是由于喷出物中发生尘埃凝结。
-**观测短评**: 该目标属于新星（CV相关），虽然具备光学后随监测价值，但其目前亮度及演化阶段已有大量专业中小望远镜跟进，且不符合本组核心的黑洞及AGN研究方向，暂无必要申请我方1m望远镜或大型设备机时。
+**爆发速递**: 研究团队使用Keck望远镜的MOSFIRE设备对星际彗星3I/ATLAS进行了四波段近红外成像观测，获取了Y、J、H和Ks波段的星等与颜色信息，证实了彗发的存在。
+**观测短评**: 该目标为太阳系外的星际彗星，属于太阳系小天体研究范畴，与本课题组关注的黑洞X射线双星、活动星系核等高能天体及暂现源物理无关，无光学跟进价值，无需使用本组望远镜进行观测。
+
+---
+
+### [0] | ATel 18125: [XRISM/Xtend Transient Search (XTS) detected X-ray flares likely from CD-61 901](https://www.astronomerstelegram.org/?read=18125)
+- **日期**: 29 Oct 2026 UT | **源**: `CD-61 901`
+
+**爆发速递**: XRISM/Xtend Transient Search (XTS) 团队利用 Xtend 望远镜探测到了来自旋转变星 CD-61 901 的两次 X 射线耀斑衰减阶段。**观测短评**: 该目标为较近距离的旋转变星，且爆发特征与黑洞双星、活动星系核等核心研究领域无关，对本课题组无光学后随观测价值，无需申请其他设备跟进。
 
 ---
 
