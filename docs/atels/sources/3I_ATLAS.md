@@ -6,6 +6,22 @@
 
 ---
 
+### ATel 18130: [Neutral nickel and molecular coma maps of 3I/ATLAS from 2026 January Keck/KCWI spectroscopy](https://www.astronomerstelegram.org/?read=18130)
+- **日期**: 30 Oct 2026 UT
+
+**爆发速递**: 本篇ATel报道了使用Keck II/KCWI望远镜对星际彗星3I/ATLAS进行的光学积分视场光谱观测，获取了其CN、C3以及中性镍（Ni I）的发射图谱并估算了分子产率。
+**观测短评**: 该目标属于太阳系内天体（星际彗星），与本课题组关注的黑洞X射线双星、活动星系核及暂现源等高能天体物理研究方向无关，且不适合我们的1米光学望远镜进行科学跟进，无需申请后续观测。
+
+---
+
+### ATel 18128: [Coma and tail morphology of 3I/ATLAS from 2025 September Gemini South/GMOS multiband imaging](https://www.astronomerstelegram.org/?read=18128)
+- **日期**: 29 Oct 2026 UT
+
+**爆发速递**: 本 ATel 报道了使用双子座南望远镜的 GMOS 仪器对星际彗星 3I/ATLAS 进行的多波段光学成像观测，给出了其彗发和反太阳尾形态以及多波段测光结果。
+**观测短评**: 本文观测对象为太阳系外彗星，与本课题组关注的黑洞X射线双星、活动星系核等高能吸积物理和暂现源研究完全无关，无光学后随价值，无需申请任何观测。
+
+---
+
 ### ATel 18126: [Four-band near-infrared imaging of 3I/ATLAS: Keck/MOSFIRE observations on 2025 July 11](https://www.astronomerstelegram.org/?read=18126)
 - **日期**: 29 Oct 2026 UT
 

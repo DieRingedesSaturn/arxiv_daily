@@ -9,21 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18126: [Four-band near-infrared imaging of 3I/ATLAS: Keck/MOSFIRE observations on 2025 July 11](https://www.astronomerstelegram.org/?read=18126)
-- **日期**: 29 Oct 2026 UT | **源**: `3I/ATLAS`
+### [0] | ATel 18130: [Neutral nickel and molecular coma maps of 3I/ATLAS from 2026 January Keck/KCWI spectroscopy](https://www.astronomerstelegram.org/?read=18130)
+- **日期**: 30 Oct 2026 UT | **源**: `3I/ATLAS`
 
-**爆发速递**: 研究团队使用Keck望远镜的MOSFIRE设备对星际彗星3I/ATLAS进行了四波段近红外成像观测，获取了Y、J、H和Ks波段的星等与颜色信息，证实了彗发的存在。
-**观测短评**: 该目标为太阳系外的星际彗星，属于太阳系小天体研究范畴，与本课题组关注的黑洞X射线双星、活动星系核等高能天体及暂现源物理无关，无光学跟进价值，无需使用本组望远镜进行观测。
-
----
-
-### [0] | ATel 18125: [XRISM/Xtend Transient Search (XTS) detected X-ray flares likely from CD-61 901](https://www.astronomerstelegram.org/?read=18125)
-- **日期**: 29 Oct 2026 UT | **源**: `CD-61 901`
-
-**爆发速递**: XRISM/Xtend Transient Search (XTS) 团队利用 Xtend 望远镜探测到了来自旋转变星 CD-61 901 的两次 X 射线耀斑衰减阶段。**观测短评**: 该目标为较近距离的旋转变星，且爆发特征与黑洞双星、活动星系核等核心研究领域无关，对本课题组无光学后随观测价值，无需申请其他设备跟进。
+**爆发速递**: 本篇ATel报道了使用Keck II/KCWI望远镜对星际彗星3I/ATLAS进行的光学积分视场光谱观测，获取了其CN、C3以及中性镍（Ni I）的发射图谱并估算了分子产率。
+**观测短评**: 该目标属于太阳系内天体（星际彗星），与本课题组关注的黑洞X射线双星、活动星系核及暂现源等高能天体物理研究方向无关，且不适合我们的1米光学望远镜进行科学跟进，无需申请后续观测。
 
 ---
 
+### [3] | ATel 18129: [Nova V488 Sge Is Forming Dust](https://www.astronomerstelegram.org/?read=18129)
+- **日期**: 29 Oct 2026 UT | **源**: `V488 Sge`
+
+**爆发速递**: 近红外监测表明，经典新星V488 Sge在2026年9月至10月期间变暗的同时，其近红外颜色显著变红（J-Hs从0增至0.7），标志着该新星开始形成尘埃。
+**观测短评**: 虽然该目标属于新星，且团队拥有1米光学望远镜，但其尘埃形成主要通过近红外波段观测发现且无光学变暗迹象，对我们的光学望远镜跟进价值有限，无需申请其他设备进行深度观测。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W44.md)
 

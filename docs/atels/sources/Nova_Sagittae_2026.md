@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18129: [Nova V488 Sge Is Forming Dust](https://www.astronomerstelegram.org/?read=18129)
+- **日期**: 29 Oct 2026 UT
+
+**爆发速递**: 近红外监测表明，经典新星V488 Sge在2026年9月至10月期间变暗的同时，其近红外颜色显著变红（J-Hs从0增至0.7），标志着该新星开始形成尘埃。
+**观测短评**: 虽然该目标属于新星，且团队拥有1米光学望远镜，但其尘埃形成主要通过近红外波段观测发现且无光学变暗迹象，对我们的光学望远镜跟进价值有限，无需申请其他设备进行深度观测。
+
+---
+
 ### ATel 18090: [V488 Sge transitions to the nebular phase: the significant [O III] emission](https://www.astronomerstelegram.org/?read=18090)
 - **日期**: 5 Oct 2026 UT
 

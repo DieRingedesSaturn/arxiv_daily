@@ -92,6 +92,8 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [V572_Velorum](./sources/V572_Velorum.md) | *最新动态: ATel 18127 (29 Oct 2026)*
+- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18129 (29 Oct 2026)*
 - [V572_Vel](./sources/V572_Vel.md) | *最新动态: ATel 18121 (28 Oct 2026)*
 - [V8056_Sgr](./sources/V8056_Sgr.md) | *最新动态: ATel 18122 (28 Oct 2026)*
 - [TCP_J05210763+2338194](./sources/TCP_J05210763+2338194.md) | *最新动态: ATel 18120 (27 Oct 2026)*
@@ -100,7 +102,6 @@
 - [M81N_2026-10a](./sources/M81N_2026-10a.md) | *最新动态: ATel 18107 (16 Oct 2026)*
 - [Gaia20dsz](./sources/Gaia20dsz.md) | *最新动态: ATel 18102 (12 Oct 2026)*
 - [AT_2026aabo](./sources/AT_2026aabo.md) | *最新动态: ATel 18096 (8 Oct 2026)*
-- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18090 (5 Oct 2026)*
 - [ASASSN-26dt](./sources/ASASSN-26dt.md) | *最新动态: ATel 18087 (3 Oct 2026)*
 - [SU_Lyn](./sources/SU_Lyn.md) | *最新动态: ATel 18086 (2 Oct 2026)*
 - [Gaia22cax](./sources/Gaia22cax.md) | *最新动态: ATel 18068 (21 Sep 2026)*
@@ -209,7 +210,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
-- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 18126 (29 Oct 2026)*
+- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 18130 (30 Oct 2026)*
 - [CD-61_901](./sources/CD-61_901.md) | *最新动态: ATel 18125 (29 Oct 2026)*
 - [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 18116 (22 Oct 2026)*
 - [Betelgeuse](./sources/Betelgeuse.md) | *最新动态: ATel 18114 (21 Oct 2026)*
