@@ -1,5 +1,6 @@
 # ArXiv 目录
 
+- [2026-10-30](Arxiv_Summary_2026-10-30.md)
 - [2026-10-28](Arxiv_Summary_2026-10-28.md)
 - [2026-10-27](Arxiv_Summary_2026-10-27.md)
 - [2026-10-26](Arxiv_Summary_2026-10-26.md)
