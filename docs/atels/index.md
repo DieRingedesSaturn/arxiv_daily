@@ -203,6 +203,7 @@
 - [SN2026ejy](./sources/SN2026ejy.md) | *最新动态: ATel 17708 (5 Mar 2026)*
 
 ### FRB
+- [FRB_20261029A](./sources/FRB_20261029A.md) | *最新动态: ATel 18131 (30 Oct 2026)*
 - [FRB_20251125A](./sources/FRB_20251125A.md) | *最新动态: ATel 17934 (1 Aug 2026)*
 - [FRB_20121102A](./sources/FRB_20121102A.md) | *最新动态: ATel 17927 (26 Jul 2026)*
 - [FRB_20251229A](./sources/FRB_20251229A.md) | *最新动态: ATel 17863 (1 Jul 2026)*
@@ -210,7 +211,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
-- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 18130 (30 Oct 2026)*
+- [3I_ATLAS](./sources/3I_ATLAS.md) | *最新动态: ATel 18134 (31 Oct 2026)*
 - [CD-61_901](./sources/CD-61_901.md) | *最新动态: ATel 18125 (29 Oct 2026)*
 - [10P_Tempel_2](./sources/10P_Tempel_2.md) | *最新动态: ATel 18116 (22 Oct 2026)*
 - [Betelgeuse](./sources/Betelgeuse.md) | *最新动态: ATel 18114 (21 Oct 2026)*

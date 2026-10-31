@@ -9,19 +9,19 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18130: [Neutral nickel and molecular coma maps of 3I/ATLAS from 2026 January Keck/KCWI spectroscopy](https://www.astronomerstelegram.org/?read=18130)
-- **日期**: 30 Oct 2026 UT | **源**: `3I/ATLAS`
+### [0] | ATel 18134: [Spatially resolved spectroscopy of 3I/ATLAS with Gemini North/GMOS IFU on 2025 November 26](https://www.astronomerstelegram.org/?read=18134)
+- **日期**: 31 Oct 2026 UT | **源**: `3I/ATLAS`
 
-**爆发速递**: 本篇ATel报道了使用Keck II/KCWI望远镜对星际彗星3I/ATLAS进行的光学积分视场光谱观测，获取了其CN、C3以及中性镍（Ni I）的发射图谱并估算了分子产率。
-**观测短评**: 该目标属于太阳系内天体（星际彗星），与本课题组关注的黑洞X射线双星、活动星系核及暂现源等高能天体物理研究方向无关，且不适合我们的1米光学望远镜进行科学跟进，无需申请后续观测。
+**爆发速递**: 本篇ATel简报介绍了使用Gemini North望远镜对星际彗星3I/ATLAS进行的积分视场光谱观测，给出了CN、C2和C3分子的产率估计。
+**观测短评**: 该目标为太阳系外的彗星，与本课题组关注的吸积物理、高能暂现源及激变变星等核心研究方向无关，且属于大口径红外/光学望远镜的高端光谱观测，无法用我方1米光学望远镜进行有效跟进，无需申请后续观测。
 
 ---
 
-### [3] | ATel 18129: [Nova V488 Sge Is Forming Dust](https://www.astronomerstelegram.org/?read=18129)
-- **日期**: 29 Oct 2026 UT | **源**: `V488 Sge`
+### [0] | ATel 18133: [Keck/MOSFIRE near-infrared imaging and colors of 3I/ATLAS on 2026 February 6](https://www.astronomerstelegram.org/?read=18133)
+- **日期**: 31 Oct 2026 UT | **源**: `3I/ATLAS`
 
-**爆发速递**: 近红外监测表明，经典新星V488 Sge在2026年9月至10月期间变暗的同时，其近红外颜色显著变红（J-Hs从0增至0.7），标志着该新星开始形成尘埃。
-**观测短评**: 虽然该目标属于新星，且团队拥有1米光学望远镜，但其尘埃形成主要通过近红外波段观测发现且无光学变暗迹象，对我们的光学望远镜跟进价值有限，无需申请其他设备进行深度观测。
+**爆发速递**: Keck望远镜利用MOSFIRE设备对星际彗星3I/ATLAS进行了近红外(J, H, Ks波段)成像观测，获取了其视星等与颜色信息，并发现其呈现出分辨出的彗发特征。
+**观测短评**: 该目标为太阳系外星际彗星，属于太阳系小天体研究范畴，与本课题组关注的黑洞、活动星系核及暂现源吸积物理无关，且超出1m光学望远镜的常规观测规划，无后随观测必要。
 
 ---
 
