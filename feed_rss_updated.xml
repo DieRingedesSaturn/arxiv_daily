@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 30 Oct 2026 13:11:18 -0000</pubDate>
-    <lastBuildDate>Fri, 30 Oct 2026 13:11:18 -0000</lastBuildDate>
+    <pubDate>Sat, 31 Oct 2026 12:36:48 -0000</pubDate>
+    <lastBuildDate>Sat, 31 Oct 2026 12:36:48 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,125 @@
     
 
     
+    
+    <item>
+      <title>ATel Weekly: 2026-W44</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w44&#34;&gt;ATel Weekly: 2026-W44&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18134-spatially-resolved-spectroscopy-of-3iatlas-with-gemini-northgmos-ifu-on-2025-november-26&#34;&gt;[0] | ATel 18134: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18134&#34;&gt;Spatially resolved spectroscopy of 3I/ATLAS with Gemini North/GMOS IFU on 2025 November 26&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 31 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本篇ATel简报介绍了使用Gemini North望远镜对星际彗星3I/ATLAS进行的积分视场光谱观测，给出了CN、C2和C3分子的产率估计。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为太阳系外的彗星，与本课题组关注的吸积物理、高能暂现源及激变变星等核心研究方向无关，且属于大口径红外/光学望远镜的高端光谱观测，无法用我方1米光学望远镜进行有效跟进，无需申请后续观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18133-keckmosfire-near-infrared-imaging-and-colors-of-3iatlas-on-2026-february-6&#34;&gt;[0] | ATel 18133: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18133&#34;&gt;Keck/MOSFIRE near-infrared imaging and colors of 3I/ATLAS on 2026 February 6&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 31 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Keck望远镜利用MOSFIRE设备对星际彗星3I/ATLAS进行了近红外(J, H, Ks波段)成像观测，获取了其视星等与颜色信息，并发现其呈现出分辨出的彗发特征。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为太阳系外星际彗星，属于太阳系小天体研究范畴，与本课题组关注的黑洞、活动星系核及暂现源吸积物理无关，且超出1m光学望远镜的常规观测规划，无后随观测必要。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18132-3iatlas-in-february-2026-dust-imaging-and-spectroscopic-gas-constraints-from-gemini-northgmos&#34;&gt;[0] | ATel 18132: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18132&#34;&gt;3I/ATLAS in February 2026: dust imaging and spectroscopic gas constraints from Gemini North/GMOS&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 31 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 研究人员使用Gemini North望远镜上的GMOS设备对星际彗星3I/ATLAS进行了多波段成像与光谱观测，获取了其在2026年2月的星等数据并对气体成分进行了限制。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于太阳系外天体/彗星研究，与本组关注的黑洞X射线双星、活动星系核及暂现源吸积物理无关，无光学后随跟进及申请观测的必要。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18131-greenburst-discovery-of-frb-20261029a&#34;&gt;[0] | ATel 18131: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18131&#34;&gt;GREENBURST discovery of FRB 20261029A&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 30 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;FRB 20261029A&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: GREENBURST项目利用绿岸望远镜(GBT)发现了快速射电暴FRB 20261029A，其色散量显著超出银河系贡献，暗示其河外起源。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 本文涉及射电波段的快速射电暴发现，与课题组黑洞X射线双星、活动星系核及CV等主要研究兴趣无关，且超出本组1米光学望远镜的跟进能力，无需申请观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18130-neutral-nickel-and-molecular-coma-maps-of-3iatlas-from-2026-january-keckkcwi-spectroscopy&#34;&gt;[0] | ATel 18130: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18130&#34;&gt;Neutral nickel and molecular coma maps of 3I/ATLAS from 2026 January Keck/KCWI spectroscopy&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 30 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本篇ATel报道了使用Keck II/KCWI望远镜对星际彗星3I/ATLAS进行的光学积分视场光谱观测，获取了其CN、C3以及中性镍（Ni I）的发射图谱并估算了分子产率。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于太阳系内天体（星际彗星），与本课题组关注的黑洞X射线双星、活动星系核及暂现源等高能天体物理研究方向无关，且不适合我们的1米光学望远镜进行科学跟进，无需申请后续观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18129-nova-v488-sge-is-forming-dust&#34;&gt;[3] | ATel 18129: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18129&#34;&gt;Nova V488 Sge Is Forming Dust&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V488 Sge&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 近红外监测表明，经典新星V488 Sge在2026年9月至10月期间变暗的同时，其近红外颜色显著变红（J-Hs从0增至0.7），标志着该新星开始形成尘埃。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 虽然该目标属于新星，且团队拥有1米光学望远镜，但其尘埃形成主要通过近红外波段观测发现且无光学变暗迹象，对我们的光学望远镜跟进价值有限，无需申请其他设备进行深度观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18128-coma-and-tail-morphology-of-3iatlas-from-2025-september-gemini-southgmos-multiband-imaging&#34;&gt;[0] | ATel 18128: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18128&#34;&gt;Coma and tail morphology of 3I/ATLAS from 2025 September Gemini South/GMOS multiband imaging&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本 ATel 报道了使用双子座南望远镜的 GMOS 仪器对星际彗星 3I/ATLAS 进行的多波段光学成像观测，给出了其彗发和反太阳尾形态以及多波段测光结果。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 本文观测对象为太阳系外彗星，与本课题组关注的黑洞X射线双星、活动星系核等高能吸积物理和暂现源研究完全无关，无光学后随价值，无需申请任何观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;2-atel-18127-detection-of-dust-in-the-nova-v572-velorum-from-spherex-observations&#34;&gt;[2] | ATel 18127: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18127&#34;&gt;Detection of dust in the nova V572 Velorum from SPHEREx observations&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V572 Velorum&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: SPHEREx观测证实了新星V572 Velorum（Nova Velorum 2025）中的尘埃形成，并通过红外光谱分析了尘埃的温度演化与质量。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为激变变星相关系统，但目前处于尘埃形成和演化阶段，且亮点光学星等较暗或已过峰值，不适合我们1米望远镜的常规跟进，暂无申请其他设备观测的必要。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18126-four-band-near-infrared-imaging-of-3iatlas-keckmosfire-observations-on-2025-july-11&#34;&gt;[0] | ATel 18126: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18126&#34;&gt;Four-band near-infrared imaging of 3I/ATLAS: Keck/MOSFIRE observations on 2025 July 11&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 研究团队使用Keck望远镜的MOSFIRE设备对星际彗星3I/ATLAS进行了四波段近红外成像观测，获取了Y、J、H和Ks波段的星等与颜色信息，证实了彗发的存在。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为太阳系外的星际彗星，属于太阳系小天体研究范畴，与本课题组关注的黑洞X射线双星、活动星系核等高能天体及暂现源物理无关，无光学跟进价值，无需使用本组望远镜进行观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18125-xrismxtend-transient-search-xts-detected-x-ray-flares-likely-from-cd-61-901&#34;&gt;[0] | ATel 18125: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18125&#34;&gt;XRISM/Xtend Transient Search (XTS) detected X-ray flares likely from CD-61 901&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;CD-61 901&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XRISM/Xtend Transient Search (XTS) 团队利用 Xtend 望远镜探测到了来自旋转变星 CD-61 901 的两次 X 射线耀斑衰减阶段。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为较近距离的旋转变星，且爆发特征与黑洞双星、活动星系核等核心研究领域无关，对本课题组无光学后随观测价值，无需申请其他设备跟进。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18124-cn-and-ni-i-emission-in-the-2025-august-31-kecklris-spectra-of-3iatlas&#34;&gt;[0] | ATel 18124: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18124&#34;&gt;CN and Ni I emission in the 2025 August 31 Keck/LRIS spectra of 3I/ATLAS&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本篇ATel简报由Keck/LRIS望远镜对星际彗星3I/ATLAS在2025年8月31日的光谱观测结果，探测到了CN和Ni I发射线。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为太阳系外星际彗星，属于行星科学范畴，与本课题组关注的黑洞、活动星系核等高能天体及暂现源核心研究领域完全无关，无光学后随观测价值，无需申请跟进。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;9-atel-18123-maxigsc-detection-of-a-possible-new-transient-maxi-j1609-487&#34;&gt;[9] | ATel 18123: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18123&#34;&gt;MAXI/GSC detection of a possible new transient MAXI J1609-487&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;MAXI J1609-487&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI/GSC 探测到一个位于银道面附近的明亮未分类X射线暂现源，命名为 MAXI J1609-487，在 4.0-10.0 keV 能段的通量达到 300-500 mCrab 级别。&lt;strong&gt;观测短评&lt;/strong&gt;: 该源具有极高的 X 射线亮度且为新发现的暂现源，极大可能是黑洞或中子星 X 射线双星。具有极高的多波段后随观测价值，建议立即申请 Swift、XMM-Newton 及空间 X 射线望远镜进行联合观测，同时由于其光学潜力需评估是否可用 1m 光学望远镜跟进。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18122-fermi-lat-detection-of-galactic-nova-v8056-sgr&#34;&gt;[3] | ATel 18122: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18122&#34;&gt;Fermi-LAT Detection of Galactic Nova V8056 Sgr&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 28 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V8056 Sgr&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 空间望远镜Fermi-LAT通过分析伽马射线数据，在100 MeV至300 GeV能段探测到了银河系新星V8056 Sgr的GeV高能伽马射线辐射，对应显著性约为7个sigma。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 本次爆发为银河系新星，虽属于激变变星相关范畴，但主要涉及高能伽马射线辐射研究，与本组侧重的X射线双星吸积物理关联较弱。虽然文章鼓励多波段后随观测，但鉴于其光学星等可能较暗且本组以X射线和吸积物理为核心，我台1m望远镜跟进的必要性较低，暂无需申请其他大型设备观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-atel-18121-v572-vel-change-of-11-minute-period-within-two-months&#34;&gt;[6] | ATel 18121: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18121&#34;&gt;V572 Vel: Change of 11-Minute Period within two months&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 28 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V572 Vel&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XMM-Newton等设备对新星V572 Vel进行了两次X射线观测，发现在两个月内其约11分钟的周期发生了显著变化，且调制振幅大幅增加并伴随脉冲轮廓演化。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为激变变星，符合课题组1米光学望远镜的跟进能力范围。但鉴于其目前主要依靠X射线空间望远镜进行深入的时变与高分辨率光谱研究，光学后随及申请其他大型设备的必要性相对一般，可作为兴趣目标持续关注。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18120-nova-tau-2026-v1452-tau-is-likely-undergoing-dust-formation&#34;&gt;[3] | ATel 18120: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18120&#34;&gt;Nova Tau 2026 (V1452 Tau) is likely undergoing dust formation&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 27 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V1452 Tau&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: NMW-TexasTech巡天发现暂现源TCP J05210763+2338194，后被证认为新星Nova Tau 2026（V1452 Tau）。近期多地望远镜监测显示其在经历约70天平台期后亮度急剧下降，光谱证实这是由于喷出物中发生尘埃凝结。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于新星（CV相关），虽然具备光学后随监测价值，但其目前亮度及演化阶段已有大量专业中小望远镜跟进，且不符合本组核心的黑洞及AGN研究方向，暂无必要申请我方1m望远镜或大型设备机时。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W44/</link>
+      <pubDate>Sat, 31 Oct 2026 12:36:44 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W44/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-10-30</title>
@@ -314,97 +433,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-10-30/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W44</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w44&#34;&gt;ATel Weekly: 2026-W44&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18130-neutral-nickel-and-molecular-coma-maps-of-3iatlas-from-2026-january-keckkcwi-spectroscopy&#34;&gt;[0] | ATel 18130: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18130&#34;&gt;Neutral nickel and molecular coma maps of 3I/ATLAS from 2026 January Keck/KCWI spectroscopy&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 30 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本篇ATel报道了使用Keck II/KCWI望远镜对星际彗星3I/ATLAS进行的光学积分视场光谱观测，获取了其CN、C3以及中性镍（Ni I）的发射图谱并估算了分子产率。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于太阳系内天体（星际彗星），与本课题组关注的黑洞X射线双星、活动星系核及暂现源等高能天体物理研究方向无关，且不适合我们的1米光学望远镜进行科学跟进，无需申请后续观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18129-nova-v488-sge-is-forming-dust&#34;&gt;[3] | ATel 18129: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18129&#34;&gt;Nova V488 Sge Is Forming Dust&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V488 Sge&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 近红外监测表明，经典新星V488 Sge在2026年9月至10月期间变暗的同时，其近红外颜色显著变红（J-Hs从0增至0.7），标志着该新星开始形成尘埃。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 虽然该目标属于新星，且团队拥有1米光学望远镜，但其尘埃形成主要通过近红外波段观测发现且无光学变暗迹象，对我们的光学望远镜跟进价值有限，无需申请其他设备进行深度观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18128-coma-and-tail-morphology-of-3iatlas-from-2025-september-gemini-southgmos-multiband-imaging&#34;&gt;[0] | ATel 18128: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18128&#34;&gt;Coma and tail morphology of 3I/ATLAS from 2025 September Gemini South/GMOS multiband imaging&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本 ATel 报道了使用双子座南望远镜的 GMOS 仪器对星际彗星 3I/ATLAS 进行的多波段光学成像观测，给出了其彗发和反太阳尾形态以及多波段测光结果。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 本文观测对象为太阳系外彗星，与本课题组关注的黑洞X射线双星、活动星系核等高能吸积物理和暂现源研究完全无关，无光学后随价值，无需申请任何观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;2-atel-18127-detection-of-dust-in-the-nova-v572-velorum-from-spherex-observations&#34;&gt;[2] | ATel 18127: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18127&#34;&gt;Detection of dust in the nova V572 Velorum from SPHEREx observations&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V572 Velorum&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: SPHEREx观测证实了新星V572 Velorum（Nova Velorum 2025）中的尘埃形成，并通过红外光谱分析了尘埃的温度演化与质量。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为激变变星相关系统，但目前处于尘埃形成和演化阶段，且亮点光学星等较暗或已过峰值，不适合我们1米望远镜的常规跟进，暂无申请其他设备观测的必要。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18126-four-band-near-infrared-imaging-of-3iatlas-keckmosfire-observations-on-2025-july-11&#34;&gt;[0] | ATel 18126: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18126&#34;&gt;Four-band near-infrared imaging of 3I/ATLAS: Keck/MOSFIRE observations on 2025 July 11&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 研究团队使用Keck望远镜的MOSFIRE设备对星际彗星3I/ATLAS进行了四波段近红外成像观测，获取了Y、J、H和Ks波段的星等与颜色信息，证实了彗发的存在。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为太阳系外的星际彗星，属于太阳系小天体研究范畴，与本课题组关注的黑洞X射线双星、活动星系核等高能天体及暂现源物理无关，无光学跟进价值，无需使用本组望远镜进行观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18125-xrismxtend-transient-search-xts-detected-x-ray-flares-likely-from-cd-61-901&#34;&gt;[0] | ATel 18125: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18125&#34;&gt;XRISM/Xtend Transient Search (XTS) detected X-ray flares likely from CD-61 901&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;CD-61 901&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XRISM/Xtend Transient Search (XTS) 团队利用 Xtend 望远镜探测到了来自旋转变星 CD-61 901 的两次 X 射线耀斑衰减阶段。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为较近距离的旋转变星，且爆发特征与黑洞双星、活动星系核等核心研究领域无关，对本课题组无光学后随观测价值，无需申请其他设备跟进。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18124-cn-and-ni-i-emission-in-the-2025-august-31-kecklris-spectra-of-3iatlas&#34;&gt;[0] | ATel 18124: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18124&#34;&gt;CN and Ni I emission in the 2025 August 31 Keck/LRIS spectra of 3I/ATLAS&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3I/ATLAS&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本篇ATel简报由Keck/LRIS望远镜对星际彗星3I/ATLAS在2025年8月31日的光谱观测结果，探测到了CN和Ni I发射线。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为太阳系外星际彗星，属于行星科学范畴，与本课题组关注的黑洞、活动星系核等高能天体及暂现源核心研究领域完全无关，无光学后随观测价值，无需申请跟进。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;9-atel-18123-maxigsc-detection-of-a-possible-new-transient-maxi-j1609-487&#34;&gt;[9] | ATel 18123: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18123&#34;&gt;MAXI/GSC detection of a possible new transient MAXI J1609-487&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 29 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;MAXI J1609-487&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI/GSC 探测到一个位于银道面附近的明亮未分类X射线暂现源，命名为 MAXI J1609-487，在 4.0-10.0 keV 能段的通量达到 300-500 mCrab 级别。&lt;strong&gt;观测短评&lt;/strong&gt;: 该源具有极高的 X 射线亮度且为新发现的暂现源，极大可能是黑洞或中子星 X 射线双星。具有极高的多波段后随观测价值，建议立即申请 Swift、XMM-Newton 及空间 X 射线望远镜进行联合观测，同时由于其光学潜力需评估是否可用 1m 光学望远镜跟进。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18122-fermi-lat-detection-of-galactic-nova-v8056-sgr&#34;&gt;[3] | ATel 18122: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18122&#34;&gt;Fermi-LAT Detection of Galactic Nova V8056 Sgr&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 28 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V8056 Sgr&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 空间望远镜Fermi-LAT通过分析伽马射线数据，在100 MeV至300 GeV能段探测到了银河系新星V8056 Sgr的GeV高能伽马射线辐射，对应显著性约为7个sigma。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 本次爆发为银河系新星，虽属于激变变星相关范畴，但主要涉及高能伽马射线辐射研究，与本组侧重的X射线双星吸积物理关联较弱。虽然文章鼓励多波段后随观测，但鉴于其光学星等可能较暗且本组以X射线和吸积物理为核心，我台1m望远镜跟进的必要性较低，暂无需申请其他大型设备观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-atel-18121-v572-vel-change-of-11-minute-period-within-two-months&#34;&gt;[6] | ATel 18121: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18121&#34;&gt;V572 Vel: Change of 11-Minute Period within two months&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 28 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V572 Vel&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XMM-Newton等设备对新星V572 Vel进行了两次X射线观测，发现在两个月内其约11分钟的周期发生了显著变化，且调制振幅大幅增加并伴随脉冲轮廓演化。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为激变变星，符合课题组1米光学望远镜的跟进能力范围。但鉴于其目前主要依靠X射线空间望远镜进行深入的时变与高分辨率光谱研究，光学后随及申请其他大型设备的必要性相对一般，可作为兴趣目标持续关注。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18120-nova-tau-2026-v1452-tau-is-likely-undergoing-dust-formation&#34;&gt;[3] | ATel 18120: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18120&#34;&gt;Nova Tau 2026 (V1452 Tau) is likely undergoing dust formation&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 27 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V1452 Tau&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: NMW-TexasTech巡天发现暂现源TCP J05210763+2338194，后被证认为新星Nova Tau 2026（V1452 Tau）。近期多地望远镜监测显示其在经历约70天平台期后亮度急剧下降，光谱证实这是由于喷出物中发生尘埃凝结。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于新星（CV相关），虽然具备光学后随监测价值，但其目前亮度及演化阶段已有大量专业中小望远镜跟进，且不符合本组核心的黑洞及AGN研究方向，暂无必要申请我方1m望远镜或大型设备机时。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W44/</link>
-      <pubDate>Fri, 30 Oct 2026 13:01:34 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W44/</guid>
       
     </item>
     
