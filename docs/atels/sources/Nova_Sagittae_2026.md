@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 18135: [XMM-Newton Observations during the supersoft phase of nova V488 Sge](https://www.astronomerstelegram.org/?read=18135)
+- **日期**: 31 Oct 2026 UT
+
+**爆发速递**: XMM-Newton卫星对新星V488 Sge在其超软源(SSS)阶段进行了X射线与紫外观测，获得了高分辨率光变及光谱数据。**观测短评**: 该目标为新星（激变变星相关），处于我们的光学望远镜观测极限之内（紫外约12.9等），但鉴于其主要核心价值在于X射线与紫外的高能及光栅光谱分析，且不属于我方重点黑洞或AGN研究方向，暂无迫切申请跟进的必要性。
+
+---
+
 ### ATel 18129: [Nova V488 Sge Is Forming Dust](https://www.astronomerstelegram.org/?read=18129)
 - **日期**: 29 Oct 2026 UT
 

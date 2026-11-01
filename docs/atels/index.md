@@ -43,7 +43,7 @@
 ## 爆发源追踪 (按更新日期排列)
 
 ### BHXRB
-- [MAXI_J1609-487](./sources/MAXI_J1609-487.md) | *最新动态: ATel 18123 (29 Oct 2026)*
+- [MAXI_J1609-487](./sources/MAXI_J1609-487.md) | *最新动态: ATel 18136 (1 Nov 2026)*
 - [4U_1630-472](./sources/4U_1630-472.md) | *最新动态: ATel 18109 (18 Oct 2026)*
 - [XRISM_J1729-1410](./sources/XRISM_J1729-1410.md) | *最新动态: ATel 18092 (6 Oct 2026)*
 - [SRGA_J174800.5-280826](./sources/SRGA_J174800.5-280826.md) | *最新动态: ATel 18050 (16 Sep 2026)*
@@ -92,8 +92,8 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
+- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18135 (31 Oct 2026)*
 - [V572_Velorum](./sources/V572_Velorum.md) | *最新动态: ATel 18127 (29 Oct 2026)*
-- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18129 (29 Oct 2026)*
 - [V572_Vel](./sources/V572_Vel.md) | *最新动态: ATel 18121 (28 Oct 2026)*
 - [V8056_Sgr](./sources/V8056_Sgr.md) | *最新动态: ATel 18122 (28 Oct 2026)*
 - [TCP_J05210763+2338194](./sources/TCP_J05210763+2338194.md) | *最新动态: ATel 18120 (27 Oct 2026)*
@@ -137,6 +137,7 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [QSO_B2344+514](./sources/QSO_B2344+514.md) | *最新动态: ATel 18137 (1 Nov 2026)*
 - [PKS_0521-36](./sources/PKS_0521-36.md) | *最新动态: ATel 18118 (23 Oct 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 18108 (17 Oct 2026)*
 - [MG2_J130304+2434](./sources/MG2_J130304+2434.md) | *最新动态: ATel 18105 (15 Oct 2026)*

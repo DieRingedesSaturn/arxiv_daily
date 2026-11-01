@@ -9,21 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18134: [Spatially resolved spectroscopy of 3I/ATLAS with Gemini North/GMOS IFU on 2025 November 26](https://www.astronomerstelegram.org/?read=18134)
-- **日期**: 31 Oct 2026 UT | **源**: `3I/ATLAS`
+### [8] | ATel 18137: [EP-WXT detection of X-ray brightening from QSO B2344+514](https://www.astronomerstelegram.org/?read=18137)
+- **日期**: 1 Nov 2026 UT | **源**: `QSO B2344+514`
 
-**爆发速递**: 本篇ATel简报介绍了使用Gemini North望远镜对星际彗星3I/ATLAS进行的积分视场光谱观测，给出了CN、C2和C3分子的产率估计。
-**观测短评**: 该目标为太阳系外的彗星，与本课题组关注的吸积物理、高能暂现源及激变变星等核心研究方向无关，且属于大口径红外/光学望远镜的高端光谱观测，无法用我方1米光学望远镜进行有效跟进，无需申请后续观测。
+**爆发速递**: Einstein Probe (EP) 卫星的宽视场X射线望远镜 (WXT) 探测到类星体 QSO B2344+514 发生X射线变亮现象。自2026年10月8日起，其 0.5-4 keV 通量从低状态上升至约 1x10^-10 erg cm^-2 s^-1 并维持高亮度状态。
+**观测短评**: 该目标属于活动星系核 (AGN) 范畴，符合本课题组在AGN吸积与多波段联合观测的核心研究兴趣。鉴于其X射线流量显著增强，具有极高的多波段（尤其是光学及其他空间X射线设备如 Swift、XMM-Newton）后随观测价值，建议申请相关设备进行联合监测。
+
+---
+
+### [4] | ATel 18136: [X-ray rebrightening of the X-ray transient MAXI J1609-487](https://www.astronomerstelegram.org/?read=18136)
+- **日期**: 1 Nov 2026 UT | **源**: `MAXI J1609-487`
+
+**爆发速递**: MAXI/GSC 触发系统监测到 X 射线暂现源 MAXI J1609-487 发生 X 射线再次变亮。此前该源在 10 月 28 日曾展现出明亮的 X 射线耀发，光谱可用吸收幂律模型拟合。**观测短评**: 该源位于银道面附近，极大可能为银河系暂现源。虽然文章鼓励后随观测，但考虑到其坐标及性质，暂不属于我们课题组 1m 光学望远镜的优先跟进目标，且空间 X 射线设备如 Swift 和 EP 更适合用于其 X 射线监测。
 
 ---
 
-### [0] | ATel 18133: [Keck/MOSFIRE near-infrared imaging and colors of 3I/ATLAS on 2026 February 6](https://www.astronomerstelegram.org/?read=18133)
-- **日期**: 31 Oct 2026 UT | **源**: `3I/ATLAS`
-
-**爆发速递**: Keck望远镜利用MOSFIRE设备对星际彗星3I/ATLAS进行了近红外(J, H, Ks波段)成像观测，获取了其视星等与颜色信息，并发现其呈现出分辨出的彗发特征。
-**观测短评**: 该目标为太阳系外星际彗星，属于太阳系小天体研究范畴，与本课题组关注的黑洞、活动星系核及暂现源吸积物理无关，且超出1m光学望远镜的常规观测规划，无后随观测必要。
-
----
 
 [查看本周完整 ATel](./atels/2026-W44.md)
 
