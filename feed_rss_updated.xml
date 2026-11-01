@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Sat, 31 Oct 2026 12:36:48 -0000</pubDate>
-    <lastBuildDate>Sat, 31 Oct 2026 12:36:48 -0000</lastBuildDate>
+    <pubDate>Sun, 01 Nov 2026 13:30:08 -0000</pubDate>
+    <lastBuildDate>Sun, 01 Nov 2026 13:30:08 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -39,6 +39,25 @@
       
       <description>&lt;h1 id=&#34;atel-weekly-2026-w44&#34;&gt;ATel Weekly: 2026-W44&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;8-atel-18137-ep-wxt-detection-of-x-ray-brightening-from-qso-b2344514&#34;&gt;[8] | ATel 18137: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18137&#34;&gt;EP-WXT detection of X-ray brightening from QSO B2344+514&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 1 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;QSO B2344+514&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Einstein Probe (EP) 卫星的宽视场X射线望远镜 (WXT) 探测到类星体 QSO B2344+514 发生X射线变亮现象。自2026年10月8日起，其 0.5-4 keV 通量从低状态上升至约 1x10^-10 erg cm^-2 s^-1 并维持高亮度状态。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于活动星系核 (AGN) 范畴，符合本课题组在AGN吸积与多波段联合观测的核心研究兴趣。鉴于其X射线流量显著增强，具有极高的多波段（尤其是光学及其他空间X射线设备如 Swift、XMM-Newton）后随观测价值，建议申请相关设备进行联合监测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;4-atel-18136-x-ray-rebrightening-of-the-x-ray-transient-maxi-j1609-487&#34;&gt;[4] | ATel 18136: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18136&#34;&gt;X-ray rebrightening of the X-ray transient MAXI J1609-487&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 1 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;MAXI J1609-487&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI/GSC 触发系统监测到 X 射线暂现源 MAXI J1609-487 发生 X 射线再次变亮。此前该源在 10 月 28 日曾展现出明亮的 X 射线耀发，光谱可用吸收幂律模型拟合。&lt;strong&gt;观测短评&lt;/strong&gt;: 该源位于银道面附近，极大可能为银河系暂现源。虽然文章鼓励后随观测，但考虑到其坐标及性质，暂不属于我们课题组 1m 光学望远镜的优先跟进目标，且空间 X 射线设备如 Swift 和 EP 更适合用于其 X 射线监测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18135-xmm-newton-observations-during-the-supersoft-phase-of-nova-v488-sge&#34;&gt;[3] | ATel 18135: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18135&#34;&gt;XMM-Newton Observations during the supersoft phase of nova V488 Sge&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 31 Oct 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;V488 Sge&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XMM-Newton卫星对新星V488 Sge在其超软源(SSS)阶段进行了X射线与紫外观测，获得了高分辨率光变及光谱数据。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为新星（激变变星相关），处于我们的光学望远镜观测极限之内（紫外约12.9等），但鉴于其主要核心价值在于X射线与紫外的高能及光栅光谱分析，且不属于我方重点黑洞或AGN研究方向，暂无迫切申请跟进的必要性。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&#34;0-atel-18134-spatially-resolved-spectroscopy-of-3iatlas-with-gemini-northgmos-ifu-on-2025-november-26&#34;&gt;[0] | ATel 18134: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18134&#34;&gt;Spatially resolved spectroscopy of 3I/ATLAS with Gemini North/GMOS IFU on 2025 November 26&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
@@ -143,7 +162,7 @@
 &lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于新星（CV相关），虽然具备光学后随监测价值，但其目前亮度及演化阶段已有大量专业中小望远镜跟进，且不符合本组核心的黑洞及AGN研究方向，暂无必要申请我方1m望远镜或大型设备机时。&lt;/p&gt;
 &lt;hr /&gt;</description>
       <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W44/</link>
-      <pubDate>Sat, 31 Oct 2026 12:36:44 +0000</pubDate>
+      <pubDate>Sun, 01 Nov 2026 13:30:05 +0000</pubDate>
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W44/</guid>
