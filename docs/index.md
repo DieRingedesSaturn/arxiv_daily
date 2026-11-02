@@ -9,18 +9,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [3] | ATel 18138: [Detection of optical coronal lines in V488 Sge (Nova Sge 2026)](https://www.astronomerstelegram.org/?read=18138)
+- **日期**: 1 Nov 2026 UT | **源**: `V488 Sge`
+
+**爆发速递**: 本文报告了经典新星V488 Sge在光学低分辨率光谱中冕状线及多峰发射线的探测结果，并结合了XMM-Newton卫星的观测数据。**观测短评**: 目标是一颗经典新星，虽然属于激变变星相关范畴，但文章主要依赖高光谱或已有数据分析，其测光与光谱需求超出我们1m望远镜的极限，无须申请跟进观测。
+
+---
+
 ### [8] | ATel 18137: [EP-WXT detection of X-ray brightening from QSO B2344+514](https://www.astronomerstelegram.org/?read=18137)
 - **日期**: 1 Nov 2026 UT | **源**: `QSO B2344+514`
 
 **爆发速递**: Einstein Probe (EP) 卫星的宽视场X射线望远镜 (WXT) 探测到类星体 QSO B2344+514 发生X射线变亮现象。自2026年10月8日起，其 0.5-4 keV 通量从低状态上升至约 1x10^-10 erg cm^-2 s^-1 并维持高亮度状态。
 **观测短评**: 该目标属于活动星系核 (AGN) 范畴，符合本课题组在AGN吸积与多波段联合观测的核心研究兴趣。鉴于其X射线流量显著增强，具有极高的多波段（尤其是光学及其他空间X射线设备如 Swift、XMM-Newton）后随观测价值，建议申请相关设备进行联合监测。
-
----
-
-### [4] | ATel 18136: [X-ray rebrightening of the X-ray transient MAXI J1609-487](https://www.astronomerstelegram.org/?read=18136)
-- **日期**: 1 Nov 2026 UT | **源**: `MAXI J1609-487`
-
-**爆发速递**: MAXI/GSC 触发系统监测到 X 射线暂现源 MAXI J1609-487 发生 X 射线再次变亮。此前该源在 10 月 28 日曾展现出明亮的 X 射线耀发，光谱可用吸收幂律模型拟合。**观测短评**: 该源位于银道面附近，极大可能为银河系暂现源。虽然文章鼓励后随观测，但考虑到其坐标及性质，暂不属于我们课题组 1m 光学望远镜的优先跟进目标，且空间 X 射线设备如 Swift 和 EP 更适合用于其 X 射线监测。
 
 ---
 

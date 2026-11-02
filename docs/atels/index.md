@@ -92,7 +92,7 @@
 - [4U_0513-40](./sources/4U_0513-40.md) | *最新动态: ATel 17682 (16 Feb 2026)*
 
 ### CV
-- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18135 (31 Oct 2026)*
+- [Nova_Sagittae_2026](./sources/Nova_Sagittae_2026.md) | *最新动态: ATel 18138 (1 Nov 2026)*
 - [V572_Velorum](./sources/V572_Velorum.md) | *最新动态: ATel 18127 (29 Oct 2026)*
 - [V572_Vel](./sources/V572_Vel.md) | *最新动态: ATel 18121 (28 Oct 2026)*
 - [V8056_Sgr](./sources/V8056_Sgr.md) | *最新动态: ATel 18122 (28 Oct 2026)*
