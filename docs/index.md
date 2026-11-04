@@ -9,23 +9,23 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18138: [Detection of optical coronal lines in V488 Sge (Nova Sge 2026)](https://www.astronomerstelegram.org/?read=18138)
-- **日期**: 1 Nov 2026 UT | **源**: `V488 Sge`
+### [10] | ATel 18141: [GX 339-4 doesn't sleep for long: new outburst detected with LCO / XB-NEWS](https://www.astronomerstelegram.org/?read=18141)
+- **日期**: 4 Nov 2026 UT | **源**: `GX 339-4`
 
-**爆发速递**: 本文报告了经典新星V488 Sge在光学低分辨率光谱中冕状线及多峰发射线的探测结果，并结合了XMM-Newton卫星的观测数据。**观测短评**: 目标是一颗经典新星，虽然属于激变变星相关范畴，但文章主要依赖高光谱或已有数据分析，其测光与光谱需求超出我们1m望远镜的极限，无须申请跟进观测。
-
----
-
-### [8] | ATel 18137: [EP-WXT detection of X-ray brightening from QSO B2344+514](https://www.astronomerstelegram.org/?read=18137)
-- **日期**: 1 Nov 2026 UT | **源**: `QSO B2344+514`
-
-**爆发速递**: Einstein Probe (EP) 卫星的宽视场X射线望远镜 (WXT) 探测到类星体 QSO B2344+514 发生X射线变亮现象。自2026年10月8日起，其 0.5-4 keV 通量从低状态上升至约 1x10^-10 erg cm^-2 s^-1 并维持高亮度状态。
-**观测短评**: 该目标属于活动星系核 (AGN) 范畴，符合本课题组在AGN吸积与多波段联合观测的核心研究兴趣。鉴于其X射线流量显著增强，具有极高的多波段（尤其是光学及其他空间X射线设备如 Swift、XMM-Newton）后随观测价值，建议申请相关设备进行联合监测。
+**爆发速递**: Las Cumbres Observatory (LCO) 通过 XB-NEWS 管道监测系统，利用光学望远镜发现黑洞低质量X射线双星 GX 339-4 发生新一轮爆发，目前星等已显著亮于宁静态。
+**观测短评**: 该目标属于核心研究领域黑洞X射线双星，极具多波段联合观测价值。虽然因气团和即将到来的日凌限制了地面光学红外望远镜的可见性，但非常适合呼吁并申请空间X射线等设备开展多波段后随观测。
 
 ---
 
+### [0] | ATel 18140: [A glitch in the radio pulsar PSR B1834-10](https://www.astronomerstelegram.org/?read=18140)
+- **日期**: 4 Nov 2026 UT | **源**: `PSR B1834-10`
 
-[查看本周完整 ATel](./atels/2026-W44.md)
+**爆发速递**: Jodrell Bank脉冲星计时项目利用Lovell望远镜探测到了射电脉冲星PSR B1834-10的一次注量跃变事件，这是该脉冲星被观测到的第四次跃变。**观测短评**: 该目标属于射电脉冲星跃变现象，与本课题组关注的黑洞吸积、AGN以及适合1米光学望远镜跟进的变星等研究方向无关，无光学后随观测价值，无需申请相关设备观测。
+
+---
+
+
+[查看本周完整 ATel](./atels/2026-W45.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
