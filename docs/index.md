@@ -9,18 +9,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [8] | ATel 18142: [The CSS quasar 3C 138 reached an exceptionally high magnitude in the R and V bands](https://www.astronomerstelegram.org/?read=18142)
+- **日期**: 4 Nov 2026 UT | **源**: `3C 138`
+
+**爆发速递**: CSS类星体3C 138近期在R波段爆发，Siena大学0.30m、PB 0.13m和Cernusco 0.40m望远镜监测到其达到R=14.94、V=15.60的异常高亮度。**观测短评**: 该源为AGN喷流/吸积相关目标，光学亮度适合我们1m望远镜测光后随，可监测光变；谱观测接近极限但可尝试。建议申请Swift/XMM/EP及射电多波段联合，以确认喷流活动。
+
+---
+
 ### [10] | ATel 18141: [GX 339-4 doesn't sleep for long: new outburst detected with LCO / XB-NEWS](https://www.astronomerstelegram.org/?read=18141)
 - **日期**: 4 Nov 2026 UT | **源**: `GX 339-4`
 
 **爆发速递**: Las Cumbres Observatory (LCO) 通过 XB-NEWS 管道监测系统，利用光学望远镜发现黑洞低质量X射线双星 GX 339-4 发生新一轮爆发，目前星等已显著亮于宁静态。
 **观测短评**: 该目标属于核心研究领域黑洞X射线双星，极具多波段联合观测价值。虽然因气团和即将到来的日凌限制了地面光学红外望远镜的可见性，但非常适合呼吁并申请空间X射线等设备开展多波段后随观测。
-
----
-
-### [0] | ATel 18140: [A glitch in the radio pulsar PSR B1834-10](https://www.astronomerstelegram.org/?read=18140)
-- **日期**: 4 Nov 2026 UT | **源**: `PSR B1834-10`
-
-**爆发速递**: Jodrell Bank脉冲星计时项目利用Lovell望远镜探测到了射电脉冲星PSR B1834-10的一次注量跃变事件，这是该脉冲星被观测到的第四次跃变。**观测短评**: 该目标属于射电脉冲星跃变现象，与本课题组关注的黑洞吸积、AGN以及适合1米光学望远镜跟进的变星等研究方向无关，无光学后随观测价值，无需申请相关设备观测。
 
 ---
 
