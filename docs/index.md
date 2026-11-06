@@ -9,6 +9,13 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [3] | ATel 18143: [SVOM/ECLAIRs sees the rebrightening of the Be/X-ray binary pulsar 1A 0535-668](https://www.astronomerstelegram.org/?read=18143)
+- **日期**: 6 Nov 2026 UT | **源**: `1A 0535-668`
+
+**爆发速递**: SVOM卫星上的ECLAIRs望远镜于2024年11月3日至4日探测到Be/X射线双星脉冲星1A 0535-668的再次变亮，4-20 keV能段的能谱可用光子指数为2.7的幂律模型描述。**观测短评**: 该目标为大麦哲伦星系的X射线脉冲星，爆发流量较高，但由于位于南天且属于中高能X射线源，不适合我们组的1米光学望远镜跟进观测，也无直接申请其他空间设备进行联合观测的迫切需求。
+
+---
+
 ### [8] | ATel 18142: [The CSS quasar 3C 138 reached an exceptionally high magnitude in the R and V bands](https://www.astronomerstelegram.org/?read=18142)
 - **日期**: 4 Nov 2026 UT | **源**: `3C 138`
 
@@ -17,13 +24,6 @@
 ---
 
 ### [10] | ATel 18141: [GX 339-4 doesn't sleep for long: new outburst detected with LCO / XB-NEWS](https://www.astronomerstelegram.org/?read=18141)
-- **日期**: 4 Nov 2026 UT | **源**: `GX 339-4`
-
-**爆发速递**: Las Cumbres Observatory (LCO) 通过 XB-NEWS 管道监测系统，利用光学望远镜发现黑洞低质量X射线双星 GX 339-4 发生新一轮爆发，目前星等已显著亮于宁静态。
-**观测短评**: 该目标属于核心研究领域黑洞X射线双星，极具多波段联合观测价值。虽然因气团和即将到来的日凌限制了地面光学红外望远镜的可见性，但非常适合呼吁并申请空间X射线等设备开展多波段后随观测。
-
----
-
 
 [查看本周完整 ATel](./atels/2026-W45.md)
 
