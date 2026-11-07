@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 06 Nov 2026 14:22:45 -0000</pubDate>
-    <lastBuildDate>Fri, 06 Nov 2026 14:22:45 -0000</lastBuildDate>
+    <pubDate>Sat, 07 Nov 2026 13:06:35 -0000</pubDate>
+    <lastBuildDate>Sat, 07 Nov 2026 13:06:35 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,68 @@
     
 
     
+    
+    <item>
+      <title>ATel Weekly: 2026-W45</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w45&#34;&gt;ATel Weekly: 2026-W45&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;9-atel-18145-optical-follow-up-of-a-turn-on-changing-look-agn-at2022aamy&#34;&gt;[9] | ATel 18145: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18145&#34;&gt;Optical follow-up of a turn-on changing-look AGN AT2022aamy&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 7 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AT2022aamy&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 武汉大学1米光学望远镜(MATCH)对处于转亮阶段的变脸活动星系核(CLAGN) AT2022aamy 进行了多波段光学后随测光观测，测得g、r、i波段星等并发现其持续变亮。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于AGN，且亮度在1m望远镜的观测能力范围内(g~17等)，非常适合利用我们的1m光学望远镜开展长期的光学监测。建议结合多波段数据深入研究其吸积状态变化，并鼓励进一步的光谱观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;9-atel-18144-meerkat-radio-non-detection-of-the-x-ray-transient-maxi-j1609-487&#34;&gt;[9] | ATel 18144: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18144&#34;&gt;MeerKAT radio non-detection of the X-ray transient MAXI J1609-487&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 6 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;MAXI J1609-487&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MeerKAT望远镜对近期发现的X射线暂现源MAXI J1609-487进行了L波段射电跟进观测，未在X射线定位区域内检测到新的射电辐射源，给出约200 uJy的流量上限。观测旨在寻找潜在的延迟射电辐射。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标是一颗银河系X射线暂现源，高度契合本组黑洞X射线双星的研究兴趣。虽然该射电观测未探测到信号，但属于典型多波段联合观测范畴，且计划进行持续的射电监测，具有较高的多波段跟进研究价值。其光学和X射线活动值得密切关注，但因缺乏光学亮度信息且我台1m望远镜受限于16等光谱极限，暂不建议使用我台进行光学光谱跟进，建议关注后续X射线与射电进展。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18143-svomeclairs-sees-the-rebrightening-of-the-bex-ray-binary-pulsar-1a-0535-668&#34;&gt;[3] | ATel 18143: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18143&#34;&gt;SVOM/ECLAIRs sees the rebrightening of the Be/X-ray binary pulsar 1A 0535-668&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 6 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;1A 0535-668&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: SVOM卫星上的ECLAIRs望远镜于2024年11月3日至4日探测到Be/X射线双星脉冲星1A 0535-668的再次变亮，4-20 keV能段的能谱可用光子指数为2.7的幂律模型描述。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为大麦哲伦星系的X射线脉冲星，爆发流量较高，但由于位于南天且属于中高能X射线源，不适合我们组的1米光学望远镜跟进观测，也无直接申请其他空间设备进行联合观测的迫切需求。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;8-atel-18142-the-css-quasar-3c-138-reached-an-exceptionally-high-magnitude-in-the-r-and-v-bands&#34;&gt;[8] | ATel 18142: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18142&#34;&gt;The CSS quasar 3C 138 reached an exceptionally high magnitude in the R and V bands&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 4 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3C 138&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: CSS类星体3C 138近期在R波段爆发，Siena大学0.30m、PB 0.13m和Cernusco 0.40m望远镜监测到其达到R=14.94、V=15.60的异常高亮度。&lt;strong&gt;观测短评&lt;/strong&gt;: 该源为AGN喷流/吸积相关目标，光学亮度适合我们1m望远镜测光后随，可监测光变；谱观测接近极限但可尝试。建议申请Swift/XMM/EP及射电多波段联合，以确认喷流活动。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;10-atel-18141-gx-339-4-doesnt-sleep-for-long-new-outburst-detected-with-lco-xb-news&#34;&gt;[10] | ATel 18141: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18141&#34;&gt;GX 339-4 doesn&#39;t sleep for long: new outburst detected with LCO / XB-NEWS&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 4 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;GX 339-4&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Las Cumbres Observatory (LCO) 通过 XB-NEWS 管道监测系统，利用光学望远镜发现黑洞低质量X射线双星 GX 339-4 发生新一轮爆发，目前星等已显著亮于宁静态。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于核心研究领域黑洞X射线双星，极具多波段联合观测价值。虽然因气团和即将到来的日凌限制了地面光学红外望远镜的可见性，但非常适合呼吁并申请空间X射线等设备开展多波段后随观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18140-a-glitch-in-the-radio-pulsar-psr-b1834-10&#34;&gt;[0] | ATel 18140: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18140&#34;&gt;A glitch in the radio pulsar PSR B1834-10&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 4 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;PSR B1834-10&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Jodrell Bank脉冲星计时项目利用Lovell望远镜探测到了射电脉冲星PSR B1834-10的一次注量跃变事件，这是该脉冲星被观测到的第四次跃变。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于射电脉冲星跃变现象，与本课题组关注的黑洞吸积、AGN以及适合1米光学望远镜跟进的变星等研究方向无关，无光学后随观测价值，无需申请相关设备观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18139-optical-polarization-of-the-long-periodical-comet-c2026-a2-bok&#34;&gt;[0] | ATel 18139: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18139&#34;&gt;Optical polarization of the long-periodical comet C/2026 A2 (Bok)&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 3 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;C/2026 A2 (Bok)&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 有研究团队使用便携式牛顿反射镜联合偏振相机，对长周期彗星C/2026 A2 (Bok)进行了光学成像偏振观测，测得了r和i波段的DoLP值。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为太阳系彗星，与本课题组关注的黑洞吸积、暂现源等高能天体物理研究兴趣完全无关，无光学后随观测价值，无需申请或使用我们的望远镜进行观测。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W45/</link>
+      <pubDate>Sat, 07 Nov 2026 13:06:31 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W45/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-11-06</title>
@@ -177,55 +239,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-11-06/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W45</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w45&#34;&gt;ATel Weekly: 2026-W45&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18143-svomeclairs-sees-the-rebrightening-of-the-bex-ray-binary-pulsar-1a-0535-668&#34;&gt;[3] | ATel 18143: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18143&#34;&gt;SVOM/ECLAIRs sees the rebrightening of the Be/X-ray binary pulsar 1A 0535-668&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 6 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;1A 0535-668&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: SVOM卫星上的ECLAIRs望远镜于2024年11月3日至4日探测到Be/X射线双星脉冲星1A 0535-668的再次变亮，4-20 keV能段的能谱可用光子指数为2.7的幂律模型描述。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为大麦哲伦星系的X射线脉冲星，爆发流量较高，但由于位于南天且属于中高能X射线源，不适合我们组的1米光学望远镜跟进观测，也无直接申请其他空间设备进行联合观测的迫切需求。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;8-atel-18142-the-css-quasar-3c-138-reached-an-exceptionally-high-magnitude-in-the-r-and-v-bands&#34;&gt;[8] | ATel 18142: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18142&#34;&gt;The CSS quasar 3C 138 reached an exceptionally high magnitude in the R and V bands&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 4 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;3C 138&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: CSS类星体3C 138近期在R波段爆发，Siena大学0.30m、PB 0.13m和Cernusco 0.40m望远镜监测到其达到R=14.94、V=15.60的异常高亮度。&lt;strong&gt;观测短评&lt;/strong&gt;: 该源为AGN喷流/吸积相关目标，光学亮度适合我们1m望远镜测光后随，可监测光变；谱观测接近极限但可尝试。建议申请Swift/XMM/EP及射电多波段联合，以确认喷流活动。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;10-atel-18141-gx-339-4-doesnt-sleep-for-long-new-outburst-detected-with-lco-xb-news&#34;&gt;[10] | ATel 18141: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18141&#34;&gt;GX 339-4 doesn&#39;t sleep for long: new outburst detected with LCO / XB-NEWS&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 4 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;GX 339-4&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Las Cumbres Observatory (LCO) 通过 XB-NEWS 管道监测系统，利用光学望远镜发现黑洞低质量X射线双星 GX 339-4 发生新一轮爆发，目前星等已显著亮于宁静态。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于核心研究领域黑洞X射线双星，极具多波段联合观测价值。虽然因气团和即将到来的日凌限制了地面光学红外望远镜的可见性，但非常适合呼吁并申请空间X射线等设备开展多波段后随观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18140-a-glitch-in-the-radio-pulsar-psr-b1834-10&#34;&gt;[0] | ATel 18140: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18140&#34;&gt;A glitch in the radio pulsar PSR B1834-10&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 4 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;PSR B1834-10&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Jodrell Bank脉冲星计时项目利用Lovell望远镜探测到了射电脉冲星PSR B1834-10的一次注量跃变事件，这是该脉冲星被观测到的第四次跃变。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于射电脉冲星跃变现象，与本课题组关注的黑洞吸积、AGN以及适合1米光学望远镜跟进的变星等研究方向无关，无光学后随观测价值，无需申请相关设备观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18139-optical-polarization-of-the-long-periodical-comet-c2026-a2-bok&#34;&gt;[0] | ATel 18139: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18139&#34;&gt;Optical polarization of the long-periodical comet C/2026 A2 (Bok)&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 3 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;C/2026 A2 (Bok)&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 有研究团队使用便携式牛顿反射镜联合偏振相机，对长周期彗星C/2026 A2 (Bok)进行了光学成像偏振观测，测得了r和i波段的DoLP值。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为太阳系彗星，与本课题组关注的黑洞吸积、暂现源等高能天体物理研究兴趣完全无关，无光学后随观测价值，无需申请或使用我们的望远镜进行观测。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W45/</link>
-      <pubDate>Fri, 06 Nov 2026 14:19:00 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W45/</guid>
       
     </item>
     
