@@ -9,21 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18143: [SVOM/ECLAIRs sees the rebrightening of the Be/X-ray binary pulsar 1A 0535-668](https://www.astronomerstelegram.org/?read=18143)
-- **日期**: 6 Nov 2026 UT | **源**: `1A 0535-668`
+### [9] | ATel 18145: [Optical follow-up of a turn-on changing-look AGN AT2022aamy](https://www.astronomerstelegram.org/?read=18145)
+- **日期**: 7 Nov 2026 UT | **源**: `AT2022aamy`
 
-**爆发速递**: SVOM卫星上的ECLAIRs望远镜于2024年11月3日至4日探测到Be/X射线双星脉冲星1A 0535-668的再次变亮，4-20 keV能段的能谱可用光子指数为2.7的幂律模型描述。**观测短评**: 该目标为大麦哲伦星系的X射线脉冲星，爆发流量较高，但由于位于南天且属于中高能X射线源，不适合我们组的1米光学望远镜跟进观测，也无直接申请其他空间设备进行联合观测的迫切需求。
-
----
-
-### [8] | ATel 18142: [The CSS quasar 3C 138 reached an exceptionally high magnitude in the R and V bands](https://www.astronomerstelegram.org/?read=18142)
-- **日期**: 4 Nov 2026 UT | **源**: `3C 138`
-
-**爆发速递**: CSS类星体3C 138近期在R波段爆发，Siena大学0.30m、PB 0.13m和Cernusco 0.40m望远镜监测到其达到R=14.94、V=15.60的异常高亮度。**观测短评**: 该源为AGN喷流/吸积相关目标，光学亮度适合我们1m望远镜测光后随，可监测光变；谱观测接近极限但可尝试。建议申请Swift/XMM/EP及射电多波段联合，以确认喷流活动。
+**爆发速递**: 武汉大学1米光学望远镜(MATCH)对处于转亮阶段的变脸活动星系核(CLAGN) AT2022aamy 进行了多波段光学后随测光观测，测得g、r、i波段星等并发现其持续变亮。**观测短评**: 该目标属于AGN，且亮度在1m望远镜的观测能力范围内(g~17等)，非常适合利用我们的1m光学望远镜开展长期的光学监测。建议结合多波段数据深入研究其吸积状态变化，并鼓励进一步的光谱观测。
 
 ---
 
-### [10] | ATel 18141: [GX 339-4 doesn't sleep for long: new outburst detected with LCO / XB-NEWS](https://www.astronomerstelegram.org/?read=18141)
+### [9] | ATel 18144: [MeerKAT radio non-detection of the X-ray transient MAXI J1609-487](https://www.astronomerstelegram.org/?read=18144)
+- **日期**: 6 Nov 2026 UT | **源**: `MAXI J1609-487`
+
+**爆发速递**: MeerKAT望远镜对近期发现的X射线暂现源MAXI J1609-487进行了L波段射电跟进观测，未在X射线定位区域内检测到新的射电辐射源，给出约200 uJy的流量上限。观测旨在寻找潜在的延迟射电辐射。
+**观测短评**: 该目标是一颗银河系X射线暂现源，高度契合本组黑洞X射线双星的研究兴趣。虽然该射电观测未探测到信号，但属于典型多波段联合观测范畴，且计划进行持续的射电监测，具有较高的多波段跟进研究价值。其光学和X射线活动值得密切关注，但因缺乏光学亮度信息且我台1m望远镜受限于16等光谱极限，暂不建议使用我台进行光学光谱跟进，建议关注后续X射线与射电进展。
+
+---
+
 
 [查看本周完整 ATel](./atels/2026-W45.md)
 
