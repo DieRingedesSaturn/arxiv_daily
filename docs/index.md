@@ -9,23 +9,16 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [9] | ATel 18145: [Optical follow-up of a turn-on changing-look AGN AT2022aamy](https://www.astronomerstelegram.org/?read=18145)
-- **日期**: 7 Nov 2026 UT | **源**: `AT2022aamy`
+### [0] | ATel 18146: [XMM-Newton detection of hard X-ray emission from the nearby Type Ia-CSM SN 2026sqf](https://www.astronomerstelegram.org/?read=18146)
+- **日期**: 9 Nov 2026 UT | **源**: `SN 2026sqf`
 
-**爆发速递**: 武汉大学1米光学望远镜(MATCH)对处于转亮阶段的变脸活动星系核(CLAGN) AT2022aamy 进行了多波段光学后随测光观测，测得g、r、i波段星等并发现其持续变亮。**观测短评**: 该目标属于AGN，且亮度在1m望远镜的观测能力范围内(g~17等)，非常适合利用我们的1m光学望远镜开展长期的光学监测。建议结合多波段数据深入研究其吸积状态变化，并鼓励进一步的光谱观测。
-
----
-
-### [9] | ATel 18144: [MeerKAT radio non-detection of the X-ray transient MAXI J1609-487](https://www.astronomerstelegram.org/?read=18144)
-- **日期**: 6 Nov 2026 UT | **源**: `MAXI J1609-487`
-
-**爆发速递**: MeerKAT望远镜对近期发现的X射线暂现源MAXI J1609-487进行了L波段射电跟进观测，未在X射线定位区域内检测到新的射电辐射源，给出约200 uJy的流量上限。观测旨在寻找潜在的延迟射电辐射。
-**观测短评**: 该目标是一颗银河系X射线暂现源，高度契合本组黑洞X射线双星的研究兴趣。虽然该射电观测未探测到信号，但属于典型多波段联合观测范畴，且计划进行持续的射电监测，具有较高的多波段跟进研究价值。其光学和X射线活动值得密切关注，但因缺乏光学亮度信息且我台1m望远镜受限于16等光谱极限，暂不建议使用我台进行光学光谱跟进，建议关注后续X射线与射电进展。
+**爆发速递**: XMM-Newton卫星在多波段观测活动中，于5-10 keV能段探测到了迄今为止距离最近的Ia-CSM型超新星SN 2026sqf的硬X射线发射。
+**观测短评**: 该目标属于超新星（SN），与我们课题组重点关注的黑洞X射线双星、活动星系核及CV等研究兴趣无关，且光学星等及具体跟进价值不匹配我方1m望远镜能力，无需申请其他设备跟进。
 
 ---
 
 
-[查看本周完整 ATel](./atels/2026-W45.md)
+[查看本周完整 ATel](./atels/2026-W46.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
