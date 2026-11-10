@@ -193,6 +193,7 @@
 - [EP_J223759.5+531421](./sources/EP_J223759.5+531421.md) | *最新动态: ATel 17936 (2 Aug 2026)*
 
 ### SN
+- [SN_2026ahvu](./sources/SN_2026ahvu.md) | *最新动态: ATel 18148 (10 Nov 2026)*
 - [SN_2026sqf](./sources/SN_2026sqf.md) | *最新动态: ATel 18146 (9 Nov 2026)*
 - [SN_2026acxa](./sources/SN_2026acxa.md) | *最新动态: ATel 18103 (13 Oct 2026)*
 - [SN_2026pel](./sources/SN_2026pel.md) | *最新动态: ATel 18057 (18 Sep 2026)*

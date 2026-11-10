@@ -9,14 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18146: [XMM-Newton detection of hard X-ray emission from the nearby Type Ia-CSM SN 2026sqf](https://www.astronomerstelegram.org/?read=18146)
-- **日期**: 9 Nov 2026 UT | **源**: `SN 2026sqf`
+### [0] | ATel 18148: [X-ray upper limit on the progenitor of the Type Ia supernova 2026ahvu in NGC 1433](https://www.astronomerstelegram.org/?read=18148)
+- **日期**: 10 Nov 2026 UT | **源**: `SN 2026ahvu`
 
-**爆发速递**: XMM-Newton卫星在多波段观测活动中，于5-10 keV能段探测到了迄今为止距离最近的Ia-CSM型超新星SN 2026sqf的硬X射线发射。
-**观测短评**: 该目标属于超新星（SN），与我们课题组重点关注的黑洞X射线双星、活动星系核及CV等研究兴趣无关，且光学星等及具体跟进价值不匹配我方1m望远镜能力，无需申请其他设备跟进。
+**爆发速递**: 本文利用钱德拉X射线天文台的存档数据，对NGC 1433星系中的Ia型超新星SN 2026ahvu的前身星进行了X射线辐射上限搜索，在爆发位置未探测到X射线发射并给出了光度上限。
+**观测短评**: 该目标为Ia型超新星，不属于本组关注的黑洞X射线双星或活动星系核等吸积物理研究范畴，且文章报告的是X射线存档数据分析与上限约束，无光学后随观测需求，暂无需安排我们的1米望远镜跟进。
 
 ---
 
+### [0] | ATel 18147: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=18147)
+- **日期**: 9 Nov 2026 UT | **源**: `Unknown`
+
+**爆发速递**: 本简报报道了使用利克天文台Shane望远镜的Kast光谱仪对多个由ATLAS、ZTF及YSE发现的天体瞬变源进行的光谱分类结果，包含数颗超新星及Ia型超新星。
+**观测短评**: 本文涉及的目标主要为常规超新星，与本课题组核心研究的黑洞X射线双星、活动星系核及特殊吸积暂现源不相关，亦无需调用我们的望远镜或申请其他多波段设备进行跟进观测。
+
+---
 
 [查看本周完整 ATel](./atels/2026-W46.md)
 
