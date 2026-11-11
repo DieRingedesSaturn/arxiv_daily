@@ -9,21 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18148: [X-ray upper limit on the progenitor of the Type Ia supernova 2026ahvu in NGC 1433](https://www.astronomerstelegram.org/?read=18148)
-- **日期**: 10 Nov 2026 UT | **源**: `SN 2026ahvu`
+### [3] | ATel 18152: [MAXI/GSC detection of an X-ray flare from GT Mus on 2026-11-09 UT](https://www.astronomerstelegram.org/?read=18152)
+- **日期**: 11 Nov 2026 UT | **源**: `GT Mus`
 
-**爆发速递**: 本文利用钱德拉X射线天文台的存档数据，对NGC 1433星系中的Ia型超新星SN 2026ahvu的前身星进行了X射线辐射上限搜索，在爆发位置未探测到X射线发射并给出了光度上限。
-**观测短评**: 该目标为Ia型超新星，不属于本组关注的黑洞X射线双星或活动星系核等吸积物理研究范畴，且文章报告的是X射线存档数据分析与上限约束，无光学后随观测需求，暂无需安排我们的1米望远镜跟进。
+**爆发速递**: MAXI/GSC在2026年11月9日触发了一次来自RS CVn型变星GT Mus的X射线耀发，2-10 keV光度持续上升至11月11日。**观测短评**: GT Mus属于RS CVn星而非我们的核心研究对象黑洞X射线双星，且其性质不属于典型的激变变星。虽然可能具备光学活动，但鉴于其X射线流量特征与科学目标关联较弱，暂无使用我们1m望远镜或申请其他大型设备后随观测的必要。
+
+---
+
+### [0] | ATel 18151: [Radio non-detection of nearby Type Ia SN 2026ahvu](https://www.astronomerstelegram.org/?read=18151)
+- **日期**: 11 Nov 2026 UT | **源**: `SN 2026ahvu`
+
+**爆发速递**: MeerKAT望远镜对邻近Ia型超新星SN 2026ahvu进行了1.5 GHz射电波段观测，未探测到致密射电辐射，给出3倍标准差上限为<0.22 mJy。
+**观测短评**: 该目标为超新星，不属于本组重点关注的黑洞X射线双星或活动星系核等吸积与喷流物理研究范畴，且缺乏光学后随跟进和空间/大射电设备联合观测的必要性，无申请我方设备观测的价值。
 
 ---
 
-### [0] | ATel 18147: [Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope](https://www.astronomerstelegram.org/?read=18147)
-- **日期**: 9 Nov 2026 UT | **源**: `Unknown`
-
-**爆发速递**: 本简报报道了使用利克天文台Shane望远镜的Kast光谱仪对多个由ATLAS、ZTF及YSE发现的天体瞬变源进行的光谱分类结果，包含数颗超新星及Ia型超新星。
-**观测短评**: 本文涉及的目标主要为常规超新星，与本课题组核心研究的黑洞X射线双星、活动星系核及特殊吸积暂现源不相关，亦无需调用我们的望远镜或申请其他多波段设备进行跟进观测。
-
----
 
 [查看本周完整 ATel](./atels/2026-W46.md)
 
