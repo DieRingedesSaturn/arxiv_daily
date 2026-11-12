@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Wed, 11 Nov 2026 14:42:24 -0000</pubDate>
-    <lastBuildDate>Wed, 11 Nov 2026 14:42:24 -0000</lastBuildDate>
+    <pubDate>Thu, 12 Nov 2026 15:17:28 -0000</pubDate>
+    <lastBuildDate>Thu, 12 Nov 2026 15:17:28 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -651,6 +651,13 @@
       
       <description>&lt;h1 id=&#34;atel-weekly-2026-w46&#34;&gt;ATel Weekly: 2026-W46&lt;/h1&gt;
 &lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18153-askapcraco-and-murriyang-detection-of-a-new-repeating-fast-radio-burst-source-frb20261031b&#34;&gt;[0] | ATel 18153: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18153&#34;&gt;ASKAP/CRACO and Murriyang detection of a new repeating fast radio burst source FRB20261031B&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 11 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;FRB 20261031B&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: ASKAP/CRACO和Murriyang望远镜合作发现了一个新的重复快速射电暴源FRB 20261031B，并利用DECaLS巡天数据锁定了其可能的宿主星系，测得光度红移约为0.6。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于快速射电暴研究范畴，宿主星系r波段星等为23.2等，超出了我们1米光学望远镜的测光极限。且不属于我们的核心研究兴趣，无光学后随跟进价值，无需申请设备观测。&lt;/p&gt;
 &lt;hr /&gt;
 &lt;h3 id=&#34;3-atel-18152-maxigsc-detection-of-an-x-ray-flare-from-gt-mus-on-2026-11-09-ut&#34;&gt;[3] | ATel 18152: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18152&#34;&gt;MAXI/GSC detection of an X-ray flare from GT Mus on 2026-11-09 UT&lt;/a&gt;&lt;/h3&gt;
 &lt;ul&gt;
