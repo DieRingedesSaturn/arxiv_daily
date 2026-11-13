@@ -9,18 +9,18 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [0] | ATel 18153: [ASKAP/CRACO and Murriyang detection of a new repeating fast radio burst source FRB20261031B](https://www.astronomerstelegram.org/?read=18153)
-- **日期**: 11 Nov 2026 UT | **源**: `FRB 20261031B`
+### [1] | ATel 18155: [Spectroscopic Classifications of Optical Transients with the Keck Cosmic Web Imager](https://www.astronomerstelegram.org/?read=18155)
+- **日期**: 13 Nov 2026 UT | **源**: `Unknown`
 
-**爆发速递**: ASKAP/CRACO和Murriyang望远镜合作发现了一个新的重复快速射电暴源FRB 20261031B，并利用DECaLS巡天数据锁定了其可能的宿主星系，测得光度红移约为0.6。
-**观测短评**: 该目标属于快速射电暴研究范畴，宿主星系r波段星等为23.2等，超出了我们1米光学望远镜的测光极限。且不属于我们的核心研究兴趣，无光学后随跟进价值，无需申请设备观测。
+**爆发速递**: Keck望远镜利用KCWI对ATLAS和LSST发现的光学暂现源进行了光谱分类，其中包括多颗超新星（SN Ia、SN Ic和SLSN-II）。
+**观测短评**: 本文报告的目标均为超新星，不属于本课题组重点关注的黑洞X射线双星或活动星系核等吸积系统，且部分目标星等较暗或处于演化后期，无须使用我们的1米望远镜进行光学后随观测，亦无需申请其他空间或地面设备跟进。
 
 ---
 
-### [3] | ATel 18152: [MAXI/GSC detection of an X-ray flare from GT Mus on 2026-11-09 UT](https://www.astronomerstelegram.org/?read=18152)
-- **日期**: 11 Nov 2026 UT | **源**: `GT Mus`
+### [0] | ATel 18154: [VLA and ASKAP radio detection of SN 2016coi: ten years later](https://www.astronomerstelegram.org/?read=18154)
+- **日期**: 13 Nov 2026 UT | **源**: `SN 2016coi`
 
-**爆发速递**: MAXI/GSC在2026年11月9日触发了一次来自RS CVn型变星GT Mus的X射线耀发，2-10 keV光度持续上升至11月11日。**观测短评**: GT Mus属于RS CVn星而非我们的核心研究对象黑洞X射线双星，且其性质不属于典型的激变变星。虽然可能具备光学活动，但鉴于其X射线流量特征与科学目标关联较弱，暂无使用我们1m望远镜或申请其他大型设备后随观测的必要。
+**爆发速递**: 研究人员利用VLA和ASKAP射电望远镜对超新星SN 2016coi进行了观测，在其爆发十年后仍探测到明显的射电辐射与重新变亮现象。**观测短评**: 该目标属于超新星，且主要为射电波段监测，与本课题组的黑洞X射线双星、活动星系核及1米光学望远镜观测兴趣不符，无光学后随跟进价值，无需申请设备观测。
 
 ---
 
