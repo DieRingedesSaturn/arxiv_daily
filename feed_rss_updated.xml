@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Fri, 13 Nov 2026 14:48:35 -0000</pubDate>
-    <lastBuildDate>Fri, 13 Nov 2026 14:48:35 -0000</lastBuildDate>
+    <pubDate>Sat, 14 Nov 2026 13:33:46 -0000</pubDate>
+    <lastBuildDate>Sat, 14 Nov 2026 13:33:46 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,97 @@
     
 
     
+    
+    <item>
+      <title>ATel Weekly: 2026-W46</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w46&#34;&gt;ATel Weekly: 2026-W46&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18156-the-dominating-active-region-ar14566-and-its-peak-flaring-index&#34;&gt;[0] | ATel 18156: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18156&#34;&gt;The dominating active region AR14566 and its peak flaring index&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 14 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;AR14566&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报道了第25太阳周期中活跃区AR14566的强烈耀斑活动及其峰值耀斑指数(pFI)，数据基于GOES 19卫星及地面H-alpha等观测。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 本文研究对象为太阳活动区耀斑，属于太阳物理范畴，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等研究兴趣无关，且不适合1米光学望远镜跟进，无后随观测价值。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;1-atel-18155-spectroscopic-classifications-of-optical-transients-with-the-keck-cosmic-web-imager&#34;&gt;[1] | ATel 18155: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18155&#34;&gt;Spectroscopic Classifications of Optical Transients with the Keck Cosmic Web Imager&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Unknown&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Keck望远镜利用KCWI对ATLAS和LSST发现的光学暂现源进行了光谱分类，其中包括多颗超新星（SN Ia、SN Ic和SLSN-II）。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 本文报告的目标均为超新星，不属于本课题组重点关注的黑洞X射线双星或活动星系核等吸积系统，且部分目标星等较暗或处于演化后期，无须使用我们的1米望远镜进行光学后随观测，亦无需申请其他空间或地面设备跟进。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18154-vla-and-askap-radio-detection-of-sn-2016coi-ten-years-later&#34;&gt;[0] | ATel 18154: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18154&#34;&gt;VLA and ASKAP radio detection of SN 2016coi: ten years later&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2016coi&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 研究人员利用VLA和ASKAP射电望远镜对超新星SN 2016coi进行了观测，在其爆发十年后仍探测到明显的射电辐射与重新变亮现象。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于超新星，且主要为射电波段监测，与本课题组的黑洞X射线双星、活动星系核及1米光学望远镜观测兴趣不符，无光学后随跟进价值，无需申请设备观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18153-askapcraco-and-murriyang-detection-of-a-new-repeating-fast-radio-burst-source-frb20261031b&#34;&gt;[0] | ATel 18153: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18153&#34;&gt;ASKAP/CRACO and Murriyang detection of a new repeating fast radio burst source FRB20261031B&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 11 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;FRB 20261031B&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: ASKAP/CRACO和Murriyang望远镜合作发现了一个新的重复快速射电暴源FRB 20261031B，并利用DECaLS巡天数据锁定了其可能的宿主星系，测得光度红移约为0.6。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于快速射电暴研究范畴，宿主星系r波段星等为23.2等，超出了我们1米光学望远镜的测光极限。且不属于我们的核心研究兴趣，无光学后随跟进价值，无需申请设备观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18152-maxigsc-detection-of-an-x-ray-flare-from-gt-mus-on-2026-11-09-ut&#34;&gt;[3] | ATel 18152: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18152&#34;&gt;MAXI/GSC detection of an X-ray flare from GT Mus on 2026-11-09 UT&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 11 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;GT Mus&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI/GSC在2026年11月9日触发了一次来自RS CVn型变星GT Mus的X射线耀发，2-10 keV光度持续上升至11月11日。&lt;strong&gt;观测短评&lt;/strong&gt;: GT Mus属于RS CVn星而非我们的核心研究对象黑洞X射线双星，且其性质不属于典型的激变变星。虽然可能具备光学活动，但鉴于其X射线流量特征与科学目标关联较弱，暂无使用我们1m望远镜或申请其他大型设备后随观测的必要。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18151-radio-non-detection-of-nearby-type-ia-sn-2026ahvu&#34;&gt;[0] | ATel 18151: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18151&#34;&gt;Radio non-detection of nearby Type Ia SN 2026ahvu&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 11 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026ahvu&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MeerKAT望远镜对邻近Ia型超新星SN 2026ahvu进行了1.5 GHz射电波段观测，未探测到致密射电辐射，给出3倍标准差上限为&amp;lt;0.22 mJy。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为超新星，不属于本组重点关注的黑洞X射线双星或活动星系核等吸积与喷流物理研究范畴，且缺乏光学后随跟进和空间/大射电设备联合观测的必要性，无申请我方设备观测的价值。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;8-atel-18150-radio-brightening-of-tde-2025aarm-in-askap-data&#34;&gt;[8] | ATel 18150: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18150&#34;&gt;Radio brightening of TDE 2025aarm in ASKAP data&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 10 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;TDE 2025aarm&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 利用澳大利亚平方公里阵列探路者(ASKAP)巡天数据，研究人员报告了近邻潮汐撕裂事件TDE 2025aarm在0.887 GHz射电波段的探测与光变演化。观测显示其射电通量密度自2026年4月起显著上升，并在随后的几个月内近乎线性增长至4.5 mJy。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于潮汐撕裂事件，契合本组重点拓展的吸积机制研究方向。虽然射电波段超出了我们1m光学望远镜的直接观测能力，但作者呼吁进行多波段后随观测，提示我们可以尝试联合Swift等空间X射线/紫外设备或申请射电与光学联合观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;6-atel-18149-spectroscopic-and-photometric-classification-of-asassn-17lp-as-a-wz-sge-type-dwarf-nova-candidate&#34;&gt;[6] | ATel 18149: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18149&#34;&gt;Spectroscopic and photometric classification of ASASSN-17lp as a WZ Sge-type dwarf nova candidate&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 10 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;ASASSN-17lp&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报道了对暂现源 ASASSN-17lp 的光谱与光变观测结果。利用清美3.8米望远镜的KOOLS-IFU积分视场光谱仪及多方巡天数据，确认该目标为一颗处于爆发状态的WZ Sge型矮新星候选体。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标处于光学波段且亮度较高（爆发时约14.4等，休眠期约20.8等），非常适合利用我们的1m光学望远镜进行后续的光变监测以跟踪超峰演化。建议考虑对其开展进一步的跟进观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18148-x-ray-upper-limit-on-the-progenitor-of-the-type-ia-supernova-2026ahvu-in-ngc-1433&#34;&gt;[0] | ATel 18148: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18148&#34;&gt;X-ray upper limit on the progenitor of the Type Ia supernova 2026ahvu in NGC 1433&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 10 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026ahvu&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文利用钱德拉X射线天文台的存档数据，对NGC 1433星系中的Ia型超新星SN 2026ahvu的前身星进行了X射线辐射上限搜索，在爆发位置未探测到X射线发射并给出了光度上限。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为Ia型超新星，不属于本组关注的黑洞X射线双星或活动星系核等吸积物理研究范畴，且文章报告的是X射线存档数据分析与上限约束，无光学后随观测需求，暂无需安排我们的1米望远镜跟进。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18147-spectroscopic-classification-of-astrophysical-transients-with-the-lick-shane-telescope&#34;&gt;[0] | ATel 18147: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18147&#34;&gt;Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 9 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Unknown&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本简报报道了使用利克天文台Shane望远镜的Kast光谱仪对多个由ATLAS、ZTF及YSE发现的天体瞬变源进行的光谱分类结果，包含数颗超新星及Ia型超新星。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 本文涉及的目标主要为常规超新星，与本课题组核心研究的黑洞X射线双星、活动星系核及特殊吸积暂现源不相关，亦无需调用我们的望远镜或申请其他多波段设备进行跟进观测。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;0-atel-18146-xmm-newton-detection-of-hard-x-ray-emission-from-the-nearby-type-ia-csm-sn-2026sqf&#34;&gt;[0] | ATel 18146: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18146&#34;&gt;XMM-Newton detection of hard X-ray emission from the nearby Type Ia-CSM SN 2026sqf&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 9 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026sqf&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XMM-Newton卫星在多波段观测活动中，于5-10 keV能段探测到了迄今为止距离最近的Ia-CSM型超新星SN 2026sqf的硬X射线发射。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于超新星（SN），与我们课题组重点关注的黑洞X射线双星、活动星系核及CV等研究兴趣无关，且光学星等及具体跟进价值不匹配我方1m望远镜能力，无需申请其他设备跟进。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W46/</link>
+      <pubDate>Sat, 14 Nov 2026 13:33:43 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W46/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-11-13</title>
@@ -386,90 +477,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/posts/Arxiv_Summary_2026-11-13/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W46</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w46&#34;&gt;ATel Weekly: 2026-W46&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;1-atel-18155-spectroscopic-classifications-of-optical-transients-with-the-keck-cosmic-web-imager&#34;&gt;[1] | ATel 18155: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18155&#34;&gt;Spectroscopic Classifications of Optical Transients with the Keck Cosmic Web Imager&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Unknown&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Keck望远镜利用KCWI对ATLAS和LSST发现的光学暂现源进行了光谱分类，其中包括多颗超新星（SN Ia、SN Ic和SLSN-II）。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 本文报告的目标均为超新星，不属于本课题组重点关注的黑洞X射线双星或活动星系核等吸积系统，且部分目标星等较暗或处于演化后期，无须使用我们的1米望远镜进行光学后随观测，亦无需申请其他空间或地面设备跟进。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18154-vla-and-askap-radio-detection-of-sn-2016coi-ten-years-later&#34;&gt;[0] | ATel 18154: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18154&#34;&gt;VLA and ASKAP radio detection of SN 2016coi: ten years later&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 13 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2016coi&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 研究人员利用VLA和ASKAP射电望远镜对超新星SN 2016coi进行了观测，在其爆发十年后仍探测到明显的射电辐射与重新变亮现象。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于超新星，且主要为射电波段监测，与本课题组的黑洞X射线双星、活动星系核及1米光学望远镜观测兴趣不符，无光学后随跟进价值，无需申请设备观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18153-askapcraco-and-murriyang-detection-of-a-new-repeating-fast-radio-burst-source-frb20261031b&#34;&gt;[0] | ATel 18153: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18153&#34;&gt;ASKAP/CRACO and Murriyang detection of a new repeating fast radio burst source FRB20261031B&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 11 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;FRB 20261031B&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: ASKAP/CRACO和Murriyang望远镜合作发现了一个新的重复快速射电暴源FRB 20261031B，并利用DECaLS巡天数据锁定了其可能的宿主星系，测得光度红移约为0.6。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于快速射电暴研究范畴，宿主星系r波段星等为23.2等，超出了我们1米光学望远镜的测光极限。且不属于我们的核心研究兴趣，无光学后随跟进价值，无需申请设备观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18152-maxigsc-detection-of-an-x-ray-flare-from-gt-mus-on-2026-11-09-ut&#34;&gt;[3] | ATel 18152: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18152&#34;&gt;MAXI/GSC detection of an X-ray flare from GT Mus on 2026-11-09 UT&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 11 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;GT Mus&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MAXI/GSC在2026年11月9日触发了一次来自RS CVn型变星GT Mus的X射线耀发，2-10 keV光度持续上升至11月11日。&lt;strong&gt;观测短评&lt;/strong&gt;: GT Mus属于RS CVn星而非我们的核心研究对象黑洞X射线双星，且其性质不属于典型的激变变星。虽然可能具备光学活动，但鉴于其X射线流量特征与科学目标关联较弱，暂无使用我们1m望远镜或申请其他大型设备后随观测的必要。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18151-radio-non-detection-of-nearby-type-ia-sn-2026ahvu&#34;&gt;[0] | ATel 18151: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18151&#34;&gt;Radio non-detection of nearby Type Ia SN 2026ahvu&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 11 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026ahvu&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: MeerKAT望远镜对邻近Ia型超新星SN 2026ahvu进行了1.5 GHz射电波段观测，未探测到致密射电辐射，给出3倍标准差上限为&amp;lt;0.22 mJy。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为超新星，不属于本组重点关注的黑洞X射线双星或活动星系核等吸积与喷流物理研究范畴，且缺乏光学后随跟进和空间/大射电设备联合观测的必要性，无申请我方设备观测的价值。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;8-atel-18150-radio-brightening-of-tde-2025aarm-in-askap-data&#34;&gt;[8] | ATel 18150: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18150&#34;&gt;Radio brightening of TDE 2025aarm in ASKAP data&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 10 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;TDE 2025aarm&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 利用澳大利亚平方公里阵列探路者(ASKAP)巡天数据，研究人员报告了近邻潮汐撕裂事件TDE 2025aarm在0.887 GHz射电波段的探测与光变演化。观测显示其射电通量密度自2026年4月起显著上升，并在随后的几个月内近乎线性增长至4.5 mJy。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于潮汐撕裂事件，契合本组重点拓展的吸积机制研究方向。虽然射电波段超出了我们1m光学望远镜的直接观测能力，但作者呼吁进行多波段后随观测，提示我们可以尝试联合Swift等空间X射线/紫外设备或申请射电与光学联合观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;6-atel-18149-spectroscopic-and-photometric-classification-of-asassn-17lp-as-a-wz-sge-type-dwarf-nova-candidate&#34;&gt;[6] | ATel 18149: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18149&#34;&gt;Spectroscopic and photometric classification of ASASSN-17lp as a WZ Sge-type dwarf nova candidate&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 10 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;ASASSN-17lp&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文报道了对暂现源 ASASSN-17lp 的光谱与光变观测结果。利用清美3.8米望远镜的KOOLS-IFU积分视场光谱仪及多方巡天数据，确认该目标为一颗处于爆发状态的WZ Sge型矮新星候选体。&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标处于光学波段且亮度较高（爆发时约14.4等，休眠期约20.8等），非常适合利用我们的1m光学望远镜进行后续的光变监测以跟踪超峰演化。建议考虑对其开展进一步的跟进观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18148-x-ray-upper-limit-on-the-progenitor-of-the-type-ia-supernova-2026ahvu-in-ngc-1433&#34;&gt;[0] | ATel 18148: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18148&#34;&gt;X-ray upper limit on the progenitor of the Type Ia supernova 2026ahvu in NGC 1433&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 10 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026ahvu&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本文利用钱德拉X射线天文台的存档数据，对NGC 1433星系中的Ia型超新星SN 2026ahvu的前身星进行了X射线辐射上限搜索，在爆发位置未探测到X射线发射并给出了光度上限。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为Ia型超新星，不属于本组关注的黑洞X射线双星或活动星系核等吸积物理研究范畴，且文章报告的是X射线存档数据分析与上限约束，无光学后随观测需求，暂无需安排我们的1米望远镜跟进。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18147-spectroscopic-classification-of-astrophysical-transients-with-the-lick-shane-telescope&#34;&gt;[0] | ATel 18147: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18147&#34;&gt;Spectroscopic Classification of Astrophysical Transients with the Lick Shane Telescope&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 9 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;Unknown&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: 本简报报道了使用利克天文台Shane望远镜的Kast光谱仪对多个由ATLAS、ZTF及YSE发现的天体瞬变源进行的光谱分类结果，包含数颗超新星及Ia型超新星。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 本文涉及的目标主要为常规超新星，与本课题组核心研究的黑洞X射线双星、活动星系核及特殊吸积暂现源不相关，亦无需调用我们的望远镜或申请其他多波段设备进行跟进观测。&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;0-atel-18146-xmm-newton-detection-of-hard-x-ray-emission-from-the-nearby-type-ia-csm-sn-2026sqf&#34;&gt;[0] | ATel 18146: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18146&#34;&gt;XMM-Newton detection of hard X-ray emission from the nearby Type Ia-CSM SN 2026sqf&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 9 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;SN 2026sqf&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: XMM-Newton卫星在多波段观测活动中，于5-10 keV能段探测到了迄今为止距离最近的Ia-CSM型超新星SN 2026sqf的硬X射线发射。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标属于超新星（SN），与我们课题组重点关注的黑洞X射线双星、活动星系核及CV等研究兴趣无关，且光学星等及具体跟进价值不匹配我方1m望远镜能力，无需申请其他设备跟进。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W46/</link>
-      <pubDate>Fri, 13 Nov 2026 14:37:46 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W46/</guid>
       
     </item>
     
