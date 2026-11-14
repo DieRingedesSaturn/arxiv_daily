@@ -9,6 +9,14 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [0] | ATel 18156: [The dominating active region AR14566 and its peak flaring index](https://www.astronomerstelegram.org/?read=18156)
+- **日期**: 14 Nov 2026 UT | **源**: `AR14566`
+
+**爆发速递**: 本文报道了第25太阳周期中活跃区AR14566的强烈耀斑活动及其峰值耀斑指数(pFI)，数据基于GOES 19卫星及地面H-alpha等观测。
+**观测短评**: 本文研究对象为太阳活动区耀斑，属于太阳物理范畴，与本课题组关注的黑洞X射线双星、活动星系核及暂现源等研究兴趣无关，且不适合1米光学望远镜跟进，无后随观测价值。
+
+---
+
 ### [1] | ATel 18155: [Spectroscopic Classifications of Optical Transients with the Keck Cosmic Web Imager](https://www.astronomerstelegram.org/?read=18155)
 - **日期**: 13 Nov 2026 UT | **源**: `Unknown`
 
@@ -16,14 +24,6 @@
 **观测短评**: 本文报告的目标均为超新星，不属于本课题组重点关注的黑洞X射线双星或活动星系核等吸积系统，且部分目标星等较暗或处于演化后期，无须使用我们的1米望远镜进行光学后随观测，亦无需申请其他空间或地面设备跟进。
 
 ---
-
-### [0] | ATel 18154: [VLA and ASKAP radio detection of SN 2016coi: ten years later](https://www.astronomerstelegram.org/?read=18154)
-- **日期**: 13 Nov 2026 UT | **源**: `SN 2016coi`
-
-**爆发速递**: 研究人员利用VLA和ASKAP射电望远镜对超新星SN 2016coi进行了观测，在其爆发十年后仍探测到明显的射电辐射与重新变亮现象。**观测短评**: 该目标属于超新星，且主要为射电波段监测，与本课题组的黑洞X射线双星、活动星系核及1米光学望远镜观测兴趣不符，无光学后随跟进价值，无需申请设备观测。
-
----
-
 
 [查看本周完整 ATel](./atels/2026-W46.md)
 

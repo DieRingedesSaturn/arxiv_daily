@@ -222,6 +222,7 @@
 - [FRB_20240114A](./sources/FRB_20240114A.md) | *最新动态: ATel 17711 (6 Mar 2026)*
 
 ### Other
+- [AR_14419](./sources/AR_14419.md) | *最新动态: ATel 18156 (14 Nov 2026)*
 - [GT_Mus](./sources/GT_Mus.md) | *最新动态: ATel 18152 (11 Nov 2026)*
 - [PSR_B1834-10](./sources/PSR_B1834-10.md) | *最新动态: ATel 18140 (4 Nov 2026)*
 - [C_2026_A2_(Bok)](./sources/C_2026_A2_(Bok).md) | *最新动态: ATel 18139 (3 Nov 2026)*
@@ -275,7 +276,6 @@
 - [XRISM_J2052-5701](./sources/XRISM_J2052-5701.md) | *最新动态: ATel 17779 (8 May 2026)*
 - [Fermi_J1443+7152](./sources/Fermi_J1443+7152.md) | *最新动态: ATel 17773 (5 May 2026)*
 - [G11.497-1.485](./sources/G11.497-1.485.md) | *最新动态: ATel 17767 (27 Apr 2026)*
-- [AR_14419](./sources/AR_14419.md) | *最新动态: ATel 17763 (24 Apr 2026)*
 - [M31N_2026-04b](./sources/M31N_2026-04b.md) | *最新动态: ATel 17762 (23 Apr 2026)*
 - [XRISM_J0534-6855](./sources/XRISM_J0534-6855.md) | *最新动态: ATel 17761 (23 Apr 2026)*
 - [PSR_J2238+5903](./sources/PSR_J2238+5903.md) | *最新动态: ATel 17756 (17 Apr 2026)*
