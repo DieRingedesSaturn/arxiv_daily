@@ -1,6 +1,7 @@
 # ATel 索引
 
 ## 按周汇总
+- [2026-W47](2026-W47.md)
 - [2026-W46](2026-W46.md)
 - [2026-W45](2026-W45.md)
 - [2026-W44](2026-W44.md)
@@ -140,10 +141,10 @@
 - [AX_Per](./sources/AX_Per.md) | *最新动态: ATel 17725 (19 Mar 2026)*
 
 ### AGN
+- [PKS_0521-36](./sources/PKS_0521-36.md) | *最新动态: ATel 18157 (17 Nov 2026)*
 - [AT2022aamy](./sources/AT2022aamy.md) | *最新动态: ATel 18145 (7 Nov 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 18142 (4 Nov 2026)*
 - [QSO_B2344+514](./sources/QSO_B2344+514.md) | *最新动态: ATel 18137 (1 Nov 2026)*
-- [PKS_0521-36](./sources/PKS_0521-36.md) | *最新动态: ATel 18118 (23 Oct 2026)*
 - [MG2_J130304+2434](./sources/MG2_J130304+2434.md) | *最新动态: ATel 18105 (15 Oct 2026)*
 - [CTA_102](./sources/CTA_102.md) | *最新动态: ATel 18104 (13 Oct 2026)*
 - [CGRaBS_J1751+0939](./sources/CGRaBS_J1751+0939.md) | *最新动态: ATel 18095 (8 Oct 2026)*
