@@ -6,6 +6,13 @@
 
 ---
 
+### ATel 18158: [Chandra spectra of nova V488 Sge](https://www.astronomerstelegram.org/?read=18158)
+- **日期**: 18 Nov 2026 UT
+
+**爆发速递**: 本文报道了Chandra卫星对新星V488 Sge进行的X射线光栅光谱观测，测得了0.2-10 keV波段的计数率，并发现了显著的耀发及不规则变源特征。光谱由热等离子体发射线主导，排除了此前假设的黑体大气流。**观测短评**: 该目标为新星（属于激变变星相关范畴），虽然适合1米光学望远镜跟进，但本次ATel主要关注的是X射线高能及光栅光谱分析，且处于空间X射线观测阶段。与我们侧重的X射线双星吸积与喷流核心兴趣相关性较低，暂无必要申请其他设备或使用我们的望远镜进行紧急后随。
+
+---
+
 ### ATel 18138: [Detection of optical coronal lines in V488 Sge (Nova Sge 2026)](https://www.astronomerstelegram.org/?read=18138)
 - **日期**: 1 Nov 2026 UT
 

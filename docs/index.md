@@ -9,13 +9,21 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [8] | ATel 18157: [H.E.S.S. discovery of the radio-loud AGN PKS 0521-365 at very-high-energy gamma rays](https://www.astronomerstelegram.org/?read=18157)
-- **日期**: 17 Nov 2026 UT | **源**: `PKS 0521-365`
+### [3] | ATel 18163: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare from ER CVn](https://www.astronomerstelegram.org/?read=18163)
+- **日期**: 20 Nov 2026 UT | **源**: `ER CVn`
 
-**爆发速递**: H.E.S.S. 根据 Fermi-LAT 高能增强警报，于2026年11月16-17日观测邻近射电噪AGN PKS 0521-365约3.5小时，初步在线分析给出 >10σ 的甚高能伽马射线探测；该源分类介于耀变体和射电星系之间，Fermi-LAT 近期两次报告增强态。**观测短评**: 该源多波段后随价值高，H.E.S.S.鼓励联合观测；我们1m望远镜可尝试光学测光监测，但需确认亮度和天气条件。建议申请Swift/XMM/EP或LCO进行X射线/光学协同，并可探索射电跟进。
+**爆发速递**: XRISM/Xtend Transient Search (XTS) 使用 X 射线望远镜探测到了恒星 ER CVn（对应 X 射线源 XRISM J1228+3338）的一次 X 射线耀发，流量峰值达到 1e-11 erg s-1 cm-2。 **观测短评**: 该目标为晚型恒星系统，虽属于激变变星关联目标，但主要为 X 射线波段的耀发活动，结合我们 1m 光学望远镜的测光能力，光学后随监测价值有限，暂无必要申请专门的地面多波段跟进。
 
 ---
 
+### [1] | ATel 18162: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare from PM J12265+3347](https://www.astronomerstelegram.org/?read=18162)
+- **日期**: 20 Nov 2026 UT | **源**: `PM J12265+3347`
+
+**爆发速递**: XRISM/Xtend 暂现源搜索于2026-11-16探测到M型矮星PM J12265+3347的X射线耀发，峰值流量约1.2×10^-12 erg s^-1 cm^-2 (0.4–10 keV)，e折时标约104秒。**观测短评**: 该源为恒星耀发，非本组核心方向；1m望远镜可测光监测但科学价值有限，无需申请其他设备跟进。
+
+---
+
+### [6] | ATel 18161: [LHAASO-WCDA Detection of Strong TeV Flaring Activity from the Radio Galaxy M87](https://www.astronomerstelegram.org/?read=18161)
 
 [查看本周完整 ATel](./atels/2026-W47.md)
 
