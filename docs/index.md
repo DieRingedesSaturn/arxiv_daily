@@ -9,23 +9,16 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
-### [3] | ATel 18163: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare from ER CVn](https://www.astronomerstelegram.org/?read=18163)
-- **日期**: 20 Nov 2026 UT | **源**: `ER CVn`
+### [3] | ATel 18165: [M87: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18165)
+- **日期**: 23 Nov 2026 UT | **源**: `M87`
 
-**爆发速递**: XRISM/Xtend Transient Search (XTS) 使用 X 射线望远镜探测到了恒星 ER CVn（对应 X 射线源 XRISM J1228+3338）的一次 X 射线耀发，流量峰值达到 1e-11 erg s-1 cm-2。 **观测短评**: 该目标为晚型恒星系统，虽属于激变变星关联目标，但主要为 X 射线波段的耀发活动，结合我们 1m 光学望远镜的测光能力，光学后随监测价值有限，暂无必要申请专门的地面多波段跟进。
-
----
-
-### [1] | ATel 18162: [XRISM/Xtend Transient Search (XTS) detected an X-ray flare from PM J12265+3347](https://www.astronomerstelegram.org/?read=18162)
-- **日期**: 20 Nov 2026 UT | **源**: `PM J12265+3347`
-
-**爆发速递**: XRISM/Xtend 暂现源搜索于2026-11-16探测到M型矮星PM J12265+3347的X射线耀发，峰值流量约1.2×10^-12 erg s^-1 cm^-2 (0.4–10 keV)，e折时标约104秒。**观测短评**: 该源为恒星耀发，非本组核心方向；1m望远镜可测光监测但科学价值有限，无需申请其他设备跟进。
+**爆发速递**: IceCube合作组针对近期LHAASO报道的射电星系M87的硬TeV伽马射线耀发，利用IceCube望远镜对2026年11月14日至18日期间的径迹型缪子中微子事件进行了搜索，未发现显著信号并给出了中微子通量上限。
+**观测短评**: 该ATel涉及著名活动星系核M87的多波段与中微子联合研究，虽处于非我们1m光学望远镜的主要跟进范畴且暂无直接光学测光/光谱申请价值，但对研究高能天体物理及多信使天文学具有重要参考意义。
 
 ---
 
-### [6] | ATel 18161: [LHAASO-WCDA Detection of Strong TeV Flaring Activity from the Radio Galaxy M87](https://www.astronomerstelegram.org/?read=18161)
 
-[查看本周完整 ATel](./atels/2026-W47.md)
+[查看本周完整 ATel](./atels/2026-W48.md)
 
 [查看所有 ATel 索引](./atels/index.md)
 
