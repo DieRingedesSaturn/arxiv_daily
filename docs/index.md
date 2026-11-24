@@ -9,6 +9,14 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [7] | ATel 18166: [Fermi-LAT detection of renewed gamma-ray activity from the flat-spectrum radio quasar PKS 1958-179](https://www.astronomerstelegram.org/?read=18166)
+- **日期**: 23 Nov 2026 UT | **源**: `PKS 1958-179`
+
+**爆发速递**: Fermi-LAT 望远镜于 2026 年 11 月 22 日观测到平谱射电类星体 PKS 1958-179 的伽马射线活动显著增强，日均通量较 4FGL 平均水平增加了约 10 倍，并伴随能谱变硬及高能光子探测。
+**观测短评**: 该目标为活动星系核（AGN），符合本组多波段联合观测的研究兴趣。考虑到其处于高能活跃状态，具有较高的多波段后随观测价值，建议联合 Swift 或其他光学/射电设备进行跟进观测，但超出了本组 1m 光学望远镜的常规测光极限，暂不适合本台设备直接跟进。
+
+---
+
 ### [3] | ATel 18165: [M87: Upper limits from a neutrino search with IceCube](https://www.astronomerstelegram.org/?read=18165)
 - **日期**: 23 Nov 2026 UT | **源**: `M87`
 
@@ -16,7 +24,6 @@
 **观测短评**: 该ATel涉及著名活动星系核M87的多波段与中微子联合研究，虽处于非我们1m光学望远镜的主要跟进范畴且暂无直接光学测光/光谱申请价值，但对研究高能天体物理及多信使天文学具有重要参考意义。
 
 ---
-
 
 [查看本周完整 ATel](./atels/2026-W48.md)
 

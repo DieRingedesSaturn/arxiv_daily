@@ -145,6 +145,7 @@
 
 ### AGN
 - [M87](./sources/M87.md) | *最新动态: ATel 18165 (23 Nov 2026)*
+- [PKS_1958-179](./sources/PKS_1958-179.md) | *最新动态: ATel 18166 (23 Nov 2026)*
 - [3C_138](./sources/3C_138.md) | *最新动态: ATel 18159 (18 Nov 2026)*
 - [PKS_0521-36](./sources/PKS_0521-36.md) | *最新动态: ATel 18157 (17 Nov 2026)*
 - [AT2022aamy](./sources/AT2022aamy.md) | *最新动态: ATel 18145 (7 Nov 2026)*
@@ -183,7 +184,6 @@
 - [PKS_0537-441](./sources/PKS_0537-441.md) | *最新动态: ATel 17755 (16 Apr 2026)*
 - [S3_0458-02](./sources/S3_0458-02.md) | *最新动态: ATel 17753 (14 Apr 2026)*
 - [NRAO_512](./sources/NRAO_512.md) | *最新动态: ATel 17752 (13 Apr 2026)*
-- [PKS_1958-179](./sources/PKS_1958-179.md) | *最新动态: ATel 17740 (5 Apr 2026)*
 - [PKS0748+126](./sources/PKS0748+126.md) | *最新动态: ATel 17739 (4 Apr 2026)*
 - [3C345](./sources/3C345.md) | *最新动态: ATel 17738 (4 Apr 2026)*
 - [Fermi_J0207.4+6720](./sources/Fermi_J0207.4+6720.md) | *最新动态: ATel 17732 (30 Mar 2026)*
