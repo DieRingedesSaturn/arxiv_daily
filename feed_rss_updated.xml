@@ -13,8 +13,8 @@
     <language>zh</language>
 
     
-    <pubDate>Mon, 23 Nov 2026 18:27:52 -0000</pubDate>
-    <lastBuildDate>Mon, 23 Nov 2026 18:27:52 -0000</lastBuildDate>
+    <pubDate>Tue, 24 Nov 2026 18:09:21 -0000</pubDate>
+    <lastBuildDate>Tue, 24 Nov 2026 18:09:21 -0000</lastBuildDate>
     <ttl>1440</ttl>
 
     
@@ -30,6 +30,37 @@
     
 
     
+    
+    <item>
+      <title>ATel Weekly: 2026-W48</title>
+      
+      
+      
+      
+      <description>&lt;h1 id=&#34;atel-weekly-2026-w48&#34;&gt;ATel Weekly: 2026-W48&lt;/h1&gt;
+&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;7-atel-18166-fermi-lat-detection-of-renewed-gamma-ray-activity-from-the-flat-spectrum-radio-quasar-pks-1958-179&#34;&gt;[7] | ATel 18166: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18166&#34;&gt;Fermi-LAT detection of renewed gamma-ray activity from the flat-spectrum radio quasar PKS 1958-179&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 23 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;PKS 1958-179&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: Fermi-LAT 望远镜于 2026 年 11 月 22 日观测到平谱射电类星体 PKS 1958-179 的伽马射线活动显著增强，日均通量较 4FGL 平均水平增加了约 10 倍，并伴随能谱变硬及高能光子探测。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该目标为活动星系核（AGN），符合本组多波段联合观测的研究兴趣。考虑到其处于高能活跃状态，具有较高的多波段后随观测价值，建议联合 Swift 或其他光学/射电设备进行跟进观测，但超出了本组 1m 光学望远镜的常规测光极限，暂不适合本台设备直接跟进。&lt;/p&gt;
+&lt;hr /&gt;
+&lt;h3 id=&#34;3-atel-18165-m87-upper-limits-from-a-neutrino-search-with-icecube&#34;&gt;[3] | ATel 18165: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18165&#34;&gt;M87: Upper limits from a neutrino search with IceCube&lt;/a&gt;&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 23 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;M87&lt;/code&gt;&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: IceCube合作组针对近期LHAASO报道的射电星系M87的硬TeV伽马射线耀发，利用IceCube望远镜对2026年11月14日至18日期间的径迹型缪子中微子事件进行了搜索，未发现显著信号并给出了中微子通量上限。
+&lt;strong&gt;观测短评&lt;/strong&gt;: 该ATel涉及著名活动星系核M87的多波段与中微子联合研究，虽处于非我们1m光学望远镜的主要跟进范畴且暂无直接光学测光/光谱申请价值，但对研究高能天体物理及多信使天文学具有重要参考意义。&lt;/p&gt;
+&lt;hr /&gt;</description>
+      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W48/</link>
+      <pubDate>Tue, 24 Nov 2026 17:47:48 +0000</pubDate>
+      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
+      
+      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W48/</guid>
+      
+    </item>
     
     <item>
       <title>arXiv Daily: 2026-11-23</title>
@@ -250,30 +281,6 @@
       <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
       
       <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W47/</guid>
-      
-    </item>
-    
-    <item>
-      <title>ATel Weekly: 2026-W48</title>
-      
-      
-      
-      
-      <description>&lt;h1 id=&#34;atel-weekly-2026-w48&#34;&gt;ATel Weekly: 2026-W48&lt;/h1&gt;
-&lt;p&gt;&lt;em&gt;Tags: #ATel&lt;/em&gt;&lt;/p&gt;
-&lt;hr /&gt;
-&lt;h3 id=&#34;3-atel-18165-m87-upper-limits-from-a-neutrino-search-with-icecube&#34;&gt;[3] | ATel 18165: &lt;a href=&#34;https://www.astronomerstelegram.org/?read=18165&#34;&gt;M87: Upper limits from a neutrino search with IceCube&lt;/a&gt;&lt;/h3&gt;
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;日期&lt;/strong&gt;: 23 Nov 2026 UT | &lt;strong&gt;源&lt;/strong&gt;: &lt;code&gt;M87&lt;/code&gt;&lt;/li&gt;
-&lt;/ul&gt;
-&lt;p&gt;&lt;strong&gt;爆发速递&lt;/strong&gt;: IceCube合作组针对近期LHAASO报道的射电星系M87的硬TeV伽马射线耀发，利用IceCube望远镜对2026年11月14日至18日期间的径迹型缪子中微子事件进行了搜索，未发现显著信号并给出了中微子通量上限。
-&lt;strong&gt;观测短评&lt;/strong&gt;: 该ATel涉及著名活动星系核M87的多波段与中微子联合研究，虽处于非我们1m光学望远镜的主要跟进范畴且暂无直接光学测光/光谱申请价值，但对研究高能天体物理及多信使天文学具有重要参考意义。&lt;/p&gt;
-&lt;hr /&gt;</description>
-      <link>https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W48/</link>
-      <pubDate>Mon, 23 Nov 2026 18:15:14 +0000</pubDate>
-      <source url="https://DieRingedesSaturn.github.io/arxiv_daily/feed_rss_updated.xml">ArXiv Daily Tracker</source>
-      
-      <guid isPermaLink="true">https://DieRingedesSaturn.github.io/arxiv_daily/atels/2026-W48/</guid>
       
     </item>
     
