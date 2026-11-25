@@ -6,6 +6,14 @@
 
 ---
 
+### ATel 18168: [Three outbursts of Comet 10P (Tempel)](https://www.astronomerstelegram.org/?read=18168)
+- **日期**: 24 Nov 2026 UT
+
+**爆发速递**: 本篇ATel简报报道了短周期彗星Comet 10P/Tempel在2026年过日心点前后通过LCO望远镜观测到的三次爆发事件，并分析了其内彗发形态变化及尘埃膨胀速度。
+**观测短评**: 该目标为太阳系彗星，与本课题组关注的致密星吸积、黑洞、AGN及大视场高能暂现源等核心研究领域完全无关，不具备光学后随观测和设备申请价值。
+
+---
+
 ### ATel 17942: [Observing session on Comet P10/Tempel during an earthquake at the Kottamia Astrophysical Observatory (MPC Q62, Egypt)](https://www.astronomerstelegram.org/?read=17942)
 - **日期**: 5 Aug 2026 UT
 
