@@ -9,6 +9,14 @@
 - **ATel 范围**: 17680 之后
 ## 最新天文简报 (ATel)
 
+### [0] | ATel 18169: [Polarization behavior of comet 10P/Tempel after the outburst in late October](https://www.astronomerstelegram.org/?read=18169)
+- **日期**: 26 Nov 2026 UT | **源**: `10P/Tempel`
+
+**爆发速递**: 本文报道了木星族彗星 10P/Tempel 在 2026 年 10 月爆发前后的多期 SLOAN r 波段成像偏振观测结果，探讨了爆发对尘埃颗粒特性的影响。
+**观测短评**: 该目标为太阳系彗星，属于非高能天体及暂现源，与本课题组的黑洞、活动星系核等核心研究领域完全无关，本组1米望远镜无需进行跟进观测。
+
+---
+
 ### [0] | ATel 18168: [Three outbursts of Comet 10P (Tempel)](https://www.astronomerstelegram.org/?read=18168)
 - **日期**: 24 Nov 2026 UT | **源**: `Comet 10P/Tempel`
 
@@ -16,14 +24,6 @@
 **观测短评**: 该目标为太阳系彗星，与本课题组关注的致密星吸积、黑洞、AGN及大视场高能暂现源等核心研究领域完全无关，不具备光学后随观测和设备申请价值。
 
 ---
-
-### [8] | ATel 18167: [Fermi-LAT detection of enhanced gamma-ray activity from the flat-spectrum radio quasar PKS 2232-488](https://www.astronomerstelegram.org/?read=18167)
-- **日期**: 24 Nov 2026 UT | **源**: `PKS 2232-488`
-
-**爆发速递**: Fermi-LAT 于2026年11月23日探测到平谱射电类星体 PKS 2232-488 的伽马射线增强活动，日平均通量(E>100 MeV)约(0.3±0.1)×10^-6 photons cm^-2 s^-1，较4FGL-DR4平均值高10倍以上，为历史最高；光子指数1.8±0.2显著变硬，并探测到一个10 GeV高能光子。**观测短评**: 该源赤纬约-48.6度，北纬40度1m望远镜几乎无法观测，光学后随价值有限。建议申请 Swift/XMM-Newton 及射电/南天光学设备开展多波段联合观测，并与Fermi-LAT联系人协调。
-
----
-
 
 [查看本周完整 ATel](./atels/2026-W48.md)
 
